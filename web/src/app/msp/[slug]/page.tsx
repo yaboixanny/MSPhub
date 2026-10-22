@@ -5,7 +5,7 @@ import { Suspense } from "react";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { JsonLd } from "@/components/JsonLd";
 import { Rating } from "@/components/Rating";
-import { getAllMsps, getCity, getCityMsps, getMsp } from "@/lib/data";
+import { getAllMsps, getArea, getCity, getCityMsps, getCityRank, getMsp, slugify } from "@/lib/data";
 import { INDUSTRY_LABELS, SERVICE_LABELS, label } from "@/lib/labels";
 
 export function generateStaticParams() {
@@ -63,6 +63,9 @@ async function MspContent({ params }: Pick<PageProps<"/msp/[slug]">, "params">) 
   const msp = getMsp(slug);
   if (!msp) notFound();
   const city = getCity(msp.state, msp.city)!;
+  const rank = getCityRank(msp);
+  const area = getArea(msp.state, msp.city, slugify(msp.town));
+  const cityHref = `/${city.state}/${city.slug}`;
 
   // Other MSPs in the city that share the most industries, best rated first.
   const similar = getCityMsps(msp.state, msp.city)
@@ -83,8 +86,10 @@ async function MspContent({ params }: Pick<PageProps<"/msp/[slug]">, "params">) 
       <Breadcrumbs
         items={[
           { name: "Home", href: "/" },
+          { name: "United States", href: "/united-states" },
           { name: city.stateName, href: `/${city.state}` },
-          { name: city.name, href: `/${city.state}/${city.slug}` },
+          { name: `${city.name} metro`, href: cityHref },
+          ...(area ? [{ name: area.name, href: `${cityHref}/${area.slug}` }] : []),
           { name: msp.name, href: `/msp/${msp.slug}` },
         ]}
       />
@@ -92,8 +97,23 @@ async function MspContent({ params }: Pick<PageProps<"/msp/[slug]">, "params">) 
       <header className="mt-4 flex flex-col gap-4 sm:flex-row sm:items-end sm:justify-between">
         <div>
           <h1 className="text-3xl font-bold tracking-tight sm:text-4xl">{msp.name}</h1>
-          <p className="mt-1 text-slate-600">Managed IT services · {msp.town}, {city.stateCode}</p>
+          <p className="mt-1 text-slate-600">
+            Managed IT services ·{" "}
+            {area ? (
+              <Link href={`${cityHref}/${area.slug}`} className="hover:text-brand-600 hover:underline">
+                {msp.town}, {city.stateCode}
+              </Link>
+            ) : (
+              <>{msp.town}, {city.stateCode}</>
+            )}
+          </p>
           <div className="mt-3 flex flex-wrap items-center gap-3">
+            <Link
+              href={cityHref}
+              className="rounded-full bg-amber-50 px-2.5 py-0.5 text-sm font-semibold text-amber-800 ring-1 ring-amber-200 hover:bg-amber-100"
+            >
+              #{rank} of {city.count} in the {city.name} metro
+            </Link>
             <Rating rating={msp.rating} reviewCount={msp.reviewCount} size={18} />
             <a
               href={msp.googleMapsUrl}

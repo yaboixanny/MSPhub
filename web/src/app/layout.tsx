@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { Geist, Geist_Mono } from "next/font/google";
+import { getCoveredStates } from "@/lib/data";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -24,6 +25,7 @@ export const metadata: Metadata = {
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
+  const covered = getCoveredStates();
   return (
     <html lang="en" className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}>
       <body className="flex min-h-full flex-col font-sans">
@@ -35,24 +37,59 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
               </span>
               MSP Hub
             </Link>
-            <nav className="flex gap-5 text-sm text-slate-600">
-              <Link href="/florida" className="hover:text-slate-900">
-                Florida
+            <nav className="flex items-center gap-4 text-sm text-slate-600 sm:gap-6">
+              <Link href="/united-states" className="hover:text-slate-900">
+                Browse<span className="hidden sm:inline"> by state</span>
               </Link>
-              <Link href="/how-we-rank" className="hover:text-slate-900">
+              <Link href="/how-we-rank" className="hidden hover:text-slate-900 sm:inline">
                 How we rank
+              </Link>
+              <Link
+                href="/search"
+                className="flex items-center gap-1.5 rounded-lg border border-slate-300 px-3 py-1.5 font-medium text-slate-700 hover:border-brand-600 hover:text-brand-700"
+              >
+                <svg className="h-4 w-4" viewBox="0 0 20 20" fill="currentColor" aria-hidden>
+                  <path fillRule="evenodd" d="M9 3.5a5.5 5.5 0 100 11 5.5 5.5 0 000-11zM2 9a7 7 0 1112.45 4.39l3.08 3.08a.75.75 0 11-1.06 1.06l-3.08-3.08A7 7 0 012 9z" clipRule="evenodd" />
+                </svg>
+                Search
               </Link>
             </nav>
           </div>
         </header>
         <main className="flex-1">{children}</main>
         <footer className="mt-16 border-t border-slate-200 bg-white">
-          <div className="mx-auto max-w-6xl px-4 py-8 text-sm text-slate-500">
-            <p className="font-medium text-slate-700">MSP Hub</p>
-            <p className="mt-1">
-              An independent directory of managed IT service providers. Ratings and review counts come
-              from Google; services and specialties come from each provider&apos;s own website.
-            </p>
+          <div className="mx-auto grid max-w-6xl gap-8 px-4 py-10 text-sm text-slate-500 sm:grid-cols-3">
+            <div>
+              <p className="font-semibold text-slate-800">MSP Hub</p>
+              <p className="mt-2 leading-relaxed">
+                An independent database of verified managed IT service providers. Ratings and review counts come
+                from Google; services and specialties come from each provider&apos;s own website.
+              </p>
+            </div>
+            <div>
+              <p className="font-semibold text-slate-800">Browse</p>
+              <ul className="mt-2 space-y-1.5">
+                {covered.flatMap((state) =>
+                  state.cities.map((city) => (
+                    <li key={`${state.slug}/${city.slug}`}>
+                      <Link href={`/${state.slug}/${city.slug}`} className="hover:text-slate-900">
+                        MSPs in {city.name}, {city.stateCode}
+                      </Link>
+                    </li>
+                  )),
+                )}
+                <li>
+                  <Link href="/united-states" className="hover:text-slate-900">All states</Link>
+                </li>
+              </ul>
+            </div>
+            <div>
+              <p className="font-semibold text-slate-800">About</p>
+              <ul className="mt-2 space-y-1.5">
+                <li><Link href="/how-we-rank" className="hover:text-slate-900">How we rank MSPs</Link></li>
+                <li><Link href="/search" className="hover:text-slate-900">Search the database</Link></li>
+              </ul>
+            </div>
           </div>
         </footer>
       </body>

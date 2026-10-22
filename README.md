@@ -44,8 +44,20 @@ classifying (and reviewing) a city, export it and run the site:
 cd web && npm install && npm run dev      # http://localhost:3000
 ```
 
-Pages: `/` home, `/<state>` (e.g. `/florida`), `/<state>/<city>` with sorting and
-filters, `/msp/<slug>` profiles, `/how-we-rank`, plus `sitemap.xml` and `robots.txt`.
+Pages:
+
+| URL | Page |
+|---|---|
+| `/` | Home: what MSP Hub is, search with suggestions, top-rated MSPs, areas covered |
+| `/search?q=` | Search across MSPs, metros and towns (understands "law firms", "HIPAA", etc.) |
+| `/united-states` | All 50 states + DC and the national top 25 |
+| `/<state>` | Metros, towns and top MSPs; states without data say "coming soon" (noindex) |
+| `/<state>/<city>` | Metro page with sortable, filterable ranking and an areas list |
+| `/<state>/<city>/<area>` | Town page, for towns with 3+ MSPs (e.g. `/florida/orlando/winter-park`) |
+| `/msp/<slug>` | MSP profile with its rank in the metro |
+| `/how-we-rank` | Ranking method |
+
+Plus `sitemap.xml` and `robots.txt`.
 Set `NEXT_PUBLIC_SITE_URL` to the real domain before deploying.
 
 ## Adding a city

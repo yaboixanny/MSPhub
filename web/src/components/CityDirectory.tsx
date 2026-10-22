@@ -61,7 +61,7 @@ function Select({
   );
 }
 
-export function CityDirectory({ msps }: { msps: DirectoryMsp[] }) {
+export function CityDirectory({ msps, hideLocation = false }: { msps: DirectoryMsp[]; hideLocation?: boolean }) {
   const [query, setQuery] = useState("");
   const [sort, setSort] = useState<SortKey>("best");
   const [service, setService] = useState("");
@@ -90,7 +90,7 @@ export function CityDirectory({ msps }: { msps: DirectoryMsp[] }) {
 
   return (
     <div>
-      <div className="grid gap-3 rounded-xl border border-slate-200 bg-white p-4 sm:grid-cols-2 lg:grid-cols-6">
+      <div className={`grid gap-3 rounded-xl border border-slate-200 bg-white p-4 sm:grid-cols-2 ${hideLocation ? "lg:grid-cols-5" : "lg:grid-cols-6"}`}>
         <label className="flex flex-col gap-1 text-xs font-medium text-slate-600 sm:col-span-2 lg:col-span-1">
           Search
           <input
@@ -124,12 +124,14 @@ export function CityDirectory({ msps }: { msps: DirectoryMsp[] }) {
             <option key={value} value={value}>{value} ({count})</option>
           ))}
         </Select>
-        <Select label="Location" value={town} onChange={setTown}>
-          <option value="">All areas</option>
-          {townOptions.map(([value, count]) => (
-            <option key={value} value={value}>{value} ({count})</option>
-          ))}
-        </Select>
+        {!hideLocation && (
+          <Select label="Location" value={town} onChange={setTown}>
+            <option value="">All areas</option>
+            {townOptions.map(([value, count]) => (
+              <option key={value} value={value}>{value} ({count})</option>
+            ))}
+          </Select>
+        )}
       </div>
 
       <div className="mt-4 flex items-center justify-between text-sm text-slate-600">

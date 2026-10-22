@@ -3,9 +3,10 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Suspense } from "react";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
-import { CityDirectory, type DirectoryMsp } from "@/components/CityDirectory";
+import { CityDirectory } from "@/components/CityDirectory";
 import { JsonLd } from "@/components/JsonLd";
-import { getCities, getCity, getCityMsps, topValues } from "@/lib/data";
+import { getAreas, getCities, getCity, getCityMsps, topValues } from "@/lib/data";
+import { toDirectory } from "@/lib/directory";
 import { INDUSTRY_LABELS, label } from "@/lib/labels";
 
 export function generateStaticParams() {
@@ -47,25 +48,14 @@ async function CityContent({ params }: Pick<PageProps<"/[state]/[city]">, "param
   const cmmc = msps.filter((msp) => msp.compliance.includes("CMMC")).length;
   const nearby = city.areas.filter((area) => area !== city.name);
 
-  const directory: DirectoryMsp[] = msps.map((msp) => ({
-    slug: msp.slug,
-    name: msp.name,
-    summary: msp.summary,
-    services: msp.services,
-    industries: msp.industries,
-    compliance: msp.compliance,
-    rating: msp.rating,
-    reviewCount: msp.reviewCount,
-    weightedRating: msp.weightedRating,
-    town: msp.town,
-    foundedYear: msp.foundedYear,
-  }));
+  const areas = getAreas(state, citySlug);
 
   return (
     <div className="mx-auto max-w-6xl px-4 py-8">
       <Breadcrumbs
         items={[
           { name: "Home", href: "/" },
+          { name: "United States", href: "/united-states" },
           { name: city.stateName, href: `/${state}` },
           { name: city.name, href: `/${state}/${citySlug}` },
         ]}
@@ -103,7 +93,34 @@ async function CityContent({ params }: Pick<PageProps<"/[state]/[city]">, "param
       </dl>
 
       <section className="mt-8">
-        <CityDirectory msps={directory} />
+        <h2 className="text-sm font-semibold uppercase tracking-wide text-slate-500">Browse by area</h2>
+        <ul className="mt-3 flex flex-wrap gap-2">
+          {areas.map((area) =>
+            area.hasPage ? (
+              <li key={area.slug}>
+                <Link
+                  href={`/${state}/${citySlug}/${area.slug}`}
+                  className="inline-flex items-center gap-1.5 rounded-full border border-slate-200 bg-white px-3 py-1 text-sm text-slate-700 hover:border-brand-600 hover:text-brand-700"
+                >
+                  {area.name}
+                  <span className="text-xs text-slate-400">{area.count}</span>
+                </Link>
+              </li>
+            ) : (
+              <li
+                key={area.slug}
+                className="inline-flex items-center gap-1.5 rounded-full border border-slate-100 px-3 py-1 text-sm text-slate-500"
+              >
+                {area.name}
+                <span className="text-xs text-slate-400">{area.count}</span>
+              </li>
+            ),
+          )}
+        </ul>
+      </section>
+
+      <section className="mt-8">
+        <CityDirectory msps={toDirectory(msps)} />
       </section>
 
       <section className="mt-12 max-w-3xl">
