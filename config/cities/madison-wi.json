@@ -1,0 +1,28 @@
+{
+  "city": "Madison",
+  "state": "Wisconsin",
+  "state_code": "WI",
+  "slug": "madison",
+  "state_slug": "wisconsin",
+  "center": {
+    "lat": 43.0731,
+    "lng": -89.4012
+  },
+  "radius_miles": 25,
+  "areas": [
+    "Madison",
+    "Middleton",
+    "Fitchburg",
+    "Sun Prairie",
+    "Verona",
+    "Monona",
+    "Waunakee",
+    "Stoughton"
+  ],
+  "queries": [
+    "managed IT services",
+    "managed service provider",
+    "IT support company",
+    "outsourced IT"
+  ]
+}

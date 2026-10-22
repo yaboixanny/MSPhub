@@ -1,5 +1,3983 @@
 [
   {
+    "slug": "nettech-consultants",
+    "placeId": "ChIJtTNfYnpK5IgRt-jVSGznUSc",
+    "name": "NetTech Consultants",
+    "summary": "Jacksonville-based IT provider offering fully managed and co-managed IT, 24/7 network monitoring, help desk, cloud and managed cybersecurity for small and mid-sized businesses. Serves healthcare, legal, construction, nonprofit and several other sectors across Northeast Florida, with vCIO and project management add-ons.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "construction",
+      "manufacturing",
+      "nonprofit",
+      "education",
+      "insurance",
+      "real_estate",
+      "retail"
+    ],
+    "compliance": [
+      "CMMC",
+      "SOC 2",
+      "HIPAA",
+      "FTC Safeguards"
+    ],
+    "partners": [
+      "Microsoft Solutions Partner"
+    ],
+    "foundedYear": 1995,
+    "teamSize": null,
+    "serviceArea": "Northeast Florida and Southeast Georgia, including Jacksonville, Gainesville, St. Augustine and Fernandina Beach",
+    "pricing": null,
+    "website": "https://nettechconsultants.com/",
+    "phone": "(904) 992-6970",
+    "addresses": [
+      "13400 Sutton Park Dr S #901, Jacksonville, FL 32224"
+    ],
+    "town": "Jacksonville",
+    "linkedin": "https://www.linkedin.com/company/nettech-consultants",
+    "city": "jacksonville",
+    "state": "florida"
+  },
+  {
+    "slug": "compassmsp",
+    "placeId": "ChIJN1FSDGi45YgRrdhTlzZQY6M",
+    "name": "CompassMSP",
+    "summary": "CompassMSP is a managed IT and cybersecurity provider with a Jacksonville, FL office serving Greater Jacksonville and wider North Florida, part of a multi-location national network. Services span fully managed and co-managed IT, 24/7 managed detection and response, cloud and infrastructure, compliance support, vCISO advisory and unified communications. It serves regulated sectors including healthcare, legal, financial services, manufacturing, logistics and government.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "insurance",
+      "education",
+      "nonprofit",
+      "government",
+      "manufacturing",
+      "logistics",
+      "retail",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "NIST",
+      "SOC 2",
+      "PCI DSS",
+      "FINRA/SEC"
+    ],
+    "partners": [
+      "Microsoft Azure",
+      "AWS",
+      "8x8 UCaaS",
+      "Watchguard",
+      "Datto Backup",
+      "SentinelOne",
+      "Cynomi",
+      "Cloudtango MSP Select 2026"
+    ],
+    "foundedYear": null,
+    "teamSize": "350+ technical experts in IT and security",
+    "serviceArea": "Greater Jacksonville / North Florida; 25+ US locations",
+    "pricing": null,
+    "website": "https://compassmsp.com/locations/southeast/jacksonville-fl",
+    "phone": "(833) 444-2677",
+    "addresses": [],
+    "town": null,
+    "linkedin": "https://www.linkedin.com/company/compass-msp/",
+    "city": "jacksonville",
+    "state": "florida"
+  },
+  {
+    "slug": "iventure-solutions-jacksonville",
+    "placeId": "ChIJ707yKQ_K5YgRXvWlL1Q0mbM",
+    "name": "iVenture Solutions",
+    "summary": "iVenture Solutions is a Jacksonville, Florida IT firm offering managed IT, co-managed IT, managed cybersecurity, cloud services and technology planning. It serves businesses across North Florida and says it supports clients statewide, including regulated sectors such as legal, healthcare, financial services, manufacturing and nonprofits.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "backup_disaster_recovery"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "manufacturing",
+      "nonprofit",
+      "construction",
+      "accounting_finance",
+      "insurance",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "NIST",
+      "ITAR",
+      "CJIS"
+    ],
+    "partners": [
+      "Great Place to Work certified"
+    ],
+    "foundedYear": 2000,
+    "teamSize": null,
+    "serviceArea": "Jacksonville and North Florida, with statewide managed IT and security services",
+    "pricing": "Predictable monthly costs",
+    "website": "https://iventuresolutions.com/about/jacksonville/",
+    "phone": "(904) 332-8645",
+    "addresses": [],
+    "town": null,
+    "linkedin": "https://www.linkedin.com/company/iventure/",
+    "city": "jacksonville",
+    "state": "florida"
+  },
+  {
+    "slug": "at-net-services",
+    "placeId": "ChIJawDwyE3L5YgRO3wNbLKdjmE",
+    "name": "AT-NET Services",
+    "summary": "AT-NET Services is an IT and security provider serving businesses across the Carolinas, Florida and Tennessee, with offices in Jacksonville, Charlotte, Charleston, Columbia, Greenville/Greer and Knoxville. Its offerings include managed IT, help desk, Microsoft 365 administration, backup, managed SOC and MDR, vCIO planning, and compliance support for frameworks such as CMMC, HIPAA and NIST 800-171. The company also provides physical security systems, VoIP phones and structured cabling. It has been operating since 1999 and says it serves industries including healthcare, manufacturing, logistics, financial services and defense contractors.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "structured_cabling"
+    ],
+    "industries": [
+      "healthcare",
+      "construction",
+      "manufacturing",
+      "professional_services",
+      "accounting_finance",
+      "nonprofit",
+      "government",
+      "retail",
+      "logistics",
+      "real_estate",
+      "insurance",
+      "engineering_architecture",
+      "legal",
+      "automotive"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "NIST",
+      "SOC 2",
+      "PCI DSS",
+      "FINRA/SEC",
+      "FTC Safeguards",
+      "GLBA",
+      "CJIS"
+    ],
+    "partners": [
+      "CMMC Registered Provider Organization"
+    ],
+    "foundedYear": 1999,
+    "teamSize": "20+ on-staff IT engineers",
+    "serviceArea": "Charlotte NC, Charleston SC, Columbia SC, Greenville SC, Greer SC, Jacksonville FL, Knoxville TN",
+    "pricing": "Per device per month for TechSentry service packages, per the site",
+    "website": "https://expertip.net/it-company-jacksonville/",
+    "phone": "(844) 506-2116",
+    "addresses": [
+      "5011 Gate Parkway Building 100, Suite 100, Jacksonville, FL 32256",
+      "3401 St. Vardell Lane, Suite D, Charlotte, NC 28217"
+    ],
+    "town": "Jacksonville",
+    "linkedin": "https://www.linkedin.com/company/at-net-services-inc-/",
+    "city": "jacksonville",
+    "state": "florida"
+  },
+  {
+    "slug": "advanced-it-support",
+    "placeId": "ChIJFYSCQ2jJ5YgRgcIt3TnjU9k",
+    "name": "Advanced IT Support",
+    "summary": "Locally owned IT company in Jacksonville, FL, serving small and midsize businesses (roughly 5 to 100 users) in Northeast Florida and South Georgia. Offers managed IT on a per-user monthly fee, co-managed support alongside in-house IT staff, and hourly help, plus cybersecurity, backup, Microsoft 365, network support and compliance add-ons. Focuses on accounting, dental, medical, legal, veterinary, logistics, property management and nonprofit clients.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "structured_cabling"
+    ],
+    "industries": [
+      "healthcare",
+      "dental",
+      "legal",
+      "accounting_finance",
+      "nonprofit",
+      "logistics",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "FTC Safeguards",
+      "CMMC",
+      "GLBA"
+    ],
+    "partners": [],
+    "foundedYear": 2014,
+    "teamSize": "Team of six",
+    "serviceArea": "Jacksonville and Duval County, St. Augustine, Clay County (Orange Park, Fleming Island), Brunswick and Waycross GA; Northeast Florida and South Georgia",
+    "pricing": "Managed IT priced per user per month with volume discounts, online pricing calculator; project work billed hourly; one-time onboarding fee; month-to-month with 30 days notice",
+    "website": "https://www.advancedits.net/",
+    "phone": "(904) 204-6870",
+    "addresses": [
+      "4237 Salisbury Road, Suite 208, Jacksonville, FL 32216",
+      "507 Elizabeth Street, Waycross, GA 31501"
+    ],
+    "town": "Jacksonville",
+    "linkedin": "https://www.linkedin.com/company/advanceditsupport/",
+    "city": "jacksonville",
+    "state": "florida"
+  },
+  {
+    "slug": "dynamic-quest",
+    "placeId": "ChIJ3fkwvn_L5YgRsDEYY00jRyM",
+    "name": "Dynamic Quest",
+    "summary": "Dynamic Quest is a managed IT services provider founded in 2000 that offers 24x7 monitoring, help desk, cybersecurity, backup, cloud and consulting services to small and mid-sized businesses. Its Jacksonville location page presents it as a local office of a multi-city network. The company highlights CMMC Level 2 certification and a managed environment for defense contractors handling controlled unclassified information.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "manufacturing",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "NIST",
+      "PCI DSS"
+    ],
+    "partners": [
+      "CMMC Level 2 certified (C3PAO assessed by Forvis Mazars)",
+      "Microsoft GCC High environment"
+    ],
+    "foundedYear": 2000,
+    "teamSize": "140+ IT professionals",
+    "serviceArea": "Jacksonville, FL location page; the company says it serves SMBs around the country",
+    "pricing": "Predictable, scalable pricing models mentioned; no specific pricing model stated",
+    "website": "https://dynamicquest.com/locations/jacksonville/",
+    "phone": "(336) 370-0555",
+    "addresses": [
+      "8665 Baypine Road, Suite 105, Jacksonville, FL 32256",
+      "4821 Koger Blvd., Greensboro, NC 27407",
+      "123 W. Lancaster Avenue (Santander Bank building, 2nd floor), Wayne, PA 19087",
+      "125 Southern Junction Blvd. Bldg 100, Unit 107, Pooler, GA 31322"
+    ],
+    "town": "Jacksonville",
+    "linkedin": "https://www.linkedin.com/company/dynamic-quest/",
+    "city": "jacksonville",
+    "state": "florida"
+  },
+  {
+    "slug": "trutechnology",
+    "placeId": "ChIJIWc_ew635YgRBm5xy3bYeoU",
+    "name": "TruTechnology",
+    "summary": "TruTechnology is a Jacksonville, Florida IT company offering outsourced and co-managed business IT support, including cloud desktop services (TruCloud) and on-site traditional IT services. It serves legal, healthcare, construction and engineering, non-profit and education clients, and provides CMMC compliance consulting for defense contractors. Clients are primarily in Jacksonville, Duval and Clay counties and the wider First Coast.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "network_infrastructure",
+      "co_managed_it",
+      "compliance_services"
+    ],
+    "industries": [
+      "legal",
+      "healthcare",
+      "construction",
+      "engineering_architecture",
+      "nonprofit",
+      "education"
+    ],
+    "compliance": [
+      "CMMC",
+      "HIPAA",
+      "GLBA"
+    ],
+    "partners": [
+      "Microsoft partner",
+      "Dell partner",
+      "Cisco partner",
+      "3CX partner",
+      "MSP 501 (2026)"
+    ],
+    "foundedYear": 2002,
+    "teamSize": null,
+    "serviceArea": "Jacksonville, Duval County, Clay County and the wider First Coast (Florida)",
+    "pricing": "Flat-rate business IT support",
+    "website": "https://trutech.com/",
+    "phone": "(904) 701-1652",
+    "addresses": [
+      "200 North Laura Street, 10th Floor, Jacksonville, FL 32202",
+      "421 West Church Street, Jacksonville, FL 32202"
+    ],
+    "town": "Jacksonville",
+    "linkedin": "https://www.linkedin.com/company/trutechnology/",
+    "city": "jacksonville",
+    "state": "florida"
+  },
+  {
+    "slug": "bluefin-technology-group",
+    "placeId": "ChIJq46YsRPK5YgR4qY_Gc1zXR0",
+    "name": "Bluefin Technology Group",
+    "summary": "Jacksonville, Florida IT provider offering managed IT support, managed cybersecurity, backup and disaster recovery, cloud VoIP phone systems and governance, risk and compliance management for small and growing businesses. Serves clients in construction, financial services, healthcare, manufacturing, real estate and title companies.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "construction",
+      "manufacturing",
+      "real_estate",
+      "accounting_finance"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "NIST",
+      "SOC 2",
+      "PCI DSS",
+      "FINRA/SEC"
+    ],
+    "partners": [
+      "Microsoft certifications (staff)",
+      "Acronis Cyber Security certifications (staff)"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Jacksonville, FL",
+    "pricing": null,
+    "website": "https://www.bluefintech.com/",
+    "phone": "(904) 872-BLUE",
+    "addresses": [
+      "7915 Baymeadows Way, Suite 230, Jacksonville, FL 32256",
+      "8324 Baymeadows Way, Jacksonville, FL"
+    ],
+    "town": "Jacksonville",
+    "linkedin": "https://www.linkedin.com/company/bluefinmsp/",
+    "city": "jacksonville",
+    "state": "florida"
+  },
+  {
+    "slug": "first-coast-it",
+    "placeId": "ChIJVVUpzx-25YgRWlQU8j8TxiE",
+    "name": "First Coast IT",
+    "summary": "First Coast IT provides outsourced IT management for small and mid-sized organizations, either filling an internal IT role or supplementing existing staff. Services start with an environment assessment and cover technical support, cybersecurity, cloud desktop services, disaster recovery and IT strategy. The company lists offices in Jacksonville, FL and Mineola, TX.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "government"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Jacksonville, FL and Mineola, TX offices; service area beyond these not stated",
+    "pricing": null,
+    "website": "https://www.firstcoastit.net/",
+    "phone": "(904) 719-8086",
+    "addresses": [
+      "6015 E Morrow St, Jacksonville, FL 32217"
+    ],
+    "town": "Jacksonville",
+    "linkedin": "https://linkedin.com/company/first-coast-it",
+    "city": "jacksonville",
+    "state": "florida"
+  },
+  {
+    "slug": "definit-managed-it-services-jacksonville",
+    "placeId": "ChIJ5aiyDRm35YgRkNX5x9kwhrM",
+    "name": "DefinIT Managed IT Services",
+    "summary": "DefinIT is an IT services firm with offices in Jacksonville, Tampa and Orlando, offering monthly per-user managed IT plans covering monitoring, helpdesk, patching and backups. It also provides co-managed IT that supplements in-house teams, cybersecurity, cloud and Microsoft 365 support, and network and backup services. The site lists industry pages for healthcare, accounting, construction and manufacturing, and law firms, plus an affiliated software team.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "dental",
+      "legal",
+      "accounting_finance",
+      "construction",
+      "manufacturing",
+      "nonprofit"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS"
+    ],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Jacksonville, Tampa Bay (St. Petersburg, Clearwater, Brandon, Wesley Chapel, Riverview, Lutz) and Orlando, FL; nationwide remote support",
+    "pricing": "Monthly per-user plans from $45 per user/month (Small Business), $65 (Professional), $85 (Enterprise), with monthly or annual billing; minimum 5 users",
+    "website": "https://definit.com/jacksonville/managed-it-services",
+    "phone": "(904) 664-1084",
+    "addresses": [
+      "1301 Riverplace Blvd, Jacksonville, FL 32207"
+    ],
+    "town": "Jacksonville",
+    "linkedin": "https://www.linkedin.com/company/definit-managed-it-services",
+    "city": "jacksonville",
+    "state": "florida"
+  },
+  {
+    "slug": "my-it-support",
+    "placeId": "ChIJLx5DtlrK5YgRC7IJ-XsDKPk",
+    "name": "My IT Support",
+    "summary": "My IT Support, operating as Managed IT LLC, offers ongoing managed IT support, cybersecurity monitoring and backups for small and mid-sized businesses in Jacksonville, Florida and surrounding Florida and Georgia areas. It targets law firms, financial firms, healthcare teams, construction companies and other small businesses, and advertises no long-term contracts. Additional offerings include networking, compliance readiness reviews, VoIP and provider migrations.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "legal",
+      "accounting_finance",
+      "healthcare",
+      "construction"
+    ],
+    "compliance": [
+      "HIPAA",
+      "SOC 2",
+      "PCI DSS"
+    ],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Jacksonville, Florida; Florida & Georgia businesses",
+    "pricing": "Flat monthly fee; contract-free, no long-term contracts",
+    "website": "https://www.myitsupportusa.com/",
+    "phone": "(904) 855-6193",
+    "addresses": [
+      "9050 Cypress Green Drive, Jacksonville, FL 32256-5517"
+    ],
+    "town": "Jacksonville",
+    "linkedin": "https://www.linkedin.com/company/myitsupportusa",
+    "city": "jacksonville",
+    "state": "florida"
+  },
+  {
+    "slug": "panda-technology-llc",
+    "placeId": "ChIJ5zjLAb-iSU4R1B4i-6aoBsk",
+    "name": "Panda Technology LLC",
+    "summary": "Jacksonville-based managed IT provider serving small and mid-sized businesses across Northeast Florida and statewide, with a focus on healthcare, legal, construction and financial clients. Offers 24/7 monitoring, help desk, cybersecurity with SOC monitoring, backup and disaster recovery, cloud administration and vCIO-style planning, with a downtown office and on-site response. Lists a Featured Acronis Partner status and fixed monthly agreements.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "it_strategy_vcio",
+      "compliance_services",
+      "software_development"
+    ],
+    "industries": [
+      "healthcare",
+      "dental",
+      "legal",
+      "accounting_finance",
+      "construction",
+      "real_estate",
+      "retail",
+      "nonprofit",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS",
+      "FINRA/SEC"
+    ],
+    "partners": [
+      "Featured Acronis Partner",
+      "Microsoft",
+      "Fortinet",
+      "Lenovo",
+      "Google Workspace",
+      "ThreatLocker"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Jacksonville and Northeast Florida (Duval, St. Johns, Clay, Nassau counties), with statewide remote service in Florida",
+    "pricing": "Fixed-price monthly agreements, customized by size and requirements",
+    "website": "https://www.pandatechnology.com/",
+    "phone": "(904) 615-5615",
+    "addresses": [
+      "200 W Forsyth St Suite 1550, Jacksonville, FL 32202"
+    ],
+    "town": "Jacksonville",
+    "linkedin": "https://www.linkedin.com/company/panda-technology-ai",
+    "city": "jacksonville",
+    "state": "florida"
+  },
+  {
+    "slug": "the-scarlett-group-jacksonville",
+    "placeId": "ChIJcfVt0g-25YgRMxfPqU_F7-w",
+    "name": "The Scarlett Group",
+    "summary": "Scarlett Group is an IT firm based in Jacksonville, Florida, with additional offices in Florida and North Carolina, offering managed IT, help desk, managed detection and response, backup and disaster recovery, and Microsoft 365 administration. It also provides CMMC, HIPAA and NIST compliance consulting, mainly for defense contractors, legal, healthcare, construction and accounting clients.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "construction",
+      "manufacturing",
+      "engineering_architecture",
+      "government",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "NIST",
+      "GLBA",
+      "PCI DSS"
+    ],
+    "partners": [
+      "ISACA Certified Partner",
+      "CMMC Registered Practitioners",
+      "ISACA Certified Auditors"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Jacksonville, Orlando, St Augustine, Tampa, Florida and North Carolina; nationwide for cybersecurity and CMMC services",
+    "pricing": "Flat-rate, predictable monthly fee for managed IT, per the site's general MSP guidance; no specific pricing stated for Scarlett",
+    "website": "https://www.scarlettgroup.com/managed-it-services-jacksonville-fl",
+    "phone": "(844) 727-5388",
+    "addresses": [
+      "6735 Southpoint Dr South, Suite 120, Jacksonville, FL 32216",
+      "111 North Orange Ave, Suite 800, Orlando, FL 32801",
+      "100 S. Ashley Drive, Tampa, FL 33602",
+      "4208 Six Forks Rd, Suite 1000, Raleigh, NC 27609",
+      "525 North Tryon Street, Charlotte, NC 28202"
+    ],
+    "town": "Jacksonville",
+    "linkedin": "https://www.linkedin.com/company/the-scarlett-group/",
+    "city": "jacksonville",
+    "state": "florida"
+  },
+  {
+    "slug": "venture-pointe",
+    "placeId": "ChIJk9h-dQnK5YgRksOXTRq7-fY",
+    "name": "Venture Pointe",
+    "summary": "Jacksonville, Florida IT company offering flat-rate managed IT with 24/7 network monitoring, help desk and desktop support, managed endpoint protection, cloud backup, and hosted Microsoft Exchange. Also provides IT consulting and assessments, staff augmentation, VoIP phone systems, and structured cabling. Serves small and mid-sized businesses in the Jacksonville area.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "structured_cabling",
+      "hardware_procurement"
+    ],
+    "industries": [
+      "real_estate",
+      "construction",
+      "automotive",
+      "nonprofit",
+      "legal"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": 2012,
+    "teamSize": null,
+    "serviceArea": "Jacksonville, FL",
+    "pricing": "Flat monthly rate for unlimited managed IT monitoring, reporting and support",
+    "website": "https://venturepointe.com/",
+    "phone": "(904) 351-8101",
+    "addresses": [
+      "8659 Baypine Road, Suite 106, Jacksonville, FL 32256"
+    ],
+    "town": "Jacksonville",
+    "linkedin": "https://www.linkedin.com/company/venture-pointe-inc-",
+    "city": "jacksonville",
+    "state": "florida"
+  },
+  {
+    "slug": "4quartersit",
+    "placeId": "ChIJ42QUqMvL5YgRlTDEfRdNZlk",
+    "name": "4QuartersIT",
+    "summary": "4QuartersIT is a Jacksonville-based outsourced IT provider offering managed IT services with 24/7 remote monitoring, a help desk, backup and disaster recovery, cybersecurity, Microsoft Office 365 management, network monitoring, vCIO-style strategic consulting, and IT projects. It serves local businesses on flat monthly fees and lists church and small business clients among its references.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": 1990,
+    "teamSize": null,
+    "serviceArea": "Jacksonville and surrounding areas, Florida",
+    "pricing": "Flat-rate monthly managed IT fees with transparent, itemized billing and no hidden fees",
+    "website": "https://4quartersit.com/",
+    "phone": "(904) 674-2110",
+    "addresses": [
+      "7235 Bentley Road, Suite 836, Jacksonville, FL 32256"
+    ],
+    "town": "Jacksonville",
+    "linkedin": null,
+    "city": "jacksonville",
+    "state": "florida"
+  },
+  {
+    "slug": "it-pro-services-llc",
+    "placeId": "ChIJk7xV7Yi25YgRVV97DOwgVSM",
+    "name": "IT Pro Services LLC",
+    "summary": "IT Pro Services is a Jacksonville, Florida firm serving small and growing businesses across Northeast Florida. It offers managed IT and cybersecurity support, Microsoft 365 and Google Workspace administration, and managed WordPress hosting, and it also sells web design, social media management and its own CRM and AI tools.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "web_design"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [
+      "Shopify Partner Program",
+      "JAX Chamber member"
+    ],
+    "foundedYear": 2014,
+    "teamSize": null,
+    "serviceArea": "Jacksonville and Northeast Florida",
+    "pricing": "Published pricing for web hosting ($180 to $360 per year), website care plans ($99 to $199 per month) and one-time website updates (from $250); managed IT pricing not stated",
+    "website": "https://www.it-ps.net/",
+    "phone": "(904) 656-1807",
+    "addresses": [
+      "245 Riverside Ave, Suite 100, Jacksonville, FL 32202"
+    ],
+    "town": "Jacksonville",
+    "linkedin": "https://www.linkedin.com/company/itpsweb/",
+    "city": "jacksonville",
+    "state": "florida"
+  },
+  {
+    "slug": "teknovate-consulting-partners",
+    "placeId": "ChIJ6zORqa0t5IgRL-3ntNgHrqc",
+    "name": "Teknovate Consulting Partners",
+    "summary": "Teknovate Consulting Partners is a Florida-based IT firm headquartered in St. Augustine that offers managed IT, cybersecurity, IT consulting, Microsoft 365 and cloud services, workflow automation, and custom AI development through its internal platform The Brain. It serves businesses across several Florida regions and lists industry focus areas including healthcare, law, construction, nonprofits and education.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "construction",
+      "manufacturing",
+      "nonprofit",
+      "education",
+      "insurance",
+      "real_estate",
+      "logistics",
+      "automotive",
+      "retail",
+      "hospitality",
+      "accounting_finance",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [
+      "Microsoft Solutions Partner",
+      "ISO 27001"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Florida: Northeast Florida, North Central Florida, Central Florida, Volusia County, Daytona Beach, Space Coast, Treasure Coast and Marion County",
+    "pricing": null,
+    "website": "https://teknovatecp.com/",
+    "phone": "1-855-TEKNOCP",
+    "addresses": [
+      "475 West Town Place, Suite 116, St Augustine, FL 32092"
+    ],
+    "town": null,
+    "linkedin": "https://www.linkedin.com/company/teknovate-consulting-partners",
+    "city": "jacksonville",
+    "state": "florida"
+  },
+  {
+    "slug": "zevonix",
+    "placeId": "ChIJYUG3cgDL5YgRKvqZmPogvSM",
+    "name": "Zevonix",
+    "summary": "Zevonix is an IT provider serving small and mid-sized businesses in Florida and Georgia. Its offerings center on managed IT with monitoring and help desk support, plus managed cybersecurity, cloud, network, backup and disaster recovery, and vCIO-style consulting. It lists focus industries including healthcare, legal, financial and non-profit organizations.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "nonprofit",
+      "education",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "FINRA/SEC",
+      "GLBA"
+    ],
+    "partners": [
+      "Microsoft Solutions Partner"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Florida and Georgia",
+    "pricing": "predictable IT costs",
+    "website": "https://zevonix.com/",
+    "phone": "(904) 658-0777",
+    "addresses": [
+      "5011 Gate Parkway Bldg 100 Suite 100, Jacksonville, FL 32256",
+      "4845 Belle Terre Pkwy C28, Palm Coast, FL 32164"
+    ],
+    "town": "Jacksonville",
+    "linkedin": "https://www.linkedin.com/company/104901022/admin/dashboard/",
+    "city": "jacksonville",
+    "state": "florida"
+  },
+  {
+    "slug": "csg-technologies",
+    "placeId": "ChIJg19D7ALK5YgRAD08w4LujbM",
+    "name": "CSG Technologies",
+    "summary": "Jacksonville, FL firm offering managed IT support, monitoring and maintenance, cloud and Microsoft 365 services, backup and disaster recovery, and network management for local businesses. Also provides CMMC compliance consulting for defense contractors and serves law firms and architecture, engineering, manufacturing and logistics clients.",
+    "services": [
+      "managed_it",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "cybersecurity",
+      "network_infrastructure",
+      "voip_phones",
+      "compliance_services",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "legal",
+      "engineering_architecture",
+      "manufacturing",
+      "logistics"
+    ],
+    "compliance": [
+      "CMMC",
+      "NIST"
+    ],
+    "partners": [],
+    "foundedYear": 1995,
+    "teamSize": null,
+    "serviceArea": "Jacksonville, FL and Duval County, with service to surrounding areas and throughout North America",
+    "pricing": null,
+    "website": "https://csgtechnologies.net/",
+    "phone": "(904) 296-4811",
+    "addresses": [
+      "8823 San Jose Boulevard, Suites 306, Jacksonville, FL 32217"
+    ],
+    "town": "Jacksonville",
+    "linkedin": "https://www.linkedin.com/company/csg-technologies-llc",
+    "city": "jacksonville",
+    "state": "florida"
+  },
+  {
+    "slug": "it-assist-team",
+    "placeId": "ChIJlUae8j_F5YgRVvrK7uHQ9dI",
+    "name": "IT Assist Team",
+    "summary": "IT Assist Team (ITAT) provides managed technology and security services for businesses. Its offerings cover ongoing oversight of IT infrastructure, layered security with 24/7 threat detection, and custom application and data work. The firm states it works with clients stateside only and gives clients credentialed access to their own systems.",
+    "services": [
+      "managed_it",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "compliance_services",
+      "software_development"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Stateside (United States) only",
+    "pricing": null,
+    "website": "https://itassistteam.com/",
+    "phone": "(866) 465-4424",
+    "addresses": [
+      "1590 Island Lane, Suite 8, Fleming Island, FL 32003"
+    ],
+    "town": "Fleming Island",
+    "linkedin": null,
+    "city": "jacksonville",
+    "state": "florida"
+  },
+  {
+    "slug": "total-business-systems",
+    "placeId": "ChIJdzi87r7L5YgR3jT6MIE6aos",
+    "name": "Total Business Systems",
+    "summary": "Jacksonville, Florida IT company operating since 1991, offering ongoing managed IT, co-managed IT, help desk, cybersecurity, backup and disaster recovery, Microsoft 365 administration, and phone and wiring services. The company names healthcare, insurance, legal, financial, nonprofit, and government clients among those it serves and has a headquarters in the Sunbeam Center area of Jacksonville.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "structured_cabling"
+    ],
+    "industries": [
+      "healthcare",
+      "government",
+      "professional_services",
+      "real_estate",
+      "nonprofit",
+      "legal",
+      "accounting_finance",
+      "insurance",
+      "manufacturing",
+      "construction"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS",
+      "SOC 2",
+      "CMMC",
+      "NIST"
+    ],
+    "partners": [
+      "Microsoft Certified Cloud Partner",
+      "CISSP",
+      "CEH",
+      "CompTIA Security+"
+    ],
+    "foundedYear": 1991,
+    "teamSize": null,
+    "serviceArea": "Jacksonville, Florida, with listed service areas across Florida, Georgia, and South Carolina",
+    "pricing": "Monthly support model with predictable billing, per the site's FAQ; no specific rates stated",
+    "website": "https://www.tbs1.com/",
+    "phone": "(904) 429-4660",
+    "addresses": [
+      "9640 Sunbeam Center Drive, Suite 1, Jacksonville, FL 32257"
+    ],
+    "town": "Jacksonville",
+    "linkedin": "https://www.linkedin.com/company/total-business-systems-jacksonville",
+    "city": "jacksonville",
+    "state": "florida"
+  },
+  {
+    "slug": "axiom-tech",
+    "placeId": "ChIJdy7NwdnJ5YgRtUSUtjFF6DE",
+    "name": "Axiom Tech",
+    "summary": "Axiom is a Florida-based IT provider that describes itself as a managed service provider, offering ongoing IT support, security, backup and disaster recovery, cloud and Microsoft Azure services, and structured cabling. It focuses heavily on helping government contractors with CMMC compliance and says it is a CMMC Level 2 assessed MSP. Its site also mentions HIPAA consulting for medical organizations.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "it_strategy_vcio",
+      "compliance_services",
+      "structured_cabling"
+    ],
+    "industries": [
+      "healthcare"
+    ],
+    "compliance": [
+      "CMMC",
+      "HIPAA",
+      "NIST",
+      "PCI DSS"
+    ],
+    "partners": [
+      "CMMC Level 2 Certified",
+      "C3PAO Assessed MSP"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "United States; Florida (Jacksonville)",
+    "pricing": "Flat rate subscription option for Full Service Suite",
+    "website": "https://www.axiom.tech/",
+    "phone": "(904) 646-3255",
+    "addresses": [],
+    "town": null,
+    "linkedin": "https://www.linkedin.com/company/axiomtech/",
+    "city": "jacksonville",
+    "state": "florida"
+  },
+  {
+    "slug": "cirrus-technology-services",
+    "placeId": "ChIJA2pORjnJ5YgRz5n11VEafVs",
+    "name": "Cirrus Technology Services",
+    "summary": "Jacksonville, Florida-based managed IT and cybersecurity provider serving businesses with monitoring, help desk, backup, and security services. Veteran-owned, with a focus on law firms and healthcare practices, and offers compliance support for frameworks such as HIPAA and CMMC.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "it_strategy_vcio",
+      "compliance_services",
+      "cloud_microsoft_365"
+    ],
+    "industries": [
+      "legal",
+      "healthcare",
+      "construction",
+      "government"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "PCI DSS"
+    ],
+    "partners": [],
+    "foundedYear": 2005,
+    "teamSize": null,
+    "serviceArea": "Jacksonville, Florida and surrounding Florida counties; site also says it supports businesses nationwide",
+    "pricing": null,
+    "website": "https://cirrusts.com/",
+    "phone": "(904) 508-0807",
+    "addresses": [
+      "4237 Salisbury Rd. Bldg 1, Suite 109, Jacksonville, FL 32216"
+    ],
+    "town": "Jacksonville",
+    "linkedin": "https://www.linkedin.com/company/cirrus-technology-services",
+    "city": "jacksonville",
+    "state": "florida"
+  },
+  {
+    "slug": "gvs-it-services",
+    "placeId": "ChIJ10Rv1TaV5ogRHnZVn2d-URQ",
+    "name": "GVS IT Services",
+    "summary": "Jacksonville-based IT firm serving small and medium-sized businesses across North East Florida. Offers managed IT services with 24/7 monitoring and help desk support, plus cloud migration, backup, VoIP phone systems and Office 365 work, with on-site assistance available.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "voip_phones",
+      "it_strategy_vcio",
+      "cybersecurity"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [
+      "Office 365 expert (self-described)"
+    ],
+    "foundedYear": 2012,
+    "teamSize": null,
+    "serviceArea": "North East Florida, including Jacksonville, Orlando, St. Augustine and Daytona",
+    "pricing": "Site states no hard contracts and lower, predictable operating costs; no specific pricing model stated",
+    "website": "https://www.gvsitservices.com/",
+    "phone": "(904) 479-3233",
+    "addresses": [
+      "8613 Old Kings Rd S #502, Jacksonville, FL 32217"
+    ],
+    "town": "Jacksonville",
+    "linkedin": "https://www.linkedin.com/company/gvsitservices",
+    "city": "jacksonville",
+    "state": "florida"
+  },
+  {
+    "slug": "cyber904",
+    "placeId": "ChIJ8V1PwRP_5IgRkIC-UOynic0",
+    "name": "CYBER904",
+    "summary": "CYBER904 is a Jacksonville-based cybersecurity and managed IT provider serving healthcare practices. Its services include managed security monitoring, endpoint and email protection, backup and recovery, HIPAA compliance support, and staff phishing training. The firm has been operating since 1998 and also supports Microsoft 365 and Google Workspace environments.",
+    "services": [
+      "managed_it",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [],
+    "foundedYear": 1998,
+    "teamSize": null,
+    "serviceArea": "Jacksonville, Florida",
+    "pricing": null,
+    "website": "https://www.cyber904.com/",
+    "phone": "(888) 832-4210",
+    "addresses": [
+      "903 Union Street W, Jacksonville, FL 32204"
+    ],
+    "town": "Jacksonville",
+    "linkedin": "https://www.linkedin.com/company/cyber904",
+    "city": "jacksonville",
+    "state": "florida"
+  },
+  {
+    "slug": "dpc-technology-jacksonville",
+    "placeId": "ChIJT0F3qjjK5YgRAQwfDR06les",
+    "name": "DPC Technology",
+    "summary": "DPC Technology is a Florida-based IT firm offering monthly managed support for small and mid-sized businesses, with offices across Florida, Georgia and South Carolina. It focuses heavily on dental and healthcare practices, pairing managed services with HIPAA auditing, encryption, cloud, backup, network design, VoIP and hardware procurement.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "compliance_services",
+      "hardware_procurement",
+      "structured_cabling"
+    ],
+    "industries": [
+      "healthcare",
+      "dental"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [
+      "CompTIA Security Trustmark",
+      "Dexis Certified",
+      "Planmeca Certified",
+      "Eaglesoft Certified",
+      "Weave Phone Systems"
+    ],
+    "foundedYear": 1995,
+    "teamSize": null,
+    "serviceArea": "Florida, Georgia and South Carolina, with offices in Jacksonville, Orlando, Savannah, Tampa, Atlanta and other locations",
+    "pricing": "Monthly rate for the Complete Care program; exact pricing not stated",
+    "website": "https://www.dpctechnology.com/",
+    "phone": "(904) 443-0095",
+    "addresses": [
+      "7845 Baymeadows Way, Jacksonville, FL 32256",
+      "2500 Maitland Center Parkway, Suite 314, Maitland, FL 32751",
+      "401-B Chapin Road, Chapin, SC 29036",
+      "26 Site C6 Road Suite B, Freeport, FL 32439",
+      "2065 Peachtree Industrial Court, Suite 201, Chamblee, GA 30341"
+    ],
+    "town": "Jacksonville",
+    "linkedin": "https://www.linkedin.com/company/dpctechnology/",
+    "city": "jacksonville",
+    "state": "florida"
+  },
+  {
+    "slug": "fantastic-it-solutions",
+    "placeId": "ChIJ9ZKSG7635YgR7p5sy7Ocvkk",
+    "name": "Fantastic IT Solutions",
+    "summary": "Fantastic IT Solutions is a managed IT services provider with a Jacksonville, FL office offering flat-rate managed IT support, proactive monitoring, help desk, hosted email, online backup and disaster recovery, and managed security. It serves small and mid-sized businesses, with stated focus on legal, accounting, healthcare, nonprofit, manufacturing and professional services clients. The company operates regional offices across several states, and the listed Jacksonville office is run by a regional director.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "hardware_procurement",
+      "cloud_microsoft_365"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "construction",
+      "manufacturing",
+      "engineering_architecture",
+      "nonprofit",
+      "real_estate",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS"
+    ],
+    "partners": [],
+    "foundedYear": 1998,
+    "teamSize": "More than 200 clients; no staff count stated",
+    "serviceArea": "Jacksonville, FL office; site says it serves businesses throughout the east coast",
+    "pricing": "Flat monthly rate for unlimited IT labor",
+    "website": "https://fantasticit.com/locations/jacksonville-fl/",
+    "phone": "(855) 201-7485",
+    "addresses": [
+      "50 N Laura Street, Suite 2500, Jacksonville, FL 32202",
+      "370 Amapola Ave., Suite 104, Torrance, CA 90501",
+      "1150 S. Olive St, 10th Floor, Los Angeles, CA 90015",
+      "5792 West Jefferson Blvd., Los Angeles, CA 90016",
+      "200 Spectrum Center Drive, Suite 300, Irvine, CA 92618",
+      "2420 17th Street, Denver, CO 80202"
+    ],
+    "town": "Jacksonville",
+    "linkedin": "https://www.linkedin.com/company/fantastic-it/",
+    "city": "jacksonville",
+    "state": "florida"
+  },
+  {
+    "slug": "logical-business-solutions",
+    "placeId": "ChIJo5CRJE8If4MRpFJwHhEqQyg",
+    "name": "Logical Business Solutions",
+    "summary": "Jacksonville-based IT provider offering flat-rate managed IT, 24/7 monitoring and support, business continuity, VoIP, cloud and security services. Serves businesses across Northeast Florida and Southeast Georgia on-site, with remote support available elsewhere in the US. Lists industry focus in finance, accounting, legal, insurance, hospitality, logistics and government.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "accounting_finance",
+      "legal",
+      "insurance",
+      "hospitality",
+      "real_estate",
+      "logistics",
+      "government"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": 1982,
+    "teamSize": null,
+    "serviceArea": "Northeast Florida and Southeast Georgia on-site; remote support across the USA",
+    "pricing": "Flat-rate monthly all-inclusive plan with no labor or project charges",
+    "website": "https://lbs.net/",
+    "phone": "(904) 281-0680",
+    "addresses": [
+      "4800 Spring Park Road #4, Jacksonville, FL 32207",
+      "6600 Chase Oaks Blvd, Suite 100, Plano, TX 75023"
+    ],
+    "town": "Jacksonville",
+    "linkedin": "https://www.linkedin.com/company/logical-business-solutions/",
+    "city": "jacksonville",
+    "state": "florida"
+  },
+  {
+    "slug": "optimus-it-services",
+    "placeId": "ChIJJ1CDWcvY_aYRUYFDuFxEHyc",
+    "name": "Optimus IT Services",
+    "summary": "Jacksonville, Florida IT company run by a veteran founder, offering managed IT support, help desk, cybersecurity and employee security training for small and mid-sized businesses. It also installs low-voltage cabling, VoIP phone systems and CCTV, with some residential smart-home work. Appointments are required and the firm serves north Florida.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "structured_cabling"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "North Florida, Jacksonville area",
+    "pricing": null,
+    "website": "https://www.optimusitservices.net/",
+    "phone": "(904) 554-0204",
+    "addresses": [
+      "10002 Fraser Rd STE 2, Jacksonville, FL 32246"
+    ],
+    "town": "Jacksonville",
+    "linkedin": null,
+    "city": "jacksonville",
+    "state": "florida"
+  },
+  {
+    "slug": "pcs-jax",
+    "placeId": "ChIJMbJDvgvL5YgR-GM6QNAj49Y",
+    "name": "PCS JAX",
+    "summary": "PCS JAX provides managed IT support for businesses in Jacksonville, offering both remote and onsite help. Services include a 24/7 live help desk, server and network management, cloud services, backups, cybersecurity and virtual CIO work. The firm serves a wide range of sectors, including law firms, accounting firms, healthcare, construction and nonprofits. It operates as a PCS Florida company.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "it_strategy_vcio",
+      "hardware_procurement"
+    ],
+    "industries": [
+      "accounting_finance",
+      "legal",
+      "healthcare",
+      "construction",
+      "education",
+      "engineering_architecture",
+      "hospitality",
+      "insurance",
+      "manufacturing",
+      "nonprofit",
+      "real_estate",
+      "retail",
+      "professional_services"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Jacksonville, FL (virtually and onsite)",
+    "pricing": null,
+    "website": "https://gopcsjax.com/",
+    "phone": "(941) 292-0727",
+    "addresses": [
+      "9310 Old Kings Rd S #1301, Jacksonville, FL 32257"
+    ],
+    "town": "Jacksonville",
+    "linkedin": null,
+    "city": "jacksonville",
+    "state": "florida"
+  },
+  {
+    "slug": "tech-amelia",
+    "placeId": "ChIJD28uoxn_5IgR9QOW_SZ_KBI",
+    "name": "Tech Amelia",
+    "summary": "Tech Amelia is an Amelia Island and Fernandina Beach, Florida, technology firm offering managed IT, cybersecurity, business voice, cloud administration, backup and recovery, and fractional CTO services. It serves businesses in northeast Florida and southeast South Carolina and accepts remote clients. The company also repairs computers and offers hardware replacement.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "hardware_procurement",
+      "computer_repair"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Amelia Island and Fernandina Beach, FL; South Carolina to South Florida; remote clients welcome",
+    "pricing": null,
+    "website": "https://techamelia.com/",
+    "phone": "(904) 430-0110",
+    "addresses": [
+      "1629 S 8th Street, Fernandina Beach, FL 32034"
+    ],
+    "town": "Fernandina Beach",
+    "linkedin": null,
+    "city": "jacksonville",
+    "state": "florida"
+  },
+  {
+    "slug": "clear-sailing-it-solutions",
+    "placeId": "ChIJWUzBQgAr5IgR4Majtc9h1AA",
+    "name": "Clear Sailing IT Solutions",
+    "summary": "Clear Sailing IT Solutions is a St. Augustine, Florida based managed service provider offering monitoring, help desk, co-managed IT, vCIO planning, and managed cybersecurity on a flat monthly fee. It serves small and medium businesses in Jacksonville, Ponte Vedra, St. Johns and Flagler counties, with remote support for clients further afield, and has a focus on construction and energy-sector clients.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "hardware_procurement",
+      "structured_cabling"
+    ],
+    "industries": [
+      "construction",
+      "engineering_architecture",
+      "manufacturing",
+      "healthcare"
+    ],
+    "compliance": [],
+    "partners": [
+      "Dell Premier Partner",
+      "SENDMARC"
+    ],
+    "foundedYear": 2021,
+    "teamSize": null,
+    "serviceArea": "Jacksonville, St. Augustine, Ponte Vedra, St. Johns and Flagler counties (FL), plus remote service to the Southeast and Midwest including Chicago",
+    "pricing": "Flat monthly fee",
+    "website": "https://clearsailingits.com/",
+    "phone": "(904) 584-9409",
+    "addresses": [
+      "701 Market Street, Unit 111, Saint Augustine, FL 32095"
+    ],
+    "town": null,
+    "linkedin": "https://www.linkedin.com/company/clear-sailing-i-t-solutions-llc",
+    "city": "jacksonville",
+    "state": "florida"
+  },
+  {
+    "slug": "dependable-solutions",
+    "placeId": "ChIJwyMAdOavB4gRl11uY9_FdVs",
+    "name": "Dependable Solutions",
+    "summary": "Dependable Solutions is a Wisconsin IT services firm serving businesses in Madison, La Crosse and Prairie du Chien. It offers ongoing managed IT, help desk, endpoint and cloud management, cybersecurity, backup and disaster recovery, and compliance support, with a focus on healthcare, K-12 schools, municipalities and banks.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "co_managed_it",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "education",
+      "government",
+      "accounting_finance"
+    ],
+    "compliance": [
+      "HIPAA",
+      "GLBA"
+    ],
+    "partners": [
+      "VigilAigent (subsidiary partner referenced in news item)"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Madison, La Crosse and Prairie du Chien, Wisconsin; Wisconsin-wide for healthcare and K-12",
+    "pricing": null,
+    "website": "https://dpndbl.com/managed-it-services-madison",
+    "phone": "(855) 788-4805",
+    "addresses": [
+      "708 Heartland Trail, Suite 3000, Madison, WI 53717",
+      "601 7th St N, Suite 201, La Crosse, WI 54601",
+      "115 E Blackhawk Ave, Prairie du Chien, WI 53821"
+    ],
+    "town": "Madison",
+    "linkedin": "https://www.linkedin.com/company/dpndbl/",
+    "city": "madison",
+    "state": "wisconsin"
+  },
+  {
+    "slug": "vieth-consulting-llc",
+    "placeId": "ChIJf1fFuFmkB4gR5NGvBSwz1BI",
+    "name": "Vieth Consulting, LLC",
+    "summary": "Vieth Consulting, LLC is a Madison, Wisconsin IT firm offering outsourced IT support, help desk, managed security, backup and Microsoft 365 services to businesses in the Madison and Milwaukee area. The company says it focuses on construction and non-profit clients and describes using a layered security stack with 24/7 SOC monitoring and endpoint detection.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "voip_phones",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "construction",
+      "nonprofit"
+    ],
+    "compliance": [],
+    "partners": [
+      "SentinelOne",
+      "Blackpoint",
+      "Datto RMM",
+      "Barracuda",
+      "MailProtector",
+      "AutoElevate by Cyberfox"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Madison and Milwaukee, Wisconsin",
+    "pricing": null,
+    "website": "https://www.viethconsulting.net/",
+    "phone": "(608) 416-2400",
+    "addresses": [
+      "6417 Normandy Lane, Suite 300, Madison, WI 53719",
+      "1402 Greenway Cross, Suite 102, Madison, WI 53713"
+    ],
+    "town": "Madison",
+    "linkedin": "https://www.linkedin.com/company/vieth-consluting-llc",
+    "city": "madison",
+    "state": "wisconsin"
+  },
+  {
+    "slug": "directnetworks",
+    "placeId": "ChIJeTxwFEutB4gRdJ0lptSg_CA",
+    "name": "DirectNetworks",
+    "summary": "Madison, Wisconsin IT provider offering managed services with round-the-clock monitoring, help desk support, cloud and Microsoft 365 work, backups, security and hosted VoIP phones for small and medium businesses across southern Wisconsin. The firm has operated since 1999 and bills many services at flat monthly rates.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "hardware_procurement"
+    ],
+    "industries": [
+      "healthcare"
+    ],
+    "compliance": [],
+    "partners": [
+      "Dell",
+      "Cisco",
+      "Microsoft"
+    ],
+    "foundedYear": 1999,
+    "teamSize": null,
+    "serviceArea": "Southern Wisconsin, including Dane, Green, Lafayette, Iowa, Sauk, Columbia, Dodge, Jefferson and Rock Counties",
+    "pricing": "Flat-rate monthly IT services including hardware and software; flat-rate VoIP plans",
+    "website": "https://www.directnetworksinc.com/",
+    "phone": "(608) 270-9980",
+    "addresses": [
+      "1017 Applegate Road, Suite 100, Madison, WI 53713"
+    ],
+    "town": "Madison",
+    "linkedin": "http://www.linkedin.com/company/directnetworks-inc./products",
+    "city": "madison",
+    "state": "wisconsin"
+  },
+  {
+    "slug": "itx-tech-group",
+    "placeId": "ChIJnUG5TRWvB4gRomMuc8CJLEQ",
+    "name": "ITX Tech Group",
+    "summary": "ITX Tech Group is an outsourced IT provider serving businesses in the Madison, Wisconsin area. Its managed IT offering covers monitoring, helpdesk support, patching, security, and backup and recovery, with VoIP phone systems and IT staff augmentation also listed. The site emphasizes direct access to technicians who know each client's systems and transparent monthly billing.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "hospitality"
+    ],
+    "compliance": [],
+    "partners": [
+      "Built in partnership with Tech Pro Marketing (website builder, not a vendor certification)"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Madison, Wisconsin",
+    "pricing": "Monthly service fee; site states pricing is transparent and agreed upon, with no stated structure beyond that",
+    "website": "https://itxtechgroup.com/",
+    "phone": "(608) 690-8343",
+    "addresses": [],
+    "town": null,
+    "linkedin": null,
+    "city": "madison",
+    "state": "wisconsin"
+  },
+  {
+    "slug": "computer-magic",
+    "placeId": "ChIJ2ZrpuNZTBogR3lWQ7TDSiss",
+    "name": "Computer Magic",
+    "summary": "Madison-area IT firm offering managed IT, cybersecurity, cloud, backup and disaster recovery, consulting and VoIP to small and mid-sized businesses. Serves law firms, manufacturers, engineering firms, local government and non-profits, with an in-house Wisconsin-based team and month-to-month contracts.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "it_strategy_vcio",
+      "voip_phones"
+    ],
+    "industries": [
+      "legal",
+      "manufacturing",
+      "engineering_architecture",
+      "government",
+      "nonprofit"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": 1998,
+    "teamSize": null,
+    "serviceArea": "Wisconsin, with focus on Madison and Janesville",
+    "pricing": "Flat monthly plans with month-to-month agreements and no hidden fees",
+    "website": "https://www.computermagic.us/",
+    "phone": "(608) 441-9888",
+    "addresses": [
+      "101 Nichols Rd., Monona, WI 53716"
+    ],
+    "town": "Monona",
+    "linkedin": "https://www.linkedin.com/company/computermagicinc/",
+    "city": "madison",
+    "state": "wisconsin"
+  },
+  {
+    "slug": "elevity-technology-management",
+    "placeId": "ChIJocomgsBSBogR2XQqrWrPt2w",
+    "name": "Elevity Technology Management",
+    "summary": "Elevity is a Madison, Wisconsin-based IT management provider serving growing organizations across Wisconsin, Illinois, Indiana and Ohio. It offers fully managed and co-managed IT, with a dedicated virtual CIO, layered cybersecurity with 24/7 monitoring, Microsoft and cloud services, and managed voice. It has a focus on regulated sectors such as healthcare, law, accounting and construction. It operates as a division of Gordon Flesch Company.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "construction",
+      "manufacturing",
+      "education",
+      "nonprofit"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS",
+      "NIST"
+    ],
+    "partners": [
+      "Microsoft Solutions Partner"
+    ],
+    "foundedYear": 2020,
+    "teamSize": null,
+    "serviceArea": "Wisconsin, Illinois, Indiana and Ohio; Midwest",
+    "pricing": null,
+    "website": "https://www.elevityit.com/",
+    "phone": "888.733.4060",
+    "addresses": [
+      "2675 Research Park Drive, Madison, WI 53711",
+      "20300 Water Tower Blvd, Suite 125, Brookfield, WI 53045",
+      "2913 Tempest Court, Appleton, WI 54913",
+      "401 North Kirk Road, Geneva, IL 60134",
+      "5602 West 73rd Street, Indianapolis, IN 46278",
+      "5655 Venture Drive, Dublin, OH 43017"
+    ],
+    "town": "Madison",
+    "linkedin": "https://www.linkedin.com/company/elevity/",
+    "city": "madison",
+    "state": "wisconsin"
+  },
+  {
+    "slug": "applied-tech",
+    "placeId": "ChIJ6cNZ_G1TBogRyQmRVUKCuhE",
+    "name": "Applied Tech",
+    "summary": "Applied Tech is an outsourced IT and cybersecurity provider serving small and mid-sized businesses from offices in Wisconsin and Colorado, and remotely nationwide. Services include fully managed and co-managed IT, managed security, Microsoft 365 and cloud support, and IT strategy. The firm states it works with businesses in several regulated and industry-specific sectors and is SOC 2 Type 2 compliant.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "backup_disaster_recovery",
+      "network_infrastructure"
+    ],
+    "industries": [
+      "healthcare",
+      "accounting_finance",
+      "insurance",
+      "manufacturing",
+      "engineering_architecture",
+      "construction"
+    ],
+    "compliance": [
+      "HIPAA",
+      "NIST",
+      "CMMC",
+      "PCI DSS",
+      "SOC 2"
+    ],
+    "partners": [
+      "Microsoft Gold Partner",
+      "Microsoft Services Partner",
+      "CompTIA certified staff",
+      "Microsoft certified staff",
+      "Fortinet certified staff"
+    ],
+    "foundedYear": 1999,
+    "teamSize": null,
+    "serviceArea": "Wisconsin (Madison, Milwaukee, Wausau), Denver/Boulder, Colorado, and remote nationwide",
+    "pricing": "Flat monthly fee",
+    "website": "https://www.appliedtech.us/",
+    "phone": "(855) 729-1300",
+    "addresses": [
+      "6662 Ronald Reagan Ave., Madison, WI 53704",
+      "150 N. Sunnyslope Rd., Suite 200, Brookfield, WI 53005"
+    ],
+    "town": "Madison",
+    "linkedin": "https://www.linkedin.com/company/applied-tech/",
+    "city": "madison",
+    "state": "wisconsin"
+  },
+  {
+    "slug": "clarity-technology-group-inc",
+    "placeId": "ChIJs7cnOmCuB4gRVPXOoCsIJJA",
+    "name": "Clarity Technology Group, Inc.",
+    "summary": "Clarity Technology Group is a Madison, Wisconsin IT company serving businesses across Greater Madison and Chicagoland. It offers ongoing managed IT, helpdesk, cybersecurity monitoring, cloud and backup services, plus AI consulting, its ClearTempo business calling product and custom application development. The company has been operating since 1999 and lists clients across architecture, healthcare, legal, construction and nonprofit sectors.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "software_development"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "construction",
+      "manufacturing",
+      "engineering_architecture",
+      "nonprofit",
+      "accounting_finance"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": 1999,
+    "teamSize": null,
+    "serviceArea": "Greater Madison, WI and Chicagoland",
+    "pricing": null,
+    "website": "https://claritytech.com/",
+    "phone": "(608) 258-4500",
+    "addresses": [
+      "434 S. Yellowstone Drive, Suite 100, Madison, WI 53719"
+    ],
+    "town": "Madison",
+    "linkedin": "https://www.linkedin.com/company/437226",
+    "city": "madison",
+    "state": "wisconsin"
+  },
+  {
+    "slug": "it-strategies-group",
+    "placeId": "ChIJuYNBWrgAB4gRInOPWyFjJPg",
+    "name": "IT Strategies Group",
+    "summary": "IT Strategies Group is a Waunakee, Wisconsin firm offering fully managed IT services for small and mid-sized businesses, including security operations, backup and disaster recovery, and co-managed IT alongside project consulting. The company says it works with biomedical, financial, government and manufacturing clients and emphasizes discretion and relationship-based service.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "manufacturing",
+      "government",
+      "accounting_finance"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Upper Midwest (WI, MN, IA and IL) per the site's vision statement; headquartered in Waunakee, WI",
+    "pricing": "Pricing structured per individual or per device based on each role's needs",
+    "website": "https://www.it-strategies-group.com/",
+    "phone": "(608) 467-4431",
+    "addresses": [
+      "601 Knightsbridge Road, Waunakee, WI 53597"
+    ],
+    "town": "Waunakee",
+    "linkedin": "https://www.linkedin.com/company/it-strategies-group",
+    "city": "madison",
+    "state": "wisconsin"
+  },
+  {
+    "slug": "no-limit-systems-llc",
+    "placeId": "ChIJB5TZ6tlRBogRigH_P7XXy2o",
+    "name": "No Limit Systems, LLC",
+    "summary": "No Limit Systems is a Monona, Wisconsin managed IT provider serving Dane County and nearby counties, with most support delivered remotely and on-site visits as needed. It offers fully managed and co-managed IT plans, Microsoft 365 and Google Workspace administration, security and compliance work, business phones, and network services. It focuses on healthcare, behavioral health, hospitality, professional services, nonprofits, property management, and manufacturing clients, and it publishes a written SLA credit policy.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement",
+      "structured_cabling"
+    ],
+    "industries": [
+      "healthcare",
+      "accounting_finance",
+      "hospitality",
+      "retail",
+      "manufacturing",
+      "nonprofit",
+      "education",
+      "real_estate",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS",
+      "FTC Safeguards"
+    ],
+    "partners": [
+      "Microsoft AI Cloud Partner (Indirect Reseller)",
+      "Google Cloud Advantage Partner",
+      "Cisco Select Provider",
+      "Ubiquiti UniFi Partner",
+      "Intermedia UCaaS Partner"
+    ],
+    "foundedYear": 2023,
+    "teamSize": null,
+    "serviceArea": "Dane County, WI and surrounding counties (Jefferson, Dodge, Rock, Green, Columbia, Iowa, Sauk); remote-first managed services outside Wisconsin",
+    "pricing": "Flat monthly fee per user for fully managed IT; co-managed pricing scoped per engagement; project consulting from $2,500 to $7,500",
+    "website": "https://nolimitsystems.com/",
+    "phone": "(608) 285-2252",
+    "addresses": [
+      "1220 Femrite Dr, Suite 204, Monona, WI 53716"
+    ],
+    "town": "Monona",
+    "linkedin": "https://www.linkedin.com/company/nolimitsystemsllc",
+    "city": "madison",
+    "state": "wisconsin"
+  },
+  {
+    "slug": "techmadison",
+    "placeId": "ChIJR4Kzuz9TBogRJ97Of9oSKcY",
+    "name": "TECHMADISON",
+    "summary": "Tech Madison is a business IT support provider in Madison, Wisconsin, offering remote support, preventative maintenance, and managed hosting, anti-virus, and backup services. It also handles VoIP phone systems, wireless and firewall networking, Office 365 migrations, and IT strategy for small businesses, with compliance consulting for HIPAA and PCI.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS"
+    ],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Madison, Wisconsin",
+    "pricing": "Hourly rates",
+    "website": "http://techmadison.com/",
+    "phone": "(608) 616-5674",
+    "addresses": [
+      "6300 Enterprise Ln, Suite 226, Madison, WI 53719"
+    ],
+    "town": "Madison",
+    "linkedin": "https://www.linkedin.com/company/tech-madison-llc",
+    "city": "madison",
+    "state": "wisconsin"
+  },
+  {
+    "slug": "adesys",
+    "placeId": "ChIJMfHlDp2yB4gRjsEYsPMuhIg",
+    "name": "Adesys",
+    "summary": "Locally owned IT firm in Fitchburg, Wisconsin, serving small and medium-sized businesses in Madison and southern Wisconsin since 1997. Offers continuous server and endpoint monitoring, managed cybersecurity with 24/7 detection and response, Microsoft 365, backups, and AI consulting, with clients citing a predictable monthly support model.",
+    "services": [
+      "managed_it",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "help_desk",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "manufacturing",
+      "professional_services",
+      "retail"
+    ],
+    "compliance": [
+      "HIPAA",
+      "SOC 2"
+    ],
+    "partners": [],
+    "foundedYear": 1997,
+    "teamSize": null,
+    "serviceArea": "Madison and southern Wisconsin, including Fitchburg, Verona and Middleton",
+    "pricing": "Predictable monthly pricing",
+    "website": "https://www.adesys.com/",
+    "phone": "(608) 288-0100",
+    "addresses": [
+      "2965 Cahill Main, Fitchburg, WI 53711"
+    ],
+    "town": "Fitchburg",
+    "linkedin": "https://www.linkedin.com/company/adesys/posts/?feedView=all",
+    "city": "madison",
+    "state": "wisconsin"
+  },
+  {
+    "slug": "mad-city-techs",
+    "placeId": "ChIJIbeQcLtRBogRh9WQIZOZiXg",
+    "name": "Mad City Techs",
+    "summary": "Madison-area IT company offering business managed services, including 24/7 network monitoring, help desk, server and desktop maintenance, and backup, billed as a fixed monthly fee. Also provides IT consulting, network security and residential computer repair. Serves Dane County and surrounding areas from an office in Monona.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "computer_repair"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": 2004,
+    "teamSize": null,
+    "serviceArea": "Dane County, WI (Madison area)",
+    "pricing": "Fixed monthly fee per seat, with no hidden fees or extra charges for project work",
+    "website": "https://www.madcitytechs.com/",
+    "phone": "(608) 663-8324",
+    "addresses": [
+      "6300 Monona Dr., Madison, WI 53716"
+    ],
+    "town": "Madison",
+    "linkedin": null,
+    "city": "madison",
+    "state": "wisconsin"
+  },
+  {
+    "slug": "adnet",
+    "placeId": "ChIJwV7JBhVzB4gREJwD666TaxQ",
+    "name": "adNET",
+    "summary": "adNET Technology Management is an IT services firm offering managed IT, strategic IT consulting, network security, disaster recovery and business telephone services. It serves accounting firms, law firms, manufacturers, construction companies, healthcare practices and fire departments, with offices in Illinois, Florida and Wisconsin.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "construction",
+      "manufacturing",
+      "government"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Illinois, Florida and Wisconsin; Chicago area for accounting and law firms",
+    "pricing": "Flat monthly fee for managed services, with a predictable monthly rate and service-level agreement",
+    "website": "https://www.adnet.us/",
+    "phone": "(847) 214-5160",
+    "addresses": [
+      "300 N McLean Blvd, Elgin, IL 60123",
+      "6901 Professional Pkwy E, Sarasota, FL 34240",
+      "635 Water St, Sauk City, WI 53583"
+    ],
+    "town": null,
+    "linkedin": "https://www.linkedin.com/company/adnet-technology-management",
+    "city": "madison",
+    "state": "wisconsin"
+  },
+  {
+    "slug": "ampro-data-services-inc",
+    "placeId": "ChIJd19KG7xSBogRsdWLbs5-4Zc",
+    "name": "Ampro Data Services, Inc.",
+    "summary": "Madison, Wisconsin IT company founded in 1984 offering managed IT, managed detection and response, networking, backup and disaster recovery, email administration and hardware support. Serves small and midsize businesses, financial firms, law firms, schools, public sector and nonprofits, and states it serves over 500 businesses across Wisconsin.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "it_strategy_vcio",
+      "hardware_procurement",
+      "computer_repair"
+    ],
+    "industries": [
+      "accounting_finance",
+      "legal",
+      "education",
+      "government",
+      "nonprofit"
+    ],
+    "compliance": [
+      "HIPAA",
+      "SOC 2",
+      "CMMC",
+      "PCI DSS"
+    ],
+    "partners": [
+      "Sophos certified technicians",
+      "Microsoft Cloud certified technicians",
+      "Cisco certified technicians",
+      "CompTIA certified technicians"
+    ],
+    "foundedYear": 1984,
+    "teamSize": null,
+    "serviceArea": "Madison, Wisconsin and across Wisconsin",
+    "pricing": "Predictable pricing with modular service bundles",
+    "website": "https://www.amprodata.com/",
+    "phone": "(608) 223-5120",
+    "addresses": [
+      "2810 Crossroads Dr, Suite 3000, Madison, WI"
+    ],
+    "town": "Madison",
+    "linkedin": "https://linkedin.com/company/amprodata",
+    "city": "madison",
+    "state": "wisconsin"
+  },
+  {
+    "slug": "envision-it",
+    "placeId": "ChIJ77gjyGeuB4gR2DDUWaeDTio",
+    "name": "Envision IT",
+    "summary": "Envision IT is a Madison, Wisconsin-based IT firm offering managed and co-managed IT, managed cybersecurity with a US-based SOC, Citrix and Microsoft 365 management, cloud migration, and Copilot/AI consulting. It describes itself as a conscious business with a focus on employee engagement and serves healthcare, financial services, manufacturing, legal, accounting, insurance, logistics and nonprofit clients across the U.S.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "software_development"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "insurance",
+      "manufacturing",
+      "nonprofit",
+      "logistics",
+      "professional_services"
+    ],
+    "compliance": [],
+    "partners": [
+      "Citrix Managed Platinum Partner",
+      "Citrix Service Provider",
+      "Citrix Preferred Services Partner"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "United States (headquartered in Madison, WI)",
+    "pricing": null,
+    "website": "https://envisionitllc.com/",
+    "phone": "(608) 824-2060",
+    "addresses": [
+      "8040 Excelsior Drive, Suite 402, Madison, WI 53717"
+    ],
+    "town": "Madison",
+    "linkedin": "https://www.linkedin.com/company/envisionitllc/",
+    "city": "madison",
+    "state": "wisconsin"
+  },
+  {
+    "slug": "hts",
+    "placeId": "ChIJKa-WcjdTBogRmCPAkzYBup8",
+    "name": "HTS",
+    "summary": "Hammond Technology Services (HTS) is a Madison-area IT provider offering outsourced IT support to small and medium-sized businesses. Services span consulting, desktop and laptop support, servers, network design and implementation, cybersecurity and cloud solutions, with a lead technician who has around 30 years of experience. Ongoing outsourced service agreements are offered alongside standard hourly rates.",
+    "services": [
+      "managed_it",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "network_infrastructure",
+      "it_strategy_vcio"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": null,
+    "pricing": "Standard hourly rate of $100/hour, reduced to as low as $50/hour for ongoing outsourced service agreements",
+    "website": "https://htsmadison.com/",
+    "phone": "(608) 223-1425",
+    "addresses": [],
+    "town": null,
+    "linkedin": null,
+    "city": "madison",
+    "state": "wisconsin"
+  },
+  {
+    "slug": "vc3",
+    "placeId": "ChIJuyegrtOtB4gRwMb8z9JX4Xo",
+    "name": "VC3",
+    "summary": "VC3 is a managed IT and cybersecurity provider focused on municipalities, local government departments, and businesses in sectors such as financial services, healthcare, manufacturing, and aerospace. Services include managed IT with 24/7 support, co-managed IT, managed security with 24/7 monitoring, backup and disaster recovery, CMMC and regulatory compliance help, and SharePoint, Power BI, web and application development. The firm describes its work as sector-specific, with clients on average staying about 11 years.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "software_development",
+      "web_design"
+    ],
+    "industries": [
+      "government",
+      "healthcare",
+      "manufacturing",
+      "accounting_finance",
+      "insurance",
+      "construction",
+      "real_estate",
+      "logistics",
+      "nonprofit"
+    ],
+    "compliance": [
+      "CMMC",
+      "NIST",
+      "HIPAA",
+      "ITAR",
+      "PCI DSS"
+    ],
+    "partners": [
+      "CMMC Registered Provider Organization (RPO)"
+    ],
+    "foundedYear": null,
+    "teamSize": "100% North American-based team",
+    "serviceArea": null,
+    "pricing": null,
+    "website": "https://www.vc3.com/",
+    "phone": "(800) 787-1160",
+    "addresses": [
+      "8040 Excelsior Dr., Suite 301, Madison, WI 53717",
+      "1301 Gervais St, Suite 1800, Columbia, SC 29201",
+      "5815 Clark Rd, Bath Twp, MI 48808",
+      "315 W Ponce De Leon Ave. Suite 565, Decatur, GA 30030",
+      "5614 Grand Ave., Duluth, MN 55807",
+      "777 Columbus Avenue, Lebanon, OH 45036",
+      "8000 Centerview Parkway, Suite 120, Cordova, TN 38018",
+      "3300 N. A Street Bldg. 4, Suite 101, Midland, TX 79705"
+    ],
+    "town": "Madison",
+    "linkedin": "https://www.linkedin.com/company/vc3/",
+    "city": "madison",
+    "state": "wisconsin"
+  },
+  {
+    "slug": "heartland-business-systems",
+    "placeId": "ChIJ-U9A4fhWBogRCk0Z4BNX0aY",
+    "name": "Heartland Business Systems",
+    "summary": "Heartland Business Systems is a Little Chute, Wisconsin technology firm founded in 1992 that provides managed IT, cybersecurity, cloud, networking and application development services to organizations across the country. It offers fully managed and co-managed IT, virtual CISO and security risk assessment work, and it serves clients with a range of compliance needs, including CMMC, NIST and SOC 2. The firm operates through an acquisition-driven history and holds several Microsoft and Cisco partner designations.",
+    "services": [
+      "managed_it",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "structured_cabling",
+      "software_development",
+      "web_design"
+    ],
+    "industries": [],
+    "compliance": [
+      "CMMC",
+      "NIST",
+      "SOC 2",
+      "HIPAA",
+      "PCI DSS",
+      "GLBA"
+    ],
+    "partners": [
+      "CMMC Registered Provider Organization (RPO)",
+      "Microsoft Analytics on Azure Specialization",
+      "Microsoft 365 Copilot Specialization",
+      "Microsoft Low Code Application Development Specialization",
+      "Microsoft Midwest Partner of the Year (2014)",
+      "Cisco Partner of the Year (2011)",
+      "Cisco partnership",
+      "HPE partnership"
+    ],
+    "foundedYear": 1992,
+    "teamSize": "700+ team members, 400+ certified engineers",
+    "serviceArea": "18 locations with national reach; headquarters in Little Chute, Wisconsin",
+    "pricing": null,
+    "website": "https://www.hbs.net/",
+    "phone": "(800) 236-7914",
+    "addresses": [
+      "100 Wilburn Road, Suite 107, Sun Prairie, WI 53590",
+      "1700 Stephen Street, Little Chute, WI 54140",
+      "3215 South Providence Road, Suite 4, Columbia, MO 65203",
+      "2569 Park Lane, Suite 200, Lafayette, CO 80026",
+      "7745 Office Plaza Drive N, Suite 150, West Des Moines, IA 50266",
+      "4112 Oakwood Hills Pkwy., Suite 100, Eau Claire, WI 54701",
+      "3775 N. Mall Avenue, Suite 4, Fayetteville, AR 72703",
+      "7304 West 130th Street, Suite 150, Overland Park, KS 66213",
+      "321 Maple St., North Little Rock, AR 72214",
+      "5400 Patton Drive, Suite 4B, Lisle, IL 60532",
+      "150 N. Sunnyslope Rd. Suite 200, Brookfield, WI 53005",
+      "605 US-169, Suite 220, Minneapolis, MN 55441",
+      "9140 West Dodge Road, Suite 200, Omaha, NE 68114",
+      "10201 S. 51st Street, Suite 180, Phoenix, AZ 85044",
+      "3306 W. 16th Street, Sedalia, MO 65301",
+      "1602 E. Republic Road, Springfield, MO 65804",
+      "500 N. Third Street, Suite 304, Wausau, WI 54403",
+      "345 Riverview Street, Suite 410, Wichita, KS 67203"
+    ],
+    "town": "Sun Prairie",
+    "linkedin": "https://www.linkedin.com/company/heartland-business-systems",
+    "city": "madison",
+    "state": "wisconsin"
+  },
+  {
+    "slug": "horstman-networks-inc",
+    "placeId": "ChIJI1UF5sT3BogRGRJfbAxzIJc",
+    "name": "Horstman Networks Inc",
+    "summary": "Sun Prairie, Wisconsin IT firm offering help desk support, managed workstations, networks and backups, along with VoIP phone systems, surveillance, door access and hardware procurement. The company says it serves businesses of all sizes and has been operating since 2006, with a client base that includes multi-office organizations.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "hardware_procurement",
+      "cybersecurity",
+      "compliance_services",
+      "web_design",
+      "computer_repair"
+    ],
+    "industries": [],
+    "compliance": [
+      "NIST"
+    ],
+    "partners": [
+      "Certified Google partner",
+      "Certified Microsoft partner",
+      "Webroot endpoint protection",
+      "Malwarebytes remediation"
+    ],
+    "foundedYear": 2006,
+    "teamSize": null,
+    "serviceArea": "Sun Prairie, Wisconsin and surrounding Madison area",
+    "pricing": "Endpoint management starting at $15 per month; free consultation; onsite technician support available as needed with no monthly minimums",
+    "website": "http://www.horstmanit.com/",
+    "phone": "(608) 514-8000",
+    "addresses": [
+      "1001 West Main Street, Sun Prairie, WI 53590"
+    ],
+    "town": "Sun Prairie",
+    "linkedin": null,
+    "city": "madison",
+    "state": "wisconsin"
+  },
+  {
+    "slug": "kebe-technology-solutions",
+    "placeId": "ChIJMccoPEL4BogRCFTjUazDf0g",
+    "name": "KEBE Technology Solutions",
+    "summary": "KEBE Technology Solutions is a Sun Prairie, Wisconsin provider offering managed IT, help desk, cybersecurity, cloud and hosted VoIP services to small and medium-sized businesses across south-central Wisconsin. The firm also lists custom development and facility security camera and access control work, and names legal, manufacturing, accounting, construction and nonprofit clients among its target industries.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services",
+      "software_development"
+    ],
+    "industries": [
+      "legal",
+      "manufacturing",
+      "accounting_finance",
+      "construction",
+      "nonprofit"
+    ],
+    "compliance": [
+      "SOC 2",
+      "CMMC"
+    ],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "South-Central Wisconsin, including Madison and Sun Prairie",
+    "pricing": null,
+    "website": "https://kebe247.com/",
+    "phone": "(608) 960-8445",
+    "addresses": [
+      "537 W Main St, Sun Prairie, WI 53590"
+    ],
+    "town": "Sun Prairie",
+    "linkedin": "https://www.linkedin.com/company/kebe-technology-solutions/",
+    "city": "madison",
+    "state": "wisconsin"
+  },
+  {
+    "slug": "premium-computer-service",
+    "placeId": "ChIJvz0V5bn3BogRq-k04_eGQGM",
+    "name": "Premium Computer Service",
+    "summary": "Madison, Wisconsin IT support company serving small and medium-sized businesses in the Madison area and surrounding region. Services span proactive network support with equipment monitoring, off-site backup, network design and implementation, computer repair and virus removal, and hardware and software sales.",
+    "services": [
+      "managed_it",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "it_strategy_vcio",
+      "hardware_procurement",
+      "computer_repair"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": 2004,
+    "teamSize": null,
+    "serviceArea": "Madison, Wisconsin and surrounding area",
+    "pricing": null,
+    "website": "https://www.pcservice.us/",
+    "phone": "(608) 237-1430",
+    "addresses": [],
+    "town": null,
+    "linkedin": null,
+    "city": "madison",
+    "state": "wisconsin"
+  },
+  {
+    "slug": "simple-network-consulting",
+    "placeId": "ChIJzYH7CexSBogRG99wJ3RCDSw",
+    "name": "Simple Network Consulting",
+    "summary": "Madison, Wisconsin-based IT firm offering ongoing managed security services, including monitoring, MDR/XDR, ZTNA, and a 24/7 security operations center. Also provides business continuity and disaster recovery planning, Microsoft 365 and Google Workspace hosting, managed VoIP phones, and IT consulting.",
+    "services": [
+      "managed_it",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [
+      "RingCentral (managed phones)"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Madison, WI (office location); service area not otherwise stated",
+    "pricing": "Customizable pricing and tailored solutions to fit budget; consumption-based model for managed security services",
+    "website": "https://www.sncllc.com/",
+    "phone": "(608) 446-4464",
+    "addresses": [
+      "10 Terrace Court, Suite #209, Madison, WI 53718"
+    ],
+    "town": "Madison",
+    "linkedin": null,
+    "city": "madison",
+    "state": "wisconsin"
+  },
+  {
+    "slug": "411-it-group",
+    "placeId": "ChIJsdXqaMWsB4gR0N_DTfqdNX4",
+    "name": "411 IT Group",
+    "summary": "411 IT Group is an IT support and consulting firm based in Madison, Wisconsin, serving small and medium-sized businesses across Midwest Wisconsin. Services include managed IT with 24/7 monitoring, business continuity, VoIP, cloud services and security, billed on a flat monthly plan. The site highlights industry work in manufacturing, healthcare, legal and government.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "manufacturing",
+      "government"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [],
+    "foundedYear": 2009,
+    "teamSize": null,
+    "serviceArea": "Midwest Wisconsin",
+    "pricing": "Flat-rate monthly IT plan with all labor included",
+    "website": "https://www.411itgroup.com/contact",
+    "phone": "(608) 448-6382",
+    "addresses": [
+      "1360 Regent St., Madison, WI 53715"
+    ],
+    "town": "Madison",
+    "linkedin": "https://www.linkedin.com/company/411-i-t-group/",
+    "city": "madison",
+    "state": "wisconsin"
+  },
+  {
+    "slug": "arctic-wolf",
+    "placeId": "ChIJvwj6TSVUBogRJKBvZmZXynU",
+    "name": "Arctic Wolf",
+    "summary": "Arctic Wolf is a security operations company offering subscription-based managed detection and response, endpoint protection, vulnerability management and security awareness training, with a concierge security team that monitors client environments around the clock. It also provides incident response for breaches and cyber incidents, plus warranty and cyber insurance support. Its listed clients span education, government, healthcare, manufacturing, legal, retail and automotive sectors.",
+    "services": [
+      "managed_it",
+      "cybersecurity",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "government",
+      "manufacturing",
+      "legal",
+      "education",
+      "retail",
+      "automotive",
+      "accounting_finance"
+    ],
+    "compliance": [
+      "CJIS"
+    ],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Global",
+    "pricing": "Tiered annual or three-year security operations packages, with optional warranty and retainer add-ons",
+    "website": "https://arcticwolf.com/solutions/incident-response/",
+    "phone": "(888) 272-8429",
+    "addresses": [
+      "8939 Columbine Rd, Eden Prairie, MN 55347"
+    ],
+    "town": null,
+    "linkedin": "https://www.linkedin.com/company/arctic-wolf-networks",
+    "city": "madison",
+    "state": "wisconsin"
+  },
+  {
+    "slug": "bca-it-inc-miami",
+    "placeId": "ChIJLxY8wWu52YgR6LKrlqvmFbk",
+    "name": "BCA IT, Inc.",
+    "summary": "BCA IT is a South Florida managed IT provider with offices in Miami, Tampa and Orlando, offering managed and co-managed IT, help desk support, managed cybersecurity, and compliance services. It also sells and implements Sage 100 and Sage Intacct ERP software. The company says it serves small and mid-sized businesses, including accounting, healthcare, legal, manufacturing and construction firms.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "accounting_finance",
+      "healthcare",
+      "legal",
+      "manufacturing",
+      "construction"
+    ],
+    "compliance": [],
+    "partners": [
+      "Sage (ERP provider)"
+    ],
+    "foundedYear": 1990,
+    "teamSize": null,
+    "serviceArea": "Miami, Tampa, Orlando and South Florida",
+    "pricing": "Flat, predictable monthly fee for unlimited IT support",
+    "website": "https://bcainc.com/it-services-solutions/it-managed-services/",
+    "phone": "(305) 716-1011",
+    "addresses": [
+      "8750 NW 36th St, Suite 500, Doral, FL 33178",
+      "1101 Brickell Avenue, South Tower, Suite 800, Miami, FL 33131",
+      "8323 NW 12th St, Suite 204, Miami, FL 33126",
+      "400 N Tampa St, Suite 1500, Tampa, FL 33602",
+      "20 N Orange Ave, Suite 1100, Orlando, FL 32801"
+    ],
+    "town": "Doral",
+    "linkedin": "https://www.linkedin.com/company/business-computer-associates-inc--bca-inc--",
+    "city": "miami",
+    "state": "florida"
+  },
+  {
+    "slug": "nerds-support",
+    "placeId": "ChIJzwqfqZS_2YgR-2F09Qp4T_8",
+    "name": "Nerds Support",
+    "summary": "Miami-based managed IT provider offering 24/7 support, remote monitoring, cloud hosting, managed security and compliance services, plus depot and asset lifecycle management. Focuses on accounting, financial, logistics and manufacturing firms, serving clients locally and internationally.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "compliance_services",
+      "hardware_procurement",
+      "voip_phones",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "accounting_finance",
+      "logistics",
+      "manufacturing"
+    ],
+    "compliance": [
+      "SOC 2",
+      "HIPAA",
+      "FINRA/SEC"
+    ],
+    "partners": [
+      "Microsoft Certified engineers",
+      "VMware certified",
+      "Veeam certified",
+      "Citrix certified",
+      "SOC 2 Type 2"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Miami, the U.S. and worldwide",
+    "pricing": "Predictable fixed cost",
+    "website": "https://nerdssupport.com/",
+    "phone": "(305) 551-2009",
+    "addresses": [
+      "4155 SW 130 Ave, Suite 103, Miami, FL 33175"
+    ],
+    "town": "Miami",
+    "linkedin": "https://www.linkedin.com/company/nerds-support-inc./",
+    "city": "miami",
+    "state": "florida"
+  },
+  {
+    "slug": "itp360",
+    "placeId": "ChIJfZ9l6uYFCggRtyKSt1b8H5E",
+    "name": "ITP360",
+    "summary": "ITP360 is a Miami-headquartered managed IT provider serving South Florida businesses with help desk, network monitoring, cloud and Microsoft 365 administration, backup and recovery, and managed cybersecurity. The company also offers Voice360 VoIP, fiber internet, custom software and AI agents, and states it builds its own SaaS products. Its site notes bilingual English and Spanish support and a focus on healthcare and merchant compliance.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services",
+      "software_development"
+    ],
+    "industries": [
+      "healthcare",
+      "dental",
+      "legal",
+      "accounting_finance",
+      "construction",
+      "manufacturing",
+      "retail",
+      "hospitality",
+      "real_estate",
+      "government"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS"
+    ],
+    "partners": [
+      "Microsoft",
+      "Google Cloud",
+      "AWS"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Miami-Dade County, Broward County and greater South Florida",
+    "pricing": "Flat-rate, predictable per-user or per-device monthly pricing",
+    "website": "https://itp360.com/",
+    "phone": "(305) 317-0959",
+    "addresses": [
+      "4380 SW 74 AVE Suite D, Miami, FL 33155"
+    ],
+    "town": "Miami",
+    "linkedin": null,
+    "city": "miami",
+    "state": "florida"
+  },
+  {
+    "slug": "subit",
+    "placeId": "ChIJSRi-vJO32YgRcvMaylDPukw",
+    "name": "SubIT",
+    "summary": "Miami-based managed IT provider offering flat-rate monthly IT management, help desk, cybersecurity, cloud, disaster recovery and vCIO services. Serves multi-location businesses and firms in law, accounting, healthcare and plastic surgery, with an emphasis on South Florida and national reach.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement",
+      "structured_cabling"
+    ],
+    "industries": [
+      "legal",
+      "accounting_finance",
+      "healthcare"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [],
+    "foundedYear": 2015,
+    "teamSize": null,
+    "serviceArea": "Miami and Coral Gables, South Florida; services stated as nationwide across North America",
+    "pricing": "One flat monthly rate with unlimited on-site and remote support during business hours, no ticket limits",
+    "website": "https://www.subitco.com/",
+    "phone": "(305) 602-8296",
+    "addresses": [
+      "7925 NW 12th St Suite 122, Miami, FL 33126",
+      "2600 S Douglas Rd, Suite 505A, Coral Gables, FL 33134"
+    ],
+    "town": "Miami",
+    "linkedin": "https://www.linkedin.com/company/subit",
+    "city": "miami",
+    "state": "florida"
+  },
+  {
+    "slug": "gocomputek-llc",
+    "placeId": "ChIJocbcYkS72YgRgVUKTRdXteI",
+    "name": "GoComputek LLC",
+    "summary": "Miami-based IT company founded in 2005 offering managed IT services, cloud subscription management, security, and on-demand technical work for small and mid-sized businesses in Miami-Dade and Broward County. The site highlights industry-specific support for healthcare, legal, accounting, logistics and other sectors, and mentions HIPAA and NIST-aligned practices.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement"
+    ],
+    "industries": [
+      "healthcare",
+      "manufacturing",
+      "logistics",
+      "legal",
+      "accounting_finance",
+      "nonprofit",
+      "retail",
+      "insurance"
+    ],
+    "compliance": [
+      "HIPAA",
+      "NIST",
+      "PCI DSS"
+    ],
+    "partners": [
+      "Microsoft"
+    ],
+    "foundedYear": 2005,
+    "teamSize": null,
+    "serviceArea": "Miami-Dade and Broward County, South Florida",
+    "pricing": "Fixed and transparent pricing; fixed hourly rates for industry-specific work; cloud support packages (Cloud Essentials, Cloud Standard, Cloud Premium)",
+    "website": "https://www.gocomputek.com/",
+    "phone": "(305) 822-7070",
+    "addresses": [
+      "9830 SW 77TH AVE, STE 155, Miami, FL 33156",
+      "3363 SHERIDAN ST, SUITE 211, Hollywood, FL 33021"
+    ],
+    "town": "Miami",
+    "linkedin": "https://www.linkedin.com/company/gocomputek",
+    "city": "miami",
+    "state": "florida"
+  },
+  {
+    "slug": "compassmsp-miami",
+    "placeId": "ChIJiVRSqZe32YgRAIBKPhJ8XAo",
+    "name": "CompassMSP",
+    "summary": "CompassMSP is a managed IT and cybersecurity provider with a Miami, Florida location serving businesses across the city and South Florida. Its offerings include fully managed and co-managed IT, 24/7 U.S.-based security monitoring, compliance support, cloud and infrastructure work, and hosted VoIP. It lists work with regulated industries such as healthcare, legal, financial services and government, and is part of a multi-office national network.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "insurance",
+      "nonprofit",
+      "education",
+      "government",
+      "manufacturing",
+      "construction",
+      "logistics",
+      "retail",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "NIST",
+      "SOC 2",
+      "PCI DSS",
+      "FINRA/SEC"
+    ],
+    "partners": [
+      "8x8 UCaaS",
+      "AWS",
+      "Cynomi",
+      "WatchGuard",
+      "Datto Backup",
+      "Microsoft Azure",
+      "SentinelOne",
+      "Cloudtango MSP Select 2026"
+    ],
+    "foundedYear": null,
+    "teamSize": "350+ technical experts in IT and security (company-wide)",
+    "serviceArea": "Miami, Florida and South Florida; national footprint across 25+ US locations",
+    "pricing": null,
+    "website": "https://compassmsp.com/locations/southeast/miami-fl",
+    "phone": "(833) 444-2677",
+    "addresses": [],
+    "town": null,
+    "linkedin": "https://www.linkedin.com/company/compass-msp/",
+    "city": "miami",
+    "state": "florida"
+  },
+  {
+    "slug": "ten4-technology-group-llc",
+    "placeId": "ChIJ2yn26vmw2YgRx3ATkmLTjiM",
+    "name": "Ten4 Technology Group, LLC",
+    "summary": "Miami-based IT provider offering managed IT, managed cloud, and managed cybersecurity to small and mid-sized businesses across South Florida, with a focus on legal, financial, professional firms, not-for-profits, healthcare and aviation clients. Services include 24/7 monitoring, remote support, Microsoft 365 Copilot deployment, cloud migration, and virtual CIO work. Formerly operated as Netcom Solutions, which merged with Sabio IT.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "network_infrastructure",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "legal",
+      "accounting_finance",
+      "nonprofit",
+      "healthcare",
+      "professional_services"
+    ],
+    "compliance": [],
+    "partners": [
+      "Microsoft 365 Copilot deployment"
+    ],
+    "foundedYear": 2005,
+    "teamSize": null,
+    "serviceArea": "Miami, Fort Lauderdale, Doral, Coral Gables and South Florida",
+    "pricing": "Flat-rate monthly fee for managed IT services",
+    "website": "https://www.ten4tg.com/",
+    "phone": "(954) 668-2400",
+    "addresses": [
+      "8100 Oak Lane, Suite 402, Miami Lakes, FL 33016",
+      "8100 Oak Ln STE 402, Miami Lakes, FL 33016"
+    ],
+    "town": "Miami Lakes",
+    "linkedin": "https://www.linkedin.com/company/ten4-technology-group",
+    "city": "miami",
+    "state": "florida"
+  },
+  {
+    "slug": "virtuworks",
+    "placeId": "ChIJd3A4Uuq32YgRUOQAE3iWad8",
+    "name": "VirtuWorks",
+    "summary": "Miami-based IT provider founded in 1994 offering per-user managed IT, help desk, Microsoft 365 administration, managed cybersecurity with a 24/7 SOC, backups, and co-managed IT. Serves law firms, accounting, wealth management, real estate, property management, healthcare and other professional services, mostly in South Florida and beyond. Operates as a Microsoft Tier 1 CSP and runs its own in-house management platform.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "voip_phones",
+      "co_managed_it",
+      "compliance_services",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "legal",
+      "accounting_finance",
+      "healthcare",
+      "real_estate",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "SOC 2",
+      "PCI DSS",
+      "NIST",
+      "GLBA"
+    ],
+    "partners": [
+      "Microsoft Tier 1 Cloud Solution Provider",
+      "Microsoft Solutions Partner",
+      "Clio Partner",
+      "ISO 27001",
+      "ISO 20000",
+      "ISO 9001",
+      "BBB A+ Accredited",
+      "Channel Futures MSP 501 (2025, 2026)"
+    ],
+    "foundedYear": 1994,
+    "teamSize": "50 people, including 30 in-house engineers and 10 developers",
+    "serviceArea": "Miami and South Florida, serving clients beyond the region",
+    "pricing": "Per-user, per-month pricing with no long-term contracts; 60 days' written notice to cancel",
+    "website": "https://virtuworks.com/",
+    "phone": "(305) 265-0447",
+    "addresses": [
+      "3850 Bird Road #103, Miami, FL 33146"
+    ],
+    "town": "Miami",
+    "linkedin": "https://www.linkedin.com/company/virtuworks/",
+    "city": "miami",
+    "state": "florida"
+  },
+  {
+    "slug": "capote-business-solutions",
+    "placeId": "ChIJZ8uJeAG12YgRR-3YwXY8B0Y",
+    "name": "Capote Business Solutions",
+    "summary": "Miami-based IT company offering managed IT support, help desk and remote support for small and mid-sized businesses across Miami-Dade. Also provides cybersecurity with managed antivirus/EDR, backups, and staff training, plus VoIP phone systems, Konica Minolta printer rentals, and web design. Advertises English and Spanish support and on-site visits.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement",
+      "web_design"
+    ],
+    "industries": [
+      "healthcare"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS"
+    ],
+    "partners": [],
+    "foundedYear": 2020,
+    "teamSize": null,
+    "serviceArea": "Miami-Dade County, Florida",
+    "pricing": "Managed plan with monthly contract option; no long-term contracts, first month 50% off; off-contract on-site work at $125 per hour",
+    "website": "https://capotesolutions.com/",
+    "phone": "(786) 398-4751",
+    "addresses": [
+      "7351 NW 7th St M, Miami, FL 33126"
+    ],
+    "town": "Miami",
+    "linkedin": null,
+    "city": "miami",
+    "state": "florida"
+  },
+  {
+    "slug": "ciegate-technologies",
+    "placeId": "ChIJc5UfLG7H2YgRvu75hlkzNPk",
+    "name": "Ciegate Technologies",
+    "summary": "Ciegate Technologies is a Miami-based IT firm offering managed IT support, 24/7 monitoring, cybersecurity, backup and disaster recovery, cloud services and VoIP to businesses in Miami and Charlotte. The company also helps clients with HIPAA, CMMC and NIST compliance work, and highlights healthcare and professional services among its client base.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "NIST"
+    ],
+    "partners": [
+      "Sophos"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Miami, FL and Charlotte, NC; serves clients across the U.S.",
+    "pricing": null,
+    "website": "https://ciegate.com/",
+    "phone": "(305) 501-2880",
+    "addresses": [
+      "8950 SW 74th Court, Suite 2201, Miami, FL 33156"
+    ],
+    "town": "Miami",
+    "linkedin": "https://www.linkedin.com/company/ciegatetech",
+    "city": "miami",
+    "state": "florida"
+  },
+  {
+    "slug": "rango-technologies",
+    "placeId": "ChIJQxtT7INOqGIRV4ia45b18qw",
+    "name": "RANGO Technologies",
+    "summary": "Miami Lakes-based managed IT and cybersecurity firm serving South Florida businesses since 2016. Offers monitoring, helpdesk, endpoint and identity security, MDR, Microsoft 365 administration and networking, with a focus on medical, dental, legal, professional services and manufacturing clients. Lists a bilingual English/Spanish team and a flat monthly pricing model.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "dental",
+      "legal",
+      "accounting_finance",
+      "construction",
+      "manufacturing",
+      "nonprofit",
+      "professional_services",
+      "logistics",
+      "retail"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [
+      "Microsoft Partner",
+      "Google Cloud Partner",
+      "Ubiquiti Full Stack Professional",
+      "Ubiquiti Wireless Admin",
+      "Brivo Authorized Dealer",
+      "Omada by TP-Link",
+      "ButterflyMX Certified",
+      "Eclipse",
+      "Ooma",
+      "Lenovo Business Partner",
+      "Comcast Business Authorized Connector",
+      "BBB A+ Rated"
+    ],
+    "foundedYear": 2016,
+    "teamSize": null,
+    "serviceArea": "Miami-Dade and Broward counties, with select coverage in Palm Beach and the Keys; headquartered in Miami Lakes",
+    "pricing": "Flat monthly pricing with unlimited support, monitoring, patching and quarterly reviews included",
+    "website": "https://rango.tech/",
+    "phone": "(305) 901-8990",
+    "addresses": [
+      "14100 Palmetto Frontage Rd, Suite 108, Miami Lakes, FL 33016"
+    ],
+    "town": "Miami Lakes",
+    "linkedin": null,
+    "city": "miami",
+    "state": "florida"
+  },
+  {
+    "slug": "it-of-united-states",
+    "placeId": "ChIJC9kmILu62YgRtCwiONgTdmE",
+    "name": "IT of United States",
+    "summary": "IT of US is an IT support provider with offices in Brickell (Miami), Coral Gables, Boca Raton and Palm Beach, Florida. It offers managed service plans for 24/7 coverage, support tickets, remote support, and on-site visits with same-day availability in some areas and next-day service elsewhere.",
+    "services": [
+      "managed_it",
+      "help_desk"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Florida offices (Miami, Coral Gables, Boca Raton, Palm Beach); on-site next-day nationwide per site footer",
+    "pricing": "Hourly support rates starting at $119/hr; managed MSP plans with no pricing stated",
+    "website": "https://itofus.com/",
+    "phone": "(855) 554-8872",
+    "addresses": [],
+    "town": null,
+    "linkedin": null,
+    "city": "miami",
+    "state": "florida"
+  },
+  {
+    "slug": "tech-group",
+    "placeId": "ChIJaRLl-T6l2YgRHCn5YA96fwU",
+    "name": "Tech Group",
+    "summary": "Tech Group is a Miami-area IT provider offering managed IT support, help desk, cybersecurity, backup and ERP-related services to businesses across South Florida. The company says it has been operating for more than 30 years and serves clients in distribution, manufacturing, construction, logistics, financial, aerospace, nonprofit, hospitality and retail sectors.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "manufacturing",
+      "construction",
+      "logistics",
+      "nonprofit",
+      "hospitality",
+      "retail",
+      "accounting_finance"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Miami & South Florida",
+    "pricing": "Customized support plans; the site says pricing is clear and upfront with no hidden costs but does not state a model",
+    "website": "https://www.techgroup.net/",
+    "phone": "(305) 698-0032",
+    "addresses": [
+      "3806 N 29th Ave, Hollywood, FL 33020"
+    ],
+    "town": null,
+    "linkedin": null,
+    "city": "miami",
+    "state": "florida"
+  },
+  {
+    "slug": "velateq",
+    "placeId": "ChIJ5ebLI0i_2YgRAt51HnotHDk",
+    "name": "VelaTeQ",
+    "summary": "VelaTeQ is a Miami Beach-based IT provider offering ongoing managed IT, network monitoring, endpoint security, help desk support, backup and disaster recovery, and IT consulting to small and medium businesses across South Florida. The company says it serves clients from Key Largo to Palm Beach and lists industries including legal, finance, real estate and logistics.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "it_strategy_vcio",
+      "cloud_microsoft_365"
+    ],
+    "industries": [
+      "legal",
+      "accounting_finance",
+      "real_estate",
+      "logistics",
+      "retail",
+      "nonprofit",
+      "hospitality",
+      "professional_services"
+    ],
+    "compliance": [
+      "PCI DSS",
+      "SOC 2",
+      "CMMC"
+    ],
+    "partners": [
+      "Microsoft",
+      "Cisco",
+      "Dell Technologies",
+      "HP Enterprise",
+      "VMware",
+      "SentinelOne",
+      "Fortinet",
+      "Acronis",
+      "Veeam",
+      "ConnectWise",
+      "Palo Alto Networks",
+      "Sophos",
+      "Lenovo",
+      "Datto",
+      "Webroot",
+      "Malwarebytes",
+      "N-able",
+      "Kaseya"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "South Florida, from Key Largo to Palm Beach County",
+    "pricing": "Flat-rate monthly pricing",
+    "website": "https://velateq.com/",
+    "phone": "(305) 256-0071",
+    "addresses": [],
+    "town": null,
+    "linkedin": "https://www.linkedin.com/company/velateq",
+    "city": "miami",
+    "state": "florida"
+  },
+  {
+    "slug": "nexacore-it-solutions",
+    "placeId": "ChIJ___P9am22YgRF_nN2-OV0IQ",
+    "name": "Nexacore IT Solutions",
+    "summary": "Nexacore is a Miami-based IT firm offering flat monthly managed IT support, 24/7 monitoring, managed cybersecurity, cloud and Microsoft 365 administration, and backup and disaster recovery. It serves small and mid-size businesses across Miami-Dade and Palm Beach County, with a co-managed option for companies that already have in-house IT staff.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "construction",
+      "real_estate",
+      "hospitality",
+      "nonprofit",
+      "professional_services",
+      "manufacturing"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS",
+      "SOC 2"
+    ],
+    "partners": [
+      "Microsoft 365 management with Defender, Entra ID and Intune (no partner tier stated)"
+    ],
+    "foundedYear": 2003,
+    "teamSize": "Combined 40+ years of IT experience (team headcount not stated)",
+    "serviceArea": "Miami-Dade County and Palm Beach County (Boca Raton area)",
+    "pricing": "Flat monthly per-user pricing for managed support, with hourly and block-hour options for break-fix work",
+    "website": "https://nexacoreitsolutions.com/",
+    "phone": "(786) 383-4603",
+    "addresses": [
+      "2121 Biscayne Blvd #1261, Miami, FL 33137"
+    ],
+    "town": "Miami",
+    "linkedin": "https://www.linkedin.com/company/nexacore-it-solutions/about/",
+    "city": "miami",
+    "state": "florida"
+  },
+  {
+    "slug": "ifeeltech",
+    "placeId": "ChIJ5Y1nwoa22YgRmxSLc4Dp27M",
+    "name": "iFeeltech",
+    "summary": "iFeeltech is a Miami-based IT firm offering managed IT, network infrastructure, UniFi networking, structured cabling, and cybersecurity for small and mid-sized businesses in Miami-Dade County. It also provides Microsoft 365 and Google Workspace administration, VoIP phone systems, and computer repair. The company says it began in New York in 2003 and moved to Miami in 2010.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services",
+      "structured_cabling",
+      "computer_repair"
+    ],
+    "industries": [
+      "healthcare"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS"
+    ],
+    "partners": [
+      "Ubiquiti Certified Partner"
+    ],
+    "foundedYear": 2003,
+    "teamSize": null,
+    "serviceArea": "Miami-Dade County, FL",
+    "pricing": "Managed IT billed as a predictable monthly fee; site cites cybersecurity pricing of $50-200 per user per month",
+    "website": "https://ifeeltech.com/",
+    "phone": "(305) 741-4601",
+    "addresses": [
+      "60 SW 13th Street, Suite 2121, Miami, FL 33130"
+    ],
+    "town": "Miami",
+    "linkedin": "https://linkedin.com/company/ifeeltech",
+    "city": "miami",
+    "state": "florida"
+  },
+  {
+    "slug": "bleuwire",
+    "placeId": "ChIJL13CQLa32YgRTO9-Fn5rLt8",
+    "name": "Bleuwire",
+    "summary": "Bleuwire is a Florida-based IT provider offering managed IT support, help desk, security monitoring, backup and Microsoft 365 management for businesses, with a vCIO option and offices in Miami and Hialeah. It lists service focus on accounting, advertising and media, construction, dental, education, healthcare, legal, manufacturing, non-profit, real estate and hospitality clients.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "structured_cabling"
+    ],
+    "industries": [
+      "accounting_finance",
+      "construction",
+      "dental",
+      "education",
+      "healthcare",
+      "legal",
+      "manufacturing",
+      "nonprofit",
+      "real_estate",
+      "hospitality"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Florida, with offices in Orlando, Tampa, Jacksonville, Miami, Fort Lauderdale, Naples, Cape Coral, Fort Myers, Hialeah, St. Petersburg, West Palm Beach, Coral Springs and Boca Raton",
+    "pricing": "Affordable service-level agreements (SLAs); no specific pricing model stated",
+    "website": "https://bleuwire.com/",
+    "phone": "(888) 509-0075",
+    "addresses": [
+      "8567 Coral Way, #465, Miami, FL 33155",
+      "10990 NW 138th St Suite 10, Hialeah, FL 33018",
+      "3128 Coral Way, Miami, FL 33145"
+    ],
+    "town": "Miami",
+    "linkedin": "https://www.linkedin.com/company/bleuwire",
+    "city": "miami",
+    "state": "florida"
+  },
+  {
+    "slug": "crexfl",
+    "placeId": "ChIJKxqfJzW42YgRHtej1tLYR-g",
+    "name": "CREXFL",
+    "summary": "CREXFL is a South Florida managed IT provider serving small and medium-sized businesses across Miami-Dade, Broward and Palm Beach area communities. Its monthly managed plans cover proactive monitoring, remote and onsite support, cybersecurity, routine maintenance and backups, with cloud, VoIP phone and individual IT support also offered. The firm was founded in 2014 and works with professional offices, law firms and medical practices.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "voip_phones"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "professional_services",
+      "retail"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": 2014,
+    "teamSize": null,
+    "serviceArea": "South Florida, including Miami, Miami Beach, Coral Gables, Doral, Kendall, Hialeah, Miramar, Pembroke Pines, Fort Lauderdale, Hollywood, Weston and Boca Raton",
+    "pricing": "Managed IT plans starting at $45 per computer per month, with custom business packages available",
+    "website": "https://www.crexfl.com/",
+    "phone": "(305) 381-2437",
+    "addresses": [],
+    "town": null,
+    "linkedin": null,
+    "city": "miami",
+    "state": "florida"
+  },
+  {
+    "slug": "hometechit",
+    "placeId": "ChIJ76KmOZy22YgRfyoMOHsQPB8",
+    "name": "HometechIT",
+    "summary": "Miami Lakes-based IT provider offering managed IT, help desk, cybersecurity, Microsoft 365 administration, cloud backup and VoIP to small and mid-sized businesses across Miami-Dade, Broward and Palm Beach counties. Has a particular focus on dental and medical offices, supporting practice management and imaging software.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "voip_phones",
+      "network_infrastructure",
+      "computer_repair"
+    ],
+    "industries": [
+      "dental",
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "real_estate",
+      "professional_services",
+      "retail",
+      "hospitality",
+      "construction"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": "800+ devices managed",
+    "serviceArea": "Miami-Dade, Broward and Palm Beach counties, South Florida",
+    "pricing": "Flat monthly fee per user/device for managed IT; cloud backup billed by storage tier",
+    "website": "https://hometechit.com/",
+    "phone": "(305) 728-4848",
+    "addresses": [
+      "Miami Lakes, FL 33016, Miami Lakes, FL 33016"
+    ],
+    "town": "Miami Lakes",
+    "linkedin": null,
+    "city": "miami",
+    "state": "florida"
+  },
+  {
+    "slug": "itmiami-com",
+    "placeId": "ChIJa_1Da6S52YgRzVR4IH8UkYs",
+    "name": "iTMIAMI.COM",
+    "summary": "iTMIAMI.COM is a Miami-area IT provider offering managed IT, cybersecurity, email, VoIP, web help and support. The site has dedicated pages for IT support aimed at law firms and CPA firms.",
+    "services": [
+      "managed_it",
+      "cybersecurity",
+      "help_desk",
+      "voip_phones"
+    ],
+    "industries": [
+      "legal",
+      "accounting_finance"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Miami",
+    "pricing": null,
+    "website": "https://itmiami.com/",
+    "phone": "(305) 900-2601",
+    "addresses": [
+      "7270 NW 12th St, Suite 600, Miami, FL 33126"
+    ],
+    "town": "Miami",
+    "linkedin": null,
+    "city": "miami",
+    "state": "florida"
+  },
+  {
+    "slug": "internos-group",
+    "placeId": "ChIJ2ejckTG72YgR26NWi4EDYuk",
+    "name": "Internos Group",
+    "summary": "Miami-based IT firm offering outsourced managed IT support, cybersecurity, backup and disaster recovery, cloud and Microsoft 365 services, and hosted phone systems. Serves law firms, accounting practices, manufacturing and logistics companies, and small businesses, with a focus on a hands-on leadership-team approach and a 90-day transition guarantee.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "voip_phones",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "accounting_finance",
+      "legal",
+      "manufacturing",
+      "professional_services"
+    ],
+    "compliance": [],
+    "partners": [
+      "Member of the Florida Cybersecurity Task Force"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Miami, Florida",
+    "pricing": null,
+    "website": "https://gointernos.com/",
+    "phone": "(305) 590-5333",
+    "addresses": [
+      "5781-B NW 151st Street, Miami, FL 33014"
+    ],
+    "town": "Miami",
+    "linkedin": "https://www.linkedin.com/company/internosit",
+    "city": "miami",
+    "state": "florida"
+  },
+  {
+    "slug": "slate-technology-solutions",
+    "placeId": "ChIJu9e5P_FxI2MR4-h8MxXHQhg",
+    "name": "Slate Technology Solutions",
+    "summary": "Miami-based IT firm offering managed IT, co-managed support, helpdesk, managed security and Microsoft 365 administration to small and mid-sized businesses. Also provides network and WiFi setup, rack installation and virtual CIO services. Focuses on clients in financial services, legal, dental, marine, restaurant and nonprofit sectors.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement",
+      "structured_cabling"
+    ],
+    "industries": [
+      "healthcare",
+      "dental",
+      "legal",
+      "accounting_finance",
+      "nonprofit",
+      "hospitality",
+      "retail",
+      "professional_services",
+      "construction"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [],
+    "foundedYear": 2017,
+    "teamSize": "45+ employees served; 100+ clients",
+    "serviceArea": "Miami, FL",
+    "pricing": "Transparent pricing with costs outlined upfront; 3-year contract with 3 months free offered",
+    "website": "https://www.slatetechs.com/",
+    "phone": "(305) 517-5864",
+    "addresses": [
+      "117 Madeira Ave, Coral Gables, FL 33134"
+    ],
+    "town": "Coral Gables",
+    "linkedin": "https://www.linkedin.com/company/slate-technology-solutions-llc/",
+    "city": "miami",
+    "state": "florida"
+  },
+  {
+    "slug": "telx-computers",
+    "placeId": "ChIJJUiLulas2YgRe004oAG-n5A",
+    "name": "Telx Computers",
+    "summary": "Telx Computers is a Miami-based IT company offering managed IT support, 24/7 monitoring and help desk, cybersecurity with firewall and endpoint protection, Microsoft 365 administration, cloud, and backup and disaster recovery for businesses across South Florida. The site highlights healthcare and HIPAA-focused IT support alongside services for law firms, accounting firms, property management and hospitality, and describes plans with fixed monthly pricing.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "healthcare",
+      "dental",
+      "legal",
+      "accounting_finance",
+      "hospitality",
+      "real_estate"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [
+      "SonicWall firewalls",
+      "Webroot endpoint protection",
+      "MCP, MCSE and A+ certified staff"
+    ],
+    "foundedYear": 2002,
+    "teamSize": null,
+    "serviceArea": "Miami and South Florida",
+    "pricing": "Fixed monthly pricing with unlimited proactive support",
+    "website": "https://www.telxcomputers.com/",
+    "phone": "(305) 935-3876",
+    "addresses": [
+      "67 NW 183rd ST, Miami Gardens, FL 33169",
+      "75 Broad St, New York, NY 10004",
+      "650 S Grand Ave, Los Angeles, CA 90017"
+    ],
+    "town": null,
+    "linkedin": "https://www.linkedin.com/company/telx-computers",
+    "city": "miami",
+    "state": "florida"
+  },
+  {
+    "slug": "alt-technical",
+    "placeId": "ChIJVVWFW7mt2YgRkiSmMdtVGeg",
+    "name": "ALT Technical",
+    "summary": "ALT Technical's Miami office provides IT support, consulting and managed network services to businesses in Miami-Dade and South Florida. Offerings include 24/7 monitoring, patch management, cybersecurity, cloud hosting, backup and Linux and Mac support. The company is part of a US and Canada footprint with offices in several cities.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "it_strategy_vcio",
+      "hardware_procurement"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": 1999,
+    "teamSize": null,
+    "serviceArea": "Miami and South Florida (Miami-Dade)",
+    "pricing": "Fixed-fee support plans; the site mentions budget-focused management plans and no block-hour billing",
+    "website": "https://alttechnical.com/miami-fl",
+    "phone": "(866) 646-6461",
+    "addresses": [],
+    "town": null,
+    "linkedin": null,
+    "city": "miami",
+    "state": "florida"
+  },
+  {
+    "slug": "connections-for-business",
+    "placeId": "ChIJ4X2_tYyr2YgRStUPkfce7dE",
+    "name": "Connections for Business",
+    "summary": "Hollywood, Florida-based IT firm serving businesses across South Florida, from Miami to West Palm Beach. Offers 24/7 live help desk, network operations center monitoring, cybersecurity, backups, Microsoft 365 and onsite field services on a fixed-fee basis, with virtual CIO planning. Founded in 1977 and says it focuses on uptime and ROI for its clients.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "legal",
+      "accounting_finance",
+      "nonprofit"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": 1977,
+    "teamSize": "19 team members on the help desk",
+    "serviceArea": "South Florida, from Miami through West Palm Beach",
+    "pricing": "Fixed-fee IT services",
+    "website": "https://www.connections.com/",
+    "phone": "(954) 624-9500",
+    "addresses": [
+      "2843 Pembroke Road, Hollywood, FL 33020"
+    ],
+    "town": null,
+    "linkedin": null,
+    "city": "miami",
+    "state": "florida"
+  },
+  {
+    "slug": "miami-tech-support-llc",
+    "placeId": "ChIJ1-fVbGat2YgRUt7odsXBPos",
+    "name": "Miami Tech Support LLC",
+    "summary": "Miami Tech Support LLC is an IT services provider that offers help desk, Microsoft 365 administration, managed cybersecurity, network and infrastructure support, data recovery, and database management. The site mentions monthly plans and describes services aimed at organizations of all sizes. Certain claims, such as team size and client industries, are not specified.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Miami",
+    "pricing": "Monthly plans",
+    "website": "https://www.miamitechsupport.com/",
+    "phone": null,
+    "addresses": [],
+    "town": null,
+    "linkedin": "https://www.linkedin.com/company/miami-tech-support-llc",
+    "city": "miami",
+    "state": "florida"
+  },
+  {
+    "slug": "nerdteck",
+    "placeId": "ChIJZQuMkkTA2YgRlB6Ie_wBdmQ",
+    "name": "NerdTeck",
+    "summary": "NerdTeck is a South Florida technology firm offering managed IT with 24/7 monitoring, help desk, Microsoft 365 administration, cybersecurity, backup and disaster recovery, and network and internet coordination. It also installs structured cabling, access control, cameras and smart office or home systems. The firm serves small and midsize businesses across Miami-Dade, Broward and Palm Beach counties, with a smaller presence in Highlands County, and publishes per-user managed plan pricing.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services",
+      "structured_cabling"
+    ],
+    "industries": [
+      "retail",
+      "hospitality",
+      "real_estate",
+      "construction",
+      "professional_services",
+      "manufacturing",
+      "nonprofit",
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "insurance"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS",
+      "SOC 2"
+    ],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "South Florida (Miami-Dade, Broward, Palm Beach) and parts of Central Florida including Sebring and Highlands County",
+    "pricing": "Flat per-user monthly managed services plan at $100-$150 per user per month, with prepaid hour blocks for project work and a discounted on-site hourly rate for plan customers",
+    "website": "https://nerdteck.com/",
+    "phone": "(786) 708-7383",
+    "addresses": [],
+    "town": null,
+    "linkedin": "https://www.linkedin.com/company/nerdteck-inc-/",
+    "city": "miami",
+    "state": "florida"
+  },
+  {
+    "slug": "ag-tech-international",
+    "placeId": "ChIJMzwZHfOt2YgRB4yTCb5XnBo",
+    "name": "AG Tech International",
+    "summary": "Boca Raton-based IT firm offering Mac support, business networking, managed IT and custom software to small and mid-size businesses in South Florida, Palm Beach County and Latin America. Also provides Odoo ERP implementations and an iPad-based retail point-of-sale system for boutiques, spas and resorts in Miami and Costa Rica.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "it_strategy_vcio",
+      "computer_repair",
+      "software_development"
+    ],
+    "industries": [
+      "hospitality",
+      "retail"
+    ],
+    "compliance": [],
+    "partners": [
+      "Apple Specialists",
+      "Apple Certified",
+      "Odoo",
+      "UniFi"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Boca Raton, South Florida, Palm Beach County, Latin America & the Caribbean",
+    "pricing": "Monthly MSP plans available; remote support at $120/hr",
+    "website": "http://agtechintl.com/",
+    "phone": "(305) 349-3833",
+    "addresses": [],
+    "town": null,
+    "linkedin": null,
+    "city": "miami",
+    "state": "florida"
+  },
+  {
+    "slug": "am3-technology-and-cybersecurity",
+    "placeId": "ChIJn34C4I232YgRtrnUcJu_JXo",
+    "name": "AM3 Technology & Cybersecurity",
+    "summary": "South Florida managed IT and cybersecurity provider based in Fort Lauderdale with service across Miami, Broward and Boca Raton. Offers ongoing managed IT with a security-first focus, including an SOC-monitored security stack, Microsoft 365 and Entra ID administration, and a free risk assessment as the starting point for engagements. Serves small and midsize organizations, with stated focus on financial, legal, accounting, nonprofit and healthcare-adjacent clients.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "nonprofit"
+    ],
+    "compliance": [
+      "NIST",
+      "HIPAA",
+      "SOC 2",
+      "GLBA"
+    ],
+    "partners": [
+      "Datto",
+      "RocketCyber",
+      "KnowBe4"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "South Florida, including Miami, Fort Lauderdale and Boca Raton",
+    "pricing": "Fixed monthly pricing per engagement; no published prices",
+    "website": "https://www.am3-it.com/",
+    "phone": "(786) 310-3456",
+    "addresses": [
+      "100 Biscayne Blvd #1114, Miami, FL 33132"
+    ],
+    "town": "Miami",
+    "linkedin": "https://www.linkedin.com/company/am3it/",
+    "city": "miami",
+    "state": "florida"
+  },
+  {
+    "slug": "compusource",
+    "placeId": "ChIJdyc7Iu3G2YgRsrmxFQAHiRI",
+    "name": "CompuSOURCE",
+    "summary": "Miami-based IT company serving businesses in Miami and South Florida since 1987, offering managed IT with 24/7 monitoring, backup and recovery, and security guidance. It also provides hosted business VoIP, commercial video surveillance with offsite cloud backup, temporary event WiFi and business fiber internet, with a dedicated IT specialist assigned to each managed client.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "computer_repair"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": 1987,
+    "teamSize": null,
+    "serviceArea": "Miami and South Florida",
+    "pricing": "Fixed fee managed IT service plans; VoIP costs depend on user licenses, calling plans, equipment and setup",
+    "website": "https://compusource.net/",
+    "phone": "(305) 234-5555",
+    "addresses": [
+      "8721 SW 129th St, Miami, FL 33176"
+    ],
+    "town": "Miami",
+    "linkedin": "https://www.linkedin.com/company/compusource-miami/",
+    "city": "miami",
+    "state": "florida"
+  },
+  {
+    "slug": "computers-and-networks-corp",
+    "placeId": "ChIJT_2ZAofF2YgRisN0zog6NpM",
+    "name": "Computers And Networks Corp",
+    "summary": "Computers and Networks Corp is a Palmetto Bay, Florida firm offering IT support and home automation services to Miami-area clients. Its offerings include managed IT with network monitoring and patching, cloud services, network design, data backup and recovery, and IT consulting, along with Control4 smart home design and programming.",
+    "services": [
+      "managed_it",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "cloud_microsoft_365",
+      "it_strategy_vcio",
+      "computer_repair"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [
+      "Control4 Certified Automation Programmer",
+      "PCNA Certified",
+      "Araknis networks",
+      "Lutron Certified Programmer"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Miami, Florida",
+    "pricing": null,
+    "website": "https://compandnet.com/",
+    "phone": "(786) 355-1818",
+    "addresses": [
+      "15715 S Dixie Highway, Suite 406, Palmetto Bay, FL 33157"
+    ],
+    "town": null,
+    "linkedin": null,
+    "city": "miami",
+    "state": "florida"
+  },
+  {
+    "slug": "ito-solutions-inc",
+    "placeId": "ChIJifJ9fUCx2YgR7N3WBumMv1M",
+    "name": "ITO Solutions, Inc.",
+    "summary": "ITO Solutions, Inc. is a technology consulting firm that provides managed IT support to small and medium businesses, with offices listed in Irvine, CA and Miami, FL and service areas across several US cities. Its offerings include help desk support, cybersecurity, Microsoft Office 365 administration, hosted QuickBooks, VoIP and network installation. The site highlights flat-fee monthly plans and a logistics and transportation focus in Houston.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "network_infrastructure",
+      "voip_phones"
+    ],
+    "industries": [
+      "logistics"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": 2008,
+    "teamSize": null,
+    "serviceArea": "Irvine, CA; Palm Springs, CA; Las Vegas, NV; Houston, TX; Washington, DC; New York, NY; Miami, FL; and surrounding areas",
+    "pricing": "Flat-fee fixed monthly managed service plans with no hidden fees",
+    "website": "https://itosupport.net/miami-fl/",
+    "phone": "(305) 400-1617",
+    "addresses": [
+      "15 Biscayne Blvd Suite 300, Miami, FL 33137",
+      "2915 Biscayne Blvd Suite 300, Miami, FL 33137"
+    ],
+    "town": "Miami",
+    "linkedin": null,
+    "city": "miami",
+    "state": "florida"
+  },
+  {
+    "slug": "it-pro-miami",
+    "placeId": "ChIJATOz3Gq32YgRUFtAmB27-F0",
+    "name": "IT Pro Miami",
+    "summary": "IT Pro Miami is a Miami-based managed IT provider serving small and mid-sized businesses in South Florida, with 24/7 monitoring, remote and on-site support, and cybersecurity services. It also offers network design and build, custom servers and workstations, backup and disaster recovery, cloud computing, and hosted VoIP phone systems.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "hardware_procurement",
+      "structured_cabling",
+      "software_development",
+      "web_design"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "education",
+      "government",
+      "construction",
+      "manufacturing",
+      "engineering_architecture"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "South Florida; site also says it serves businesses across the United States",
+    "pricing": null,
+    "website": "https://itpromiami.com/",
+    "phone": "(305) 942-8201",
+    "addresses": [
+      "3680 NW 11 Street, Miami, FL 33125"
+    ],
+    "town": "Miami",
+    "linkedin": null,
+    "city": "miami",
+    "state": "florida"
+  },
+  {
+    "slug": "joint-network-systems",
+    "placeId": "ChIJeUBQ51-32YgR5WewpF_-TWk",
+    "name": "Joint Network Systems",
+    "summary": "Joint Network Systems is a Miami-based managed IT and telecom provider serving South Florida and some other regions. It offers managed IT support, networking, cloud and cybersecurity services, plus hosted PBX and cloud VoIP phone systems that can be bundled with IT plans. The company procures and deploys hardware and software from partner vendors.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "hardware_procurement"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [
+      "AWS authorized partner",
+      "Microsoft",
+      "Fortinet",
+      "Cisco",
+      "Juniper",
+      "Arista",
+      "Dell",
+      "WatchGuard",
+      "Avaya",
+      "Polycom",
+      "Yealink",
+      "NEC",
+      "Panasonic",
+      "Ruckus"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Miami, Fort Lauderdale, West Palm Beach and South Florida, with some North American regions",
+    "pricing": "All-inclusive flat-rated monthly service plans, with discounts for bundling IT and phone services",
+    "website": "https://www.jointnetworks.com/",
+    "phone": "(866) 567-6387",
+    "addresses": [
+      "333 SE 2nd Avenue, Suite 2000, Miami, FL 33131",
+      "8200 NW 41st Street, Suite 200, Doral, FL 33166",
+      "300 SE 2nd Street, Suite 600, Fort Lauderdale, FL 33301",
+      "2202 N. Westshore Boulevard, Tampa, FL 33607"
+    ],
+    "town": "Miami",
+    "linkedin": "https://www.linkedin.com/company/2797767#",
+    "city": "miami",
+    "state": "florida"
+  },
+  {
+    "slug": "lansight-technology",
+    "placeId": "ChIJxXJX7_nG2YgRPe2C2h-mr-Y",
+    "name": "Lansight Technology",
+    "summary": "Lansight Technology is a Coral Gables-based managed service provider offering remote and onsite IT support, help desk, backup and disaster recovery, Microsoft 365 and cloud management, and network security for small and mid-sized businesses in South Florida. The firm also serves clients in several other U.S. states and The Bahamas, and lists industry focus areas including law, accounting, healthcare, real estate and municipalities.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "real_estate",
+      "government",
+      "professional_services"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": 2002,
+    "teamSize": null,
+    "serviceArea": "South Florida (Miami, Coral Gables); also clients in New York, Texas, California and The Bahamas",
+    "pricing": null,
+    "website": "https://www.lansight.com/",
+    "phone": "(305) 445-8897",
+    "addresses": [
+      "147 Alhambra Circle, Suite 120, Miami, FL 33134"
+    ],
+    "town": "Miami",
+    "linkedin": "https://www.linkedin.com/company/lansight-consulting/",
+    "city": "miami",
+    "state": "florida"
+  },
+  {
     "slug": "it-solutions-technology-partners",
     "placeId": "ChIJc2ON26Rl54gR7ZDw9_HIHbQ",
     "name": "IT Solutions Technology Partners",
@@ -4253,51 +8231,6 @@
     ],
     "town": "Orlando",
     "linkedin": null,
-    "city": "orlando",
-    "state": "florida"
-  },
-  {
-    "slug": "harmony-msp-llc-orlando",
-    "placeId": "ChIJMf5THDV_3YgRtxhQn1CG6Eo",
-    "name": "Harmony MSP, LLC",
-    "summary": "Veteran-owned IT and security firm in Central Florida offering monthly per-user managed IT with 24/7 SOC-backed monitoring, helpdesk, backups and Microsoft 365 management. Serves law firms, medical and dental practices, CPA firms and government agencies, with published pricing and optional ransomware recovery, fractional CTO and AI consulting services.",
-    "services": [
-      "managed_it",
-      "help_desk",
-      "cybersecurity",
-      "cloud_microsoft_365",
-      "backup_disaster_recovery",
-      "network_infrastructure",
-      "it_strategy_vcio",
-      "compliance_services"
-    ],
-    "industries": [
-      "legal",
-      "dental",
-      "healthcare",
-      "accounting_finance",
-      "government"
-    ],
-    "compliance": [
-      "HIPAA",
-      "FTC Safeguards",
-      "SOC 2"
-    ],
-    "partners": [
-      "SDVOSB certified",
-      "Registered in SAM.gov"
-    ],
-    "foundedYear": 2011,
-    "teamSize": null,
-    "serviceArea": "Central Florida, including Orlando, Winter Park, Lake Mary, Kissimmee and surrounding areas",
-    "pricing": "Flat per-user monthly pricing (from $90/user/mo), minimum 5 users, servers billed at $250/server/mo, month-to-month after initial 90 days",
-    "website": "https://harmony-msp.com/",
-    "phone": "(407) 720-6540",
-    "addresses": [
-      "1540 International Parkway, Suite 2000, Lake Mary, FL 32746"
-    ],
-    "town": "Lake Mary",
-    "linkedin": "https://linkedin.com/company/harmonymspllc",
     "city": "orlando",
     "state": "florida"
   },

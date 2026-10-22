@@ -25,7 +25,7 @@ center point, radius and `max_candidates`. Working files land in `data/<state>/<
 | 3. Classify | `scripts/classify.py <config> --model claude-haiku-5-5` | `classified/*.json`, `msps.csv`, `review.csv` |
 | 4. Contact details | `scripts/contact.py <config> --model claude-haiku-5-5` | `contact/*.json`: name, phone, addresses from each company's website |
 | 5. Review | open `review.csv` | set `is_msp` to `yes`/`no` in `msps.csv` for unclear rows |
-| 6. Export | `scripts/export_web.py` | `web/src/data/msps.json` and `cities.json` |
+| 6. Export | `scripts/export_web.py` | `web/src/data/msps.json`, `cities.json`, and redirects in `web/public/_redirects` |
 | 7. Purge | `scripts/purge.py <config>` | deletes the stored Google data for the city |
 
 Run each with `.venv/bin/python` and the city config, e.g.
@@ -37,6 +37,11 @@ sites, and `classify.py --report-only` rebuilds `msps.csv` without calling Claud
 `max_candidates` websites by search hits (default 50; `null` for no cap). Real MSPs
 rank near the top, so 50 candidates usually yields 25-35 confirmed MSPs. Orlando
 was built before the cap and uses `null`.
+
+**Stable URLs.** The export keeps each published MSP's URL. A company with offices in
+several metros gets one profile per metro (e.g. `/msp/compassmsp` and
+`/msp/compassmsp-miami`), duplicate listings within a metro are merged, and merged
+profiles' old URLs are redirected in `web/public/_redirects`.
 
 **Pre-filter and review.** Before Claude runs, a free pre-filter drops sites that are
 gone and businesses with no managed-IT signal. Rows marked `needs_review` in

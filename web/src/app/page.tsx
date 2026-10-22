@@ -4,8 +4,8 @@ import { SearchBox } from "@/components/SearchBox";
 import { getAllMsps, getAreas, getCoveredStates, getSearchIndex, placeName } from "@/lib/data";
 import { SERVICE_LABELS, label } from "@/lib/labels";
 
+// Shown after the covered metros in the "Popular" row under the search box.
 const POPULAR_SEARCHES = [
-  ["Orlando", "Orlando"],
   ["HIPAA compliance", "HIPAA"],
   ["Cybersecurity", "cybersecurity"],
   ["Law firms", "law firms"],
@@ -51,7 +51,7 @@ export default function Home() {
   const msps = getAllMsps();
   const covered = getCoveredStates();
   const pricing = msps.filter((msp) => msp.pricing).length;
-  const metros = covered.flatMap((state) => state.cities);
+  const metros = covered.flatMap((state) => state.cities).sort((a, b) => b.count - a.count);
   const topScored = msps.slice(0, 6);
 
   return (
@@ -75,7 +75,7 @@ export default function Home() {
           </div>
           <div className="mt-4 flex flex-wrap justify-center gap-2 text-sm">
             <span className="text-slate-500">Popular:</span>
-            {POPULAR_SEARCHES.map(([text, query]) => (
+            {[...metros.map((city) => [city.name, city.name]), ...POPULAR_SEARCHES].slice(0, 7).map(([text, query]) => (
               <Link
                 key={query}
                 href={`/search?q=${encodeURIComponent(query)}`}
@@ -180,25 +180,27 @@ export default function Home() {
         <p className="mt-1 text-slate-600">
           Browse by metro or by town. We&apos;re adding cities one at a time so every listing is checked.
         </p>
-        <div className="mt-6 space-y-6">
-          {covered.map((state) =>
-            state.cities.map((city) => (
-              <div key={city.slug} className="rounded-xl border border-slate-200 bg-white p-6">
+        <div className="mt-6 grid gap-4 sm:grid-cols-2">
+          {metros.map((city) => {
+            const areas = getAreas(city.state, city.slug);
+            const href = `/${city.state}/${city.slug}`;
+            return (
+              <div key={`${city.state}/${city.slug}`} className="rounded-xl border border-slate-200 bg-white p-6">
                 <div className="flex flex-wrap items-baseline justify-between gap-2">
                   <h3 className="text-lg font-semibold">
-                    <Link href={`/${state.slug}/${city.slug}`} className="hover:text-brand-600 hover:underline">
-                      {city.name} metro, {state.name}
+                    <Link href={href} className="hover:text-brand-600 hover:underline">
+                      {city.name}, {city.stateCode}
                     </Link>
                   </h3>
-                  <Link href={`/${state.slug}/${city.slug}`} className="text-sm font-medium text-brand-600 hover:underline">
+                  <Link href={href} className="text-sm font-medium text-brand-600 hover:underline">
                     All {city.count} MSPs
                   </Link>
                 </div>
                 <ul className="mt-4 flex flex-wrap gap-2">
-                  {getAreas(state.slug, city.slug).map((area) => (
+                  {areas.slice(0, 6).map((area) => (
                     <li key={area.slug}>
                       <Link
-                        href={area.hasPage ? `/${state.slug}/${city.slug}/${area.slug}` : `/${state.slug}/${city.slug}`}
+                        href={area.hasPage ? `${href}/${area.slug}` : href}
                         className="inline-flex items-center gap-1.5 rounded-full border border-slate-200 px-3 py-1 text-sm text-slate-700 hover:border-brand-600 hover:text-brand-700"
                       >
                         {area.name}
@@ -206,10 +208,19 @@ export default function Home() {
                       </Link>
                     </li>
                   ))}
+                  {areas.length > 6 && (
+                    <li>
+                      <Link href={href} className="inline-block px-2 py-1 text-sm text-slate-500 hover:text-brand-700">
+                        +{areas.length - 6} more
+                      </Link>
+                    </li>
+                  )}
                 </ul>
               </div>
-            )),
-          )}
+            );
+          })}
+        </div>
+        <div className="mt-4">
           <Link
             href="/united-states"
             className="flex items-center justify-between rounded-xl border border-dashed border-slate-300 p-5 text-slate-700 hover:border-brand-600 hover:text-brand-700"

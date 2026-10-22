@@ -1,0 +1,29 @@
+{
+  "city": "Miami",
+  "state": "Florida",
+  "state_code": "FL",
+  "slug": "miami",
+  "state_slug": "florida",
+  "center": {
+    "lat": 25.7617,
+    "lng": -80.1918
+  },
+  "radius_miles": 25,
+  "areas": [
+    "Miami",
+    "Hialeah",
+    "Doral",
+    "Coral Gables",
+    "Miami Beach",
+    "Kendall",
+    "Miami Lakes",
+    "Aventura",
+    "North Miami"
+  ],
+  "queries": [
+    "managed IT services",
+    "managed service provider",
+    "IT support company",
+    "outsourced IT"
+  ]
+}

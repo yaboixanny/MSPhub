@@ -22,6 +22,8 @@ from urllib.parse import parse_qsl, urlencode, urlparse, urlunparse
 from common import ROOT, city_dir, load_city
 
 OUT_DIR = ROOT / "web" / "src" / "data"
+# Netlify redirects file, copied into the static export from web/public.
+REDIRECTS = ROOT / "web" / "public" / "_redirects"
 
 
 def slugify(text):
@@ -49,7 +51,13 @@ def format_address(address):
 def main():
     msps = []
     cities = []
-    used_slugs = set()
+    # Keep every published MSP's URL stable: reuse the slug it already has, and
+    # reserve those slugs before naming new MSPs (a company with offices in several
+    # metros gets one profile per metro, e.g. /msp/acme-it and /msp/acme-it-miami).
+    previous_path = OUT_DIR / "msps.json"
+    previous = {msp["placeId"]: msp["slug"] for msp in json.loads(previous_path.read_text())} if previous_path.exists() else {}
+    used_slugs = set(previous.values())
+    redirects = {}  # old slug -> slug of the profile it was merged into
 
     for config_path in sorted((ROOT / "config" / "cities").glob("*.json")):
         config = load_city(config_path)
@@ -61,6 +69,9 @@ def main():
                     if row["is_msp"] == "yes" and not row["needs_review"]]
 
         metro_towns = {area.lower() for area in config["areas"]}
+        # One profile per company per metro, even when Google lists it twice with
+        # different website pages (e.g. its homepage and a services page).
+        by_company = {}
         published = 0
         for row in rows:
             contact_path = base / "contact" / f"{row['place_id']}.json"
@@ -70,15 +81,31 @@ def main():
                 print(f"  skipped {row.get('name', row['place_id'])}: no contact details from its website "
                       f"({record.get('status', 'contact.py not run')[:60]})")
                 continue
+            company_key = (contact["company_name"].lower().strip(), urlparse(record["website"]).netloc.lower().removeprefix("www."))
+            if company_key in by_company:
+                existing = by_company[company_key]
+                if row["place_id"] in previous:
+                    redirects[previous[row["place_id"]]] = existing["slug"]
+                for address in contact["addresses"]:
+                    formatted = format_address(address)
+                    if formatted not in existing["addresses"]:
+                        existing["addresses"].append(formatted)
+                continue
             published += 1
             # National MSPs often list their head office first; put offices in this
             # metro's towns first and use the first one as the MSP's town.
             local = [address for address in contact["addresses"] if address["city"].strip().lower() in metro_towns]
             addresses = local + [address for address in contact["addresses"] if address not in local]
-            slug = slugify(contact["company_name"])
-            if slug in used_slugs:
-                slug = f"{slug}-{config['slug']}"
-            used_slugs.add(slug)
+            slug = previous.get(row["place_id"])
+            if slug is None:
+                slug = slugify(contact["company_name"])
+                if slug in used_slugs:
+                    slug = f"{slug}-{config['slug']}"
+                base_slug, number = slug, 2
+                while slug in used_slugs:
+                    slug = f"{base_slug}-{number}"
+                    number += 1
+                used_slugs.add(slug)
             msps.append({
                 "slug": slug,
                 # Google allows storing place IDs indefinitely (unlike other Places
@@ -103,6 +130,7 @@ def main():
                 "city": config["slug"],
                 "state": config["state_slug"],
             })
+            by_company[company_key] = msps[-1]
 
         cities.append({
             "slug": config["slug"],
@@ -115,6 +143,16 @@ def main():
             "updated": time.strftime("%Y-%m-%d"),
         })
         print(f"{config['city']}, {config['state_code']}: {published} MSPs published")
+
+    # Keep old profile URLs working after merges; earlier redirects are kept too.
+    lines = REDIRECTS.read_text().splitlines() if REDIRECTS.exists() else []
+    existing_sources = {line.split()[0] for line in lines if line.strip()}
+    for old, new in sorted(redirects.items()):
+        if f"/msp/{old}" not in existing_sources and old != new:
+            lines.append(f"/msp/{old} /msp/{new} 301")
+    if lines:
+        REDIRECTS.parent.mkdir(parents=True, exist_ok=True)
+        REDIRECTS.write_text("\n".join(lines) + "\n")
 
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     (OUT_DIR / "msps.json").write_text(json.dumps(msps, indent=2))

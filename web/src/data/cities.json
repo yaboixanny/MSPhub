@@ -1,5 +1,62 @@
 [
   {
+    "slug": "jacksonville",
+    "name": "Jacksonville",
+    "state": "florida",
+    "stateName": "Florida",
+    "stateCode": "FL",
+    "areas": [
+      "Jacksonville",
+      "Jacksonville Beach",
+      "Orange Park",
+      "Fleming Island",
+      "Ponte Vedra Beach",
+      "St. Augustine",
+      "Fernandina Beach"
+    ],
+    "count": 32,
+    "updated": "2026-10-22"
+  },
+  {
+    "slug": "madison",
+    "name": "Madison",
+    "state": "wisconsin",
+    "stateName": "Wisconsin",
+    "stateCode": "WI",
+    "areas": [
+      "Madison",
+      "Middleton",
+      "Fitchburg",
+      "Sun Prairie",
+      "Verona",
+      "Monona",
+      "Waunakee",
+      "Stoughton"
+    ],
+    "count": 25,
+    "updated": "2026-10-22"
+  },
+  {
+    "slug": "miami",
+    "name": "Miami",
+    "state": "florida",
+    "stateName": "Florida",
+    "stateCode": "FL",
+    "areas": [
+      "Miami",
+      "Hialeah",
+      "Doral",
+      "Coral Gables",
+      "Miami Beach",
+      "Kendall",
+      "Miami Lakes",
+      "Aventura",
+      "North Miami"
+    ],
+    "count": 35,
+    "updated": "2026-10-22"
+  },
+  {
     "slug": "orlando",
     "name": "Orlando",
     "state": "florida",
@@ -18,7 +75,7 @@
       "Apopka",
       "Kissimmee"
     ],
-    "count": 112,
+    "count": 111,
     "updated": "2026-10-22"
   }
 ]

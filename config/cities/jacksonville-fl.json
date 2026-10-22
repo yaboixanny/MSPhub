@@ -1,0 +1,27 @@
+{
+  "city": "Jacksonville",
+  "state": "Florida",
+  "state_code": "FL",
+  "slug": "jacksonville",
+  "state_slug": "florida",
+  "center": {
+    "lat": 30.3322,
+    "lng": -81.6557
+  },
+  "radius_miles": 35,
+  "areas": [
+    "Jacksonville",
+    "Jacksonville Beach",
+    "Orange Park",
+    "Fleming Island",
+    "Ponte Vedra Beach",
+    "St. Augustine",
+    "Fernandina Beach"
+  ],
+  "queries": [
+    "managed IT services",
+    "managed service provider",
+    "IT support company",
+    "outsourced IT"
+  ]
+}
