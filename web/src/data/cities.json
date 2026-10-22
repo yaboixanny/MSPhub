@@ -1,0 +1,24 @@
+[
+  {
+    "slug": "orlando",
+    "name": "Orlando",
+    "state": "florida",
+    "stateName": "Florida",
+    "stateCode": "FL",
+    "areas": [
+      "Orlando",
+      "Winter Park",
+      "Maitland",
+      "Altamonte Springs",
+      "Longwood",
+      "Lake Mary",
+      "Sanford",
+      "Oviedo",
+      "Winter Garden",
+      "Apopka",
+      "Kissimmee"
+    ],
+    "count": 113,
+    "updated": "2026-10-22"
+  }
+]

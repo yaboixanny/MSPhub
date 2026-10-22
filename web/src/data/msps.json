@@ -1,0 +1,5315 @@
+[
+  {
+    "slug": "iventure-solutions",
+    "name": "iVenture Solutions",
+    "summary": "Orlando-based managed IT firm offering ongoing help desk, network management, cloud and Microsoft 365 administration, and managed cybersecurity with 24/7 SOC monitoring. Serves healthcare, legal, financial, construction, nonprofit and other businesses, with support for CMMC, HIPAA and SOC 2 compliance needs.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "manufacturing",
+      "nonprofit",
+      "government",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "SOC 2",
+      "NIST",
+      "CJIS",
+      "ITAR"
+    ],
+    "partners": [
+      "Microsoft",
+      "Dell",
+      "Great Place to Work certified"
+    ],
+    "foundedYear": 2000,
+    "teamSize": null,
+    "serviceArea": "Orlando, Florida; Tampa Bay; Jacksonville; nationwide coverage",
+    "pricing": "Predictable monthly fee",
+    "rating": 5.0,
+    "reviewCount": 260,
+    "weightedRating": 5.0,
+    "website": "https://iventuresolutions.com/orlando/",
+    "phone": "(407) 841-3400",
+    "addresses": [
+      "1901 Summit Tower Blvd #310, Orlando, FL 32810"
+    ],
+    "town": "Orlando",
+    "lat": 28.6336241,
+    "lng": -81.4017337,
+    "linkedin": "https://www.linkedin.com/company/iventure/",
+    "googleMapsUrl": "https://maps.google.com/?cid=12551136131596047345&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "it-solutions-technology-partners",
+    "name": "IT Solutions Technology Partners",
+    "summary": "Maitland-based IT firm serving Greater Orlando, Orange and Seminole counties, with the company itself operating offices across the US and Canada. Offers fully managed and co-managed IT, layered cybersecurity with SOC coverage, backup and disaster recovery, Azure and private cloud services, AI governance, and project work. Has dedicated programs for healthcare, legal, financial services and manufacturing clients.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "network_infrastructure"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "manufacturing",
+      "nonprofit",
+      "construction",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "NIST",
+      "SOC 2",
+      "PCI DSS"
+    ],
+    "partners": [
+      "Microsoft Solutions Partner (Modern Work and Infrastructure)",
+      "Claris FileMaker Platinum Partner",
+      "SOC 2 Type II",
+      "SSAE 18 Type II",
+      "Association of Legal Administrators Business Partner",
+      "Clio partner",
+      "CARET Legal partner",
+      "CRN MSP 500",
+      "Channel Futures MSP 501"
+    ],
+    "foundedYear": 1994,
+    "teamSize": "~500 staff across 15 offices",
+    "serviceArea": "Greater Orlando (Orange and Seminole counties) locally; clients across the United States and Canada",
+    "pricing": "Monthly managed IT subscription; the Total IT options are fully managed, co-managed, and modular Amplify IT packages",
+    "rating": 5.0,
+    "reviewCount": 115,
+    "weightedRating": 4.99,
+    "website": "https://www.itsolutions-inc.com/locations/orlando/",
+    "phone": "(407) 658-9009",
+    "addresses": [
+      "2290 Lucien Way #330, Maitland, FL 32751"
+    ],
+    "town": "Maitland",
+    "lat": 28.623233,
+    "lng": -81.3890043,
+    "linkedin": "https://www.linkedin.com/company/it-solutions-consulting-llc/",
+    "googleMapsUrl": "https://maps.google.com/?cid=12978750642724049133&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "mypcfriends-cybersecurity",
+    "name": "MyPCFriends Cybersecurity",
+    "summary": "MyPCFriends is a bilingual English and Spanish IT provider based in Kissimmee, Florida, offering help desk, managed IT, cybersecurity, compliance readiness and custom AI work through its AIPS studio. It sells a monthly-billed all-in IT partnership and also works with clients across the US and in Europe. The company says it was founded in 2015.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "compliance_services"
+    ],
+    "industries": [],
+    "compliance": [
+      "HIPAA",
+      "NIST",
+      "FTC Safeguards",
+      "GLBA",
+      "SOC 2",
+      "PCI DSS"
+    ],
+    "partners": [
+      "Microsoft Partner",
+      "Kaseya",
+      "ThreatLocker",
+      "Huntress"
+    ],
+    "foundedYear": 2015,
+    "teamSize": null,
+    "serviceArea": "Central Florida (Orlando, Kissimmee, St. Cloud, Winter Park), with clients across the US and Europe",
+    "pricing": "Flat, predictable monthly cost",
+    "rating": 5.0,
+    "reviewCount": 100,
+    "weightedRating": 4.99,
+    "website": "http://www.mypcfriends.com/",
+    "phone": "(321) 300-1442",
+    "addresses": [
+      "3080 Park Pond Wy #82, Kissimmee, FL 34741"
+    ],
+    "town": "Kissimmee",
+    "lat": 28.3380498,
+    "lng": -81.43388139999999,
+    "linkedin": "https://www.linkedin.com/company/mypcfriends",
+    "googleMapsUrl": "https://maps.google.com/?cid=11213463461403790734&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "orlantech",
+    "name": "OrlanTech",
+    "summary": "Orlando-area IT firm offering monthly managed IT plans with help desk, co-managed IT, cybersecurity monitoring, Microsoft 365 administration and backup/disaster recovery. Serves professional services, healthcare, construction and nonprofit clients across Central Florida, and also handles IT projects, VoIP and compliance support.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement"
+    ],
+    "industries": [
+      "healthcare",
+      "accounting_finance",
+      "legal",
+      "construction",
+      "engineering_architecture",
+      "nonprofit",
+      "manufacturing",
+      "insurance",
+      "real_estate",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC"
+    ],
+    "partners": [],
+    "foundedYear": 1995,
+    "teamSize": null,
+    "serviceArea": "Central Florida",
+    "pricing": "Flat monthly fee per user with no long-term contracts, month-to-month TotalCare plans",
+    "rating": 5.0,
+    "reviewCount": 35,
+    "weightedRating": 4.98,
+    "website": "https://www.orlantech.com/",
+    "phone": "(407) 228-7290",
+    "addresses": [
+      "230 Lookout Pl, Maitland, FL 32751"
+    ],
+    "town": "Maitland",
+    "lat": 28.6379274,
+    "lng": -81.36232439999999,
+    "linkedin": "https://www.linkedin.com/company/orlantech-inc-",
+    "googleMapsUrl": "https://maps.google.com/?cid=15500268895442062759&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "yz-info-tech",
+    "name": "YZ Info Tech",
+    "summary": "YZ InfoTech is an Apopka, Florida based IT provider serving businesses across Orlando and Central Florida since 1999. Services include managed IT with 24/7 monitoring and helpdesk, cybersecurity assessments and managed security, cloud hosting and migration, backup and disaster recovery, and Microsoft 365 administration. The firm also lists senior concierge tech support for households and serves clients in healthcare, legal, nonprofit and other sectors.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "nonprofit",
+      "manufacturing",
+      "education",
+      "retail",
+      "construction",
+      "real_estate",
+      "accounting_finance"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS",
+      "SOC 2"
+    ],
+    "partners": [
+      "Microsoft Solutions Partner",
+      "BBB Accredited (A+ rating)",
+      "ISO Certified (quality management)"
+    ],
+    "foundedYear": 1999,
+    "teamSize": null,
+    "serviceArea": "Orlando and Central Florida, with on-site response from Apopka headquarters",
+    "pricing": "Flat monthly fee per device",
+    "rating": 5.0,
+    "reviewCount": 49,
+    "weightedRating": 4.98,
+    "website": "https://yzinfotech.com/",
+    "phone": "(321) 710-5511",
+    "addresses": [
+      "604 S Hunt Club Blvd Ste B, Apopka, FL 32703"
+    ],
+    "town": "Apopka",
+    "lat": 28.6706434,
+    "lng": -81.4512933,
+    "linkedin": "https://www.linkedin.com/company/yz-infotech",
+    "googleMapsUrl": "https://maps.google.com/?cid=15769064783300716861&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "cyber-command-business-it-and-devops-services-orlando",
+    "name": "Cyber Command - Business IT and DevOps Services - Orlando",
+    "summary": "Orlando-area managed IT and cybersecurity provider with a 24/7 US-based helpdesk and Security Operations Center, serving businesses with roughly 10 to 300+ employees. Offers tiered engagements from a self-run stack to a fully outsourced IT department, plus cloud, Microsoft 365, backup and platform engineering work. Headquartered in Winter Springs with an Orlando office.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "software_development"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "insurance",
+      "construction",
+      "manufacturing",
+      "engineering_architecture",
+      "nonprofit",
+      "government",
+      "real_estate",
+      "hospitality",
+      "logistics",
+      "automotive",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": "50+ technicians and analysts",
+    "serviceArea": "Central Florida, including Orlando, Seminole County and the I-4 corridor into Polk County; clients across the country",
+    "pricing": "Flat-rate, tiered managed engagements with monthly user and site add/remove billing (Mountain/Valley Billing)",
+    "rating": 5.0,
+    "reviewCount": 45,
+    "weightedRating": 4.98,
+    "website": "https://cybercommand.com/orlando-it/",
+    "phone": "(407) 587-0089",
+    "addresses": [
+      "100 E Pine St Ste 110-501, Orlando, FL 32801"
+    ],
+    "town": "Orlando",
+    "lat": 28.541104999999998,
+    "lng": -81.3770863,
+    "linkedin": null,
+    "googleMapsUrl": "https://maps.google.com/?cid=15526587390516900102&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "cloud-9-computing-group",
+    "name": "Cloud 9 Computing Group",
+    "summary": "Cloud 9 Computing Group is a Lake Mary, Florida outsourced IT provider offering managed IT, helpdesk, cloud hosting, backup and 24/7 security monitoring on a monthly pricing basis. It focuses on process and operations consulting and serves construction, manufacturing, and insurance, legal and financial firms, with compliance support for frameworks such as SOC 2, NIST and CMMC.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement"
+    ],
+    "industries": [
+      "construction",
+      "manufacturing",
+      "insurance",
+      "professional_services",
+      "legal",
+      "accounting_finance"
+    ],
+    "compliance": [
+      "SOC 2",
+      "NIST",
+      "CMMC",
+      "FINRA/SEC"
+    ],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Lake Mary and Orlando, Florida",
+    "pricing": "Monthly pricing based on number of users, servers, email accounts and backup level",
+    "rating": 5.0,
+    "reviewCount": 35,
+    "weightedRating": 4.98,
+    "website": "https://www.c9cg.com/",
+    "phone": "(407) 268-6810",
+    "addresses": [
+      "917 Rinehart Rd Ste 2027, Lake Mary, FL 32746"
+    ],
+    "town": "Lake Mary",
+    "lat": 28.783811000000004,
+    "lng": -81.34630949999999,
+    "linkedin": "https://www.linkedin.com/company/2898330/",
+    "googleMapsUrl": "https://maps.google.com/?cid=12433514053081763100&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "dpc-technology-orlando-it-support",
+    "name": "DPC Technology Orlando IT Support",
+    "summary": "DPC Technology is an IT provider serving small and medium businesses in Florida, Georgia and South Carolina, with offices including Maitland. Its Complete Care program bundles monthly remote support, monitoring, offsite backup and security, and it also handles network design, cabling, VoIP phones and hardware procurement. The firm lists a notable focus on dental and healthcare practices, including HIPAA technology audits.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "hardware_procurement",
+      "structured_cabling",
+      "cloud_microsoft_365",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "dental"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [
+      "CompTIA Security Trustmark",
+      "Dexis Certified",
+      "Planmeca Certified",
+      "Eaglesoft Certified",
+      "Weave Phone Systems"
+    ],
+    "foundedYear": 1995,
+    "teamSize": null,
+    "serviceArea": "Florida, Georgia and South Carolina, including Jacksonville, Orlando, Savannah, Tampa and Atlanta",
+    "pricing": "Complete Care program billed at an affordable monthly rate",
+    "rating": 5.0,
+    "reviewCount": 43,
+    "weightedRating": 4.98,
+    "website": "http://www.dpctechnology.com/",
+    "phone": "(407) 502-2410",
+    "addresses": [
+      "2500 Maitland Center Pkwy Ste 31, Maitland, FL 32751"
+    ],
+    "town": "Maitland",
+    "lat": 28.633348299999998,
+    "lng": -81.3951079,
+    "linkedin": "https://www.linkedin.com/company/dpctechnology/",
+    "googleMapsUrl": "https://maps.google.com/?cid=10135895710927323223&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "solvera-tech-it-support-company-and-managed-it-services-in-orlando",
+    "name": "Solvera Tech | IT Support Company & Managed IT Services in Orlando",
+    "summary": "Orlando-based IT firm offering ongoing managed IT and cybersecurity for businesses, with a focus on regulated clients such as medical, legal and financial practices. Services include a cyber strategy process, compliance-oriented security management, and direct technician support through a client portal.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS",
+      "NIST"
+    ],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Orlando, FL",
+    "pricing": null,
+    "rating": 5.0,
+    "reviewCount": 40,
+    "weightedRating": 4.98,
+    "website": "http://solveratech.com/",
+    "phone": "(689) 256-7645",
+    "addresses": [
+      "1200 Hillcrest St #300, Orlando, FL 32803"
+    ],
+    "town": "Orlando",
+    "lat": 28.5520613,
+    "lng": -81.36401219999999,
+    "linkedin": "https://www.linkedin.com/company/solveratech",
+    "googleMapsUrl": "https://maps.google.com/?cid=627074085470079060&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "kelley-information-technology",
+    "name": "Kelley Information Technology",
+    "summary": "Family-owned IT provider in Orlando, founded in 2017, offering managed IT, cybersecurity, Microsoft 365 administration, backup and disaster recovery, and IT consulting for small and mid-sized businesses across Central Florida. Its pages highlight healthcare and legal clients and a product called V\u00f6lva Endpoint for endpoint protection.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "dental",
+      "legal",
+      "engineering_architecture",
+      "construction",
+      "education",
+      "nonprofit",
+      "real_estate",
+      "hospitality",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "FTC Safeguards"
+    ],
+    "partners": [],
+    "foundedYear": 2017,
+    "teamSize": null,
+    "serviceArea": "Central Florida, including Daytona Beach, Gainesville, Kissimmee, Lakeland, Melbourne, Orlando, and Tampa",
+    "pricing": "Predictable monthly costs",
+    "rating": 5.0,
+    "reviewCount": 36,
+    "weightedRating": 4.98,
+    "website": "https://kelleyitsupport.com/",
+    "phone": "(407) 792-0389",
+    "addresses": [
+      "333 S Garland Ave Ste 1300-69, Orlando, FL 32801"
+    ],
+    "town": "Orlando",
+    "lat": 28.538954999999998,
+    "lng": -81.38101999999999,
+    "linkedin": "https://www.linkedin.com/company/kelleyitsupport",
+    "googleMapsUrl": "https://maps.google.com/?cid=7274684716629485431&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "protected-trust",
+    "name": "Protected Trust",
+    "summary": "Protected Trust is a Florida IT provider headquartered in Winter Haven with an Orlando office downtown. It offers monthly managed IT with a named team, security monitoring, Microsoft 365 administration and backups, and quotes separate projects such as office moves and cloud migrations. It primarily serves professional practices such as medical offices, law firms, accountants, financial advisors, construction firms and government agencies, and works to several compliance frameworks.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "construction",
+      "government",
+      "real_estate",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "SOC 2",
+      "PCI DSS",
+      "FTC Safeguards",
+      "GLBA",
+      "CJIS"
+    ],
+    "partners": [],
+    "foundedYear": 2001,
+    "teamSize": null,
+    "serviceArea": "Orlando, Tampa, St. Petersburg, Miami, and clients across Florida and in other states; Orlando metro including Orange, Seminole and Osceola counties",
+    "pricing": "$125 per person per month for Concierge IT for Business, plus separately billed Microsoft licenses; Security + Compliance and Copilot add-ons at $30 per person per month",
+    "rating": 5.0,
+    "reviewCount": 52,
+    "weightedRating": 4.98,
+    "website": "https://www.protectedtrust.com/areas-we-serve/orlando",
+    "phone": "(407) 270-2013",
+    "addresses": [
+      "300 S Orange Ave #1000, Orlando, FL 32801"
+    ],
+    "town": "Orlando",
+    "lat": 28.5385992,
+    "lng": -81.3792106,
+    "linkedin": "https://www.linkedin.com/company/protected-trust/",
+    "googleMapsUrl": "https://maps.google.com/?cid=16072036879021307489&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "sos-computers-and-networks",
+    "name": "SOS Computers & Networks",
+    "summary": "SOS Computers & Networks is a Central Florida IT firm based in Sanford with an office listed in Longwood. It offers managed IT with remote monitoring and management, cybersecurity, cloud data storage, VoIP phone service, and consultations for small and medium businesses, and also serves residential clients with computer repair. The site mentions HIPAA-aligned medical offerings and CJIS-compliant cloud storage.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services",
+      "computer_repair"
+    ],
+    "industries": [
+      "healthcare"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CJIS"
+    ],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Central Florida",
+    "pricing": null,
+    "rating": 5.0,
+    "reviewCount": 40,
+    "weightedRating": 4.98,
+    "website": "https://www.sosnetworks.net/",
+    "phone": "(407) 378-5335",
+    "addresses": [
+      "1445 Dolgner Pl Ste 32, Sanford, FL 32771"
+    ],
+    "town": "Sanford",
+    "lat": 28.8307164,
+    "lng": -81.3292876,
+    "linkedin": null,
+    "googleMapsUrl": "https://maps.google.com/?cid=11655364803044170602&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "bayshore-interactive",
+    "name": "Bayshore Interactive",
+    "summary": "Orlando-based IT firm offering managed IT services with 24/7 remote and onsite support, network monitoring, backup and disaster recovery, and network design. Also provides Microsoft 365 administration, hosted virtual servers, PC repair, VoIP and website services for businesses in Orlando and Tampa.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "hardware_procurement",
+      "web_design",
+      "computer_repair",
+      "structured_cabling"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [
+      "Microsoft 365 Solution Provider"
+    ],
+    "foundedYear": null,
+    "teamSize": "25+ IT engineers",
+    "serviceArea": "Orlando, FL and Tampa, FL",
+    "pricing": "Flat-rate program for IT consolidation mentioned in client testimonial",
+    "rating": 5.0,
+    "reviewCount": 59,
+    "weightedRating": 4.98,
+    "website": "http://www.bayshore.net/",
+    "phone": "(321) 710-0920",
+    "addresses": [
+      "4700 Millenia Blvd Ste 220, Orlando, FL 32839"
+    ],
+    "town": "Orlando",
+    "lat": 28.4846169,
+    "lng": -81.4403021,
+    "linkedin": "https://www.linkedin.com/company/bayshore-interactive-inc",
+    "googleMapsUrl": "https://maps.google.com/?cid=13780515674553163326&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "techbayusa-llc",
+    "name": "TECHBAYUSA, LLC",
+    "summary": "TechBay USA is a Lake Mary, Florida provider offering managed IT and cybersecurity to businesses across Central Florida, with on-site and remote support. Services include 24/7 network monitoring from a network operations center, endpoint and gateway security, image-based backup, and quarterly vCIO reviews. It also offers HIPAA and CMMC compliance auditing and remediation for healthcare, law firm and government contractor clients.",
+    "services": [
+      "managed_it",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "it_strategy_vcio",
+      "compliance_services",
+      "help_desk"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "government"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "NIST"
+    ],
+    "partners": [],
+    "foundedYear": 2003,
+    "teamSize": null,
+    "serviceArea": "Central Florida (Orlando, Lake Mary, Winter Park)",
+    "pricing": null,
+    "rating": 5.0,
+    "reviewCount": 35,
+    "weightedRating": 4.98,
+    "website": "http://www.techbayusa.com/",
+    "phone": "(407) 677-8324",
+    "addresses": [
+      "3590 N US 17, Lake Mary, FL 32746"
+    ],
+    "town": "Lake Mary",
+    "lat": 28.735874300000003,
+    "lng": -81.3063185,
+    "linkedin": null,
+    "googleMapsUrl": "https://maps.google.com/?cid=14598937409601304893&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "managed-services-group-inc",
+    "name": "Managed Services Group Inc.",
+    "summary": "Managed Services Group is an Orlando-area managed IT and cybersecurity provider serving organizations across Central Florida. It focuses on regulated sectors such as financial institutions, insurers, healthcare entities, professional services firms and independent schools, and offers AI readiness and Microsoft Copilot security reviews alongside ongoing monitoring, help desk and cloud support.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "accounting_finance",
+      "insurance",
+      "education",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "NIST",
+      "SOC 2"
+    ],
+    "partners": [
+      "SOC 2 Type II certified",
+      "HIPAA verified",
+      "Microsoft Copilot security services"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Orlando and Central Florida",
+    "pricing": null,
+    "rating": 5.0,
+    "reviewCount": 30,
+    "weightedRating": 4.97,
+    "website": "https://msgrouponline.com/",
+    "phone": "(407) 288-8228",
+    "addresses": [
+      "2600 Maitland Center Pkwy #360, Maitland, FL 32751"
+    ],
+    "town": "Maitland",
+    "lat": 28.633741999999998,
+    "lng": -81.3971083,
+    "linkedin": "https://linkedin.com/company/managed-services-group-inc/",
+    "googleMapsUrl": "https://maps.google.com/?cid=10404867452254728258&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "affinity-tech-solutions",
+    "name": "Affinity Tech Solutions",
+    "summary": "Eustis, Florida firm offering security-focused managed IT and cybersecurity for small businesses across Lake, Orange, Seminole, Sumter and Marion counties. Services include 24/7 monitoring, backup and recovery, email security, managed hosting, device management, phone systems and virtual CSO work, with compliance support for HIPAA and the FTC Safeguards Rule. Founded in 2015 and led by its founder Jeremy Valverde.",
+    "services": [
+      "managed_it",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "cloud_microsoft_365",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "accounting_finance",
+      "insurance",
+      "legal",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "FTC Safeguards",
+      "PCI DSS"
+    ],
+    "partners": [],
+    "foundedYear": 2015,
+    "teamSize": null,
+    "serviceArea": "Lake, Orange, Seminole, Sumter and Marion counties, Central Florida",
+    "pricing": "Tiered protection plans (AffinityShield and AffinityDefender); terms vary by plan and are set during a free assessment",
+    "rating": 5.0,
+    "reviewCount": 25,
+    "weightedRating": 4.97,
+    "website": "http://affinitytechsolutions.com/",
+    "phone": "(407) 385-1611",
+    "addresses": [
+      "127 N Grove St B, Eustis, FL 32726"
+    ],
+    "town": "Eustis",
+    "lat": 28.854143399999998,
+    "lng": -81.68339739999999,
+    "linkedin": "https://linkedin.com/company/affinitytechsolutions",
+    "googleMapsUrl": "https://maps.google.com/?cid=9976989242304587552&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "iserv-managed-it-services",
+    "name": "Iserv Managed IT Services",
+    "summary": "Iserv is an IT services company offering fully and co-managed IT for businesses, including monitoring, helpdesk, cloud, backup and disaster recovery, networking, and managed voice. The firm says it has been operating since 1995 and serves clients across North America, with a local office in Orlando and another in Grand Rapids, Michigan. It also offers a managed access and video security offering built on Verkada hardware.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "manufacturing"
+    ],
+    "compliance": [],
+    "partners": [
+      "Cisco BroadSoft",
+      "UC-One",
+      "Verkada",
+      "Microsoft Copilot"
+    ],
+    "foundedYear": 1995,
+    "teamSize": "25 IT technicians, 2 vCIOs, and 30+ helpdesk experts",
+    "serviceArea": "Orlando, FL; North America",
+    "pricing": "Per-seat monthly pricing for voice (from $25 to $58 per month); introductory discounts for new managed IT clients",
+    "rating": 5.0,
+    "reviewCount": 29,
+    "weightedRating": 4.97,
+    "website": "https://www.iservworks.com/managed-it-orlando/",
+    "phone": "(888) 991-8535",
+    "addresses": [
+      "ISERV 6675, Westwood Blvd Ste 230, Orlando, FL 32821"
+    ],
+    "town": "Orlando",
+    "lat": 28.4158999,
+    "lng": -81.472954,
+    "linkedin": "https://www.linkedin.com/company/the-iserv-company/",
+    "googleMapsUrl": "https://maps.google.com/?cid=11644988869743283014&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "netstek-it-support-managed-it-service-voip-phone-systems",
+    "name": "netstek - IT Support, Managed IT Service, VoIP Phone Systems",
+    "summary": "Orlando-based firm offering managed IT, network engineering, hosted cloud services including Microsoft 365 and Exchange, hosted VoIP, and backup and security services for small businesses. The company also runs a web design, development and digital marketing practice. Its client list spans healthcare, restaurants, legal, nonprofits and real estate.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "web_design"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "nonprofit",
+      "real_estate",
+      "hospitality",
+      "professional_services"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": 2007,
+    "teamSize": null,
+    "serviceArea": "Orlando and throughout Florida",
+    "pricing": null,
+    "rating": 5.0,
+    "reviewCount": 24,
+    "weightedRating": 4.97,
+    "website": "http://www.netstek.com/",
+    "phone": "(407) 915-4433",
+    "addresses": [
+      "7065 Westpointe Blvd, Orlando, FL 32835"
+    ],
+    "town": "Orlando",
+    "lat": 28.5166871,
+    "lng": -81.482348,
+    "linkedin": null,
+    "googleMapsUrl": "https://maps.google.com/?cid=9627314153123484222&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "point",
+    "name": "Point",
+    "summary": "Point is an IT services firm based in Brooklyn, NY that manages Apple, Windows and mixed Mac/PC environments for growing companies, mainly startups, hedge funds, VC firms and creative agencies in New York City. Offerings include fully managed and co-managed IT, endpoint management, managed security, backup, and Microsoft 365 and Google Workspace administration, aimed at businesses with roughly 15 to 200 employees.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "co_managed_it",
+      "compliance_services",
+      "hardware_procurement"
+    ],
+    "industries": [
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [
+      "Apple Partner",
+      "Apple Consultants Network",
+      "Microsoft certified",
+      "Okta certified",
+      "AWS certified",
+      "Jamf certified"
+    ],
+    "foundedYear": 2005,
+    "teamSize": "Teams from 15 to 200 employees served (staff count not stated)",
+    "serviceArea": "New York City, with clients described as nationwide",
+    "pricing": null,
+    "rating": 5.0,
+    "reviewCount": 31,
+    "weightedRating": 4.97,
+    "website": "https://www.point.co/",
+    "phone": "(646) 502-4708",
+    "addresses": [
+      "100 E Pine St #110, Orlando, FL 32801"
+    ],
+    "town": "Orlando",
+    "lat": 28.541105899999998,
+    "lng": -81.37690049999999,
+    "linkedin": "https://www.linkedin.com/company/point-consultants/",
+    "googleMapsUrl": "https://maps.google.com/?cid=13745094538733419692&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "logic-it-services",
+    "name": "Logic IT Services",
+    "summary": "Logic I.T. Services is an Orlando-area IT provider offering server and information systems management, network and infrastructure management, and computer diagnosis and repair. The site also lists remote support, workplace mitigation, and digital forensics for legal applications, and says it has worked with local businesses since 2006.",
+    "services": [
+      "managed_it",
+      "network_infrastructure",
+      "computer_repair"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Florida",
+    "pricing": null,
+    "rating": 5.0,
+    "reviewCount": 29,
+    "weightedRating": 4.97,
+    "website": "https://www.logicitservices.com/",
+    "phone": "(407) 948-3048",
+    "addresses": [
+      "2431 Runyon Cir, Orlando, FL 32837"
+    ],
+    "town": "Orlando",
+    "lat": 28.3664475,
+    "lng": -81.412814,
+    "linkedin": null,
+    "googleMapsUrl": "https://maps.google.com/?cid=4413167169788310154&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "neverblue-it",
+    "name": "NeverBlue IT",
+    "summary": "NeverBlue IT is a family-owned managed IT provider with offices in Windermere, Florida and Farmington Hills, Michigan. It offers onsite and remote support, cybersecurity, network administration, disaster recovery, phone systems, outsourced CIO work and AI services. It serves law firms, banks and credit unions, accounting firms, manufacturers and construction companies, with technicians covering Central Florida and much of the rest of the state.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "legal",
+      "accounting_finance",
+      "manufacturing",
+      "construction"
+    ],
+    "compliance": [],
+    "partners": [
+      "Claude registered partner and authorized reseller",
+      "Diamond Business Partner, Central Florida Chapter of the Association of Legal Administrators"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Central Florida, statewide Florida within about four hours of Orlando, and Southeast Michigan; remote support in all 50 states",
+    "pricing": "Per-user monthly licensing for AI services with no company minimum; managed plans billed monthly",
+    "rating": 5.0,
+    "reviewCount": 21,
+    "weightedRating": 4.97,
+    "website": "https://www.neverblueit.com/locations/central-florida/",
+    "phone": "(407) 785-6200",
+    "addresses": [
+      "9300 Conroy Windermere Rd Suite 217, Windermere, FL 34786"
+    ],
+    "town": "Windermere",
+    "lat": 28.492687,
+    "lng": -81.5132668,
+    "linkedin": "https://www.linkedin.com/company/neverblue-it/",
+    "googleMapsUrl": "https://maps.google.com/?cid=7019492353863190398&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "my-cfl-tech-solutions",
+    "name": "My CFL Tech Solutions",
+    "summary": "Central Florida IT firm offering managed IT support, managed networking, cybersecurity, hosting, virtual CIO consulting and one-time IT projects for small and medium businesses. Serves clients across Orlando and surrounding areas, including law, medical and dental, accounting and real estate offices. Pricing is flat per-endpoint monthly for remote support, with single fixes billed hourly.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "it_strategy_vcio",
+      "cloud_microsoft_365"
+    ],
+    "industries": [
+      "legal",
+      "healthcare",
+      "dental",
+      "accounting_finance",
+      "real_estate",
+      "retail",
+      "construction"
+    ],
+    "compliance": [],
+    "partners": [
+      "Threatlocker"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Central Florida, including Orlando, Maitland, Winter Park, Altamonte Springs, Leesburg, Melbourne and Daytona",
+    "pricing": "Remote-only managed IT subscription starting at $75 per month per endpoint; single fixes at $125-255 per hour; custom IT strategy consulting quoted per project",
+    "rating": 5.0,
+    "reviewCount": 14,
+    "weightedRating": 4.96,
+    "website": "https://www.mycfltech.com/",
+    "phone": "(321) 378-3960",
+    "addresses": [
+      "2250 Lucien Way Ste 300B, Maitland, FL 32751"
+    ],
+    "town": "Maitland",
+    "lat": 28.6242198,
+    "lng": -81.38920809999999,
+    "linkedin": null,
+    "googleMapsUrl": "https://maps.google.com/?cid=17807730953660486817&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "aurora-infotech-llc",
+    "name": "Aurora InfoTech, LLC",
+    "summary": "Aurora InfoTech is an Orlando, Florida cybersecurity and IT firm offering managed IT, co-managed IT, help desk, backup and recovery, cloud, network, and VoIP services. It also provides vCSO leadership, security assessments, and CMMC readiness support. The firm says it works with businesses in construction, manufacturing, logistics, and engineering, and that it serves clients beyond the local market.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement"
+    ],
+    "industries": [
+      "construction",
+      "manufacturing",
+      "logistics",
+      "engineering_architecture"
+    ],
+    "compliance": [
+      "CMMC"
+    ],
+    "partners": [
+      "Dell",
+      "Microsoft",
+      "Cisco"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Orlando, Florida, and beyond; the site says it serves businesses across the globe",
+    "pricing": null,
+    "rating": 5.0,
+    "reviewCount": 19,
+    "weightedRating": 4.96,
+    "website": "https://www.aurora-infotech.com/",
+    "phone": "(407) 995-6766",
+    "addresses": [
+      "2700 Westhall Ln Unit 235, Maitland, FL 32751"
+    ],
+    "town": "Maitland",
+    "lat": 28.635926299999998,
+    "lng": -81.3975458,
+    "linkedin": "https://www.linkedin.com/company/aurora-infotech/",
+    "googleMapsUrl": "https://maps.google.com/?cid=7499651915099469526&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "data-cube-systems",
+    "name": "Data Cube Systems",
+    "summary": "Orlando-area IT firm offering managed IT, IT support, co-managed IT, cybersecurity monitoring through a 24x7 security operations center, cloud and server hosting, Microsoft 365 management and business phone systems. Serves businesses in construction, law, manufacturing, nonprofit, finance and healthcare sectors, with offices in Orlando and Clermont, Florida.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "construction",
+      "legal",
+      "manufacturing",
+      "nonprofit",
+      "accounting_finance",
+      "healthcare"
+    ],
+    "compliance": [],
+    "partners": [
+      "Microsoft Office 365 partner (UCF Microsoft Office 365 offering)"
+    ],
+    "foundedYear": 2004,
+    "teamSize": null,
+    "serviceArea": "Orlando, Tampa, West Palm Beach, Jacksonville and greater Central Florida",
+    "pricing": null,
+    "rating": 5.0,
+    "reviewCount": 14,
+    "weightedRating": 4.96,
+    "website": "https://www.datacubesystems.com/it-consulting-orlando/",
+    "phone": "(407) 857-9904",
+    "addresses": [
+      "100 W Lucerne Cir Ste 503, Orlando, FL 32801"
+    ],
+    "town": "Orlando",
+    "lat": 28.5345916,
+    "lng": -81.380151,
+    "linkedin": null,
+    "googleMapsUrl": "https://maps.google.com/?cid=11310809019742100936&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "definit-managed-it-services",
+    "name": "DefinIT Managed IT Services",
+    "summary": "DefinIT is an IT services firm with offices in Orlando, Tampa and Jacksonville, Florida, offering per-user monthly managed IT plans for small and growing businesses. Its services include helpdesk support, endpoint and network security, cloud and Microsoft 365 administration, backup and disaster recovery, co-managed IT for in-house teams, and IT consulting. The site lists industry pages for healthcare, accounting, construction and manufacturing, and law firms, and mentions HIPAA-related support.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "accounting_finance",
+      "construction",
+      "manufacturing",
+      "legal",
+      "nonprofit"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Orlando, Tampa and Jacksonville, Florida, plus Tampa Bay suburbs including St. Petersburg, Clearwater, Brandon, Wesley Chapel, Riverview and Lutz; nationwide remote support is also offered",
+    "pricing": "Per-user monthly plans from $45 (Small Business), $65 (Professional) and $85 (Enterprise), with annual billing discounts",
+    "rating": 5.0,
+    "reviewCount": 11,
+    "weightedRating": 4.95,
+    "website": "https://definit.com/orlando/managed-it",
+    "phone": "(321) 241-2418",
+    "addresses": [
+      "20 N Orange Ave, Orlando, FL 32801"
+    ],
+    "town": "Orlando",
+    "lat": 28.542497299999997,
+    "lng": -81.37950900000001,
+    "linkedin": "https://www.linkedin.com/company/definit-managed-it-services",
+    "googleMapsUrl": "https://maps.google.com/?cid=15854283638441720138&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "kappa-computer-systems-llc",
+    "name": "Kappa Computer Systems LLC",
+    "summary": "Kappa Computer Systems is a Lake Mary, Florida managed IT provider serving businesses in Orlando and Central Florida since 1997. Services include help desk, network monitoring, managed cybersecurity such as MDR and Zscaler SSE, Microsoft 365 support, backup and disaster recovery, and hosted cloud servers, with a focus on healthcare and dental, legal, construction, and other small and mid-sized organizations.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "hardware_procurement",
+      "structured_cabling",
+      "co_managed_it"
+    ],
+    "industries": [
+      "healthcare",
+      "dental",
+      "legal",
+      "accounting_finance",
+      "construction",
+      "education",
+      "real_estate",
+      "retail",
+      "nonprofit",
+      "engineering_architecture"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [],
+    "foundedYear": 1997,
+    "teamSize": null,
+    "serviceArea": "Orlando, Lake Mary, Altamonte Springs and Central Florida, including Seminole County",
+    "pricing": "Flat predictable monthly fee for managed IT; no long-term contracts for Zscaler security service",
+    "rating": 5.0,
+    "reviewCount": 13,
+    "weightedRating": 4.95,
+    "website": "http://www.kappaservices.com/",
+    "phone": "(407) 331-5921",
+    "addresses": [
+      "767 Stirling Center Pl, Lake Mary, FL 32746"
+    ],
+    "town": "Lake Mary",
+    "lat": 28.7774895,
+    "lng": -81.35072330000001,
+    "linkedin": "https://www.linkedin.com/company/kappa-computer-systems",
+    "googleMapsUrl": "https://maps.google.com/?cid=12345690022938253979&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "medicus-it",
+    "name": "Medicus IT",
+    "summary": "Abacus is a managed IT and cybersecurity provider serving healthcare and financial services organizations, with an offering that includes service desk, managed cloud and infrastructure, managed security, and virtual executive advisory. Its healthcare division supports specialty providers and community health organizations, and the company says it operates in 25 countries. Abacus merged with Medicus IT in July 2025 under the Abacus brand.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "network_infrastructure",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "accounting_finance"
+    ],
+    "compliance": [
+      "HIPAA",
+      "NIST",
+      "SOC 2",
+      "PCI DSS"
+    ],
+    "partners": [],
+    "foundedYear": 2004,
+    "teamSize": null,
+    "serviceArea": "Global, operating in 25 countries",
+    "pricing": null,
+    "rating": 5.0,
+    "reviewCount": 12,
+    "weightedRating": 4.95,
+    "website": "https://medicusit.com/",
+    "phone": "(844) 200-2195",
+    "addresses": [
+      "256 Rangeline Rd, Longwood, FL 32750"
+    ],
+    "town": "Longwood",
+    "lat": 28.7005311,
+    "lng": -81.36178749999999,
+    "linkedin": "https://www.linkedin.com/company/abacus-group/",
+    "googleMapsUrl": "https://maps.google.com/?cid=7266048215976342858&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "baritech",
+    "name": "Baritech",
+    "summary": "Baritech is a Longwood, Florida firm offering managed IT, co-managed IT, cybersecurity, cloud migration and backup, and VoIP and network infrastructure for businesses in Orlando and Central Florida. It serves accounting, healthcare, law, retail, hospitality and nonprofit clients and offers services in both English and Spanish.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement",
+      "structured_cabling"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "construction",
+      "education",
+      "retail",
+      "hospitality",
+      "nonprofit"
+    ],
+    "compliance": [
+      "HIPAA",
+      "SOC 2"
+    ],
+    "partners": [],
+    "foundedYear": 2009,
+    "teamSize": null,
+    "serviceArea": "Orlando and Central Florida",
+    "pricing": "Flat-rate monthly pricing for managed IT",
+    "rating": 5.0,
+    "reviewCount": 11,
+    "weightedRating": 4.95,
+    "website": "https://www.baritech.com/",
+    "phone": "(866) 791-4455",
+    "addresses": [
+      "1335 Bennett Dr #165, Longwood, FL 32750"
+    ],
+    "town": "Longwood",
+    "lat": 28.686428199999998,
+    "lng": -81.35355799999999,
+    "linkedin": "https://www.linkedin.com/company/baritechmsp",
+    "googleMapsUrl": "https://maps.google.com/?cid=1865996697074696608&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "wyrenet-technologies",
+    "name": "Wyrenet Technologies",
+    "summary": "Orlando-based IT firm offering ongoing managed IT support for businesses, along with network cabling installations (Ethernet and fiber) and consulting that helps clients select service providers and solutions. The site also mentions communications services and lists a Florida license number.",
+    "services": [
+      "managed_it",
+      "network_infrastructure",
+      "structured_cabling",
+      "hardware_procurement"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Orlando, FL",
+    "pricing": null,
+    "rating": 5.0,
+    "reviewCount": 12,
+    "weightedRating": 4.95,
+    "website": "https://wyrenettechnologies.com/",
+    "phone": "(407) 308-0606",
+    "addresses": [
+      "4407 Vineland Rd D-11, Orlando, FL 32811"
+    ],
+    "town": "Orlando",
+    "lat": 28.498241,
+    "lng": -81.43041269999999,
+    "linkedin": null,
+    "googleMapsUrl": "https://maps.google.com/?cid=727230968752005301&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "protocol-technologies",
+    "name": "Protocol Technologies",
+    "summary": "Protocol Technologies is a Central Florida IT firm offering ongoing managed IT with 24/7 monitoring, cybersecurity, cloud and proactive maintenance, plus VoIP phone systems and low-voltage networking work. It also handles network design, server and cloud migrations, and structured wiring, serving small and medium-sized businesses.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "structured_cabling"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Central Florida",
+    "pricing": null,
+    "rating": 5.0,
+    "reviewCount": 13,
+    "weightedRating": 4.95,
+    "website": "https://protocol360.net/",
+    "phone": "(407) 789-1914",
+    "addresses": [
+      "2320 Barksdale Dr, Orlando, FL 32789"
+    ],
+    "town": "Orlando",
+    "lat": 28.518970699999997,
+    "lng": -81.2907436,
+    "linkedin": "https://www.linkedin.com/company/protocol-technologies/about/",
+    "googleMapsUrl": "https://maps.google.com/?cid=15829223874891324707&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "mighty-manatee-it",
+    "name": "Mighty Manatee IT",
+    "summary": "Mighty Manatee IT is a South Lake County, Florida firm offering ongoing managed IT, cybersecurity, Microsoft 365 administration and backup services to small businesses and nonprofits across Central Florida. It also takes on defined projects such as network upgrades and office moves. The company was founded in 2014 and focuses on owner-led and professional-services organizations that want outsourced IT without an in-house department.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "accounting_finance",
+      "nonprofit",
+      "professional_services"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": 2014,
+    "teamSize": null,
+    "serviceArea": "Clermont, Lake County and Central Florida",
+    "pricing": null,
+    "rating": 5.0,
+    "reviewCount": 10,
+    "weightedRating": 4.95,
+    "website": "https://www.mightymanatee.com/",
+    "phone": "(352) 247-8300",
+    "addresses": [
+      "1170 Stoneham Dr, Groveland, FL 34736"
+    ],
+    "town": "Groveland",
+    "lat": 28.5613431,
+    "lng": -81.8196395,
+    "linkedin": "https://www.linkedin.com/company/mighty-manatee-it",
+    "googleMapsUrl": "https://maps.google.com/?cid=353050249886339219&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "dytech-group",
+    "name": "Dytech Group",
+    "summary": "Family-owned IT provider in Oviedo, serving Orlando and surrounding Central Florida since 1982. Offers managed IT, help desk, cybersecurity, cloud, backup, VoIP and virtual CIO services, with a focus on law firms, healthcare, accounting, construction, insurance and nonprofits.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "insurance",
+      "construction",
+      "nonprofit",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "GLBA"
+    ],
+    "partners": [],
+    "foundedYear": 1982,
+    "teamSize": null,
+    "serviceArea": "Orlando and Central Florida, including Orange and Seminole Counties",
+    "pricing": "Tiered service plans and flat-rate pricing; hourly or flat-rate on-site and remote support",
+    "rating": 5.0,
+    "reviewCount": 7,
+    "weightedRating": 4.94,
+    "website": "https://www.dytech.com/",
+    "phone": "(407) 678-8300",
+    "addresses": [
+      "257 Plaza Dr Ste D, Oviedo, FL 32765"
+    ],
+    "town": "Oviedo",
+    "lat": 28.6711084,
+    "lng": -81.2138311,
+    "linkedin": null,
+    "googleMapsUrl": "https://maps.google.com/?cid=17791990892302756278&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "firewall-computer-services-llc",
+    "name": "Firewall Computer Services, LLC",
+    "summary": "Winter Park-based IT firm offering 24/7 remote monitoring, maintenance plans, backup and disaster recovery, cloud services, email protection and mobile device support for small and mid-sized businesses in the Orlando area. The company has served clients since 2005 and lists industry-specific support for sectors including healthcare, legal, construction, nonprofits and restaurants.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "it_strategy_vcio",
+      "hardware_procurement",
+      "computer_repair"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "construction",
+      "manufacturing",
+      "nonprofit",
+      "insurance",
+      "accounting_finance",
+      "retail",
+      "hospitality",
+      "real_estate"
+    ],
+    "compliance": [],
+    "partners": [
+      "Technicians Microsoft and Network+ certified"
+    ],
+    "foundedYear": 2005,
+    "teamSize": null,
+    "serviceArea": "Orlando, Winter Park, Maitland and surrounding areas",
+    "pricing": "Monthly maintenance plans; site states no travel charge and competitive pricing without specifying a model",
+    "rating": 5.0,
+    "reviewCount": 9,
+    "weightedRating": 4.94,
+    "website": "http://www.firewall-cs.com/",
+    "phone": "(407) 647-3430",
+    "addresses": [
+      "501 S New York Ave #100, Winter Park, FL 32789"
+    ],
+    "town": "Winter Park",
+    "lat": 28.5938458,
+    "lng": -81.3531107,
+    "linkedin": null,
+    "googleMapsUrl": "https://maps.google.com/?cid=15278057914211761890&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "bca-it-inc-managed-it-services-company-orlando",
+    "name": "BCA IT, Inc. - Managed IT Services Company Orlando",
+    "summary": "Orlando office of BCA IT, a family-owned firm offering managed and co-managed IT, a 24/7 service desk, vCIO services, managed cybersecurity and backup, plus ERP software sales and implementation. Serves small and mid-sized businesses in South Florida with a focus on accounting, legal, healthcare, construction and manufacturing clients.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "voip_phones"
+    ],
+    "industries": [
+      "accounting_finance",
+      "legal",
+      "healthcare",
+      "construction",
+      "manufacturing"
+    ],
+    "compliance": [],
+    "partners": [
+      "Sage 100 provider",
+      "Sage Intacct provider",
+      "RingCentral",
+      "Microsoft Teams Phone"
+    ],
+    "foundedYear": 1990,
+    "teamSize": null,
+    "serviceArea": "South Florida, including Orlando, Miami and Tampa",
+    "pricing": "Fixed monthly fee",
+    "rating": 5.0,
+    "reviewCount": 7,
+    "weightedRating": 4.94,
+    "website": "https://bcainc.com/location/managed-it-services-orlando/",
+    "phone": "(407) 594-4407",
+    "addresses": [
+      "20 N Orange Ave Ste 1100, Orlando, FL 32801"
+    ],
+    "town": "Orlando",
+    "lat": 28.5425525,
+    "lng": -81.3794352,
+    "linkedin": "https://www.linkedin.com/company/business-computer-associates-inc--bca-inc--",
+    "googleMapsUrl": "https://maps.google.com/?cid=8396475172994161436&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "chamber-tech-it-support-and-managed-it-services-orlando-fl",
+    "name": "Chamber Tech - IT Support and Managed IT Services Orlando, FL",
+    "summary": "Orlando-based IT support company offering managed services such as 24/7 help desk, backup and disaster recovery, cybersecurity monitoring, and private cloud, plus hosted business phone systems. Begins with a free on-site or remote consultation. Serves Orlando small businesses.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "cloud_microsoft_365",
+      "voip_phones",
+      "it_strategy_vcio"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Orlando, FL",
+    "pricing": "Monthly subscription managed support contracts, with pre-paid hours and break/fix options described in the FAQ",
+    "rating": 5.0,
+    "reviewCount": 7,
+    "weightedRating": 4.94,
+    "website": "https://www.chamberofcommerce.tech/",
+    "phone": "(407) 915-0700",
+    "addresses": [
+      "250 E Colonial Dr Ste 102, Orlando, FL 32801"
+    ],
+    "town": "Orlando",
+    "lat": 28.5529105,
+    "lng": -81.37405199999999,
+    "linkedin": null,
+    "googleMapsUrl": "https://maps.google.com/?cid=6470157208391022446&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "corestack-it-solutions",
+    "name": "CoreStack IT Solutions",
+    "summary": "Orlando-based IT provider serving small and midsize businesses across Florida, New York and California with managed IT, helpdesk, network infrastructure, backup and disaster recovery, and cloud services. Has a notable focus on hospitality clients, with PCI compliance and payment-system security offered alongside general business support.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "compliance_services"
+    ],
+    "industries": [
+      "hospitality",
+      "manufacturing",
+      "logistics",
+      "accounting_finance",
+      "construction",
+      "healthcare",
+      "legal",
+      "retail",
+      "professional_services"
+    ],
+    "compliance": [
+      "PCI DSS",
+      "HIPAA"
+    ],
+    "partners": [
+      "Kaseya",
+      "Datto",
+      "Microsoft 365 & Azure integrations"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Florida, New York and California; based in Central Florida (Orlando)",
+    "pricing": "Month-to-month support with no long-term contract required; free trial period offered",
+    "rating": 5.0,
+    "reviewCount": 8,
+    "weightedRating": 4.94,
+    "website": "https://corestackit.com/",
+    "phone": "(689) 304-5601",
+    "addresses": [
+      "111 N Orange Ave, Orlando, FL 32801"
+    ],
+    "town": "Orlando",
+    "lat": 28.5438147,
+    "lng": -81.3787002,
+    "linkedin": "https://www.linkedin.com/company/corestackit",
+    "googleMapsUrl": "https://maps.google.com/?cid=6831789391045915538&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "jinx-it-inc",
+    "name": "Jinx-IT, Inc.",
+    "summary": "Longwood-based IT and audiovisual firm serving Central Florida and the Greater Orlando area. Offers tiered monthly managed IT plans covering networks, Microsoft 365 administration, backup and the Prowl Security layer, plus VoIP phone add-ons. Also provides AV equipment rental, design, setup and event support for conferences and venues.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "hardware_procurement"
+    ],
+    "industries": [
+      "healthcare",
+      "insurance",
+      "construction",
+      "hospitality",
+      "retail",
+      "professional_services",
+      "accounting_finance"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [
+      "Microsoft 365",
+      "IRONSCALES",
+      "SentinelOne",
+      "1Password Business",
+      "DropSuite",
+      "Echoworx"
+    ],
+    "foundedYear": 2008,
+    "teamSize": null,
+    "serviceArea": "Central Florida and Greater Orlando; also supports out-of-state locations under managed plans",
+    "pricing": "Monthly managed plans priced by users, devices, locations and options; new projects quoted separately",
+    "rating": 5.0,
+    "reviewCount": 8,
+    "weightedRating": 4.94,
+    "website": "https://www.jinx-it.com/",
+    "phone": "(407) 574-6978",
+    "addresses": [
+      "1376 Bennett Dr Unit 126, Longwood, FL 32750"
+    ],
+    "town": "Longwood",
+    "lat": 28.6840007,
+    "lng": -81.3508059,
+    "linkedin": "https://www.linkedin.com/company/dont-jinxit/",
+    "googleMapsUrl": "https://maps.google.com/?cid=6541837537634826241&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "avancent",
+    "name": "Avancent",
+    "summary": "Orlando-based IT provider founded in 2001 that offers outsourced managed IT for small and mid-sized businesses, including a help desk, proactive monitoring and maintenance, security, cloud backup and disaster recovery, and CIO-level strategy. Serves clients in Orlando, Tampa and Atlanta and lists work across a range of industries such as nonprofit, healthcare, legal and government. Also offers IT staffing and can take on either a company's full IT function or only specific portions.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "co_managed_it"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "insurance",
+      "construction",
+      "manufacturing",
+      "engineering_architecture",
+      "nonprofit",
+      "government",
+      "hospitality"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": 2001,
+    "teamSize": null,
+    "serviceArea": "Orlando, Tampa, and Atlanta",
+    "pricing": null,
+    "rating": 5.0,
+    "reviewCount": 8,
+    "weightedRating": 4.94,
+    "website": "https://www.avancent.com/",
+    "phone": "(407) 897-8664",
+    "addresses": [
+      "1220 E Livingston St, Orlando, FL 32803"
+    ],
+    "town": "Orlando",
+    "lat": 28.547409,
+    "lng": -81.3634991,
+    "linkedin": "https://www.linkedin.com/company/avancent-consulting",
+    "googleMapsUrl": "https://maps.google.com/?cid=2998970858254866370&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "wheelhouse-it",
+    "name": "WheelHouse IT",
+    "summary": "WheelHouse IT is a managed IT provider with offices in Orlando, Fort Lauderdale, and New York, offering monitoring, help desk, Microsoft 365 administration, cloud, and managed security to businesses with roughly 20 to 500+ users. It highlights an in-house network operations center and SOC 2 examination, and serves regulated sectors such as healthcare, legal, and financial services.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "compliance_services",
+      "structured_cabling"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "insurance",
+      "construction",
+      "manufacturing",
+      "engineering_architecture",
+      "nonprofit"
+    ],
+    "compliance": [
+      "HIPAA",
+      "SOC 2",
+      "PCI DSS"
+    ],
+    "partners": [
+      "Microsoft Solutions Partner (Modern Work)",
+      "Microsoft Solutions Partner (Azure Infrastructure)",
+      "CrowdStrike",
+      "Huntress",
+      "SonicWall"
+    ],
+    "foundedYear": 2016,
+    "teamSize": "300+ organizations served; no technician headcount stated",
+    "serviceArea": "Orlando, Fort Lauderdale, New York, Long Island, Los Angeles, Miami, West Palm Beach, New York City",
+    "pricing": "Month-to-month IT services for qualified organizations",
+    "rating": 5.0,
+    "reviewCount": 9,
+    "weightedRating": 4.94,
+    "website": "https://www.wheelhouseit.com/it-support-orlando/",
+    "phone": "(689) 223-4394",
+    "addresses": [
+      "2000 N Alafaya Trail Ste 850, Orlando, FL 32826"
+    ],
+    "town": "Orlando",
+    "lat": 28.571740799999997,
+    "lng": -81.2084526,
+    "linkedin": "https://www.linkedin.com/company/wheelhouse-it/",
+    "googleMapsUrl": "https://maps.google.com/?cid=14182490428362071085&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "gator-cybersecurity-and-msp",
+    "name": "Gator Cybersecurity & MSP",
+    "summary": "Florida-based IT solutions provider founded in 1997 offering managed IT, cybersecurity, data backup and disaster recovery, cloud, wireless, Microsoft 365 management and IT project management. Serves commercial clients across Florida with a focus on healthcare, financial services, construction and manufacturing.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "healthcare",
+      "construction",
+      "manufacturing",
+      "accounting_finance"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS",
+      "GLBA"
+    ],
+    "partners": [
+      "Dell",
+      "Microsoft",
+      "Kaseya",
+      "Huntress",
+      "OpenText",
+      "Cisco",
+      "VMware",
+      "SonicWALL"
+    ],
+    "foundedYear": 1997,
+    "teamSize": "20+ employees",
+    "serviceArea": "Florida",
+    "pricing": null,
+    "rating": 5.0,
+    "reviewCount": 5,
+    "weightedRating": 4.93,
+    "website": "https://gatorcpu.com/",
+    "phone": "(407) 778-8280",
+    "addresses": [
+      "751 Garden Commerce Pkwy Unit 110, Winter Garden, FL 34787"
+    ],
+    "town": "Winter Garden",
+    "lat": 28.554188699999997,
+    "lng": -81.5675631,
+    "linkedin": "https://www.linkedin.com/company/gator-cybersecurity-msp/",
+    "googleMapsUrl": "https://maps.google.com/?cid=7849926375483144006&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "tradeweb-inc",
+    "name": "TradeWeb, Inc.",
+    "summary": "TradeWeb, Inc. is an Orlando-area firm operating since 1995 that combines IT services, hosting and web and marketing work. It offers help desk support, cloud hosting, dedicated servers, co-location and monthly managed services, with on-site work in Central Florida and remote service for clients elsewhere. The firm says it has particular experience with direct sales, office supply dealers, ministries and non-profits.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cloud_microsoft_365",
+      "network_infrastructure",
+      "web_design",
+      "software_development"
+    ],
+    "industries": [
+      "nonprofit"
+    ],
+    "compliance": [],
+    "partners": [
+      "Microsoft Certified Partner",
+      "Microsoft Silver Competency in Cloud Productivity",
+      "Microsoft Gold Certified",
+      "Microsoft Small Business Specialist"
+    ],
+    "foundedYear": 1995,
+    "teamSize": null,
+    "serviceArea": "Central Florida (Orlando metro) on-site, with clients internationally",
+    "pricing": null,
+    "rating": 5.0,
+    "reviewCount": 5,
+    "weightedRating": 4.93,
+    "website": "http://www.tradeweb.net/",
+    "phone": "(407) 673-7878",
+    "addresses": [
+      "701 International Pkwy Ste 300, Lake Mary, FL 32746"
+    ],
+    "town": "Lake Mary",
+    "lat": 28.7746572,
+    "lng": -81.3577533,
+    "linkedin": null,
+    "googleMapsUrl": "https://maps.google.com/?cid=5110163455951962834&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "awsumb-tech",
+    "name": "Awsumb Tech",
+    "summary": "Orlando-based cybersecurity and IT firm serving small to medium-sized businesses across Central Florida. Services include managed cyber security, security awareness training, network security, data backup and recovery, remote IT support, email and spam protection, VoIP, and IT consulting, with an emphasis on customizable security and compliance management. The company is veteran owned and offers both on-site and remote service.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Central Florida",
+    "pricing": null,
+    "rating": 5.0,
+    "reviewCount": 6,
+    "weightedRating": 4.93,
+    "website": "https://awsumbtech.com/",
+    "phone": "(407) 636-7009",
+    "addresses": [
+      "56 E Pine St Suite 200, Orlando, FL 32801"
+    ],
+    "town": "Orlando",
+    "lat": 28.5411644,
+    "lng": -81.3778045,
+    "linkedin": "https://www.linkedin.com/company/awsumb-tech/",
+    "googleMapsUrl": "https://maps.google.com/?cid=1128708313437596563&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "seminole-computer-solutions-llc",
+    "name": "Seminole Computer Solutions, LLC",
+    "summary": "Seminole Computer Solutions is a Central Florida IT provider serving law firms and small to midsize businesses. It offers ongoing support and management of local systems and hosted services, cloud and backup work, network support, and security-focused services at an affordable price point. The firm lists more than 20 years of experience and emphasizes a security-first approach.",
+    "services": [
+      "managed_it",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure"
+    ],
+    "industries": [
+      "legal"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Central Florida",
+    "pricing": null,
+    "rating": 5.0,
+    "reviewCount": 6,
+    "weightedRating": 4.93,
+    "website": "https://www.seminolecomputer.com/",
+    "phone": "(407) 494-1384",
+    "addresses": [
+      "647 Woodford Dr, DeBary, FL 32713"
+    ],
+    "town": "DeBary",
+    "lat": 28.9095812,
+    "lng": -81.2978383,
+    "linkedin": null,
+    "googleMapsUrl": "https://maps.google.com/?cid=15331688891588283350&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "z7-solutions-managed-it-services",
+    "name": "Z7 Solutions | Managed IT Services",
+    "summary": "Orlando-based managed IT and cybersecurity firm offering fully managed and co-managed support, including help desk, a 24/7 network operations center and human-led SOC monitoring. Also resells and administers Microsoft 365 and Google Workspace licensing and builds private AI systems for clients who need data kept in-house. Serves federal, state and local government, education, healthcare and commercial clients, with a stated focus on regulated environments.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "government",
+      "education",
+      "manufacturing",
+      "logistics"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC"
+    ],
+    "partners": [
+      "GSA MAS 47QTCA26D000F",
+      "Navy SeaPort NxG",
+      "Microsoft CSP",
+      "Google Partner",
+      "ISO 9001 aligned",
+      "ISO 27001 aligned",
+      "ISO 20000 aligned",
+      "ISO 22301 aligned",
+      "SBA 8(a) certified",
+      "MWBE certified",
+      "DBE certified",
+      "Clutch 5-Star Rated",
+      "BBB A+ rated"
+    ],
+    "foundedYear": 2012,
+    "teamSize": null,
+    "serviceArea": "Florida and nationally, with a focus on the East Coast",
+    "pricing": "Flat monthly fee based on covered seat count, with a minimum and final scope confirmed on a call",
+    "rating": 5.0,
+    "reviewCount": 5,
+    "weightedRating": 4.93,
+    "website": "https://z7solutions.com/",
+    "phone": "(844) 974-8669",
+    "addresses": [
+      "7380 W Sand Lake Rd Ste 500-110, Orlando, FL 32819"
+    ],
+    "town": "Orlando",
+    "lat": 28.4491665,
+    "lng": -81.4815258,
+    "linkedin": "https://www.linkedin.com/company/z7solutions",
+    "googleMapsUrl": "https://maps.google.com/?cid=5170419424865351702&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "go-cloud-access",
+    "name": "Go Cloud Access",
+    "summary": "Orlando-based IT firm offering flat-rate managed and co-managed IT services, including infrastructure monitoring, help desk, Microsoft 365 administration, cloud services, backup and layered cybersecurity. Serves law firms, insurance agencies, medical practices, construction and food service businesses across Central and South Florida, with an emphasis on compliance-sensitive industries.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "legal",
+      "insurance",
+      "healthcare",
+      "construction",
+      "manufacturing"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [
+      "Microsoft 365 Certified Partner"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Orlando and Central Florida, including Tampa, Maitland and Ft. Lauderdale; Central and South Florida",
+    "pricing": "Flat-rate monthly per-plan pricing",
+    "rating": 5.0,
+    "reviewCount": 6,
+    "weightedRating": 4.93,
+    "website": "https://gocloudaccess.com/",
+    "phone": "(407) 720-4906",
+    "addresses": [
+      "3001 Old Winter Garden Rd Ste 1A, Orlando, FL 32805"
+    ],
+    "town": "Orlando",
+    "lat": 28.546712499999998,
+    "lng": -81.4157742,
+    "linkedin": null,
+    "googleMapsUrl": "https://maps.google.com/?cid=957681030426275045&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "harmony-msp-llc",
+    "name": "Harmony MSP, LLC",
+    "summary": "Veteran-owned managed IT and security provider in Lake Mary serving Central Florida since 2011. Offers flat per-user monthly plans covering helpdesk, 24/7 SOC-backed monitoring, backups and security, with industry-specific programs for law firms, medical and dental practices, and CPA firms. Also lists ransomware recovery, fractional CTO services and AI consulting.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "legal",
+      "healthcare",
+      "dental",
+      "accounting_finance",
+      "government"
+    ],
+    "compliance": [
+      "HIPAA",
+      "FTC Safeguards"
+    ],
+    "partners": [
+      "SDVOSB certified",
+      "Registered in SAM.gov"
+    ],
+    "foundedYear": 2011,
+    "teamSize": null,
+    "serviceArea": "Central Florida (Orlando, Winter Park, Lake Mary, Winter Garden, Oviedo, Altamonte Springs, Longwood, Kissimmee, Lake Nona)",
+    "pricing": "Flat per-user monthly pricing (Essentials $90, Complete $110, HIPAA $160), minimum 5 users, servers billed separately, month-to-month after 90 days",
+    "rating": 5.0,
+    "reviewCount": 3,
+    "weightedRating": 4.92,
+    "website": "https://www.harmony-msp.com/",
+    "phone": "(407) 720-6540",
+    "addresses": [
+      "1540 International Pkwy STE 2000, Lake Mary, FL 32746"
+    ],
+    "town": "Lake Mary",
+    "lat": 28.7849957,
+    "lng": -81.3588321,
+    "linkedin": "https://linkedin.com/company/harmonymspllc",
+    "googleMapsUrl": "https://maps.google.com/?cid=15820887887617872069&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "itelligence-solutions",
+    "name": "ITelligence Solutions",
+    "summary": "ITelligence Solutions is a Central Florida IT provider serving small and mid-sized businesses. It offers tiered managed IT service plans covering monitoring, remote and on-site support, network and firewall management, and backup, plus office setup, Microsoft 365 and voice/data cabling. The firm lists healthcare, legal, non-profit, real estate and financial services among the sectors it supports.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "structured_cabling",
+      "hardware_procurement"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "nonprofit",
+      "real_estate",
+      "accounting_finance"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Central Florida and the southeast region",
+    "pricing": "Tiered monthly managed IT service plans (Bronze, Silver, Gold, Platinum)",
+    "rating": 5.0,
+    "reviewCount": 3,
+    "weightedRating": 4.92,
+    "website": "http://www.itelligencesolutions.com/",
+    "phone": "(407) 900-7552",
+    "addresses": [
+      "587 E State Rd 434 UNIT 3025, Longwood, FL 32750"
+    ],
+    "town": "Longwood",
+    "lat": 28.6982917,
+    "lng": -81.33663829999999,
+    "linkedin": null,
+    "googleMapsUrl": "https://maps.google.com/?cid=6438354611775576828&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "paradigm-it-group",
+    "name": "Paradigm IT Group",
+    "summary": "Altamonte Springs-based IT provider serving small and mid-sized businesses across Central Florida. Services include managed help desk, 24x7 system and network monitoring, backup and disaster recovery, cloud IT, network cabling, business VoIP and IT consulting. Has a healthcare-focused offering covering HIPAA-aligned IT for Florida medical practices, and also works with manufacturers and private schools.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "structured_cabling"
+    ],
+    "industries": [
+      "healthcare",
+      "manufacturing",
+      "education"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [
+      "W/MBE certified",
+      "WBENC certified"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Central Florida (Orlando, Altamonte Springs, Winter Park)",
+    "pricing": "Month-to-month agreements",
+    "rating": 5.0,
+    "reviewCount": 4,
+    "weightedRating": 4.92,
+    "website": "http://paradigmitgroup.net/",
+    "phone": "(321) 248-3954",
+    "addresses": [
+      "375 Douglas Ave, Altamonte Springs, FL 32714"
+    ],
+    "town": "Altamonte Springs",
+    "lat": 28.667534099999997,
+    "lng": -81.3897303,
+    "linkedin": "https://www.linkedin.com/company/paradigm-it-group",
+    "googleMapsUrl": "https://maps.google.com/?cid=6041368561791162711&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "cralyn-technology-solutions-inc",
+    "name": "Cralyn Technology Solutions Inc.",
+    "summary": "Maitland, Florida IT company serving small businesses with roughly 2 to 200 employees. Services span outsourced IT support, remote monitoring and backups, server maintenance, Office 365 and hosted email, network and firewall security, VoIP phones, technology purchasing, printer service and computer repair. Lists industries served including dental, legal, construction, education, nonprofits and real estate.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "hardware_procurement",
+      "computer_repair"
+    ],
+    "industries": [
+      "healthcare",
+      "dental",
+      "legal",
+      "accounting_finance",
+      "insurance",
+      "construction",
+      "manufacturing",
+      "engineering_architecture",
+      "nonprofit",
+      "education",
+      "government",
+      "real_estate",
+      "hospitality",
+      "retail",
+      "automotive",
+      "professional_services"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Orange County, Seminole County, Osceola, Volusia and Central Florida, including Orlando, Winter Park, Lake Mary and Maitland",
+    "pricing": null,
+    "rating": 5.0,
+    "reviewCount": 4,
+    "weightedRating": 4.92,
+    "website": "https://www.cralyntech.com/",
+    "phone": "(407) 710-7210",
+    "addresses": [
+      "900 N Maitland Ave, Maitland, FL 32751",
+      "3120, 300 N New York Ave #1106, Winter Park, FL 32789"
+    ],
+    "town": "Maitland",
+    "lat": 28.6350506,
+    "lng": -81.36533109999999,
+    "linkedin": null,
+    "googleMapsUrl": "https://maps.google.com/?cid=8302180708017714750&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "vista-it-solutions",
+    "name": "Vista IT Solutions",
+    "summary": "Orlando-area IT firm founded in 2006 offering managed IT, help desk, data backup, security, cloud, consulting and VoIP services to small and mid-sized businesses. Offers 24x7 monitoring and extended weekday support hours, with offices in Orlando and Lake Mary, Florida.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "it_strategy_vcio",
+      "voip_phones",
+      "co_managed_it"
+    ],
+    "industries": [
+      "accounting_finance",
+      "dental",
+      "healthcare",
+      "manufacturing",
+      "engineering_architecture",
+      "hospitality",
+      "logistics",
+      "professional_services"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": 2006,
+    "teamSize": "Five full-time employees",
+    "serviceArea": "Orlando and Lake Mary, Florida; clients in 10 states",
+    "pricing": null,
+    "rating": 5.0,
+    "reviewCount": 3,
+    "weightedRating": 4.92,
+    "website": "http://vistaits.com/",
+    "phone": "(321) 234-1899",
+    "addresses": [
+      "1643 E Robinson St, Orlando, FL 32803"
+    ],
+    "town": "Orlando",
+    "lat": 28.546068599999998,
+    "lng": -81.3584913,
+    "linkedin": null,
+    "googleMapsUrl": "https://maps.google.com/?cid=11190705162803015294&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "noc-ops",
+    "name": "NOC-OPS",
+    "summary": "Orlando-based IT services firm offering monthly flat-rate managed support, network and security work, backup and recovery, cloud setup, business VoIP, and NIST 800-171/CMMC compliance support. The company says it has government contract history and is expanding into commercial managed IT for businesses in Central Florida.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "compliance_services",
+      "computer_repair"
+    ],
+    "industries": [
+      "government"
+    ],
+    "compliance": [
+      "NIST",
+      "CMMC"
+    ],
+    "partners": [],
+    "foundedYear": 2019,
+    "teamSize": null,
+    "serviceArea": "Central Florida",
+    "pricing": "Proactive, monthly flat-rate unlimited support",
+    "rating": 5.0,
+    "reviewCount": 3,
+    "weightedRating": 4.92,
+    "website": "https://noc-ops.com/",
+    "phone": "(407) 752-9600",
+    "addresses": [
+      "1802 N Alafaya Trail, Orlando, FL 32826"
+    ],
+    "town": "Orlando",
+    "lat": 28.5694941,
+    "lng": -81.2083186,
+    "linkedin": null,
+    "googleMapsUrl": "https://maps.google.com/?cid=2009300763665552629&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "sentry-technology-solutions",
+    "name": "Sentry Technology Solutions",
+    "summary": "Orlando-based managed services provider offering fully managed IT, help desk, cybersecurity, compliance support, and AI and automation consulting for businesses. Serves clients across the United States, including franchise groups and multi-location companies, and describes itself as a Managed Services Provider and Managed Information Provider.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "nonprofit",
+      "retail",
+      "hospitality"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS",
+      "NIST",
+      "SOC 2"
+    ],
+    "partners": [
+      "Forbes Technology Council member (founder)",
+      "CRN Top 250 Next Generation Companies recognition",
+      "INC 5000 listing"
+    ],
+    "foundedYear": 2014,
+    "teamSize": null,
+    "serviceArea": "Orlando, Florida and nationwide across 27 states",
+    "pricing": null,
+    "rating": 5.0,
+    "reviewCount": 2,
+    "weightedRating": 4.91,
+    "website": "http://sentrytechsolutions.com/",
+    "phone": "(352) 241-6238",
+    "addresses": [
+      "100 W Lucerne Cir #601, Orlando, FL 32801"
+    ],
+    "town": "Orlando",
+    "lat": 28.5346895,
+    "lng": -81.3803764,
+    "linkedin": "https://www.linkedin.com/company/sentry-technology-solutions/",
+    "googleMapsUrl": "https://maps.google.com/?cid=2551132153287496805&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "consortyo-networks-and-security",
+    "name": "Consortyo Networks & Security",
+    "summary": "Longwood-based firm offering outsourced IT support, network security, backup and disaster recovery, and Microsoft 365 work for small and medium businesses across Central Florida. It also installs and maintains security camera, access control and low-voltage cabling systems, offering IT and security under one contract.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "structured_cabling",
+      "hardware_procurement"
+    ],
+    "industries": [
+      "healthcare",
+      "professional_services"
+    ],
+    "compliance": [],
+    "partners": [
+      "Microsoft partner",
+      "Dell partner",
+      "HP partner",
+      "Lenovo partner",
+      "IBM certified staff",
+      "Cisco certified staff"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Central Florida, including Orange, Seminole and Volusia counties",
+    "pricing": "Outsource contract, hourly blocks, or pay-as-you-go options",
+    "rating": 5.0,
+    "reviewCount": 2,
+    "weightedRating": 4.91,
+    "website": "http://www.consortyo.com/",
+    "phone": "(407) 389-1670",
+    "addresses": [
+      "745 W State Rd 434 Ste H, Longwood, FL 32750"
+    ],
+    "town": "Longwood",
+    "lat": 28.698194899999997,
+    "lng": -81.3561878,
+    "linkedin": null,
+    "googleMapsUrl": "https://maps.google.com/?cid=448507146869679757&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "internetwork-it",
+    "name": "InterNetwork IT",
+    "summary": "Orlando-area IT firm offering managed IT, managed security, backup, Microsoft 365 management and compliance-alignment services for small and mid-sized businesses. Serves law firms, manufacturers, government contractors, healthcare practices and other professional services clients, offering fully outsourced, co-managed or project-based engagements.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "compliance_services"
+    ],
+    "industries": [
+      "legal",
+      "manufacturing",
+      "healthcare",
+      "government",
+      "construction",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "NIST",
+      "SOC 2",
+      "PCI DSS",
+      "ITAR"
+    ],
+    "partners": [],
+    "foundedYear": 2011,
+    "teamSize": null,
+    "serviceArea": "Central Florida, with clients across the United States",
+    "pricing": null,
+    "rating": 5.0,
+    "reviewCount": 2,
+    "weightedRating": 4.91,
+    "website": "http://internetworkit.com/",
+    "phone": "(321) 300-6383",
+    "addresses": [
+      "653 W Michigan St, Orlando, FL 32811",
+      "2014 Edgewater Dr Ste 225, Orlando, FL 32804"
+    ],
+    "town": "Orlando",
+    "lat": 28.5149312,
+    "lng": -81.3877893,
+    "linkedin": "https://www.linkedin.com/company/internetwork-it-llc/posts/?feedView=all",
+    "googleMapsUrl": "https://maps.google.com/?cid=2540010680190321573&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "thriveon-orlando-managed-it-services-company",
+    "name": "Thriveon - Orlando Managed IT Services Company",
+    "summary": "Thriveon is an IT services firm with offices in Eden Prairie MN, Tampa FL and Orlando FL that provides managed IT support, helpdesk, managed security operations and fractional CIO strategy. It serves mid-sized organizations, with a focus on regulated sectors such as legal, healthcare, construction and manufacturing. The firm also offers Microsoft 365 administration, backup and disaster recovery, and compliance support for frameworks like CMMC, NIST and HIPAA.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "construction",
+      "manufacturing",
+      "insurance",
+      "engineering_architecture",
+      "nonprofit",
+      "accounting_finance",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "NIST",
+      "SOC 2",
+      "PCI DSS",
+      "GLBA",
+      "CJIS",
+      "FTC Safeguards"
+    ],
+    "partners": [
+      "Channel Futures MSP 501 (2023, 2024)",
+      "Inc. 5000",
+      "CompTIA",
+      "AGC-MN partner"
+    ],
+    "foundedYear": 2002,
+    "teamSize": null,
+    "serviceArea": "Minnesota and Central Florida offices (Eden Prairie, Tampa, Orlando)",
+    "pricing": "Pricing is based on the number of computer users, per the legal services page",
+    "rating": 5.0,
+    "reviewCount": 2,
+    "weightedRating": 4.91,
+    "website": "https://www.thriveon.net/",
+    "phone": "(689) 336-3553",
+    "addresses": [
+      "111 N Orange Ave Suit 800, Orlando, FL 32801"
+    ],
+    "town": "Orlando",
+    "lat": 28.5442702,
+    "lng": -81.37963769999999,
+    "linkedin": "https://www.linkedin.com/company/thriveon",
+    "googleMapsUrl": "https://maps.google.com/?cid=17181547254111474767&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "lantern-web-services-llc",
+    "name": "Lantern Web Services, LLC",
+    "summary": "Kissimmee, Florida firm offering managed IT support, network and security monitoring, and hosted business phone (VoIP) systems on monthly plans. It also builds websites and hosting for small and mid-sized businesses, and sells hardware and offsite backup storage.",
+    "services": [
+      "managed_it",
+      "network_infrastructure",
+      "voip_phones",
+      "backup_disaster_recovery",
+      "hardware_procurement",
+      "web_design"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": null,
+    "pricing": "Monthly fixed-fee maintenance plans for IT support; VoIP offered for one low monthly fee; website hosting advertised from $49/month",
+    "rating": 5.0,
+    "reviewCount": 2,
+    "weightedRating": 4.91,
+    "website": "https://www.lanternwebservices.com/",
+    "phone": "(407) 362-5425",
+    "addresses": [
+      "7862 W Irlo Bronson Memorial Hwy #501, Kissimmee, FL 34747"
+    ],
+    "town": "Kissimmee",
+    "lat": 28.340977,
+    "lng": -81.6001749,
+    "linkedin": "https://www.linkedin.com/company/lantern-web-services-llc/",
+    "googleMapsUrl": "https://maps.google.com/?cid=747932119610422126&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "tech-rage-it-orlando-it-support",
+    "name": "Tech Rage IT - Orlando IT Support",
+    "summary": "Longwood-based IT provider serving small and mid-sized businesses in the Orlando area with managed IT, network and cybersecurity, cloud, backup and disaster recovery, managed voice, cabling, and compliance support. Focuses on CPA firms, financial services, construction, engineering, manufacturing and nonprofits, and offers a 90-day money-back guarantee.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services",
+      "structured_cabling"
+    ],
+    "industries": [
+      "accounting_finance",
+      "construction",
+      "engineering_architecture",
+      "manufacturing",
+      "nonprofit",
+      "professional_services"
+    ],
+    "compliance": [
+      "FTC Safeguards",
+      "PCI DSS",
+      "HIPAA"
+    ],
+    "partners": [
+      "CRN ranking",
+      "Channel Futures ranking"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Orlando and Central Florida metro, including Casselberry, Kissimmee, Daytona Beach, Maitland, Lake Mary, Longwood, Winter Park, Altamonte Springs, Sanford, Winter Garden and Apopka",
+    "pricing": null,
+    "rating": 4.9,
+    "reviewCount": 21,
+    "weightedRating": 4.9,
+    "website": "https://www.techrageit.com/",
+    "phone": "(407) 904-5763",
+    "addresses": [
+      "587 E State Rd 434 Suite 3087, Longwood, FL 32750"
+    ],
+    "town": "Longwood",
+    "lat": 28.695421099999997,
+    "lng": -81.32940239999999,
+    "linkedin": "https://www.linkedin.com/company/tech-rage-it/",
+    "googleMapsUrl": "https://maps.google.com/?cid=1789021990249772132&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "cmit-solutions",
+    "name": "CMIT Solutions",
+    "summary": "CMIT Solutions of Central Orlando is a franchise managed IT provider serving small and mid-sized businesses across Central Florida. It offers subscription-based IT support with 24/7 monitoring, help desk, managed security with a security operations center, and Microsoft 365 and cloud services. The firm highlights healthcare as a focus and has a stated history of work with dental and manufacturing clients.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement"
+    ],
+    "industries": [
+      "healthcare",
+      "dental",
+      "manufacturing"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [
+      "Microsoft",
+      "Dell",
+      "Barracuda",
+      "Intuit"
+    ],
+    "foundedYear": 2007,
+    "teamSize": null,
+    "serviceArea": "Central Florida, including Orange, Osceola, Seminole and Lake counties",
+    "pricing": "Flat monthly subscription rates",
+    "rating": 4.9,
+    "reviewCount": 334,
+    "weightedRating": 4.9,
+    "website": "http://www.cmito.com/",
+    "phone": "(407) 917-8885",
+    "addresses": [
+      "390 N Orange Ave ste 2300, Orlando, FL 32801"
+    ],
+    "town": "Orlando",
+    "lat": 28.5473605,
+    "lng": -81.37935379999999,
+    "linkedin": "https://www.linkedin.com/company/cmit-solutions-of-central-orlando/",
+    "googleMapsUrl": "https://maps.google.com/?cid=4336644250523522602&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "i-tech-support-services-inc",
+    "name": "i-Tech Support Services, Inc",
+    "summary": "Orlando-area IT firm offering managed and co-managed IT, help desk, cybersecurity, backup, VoIP and virtual CIO services, plus Acumatica ERP implementation and support. Serves small and mid-size businesses, schools, nonprofits, churches, healthcare and AEC firms across Florida.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "voip_phones",
+      "cloud_microsoft_365",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "construction",
+      "nonprofit",
+      "education",
+      "government",
+      "professional_services",
+      "manufacturing",
+      "retail",
+      "engineering_architecture"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [
+      "Acumatica VAR"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Orlando, Tampa, Miami, Jacksonville, Fort Lauderdale and Central Florida",
+    "pricing": null,
+    "rating": 4.9,
+    "reviewCount": 119,
+    "weightedRating": 4.9,
+    "website": "http://www.i-techsupport.com/",
+    "phone": "(407) 265-2000",
+    "addresses": [
+      "2711 Rew Cir, Ocoee, FL 34761"
+    ],
+    "town": "Ocoee",
+    "lat": 28.549546199999998,
+    "lng": -81.5374977,
+    "linkedin": "https://www.linkedin.com/company/i-tech-support-inc-/",
+    "googleMapsUrl": "https://maps.google.com/?cid=6191554829722099394&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "taylorworks-inc",
+    "name": "TaylorWorks, Inc.",
+    "summary": "TaylorWorks, Inc. is a Longwood, Florida IT provider serving small and medium-sized businesses across Central Florida since 1999. Services include proactive monitoring and maintenance, a live help desk, backup and disaster recovery, cybersecurity, and compliance documentation support. Clients cited in testimonials include accounting, legal, healthcare and church organizations.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "compliance_services",
+      "hardware_procurement",
+      "voip_phones",
+      "cloud_microsoft_365"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "NIST",
+      "SOC 2",
+      "PCI DSS",
+      "GLBA"
+    ],
+    "partners": [],
+    "foundedYear": 1999,
+    "teamSize": null,
+    "serviceArea": "Longwood, Florida and Central Florida",
+    "pricing": "Flat monthly rate for 24/7 maintenance",
+    "rating": 4.9,
+    "reviewCount": 56,
+    "weightedRating": 4.9,
+    "website": "http://www.taylorworks.net/",
+    "phone": "(407) 478-6600",
+    "addresses": [
+      "1435 W State Rd 434, Longwood, FL 32750"
+    ],
+    "town": "Longwood",
+    "lat": 28.698613500000004,
+    "lng": -81.3765882,
+    "linkedin": null,
+    "googleMapsUrl": "https://maps.google.com/?cid=11692280535674579586&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "symtec-managed-it-services-and-outsourced-it-support-company-in-orlando",
+    "name": "SymTec | Managed IT Services and Outsourced IT Support Company in Orlando",
+    "summary": "SymTec is a locally owned IT company with offices in several US cities, including Orlando, FL. It provides managed IT support, help desk, cybersecurity monitoring, backup and disaster recovery, cloud services and compliance help for businesses, with particular focus on CPA firms. Clients can reach support by phone, chat or remote-access tools.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement"
+    ],
+    "industries": [
+      "accounting_finance",
+      "automotive",
+      "manufacturing",
+      "engineering_architecture",
+      "healthcare",
+      "retail"
+    ],
+    "compliance": [
+      "FTC Safeguards",
+      "HIPAA"
+    ],
+    "partners": [
+      "CCISO Certified",
+      "CRN MSP 500 (2020)",
+      "World-Class Customer Experience training by The DiJulius Group"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Offices listed in Cedar City UT, St. George UT, Idaho Falls ID, Twin Falls ID, Dallas TX, Tri-Cities WA, Portage IN, Warren NJ and Orlando FL",
+    "pricing": null,
+    "rating": 4.9,
+    "reviewCount": 7,
+    "weightedRating": 4.9,
+    "website": "https://symtec.com/",
+    "phone": "(321) 249-3198",
+    "addresses": [
+      "111 N Orange Ave Suit 800, Orlando, FL 32801"
+    ],
+    "town": "Orlando",
+    "lat": 28.5437059,
+    "lng": -81.37888090000001,
+    "linkedin": "https://www.linkedin.com/company/symtec/",
+    "googleMapsUrl": "https://maps.google.com/?cid=5517620760596071194&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "powered-teknologies",
+    "name": "Powered Teknologies",
+    "summary": "Winter Park, Florida IT provider offering managed IT services with proactive monitoring, remote management, backup and disaster recovery, and security services such as dark web monitoring and email filtration. The site highlights work with healthcare providers, engineering firms, professional services firms, government contractors and construction companies.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement"
+    ],
+    "industries": [
+      "healthcare",
+      "engineering_architecture",
+      "professional_services",
+      "government",
+      "construction"
+    ],
+    "compliance": [
+      "HIPAA",
+      "NIST",
+      "ITAR"
+    ],
+    "partners": [
+      "Apple Certified IT Consultant",
+      "Microsoft Azure Partners"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": null,
+    "pricing": null,
+    "rating": 5.0,
+    "reviewCount": 1,
+    "weightedRating": 4.9,
+    "website": "https://www.poweredtek.com/",
+    "phone": "(407) 803-5009",
+    "addresses": [
+      "1350 N Orange Ave Ste 225, Winter Park, FL 32789"
+    ],
+    "town": "Winter Park",
+    "lat": 28.586377499999998,
+    "lng": -81.3637933,
+    "linkedin": "https://linkedin.com/company/poweredtek",
+    "googleMapsUrl": "https://maps.google.com/?cid=12418229380464105295&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "gateway-tech-it-services",
+    "name": "Gateway Tech IT Services",
+    "summary": "Longwood-based IT firm serving Orlando and Central Florida businesses with managed IT, help desk, Microsoft 365 and cloud support, backup, and 24/7 monitoring. It also handles structured cabling, networking, CCTV, access control and VoIP, and positions itself as a single provider for network and physical security. Healthcare and dental practices are a stated focus, with HIPAA-aligned support.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services",
+      "structured_cabling",
+      "software_development",
+      "computer_repair"
+    ],
+    "industries": [
+      "healthcare",
+      "dental",
+      "legal",
+      "manufacturing",
+      "accounting_finance"
+    ],
+    "compliance": [
+      "HIPAA",
+      "FTC Safeguards",
+      "PCI DSS",
+      "CMMC",
+      "NIST"
+    ],
+    "partners": [
+      "Microsoft",
+      "Cisco",
+      "AWS",
+      "Dell",
+      "Fortinet",
+      "VMware",
+      "Ubiquiti",
+      "HikVision"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Orlando and Central Florida",
+    "pricing": "Flat-rate monthly plans starting at $49.99/month",
+    "rating": 4.9,
+    "reviewCount": 120,
+    "weightedRating": 4.9,
+    "website": "https://www.gatewaytechitservices.com/",
+    "phone": "(407) 377-7731",
+    "addresses": [
+      "730 W State Rd 434, Longwood, FL 32750"
+    ],
+    "town": "Longwood",
+    "lat": 28.697620399999998,
+    "lng": -81.356589,
+    "linkedin": "https://www.linkedin.com/company/gateway-tech-it-services",
+    "googleMapsUrl": "https://maps.google.com/?cid=2981912957952195408&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "cfl-technology-source-winter-park",
+    "name": "CFL Technology Source - Winter Park",
+    "summary": "Locally owned IT support company in Winter Park serving small and mid-sized businesses across Orlando and Central Florida. Offers fixed monthly managed IT plans covering device management, 24/7 network monitoring, backup, Microsoft 365 support, firewall and endpoint security, plus VoIP phones and structured cabling. Says it works mainly with companies of about 5 to 100 employees and offers no multi-year contracts.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "structured_cabling",
+      "it_strategy_vcio"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": 2000,
+    "teamSize": "100 local team",
+    "serviceArea": "Orlando and Central Florida; Orange, Seminole, Lake, Volusia and Brevard counties",
+    "pricing": "Fixed monthly managed IT plans with no per-incident billing",
+    "rating": 4.9,
+    "reviewCount": 8,
+    "weightedRating": 4.9,
+    "website": "http://www.cflts.com/",
+    "phone": "(407) 622-1666",
+    "addresses": [
+      "6970 Aloma Ave, Winter Park, FL 32792"
+    ],
+    "town": "Winter Park",
+    "lat": 28.6064071,
+    "lng": -81.2952365,
+    "linkedin": null,
+    "googleMapsUrl": "https://maps.google.com/?cid=7241062873533481063&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "ohana-it-solutions",
+    "name": "Ohana IT Solutions",
+    "summary": "Ohana IT Solutions is a family-owned IT services firm in Winter Garden, Florida, serving small and midsize businesses. It offers proactive monitoring from an operations center, onsite and offsite backup, network security, and as-needed break/fix support, and it names legal, automotive, medical and dental clients among its industries.",
+    "services": [
+      "managed_it",
+      "backup_disaster_recovery",
+      "cybersecurity"
+    ],
+    "industries": [
+      "healthcare",
+      "dental",
+      "legal",
+      "automotive"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": null,
+    "pricing": null,
+    "rating": 5.0,
+    "reviewCount": 1,
+    "weightedRating": 4.9,
+    "website": "https://ohanaitsolutions.com/",
+    "phone": "(570) 406-2777",
+    "addresses": [
+      "6260 Point Hancock Drive, Winter Garden, FL 34787"
+    ],
+    "town": "Winter Garden",
+    "lat": 28.4716444,
+    "lng": -81.6128319,
+    "linkedin": "https://www.linkedin.com/company/ohanaitsolutions/",
+    "googleMapsUrl": "https://maps.google.com/?cid=4567519380095880510&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "tech-hero",
+    "name": "Tech Hero",
+    "summary": "Orlando-based IT services firm offering managed IT, cybersecurity, cloud, on-demand support, network security, backup and disaster recovery, VoIP and structured cabling to businesses in Central Florida and nationwide. The site also lists product fulfillment for brands such as Dell, HP, Lenovo and Cisco, and notes HIPAA and other compliance packages.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "structured_cabling",
+      "hardware_procurement",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "FINRA/SEC"
+    ],
+    "partners": [
+      "Microsoft",
+      "VMware",
+      "Cisco",
+      "Dell",
+      "HP",
+      "Lenovo"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Central Florida and the United States",
+    "pricing": "Predictable monthly cost for managed IT services; on-demand support available without a managed contract",
+    "rating": 4.9,
+    "reviewCount": 35,
+    "weightedRating": 4.9,
+    "website": "https://www.techhero.com/",
+    "phone": "(407) 269-5300",
+    "addresses": [
+      "4209 Vineland Rd Ste J-9, Orlando, FL 32811"
+    ],
+    "town": "Orlando",
+    "lat": 28.500640299999997,
+    "lng": -81.4297744,
+    "linkedin": "https://www.linkedin.com/company/tech-hero",
+    "googleMapsUrl": "https://maps.google.com/?cid=18095558383561416256&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "prosource",
+    "name": "ProSource",
+    "summary": "ProSource is a Central Florida IT company founded in 2006, with offices in Oviedo, Orlando and Melbourne. It provides managed IT, co-managed IT, cybersecurity, compliance as a service, private cloud hosting and Microsoft 365 administration, mainly for healthcare practices, finance firms, engineering and construction companies, manufacturers and schools, with support available nationwide.",
+    "services": [
+      "managed_it",
+      "co_managed_it",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services",
+      "help_desk"
+    ],
+    "industries": [
+      "healthcare",
+      "accounting_finance",
+      "engineering_architecture",
+      "construction",
+      "manufacturing",
+      "education"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "SOC 2",
+      "PCI DSS",
+      "FINRA/SEC"
+    ],
+    "partners": [
+      "Microsoft Azure Administrator Associate",
+      "Microsoft Azure Fundamentals",
+      "Microsoft 365 Endpoint Administrator Associate",
+      "CompTIA Security+",
+      "CompTIA A+",
+      "CompTIA Network+",
+      "Fortinet NSE 4",
+      "Fortinet NSE 5",
+      "Fortinet Certified Professional",
+      "ITIL Foundation v4",
+      "4Med HIPAA Certified Organization"
+    ],
+    "foundedYear": 2006,
+    "teamSize": null,
+    "serviceArea": "Oviedo, Orlando and Melbourne offices in Florida; supports clients nationwide",
+    "pricing": "Flat monthly per-user plans; hosted QuickBooks starts at $55/user/month",
+    "rating": 4.9,
+    "reviewCount": 30,
+    "weightedRating": 4.9,
+    "website": "https://getprosource.com/",
+    "phone": "(888) 948-7767",
+    "addresses": [
+      "2572 W State Rd 426 Ste 2056, Oviedo, FL 32765"
+    ],
+    "town": "Oviedo",
+    "lat": 28.6331542,
+    "lng": -81.2397127,
+    "linkedin": "https://www.linkedin.com/company/getprosource",
+    "googleMapsUrl": "https://maps.google.com/?cid=12779917458570227432&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "seamlesscs",
+    "name": "SeamlessCS",
+    "summary": "Seamless is a Florida managed IT and communications provider founded in 2012, serving businesses mainly in the Greater Orlando area and across the state. Its offerings span managed IT support, cybersecurity, cloud and Microsoft 365 migration, backup and continuity, networking, business phone systems and structured cabling. The firm highlights work with medical, dental and veterinary offices and says it holds a HIPAA compliance seal.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "structured_cabling",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "dental"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [],
+    "foundedYear": 2012,
+    "teamSize": null,
+    "serviceArea": "Greater Orlando Area, with listed service areas across Central Florida and several other Florida cities",
+    "pricing": "Tailored monthly MSP plans",
+    "rating": 5.0,
+    "reviewCount": 1,
+    "weightedRating": 4.9,
+    "website": "https://www.seamlesscs.com/",
+    "phone": "(833) 258-6400",
+    "addresses": [
+      "6968 Aloma Ave, Winter Park, FL 32792"
+    ],
+    "town": "Winter Park",
+    "lat": 28.6062649,
+    "lng": -81.29519739999999,
+    "linkedin": "https://linkedin.com/company/40921606",
+    "googleMapsUrl": "https://maps.google.com/?cid=12493755284929756422&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "visual-edge-it-longwood-florida-warehouse",
+    "name": "Visual Edge IT Longwood, Florida (Warehouse)",
+    "summary": "Visual Edge IT is a technology provider with a Longwood, Florida location serving Orlando and nearby communities. It offers help desk, network management, backup, cybersecurity, cloud and co-managed IT alongside office printing, copiers, document management and print workflow tools. The company names industries such as healthcare, legal, education, construction, manufacturing, retail and financial services among its clients.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "hardware_procurement"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "insurance",
+      "construction",
+      "manufacturing",
+      "education",
+      "retail",
+      "accounting_finance"
+    ],
+    "compliance": [],
+    "partners": [
+      "HP",
+      "Epson",
+      "Intermedia",
+      "Konica Minolta",
+      "Kyocera",
+      "Microsoft",
+      "Xerox"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Orlando, Florida and surrounding communities including Longwood, Winter Park, Winter Garden, Oviedo, Kissimmee, St. Cloud, Altamonte Springs, Sanford, Clermont, Apopka and Ocoee",
+    "pricing": null,
+    "rating": 5.0,
+    "reviewCount": 1,
+    "weightedRating": 4.9,
+    "website": "https://visualedgeit.com/location/florida/longwood/",
+    "phone": "(800) 828-4801",
+    "addresses": [
+      "2120 N Ronald Reagan Blvd Unit 1124, Longwood, FL 32750"
+    ],
+    "town": "Longwood",
+    "lat": 28.723081199999996,
+    "lng": -81.3361096,
+    "linkedin": "https://www.linkedin.com/company/visual-edge-it",
+    "googleMapsUrl": "https://maps.google.com/?cid=7390922153537365494&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "next-horizon",
+    "name": "Next Horizon",
+    "summary": "Sanford, Florida firm offering ongoing IT support for businesses, including managed services, help desk, Microsoft 365 and Office 365 hosting, cloud hosting, firewall and antivirus security, backup and disaster recovery, and network design. It also provides web design, application development, and digital marketing, and reports monthly on client IT systems. Serves clients across Central Florida.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "software_development",
+      "web_design"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [
+      "Dell partner",
+      "SonicWall partner",
+      "Cisco partner",
+      "Intel partner",
+      "Microsoft partner",
+      "MCSE",
+      "MCP",
+      "CNA",
+      "CCNA",
+      "CCNP",
+      "CSSA",
+      "CCFA"
+    ],
+    "foundedYear": 2001,
+    "teamSize": "40 professionals",
+    "serviceArea": "Central Florida",
+    "pricing": null,
+    "rating": 4.9,
+    "reviewCount": 15,
+    "weightedRating": 4.9,
+    "website": "https://www.nexthorizon.net/",
+    "phone": "(407) 328-9228",
+    "addresses": [
+      "915 W 1st St, Sanford, FL 32771"
+    ],
+    "town": "Sanford",
+    "lat": 28.8114531,
+    "lng": -81.2774125,
+    "linkedin": "https://www.linkedin.com/company/next-horizon-networking-and-technology/",
+    "googleMapsUrl": "https://maps.google.com/?cid=774920814123223145&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "business-it",
+    "name": "Business IT",
+    "summary": "Business IT is a Lake Mary, Florida IT provider serving small businesses across the Orlando metro area. Its offerings include monitoring, remote help desk, Microsoft 365 support, online backup and disaster recovery, spam filtering, and cloud hosting from its own data center. The firm also does web design, custom development and project planning.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "hardware_procurement",
+      "web_design",
+      "software_development"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Lake Mary, Heathrow, Sanford, Debary, Deltona, Deland, Altamonte Springs, Winter Springs, Casselberry, Winter Park, Orlando, FL",
+    "pricing": null,
+    "rating": 5.0,
+    "reviewCount": 1,
+    "weightedRating": 4.9,
+    "website": "https://business-it.us/",
+    "phone": "(407) 792-2811",
+    "addresses": [
+      "1515 International Pkwy Ste 2001, Lake Mary, FL 32746"
+    ],
+    "town": "Lake Mary",
+    "lat": 28.784601,
+    "lng": -81.3569246,
+    "linkedin": null,
+    "googleMapsUrl": "https://maps.google.com/?cid=194545495989671530&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "aeras-technologies",
+    "name": "Aeras Technologies",
+    "summary": "Aeras Technologies is an outsourced IT provider based in Winter Park, Florida, serving businesses and educational institutions across North America. It focuses on managing Apple devices through mobile device management, and also offers help desk support, cybersecurity tools, email administration, cloud services, and VoIP. It also runs the Aeras Foundation, which refurbishes donated devices for nonprofits and underserved communities.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "voip_phones",
+      "co_managed_it"
+    ],
+    "industries": [
+      "nonprofit",
+      "education"
+    ],
+    "compliance": [],
+    "partners": [
+      "Apple Consultants Network",
+      "Jamf",
+      "Mosyle"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "North America",
+    "pricing": null,
+    "rating": 4.9,
+    "reviewCount": 154,
+    "weightedRating": 4.9,
+    "website": "http://www.aeras.tech/",
+    "phone": "(855) 692-3727",
+    "addresses": [
+      "941 W Morse Blvd Ste 100, Winter Park, FL 32789"
+    ],
+    "town": "Winter Park",
+    "lat": 28.598139099999997,
+    "lng": -81.36158569999999,
+    "linkedin": "https://www.linkedin.com/company/aeras-technologies?trk=public_profile_topcard_current_company",
+    "googleMapsUrl": "https://maps.google.com/?cid=6851723984949005961&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "computer-consultants-merchants",
+    "name": "Computer Consultants-Merchants",
+    "summary": "Computer Consultants & Merchants (CC&M) is an IT services provider founded in 1992 in Orlando, Florida, with offices in Greenville and Greenwood, South Carolina. Its offerings include managed IT with remote monitoring and backup, 24/7 managed security, Verkada camera and access control installation, managed print services and phone systems. The website lists Greenville and Greenwood SC locations, while the Google listing shows a Kissimmee, Florida address.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "voip_phones",
+      "hardware_procurement"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [
+      "Verkada"
+    ],
+    "foundedYear": 1992,
+    "teamSize": null,
+    "serviceArea": "Greenville and Greenwood, South Carolina (Upstate SC); Orlando, Florida area per company history",
+    "pricing": null,
+    "rating": 5.0,
+    "reviewCount": 1,
+    "weightedRating": 4.9,
+    "website": "http://www.ccm2.com/",
+    "phone": "(407) 870-0545",
+    "addresses": [
+      "1500 Damon Ave, Kissimmee, FL 34744"
+    ],
+    "town": "Kissimmee",
+    "lat": 28.3056347,
+    "lng": -81.3965868,
+    "linkedin": "https://www.linkedin.com/company/computer-consultants-&-merchants-inc./",
+    "googleMapsUrl": "https://maps.google.com/?cid=8639751493871770794&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "kittinger-business-machines",
+    "name": "Kittinger Business Machines",
+    "summary": "Longwood, Florida office technology dealer serving businesses across Central Florida for over 50 years. Sells and services multifunction printers, wide-format equipment and document workflow software, and offers managed IT with monitoring, security and network support delivered with M2O. Its client base includes architecture, engineering, construction, legal, healthcare and government offices.",
+    "services": [
+      "managed_it",
+      "cybersecurity",
+      "network_infrastructure",
+      "hardware_procurement"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "engineering_architecture",
+      "construction",
+      "manufacturing",
+      "government",
+      "education"
+    ],
+    "compliance": [],
+    "partners": [
+      "Kyocera",
+      "HP",
+      "Epson",
+      "PaperCut",
+      "M2O"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Central Florida",
+    "pricing": null,
+    "rating": 4.9,
+    "reviewCount": 15,
+    "weightedRating": 4.9,
+    "website": "https://www.kbmachines.com/",
+    "phone": "(407) 894-1896",
+    "addresses": [
+      "765 W State Rd 434 Ste D-E, Longwood, FL 32750"
+    ],
+    "town": "Longwood",
+    "lat": 28.698358100000004,
+    "lng": -81.3569389,
+    "linkedin": null,
+    "googleMapsUrl": "https://maps.google.com/?cid=2840496550549331388&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "diriga-technologies",
+    "name": "Diriga Technologies",
+    "summary": "Orlando-based IT firm offering flat-rate managed IT, help desk, backup and disaster recovery, and cybersecurity services to small and mid-sized businesses. Also provides CMMC, HIPAA and FINRA compliance support and, through a separate staffing arm, recruiting services. Customers are assigned a dedicated support contact.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "FINRA/SEC"
+    ],
+    "partners": [],
+    "foundedYear": 2019,
+    "teamSize": null,
+    "serviceArea": "Orlando, Central Florida and businesses across the United States",
+    "pricing": "Flat monthly rate with unlimited support and custom packages",
+    "rating": 4.9,
+    "reviewCount": 11,
+    "weightedRating": 4.9,
+    "website": "https://www.diriga.com/",
+    "phone": "(407) 228-4470",
+    "addresses": [
+      "4097 Corrine Dr, Orlando, FL 32814"
+    ],
+    "town": "Orlando",
+    "lat": 28.568324200000003,
+    "lng": -81.3339136,
+    "linkedin": "https://www.linkedin.com/company/diriga-technologies/",
+    "googleMapsUrl": "https://maps.google.com/?cid=11900104026639563163&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "arc-technologies",
+    "name": "Arc Technologies",
+    "summary": "Arc Technologies is a Florida-based IT company offering managed IT support for businesses, including workstation, network and Wi-Fi, cloud suite, and printer support, along with managed cybersecurity and cloud-based physical security. It serves organizations across several sectors such as healthcare, insurance, government, and private schools, and provides support in English and Spanish along with Apple device expertise.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "network_infrastructure",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "healthcare",
+      "insurance",
+      "government",
+      "education"
+    ],
+    "compliance": [],
+    "partners": [
+      "Microsoft",
+      "Apple"
+    ],
+    "foundedYear": 2010,
+    "teamSize": "15 years of experience; 1000 clients served per site",
+    "serviceArea": "Lake Mary, FL (Central Florida) with additional offices listed in San Francisco, Toronto and London",
+    "pricing": "Monthly managed IT plans, e.g. IT Complete starting at $3,500 per month and IT Essentials starting at $1,125 per month; custom build-your-own option",
+    "rating": 5.0,
+    "reviewCount": 1,
+    "weightedRating": 4.9,
+    "website": "http://arcsolves.com/",
+    "phone": "(407) 965-0930",
+    "addresses": [
+      "7131 Business Park Ln #180, Lake Mary, FL 32746"
+    ],
+    "town": "Lake Mary",
+    "lat": 28.7846467,
+    "lng": -81.3595814,
+    "linkedin": "https://www.linkedin.com/company/arcsolves",
+    "googleMapsUrl": "https://maps.google.com/?cid=9715490760539925547&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "aoknetworking",
+    "name": "aoknetworking",
+    "summary": "AOK Networking is an Oviedo, Florida IT services company offering 24/7 managed network support and security for small to medium businesses, including desktop and server support, backup, disaster recovery, email/spam protection and cloud computing. It bills flat monthly fees and serves clients across the US, with a focus on plain-language communication.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "cloud_microsoft_365"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": 2000,
+    "teamSize": null,
+    "serviceArea": "Orlando area, Florida; clients throughout the US",
+    "pricing": "Predictable flat monthly IT support fee with no setup fees or long-term contracts",
+    "rating": 5.0,
+    "reviewCount": 1,
+    "weightedRating": 4.9,
+    "website": "http://aoknetworking.com/",
+    "phone": "(407) 249-1989",
+    "addresses": [
+      "100 Burnsed Pl #1010, Oviedo, FL 32765"
+    ],
+    "town": "Oviedo",
+    "lat": 28.639100199999998,
+    "lng": -81.2076245,
+    "linkedin": null,
+    "googleMapsUrl": "https://maps.google.com/?cid=10819883431812402889&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "cybernetic-networks-inc",
+    "name": "Cybernetic Networks Inc.",
+    "summary": "Cybernetic Networks is an IT and cybersecurity provider serving small and mid-sized businesses in Orlando and Central Florida and in Naples and Southwest Florida. It offers managed IT with monitoring and maintenance, onsite support, Microsoft 365 and email administration, backup and disaster recovery, network setup, and VoIP phone systems. The company lists industry-focused support for health and medical practices, construction and field service firms, and retail and restaurants.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "computer_repair"
+    ],
+    "industries": [
+      "healthcare",
+      "construction",
+      "retail",
+      "professional_services"
+    ],
+    "compliance": [],
+    "partners": [
+      "Microsoft 365 Certified: Expert",
+      "Microsoft 365 Enterprise Administrator Expert",
+      "CCNP Enterprise",
+      "CCNP Security",
+      "CCNA",
+      "JNCIA",
+      "SecurityX",
+      "ITIL"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Orlando & Central Florida; Naples & Southwest Florida",
+    "pricing": "Hourly billing for onsite support; flat-rate monthly service plans for ongoing monitoring and support",
+    "rating": 4.8,
+    "reviewCount": 21,
+    "weightedRating": 4.83,
+    "website": "https://www.cyberneticnetworks.com/",
+    "phone": "(407) 554-5534",
+    "addresses": [
+      "195 Wekiva Springs Rd Ste 217, Longwood, FL 32779"
+    ],
+    "town": "Longwood",
+    "lat": 28.689237000000002,
+    "lng": -81.4064842,
+    "linkedin": "https://www.linkedin.com/company/cyberneticnetworks/",
+    "googleMapsUrl": "https://maps.google.com/?cid=2370189908494467316&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "orlando-it-services-llc",
+    "name": "Orlando IT Services, LLC",
+    "summary": "Orlando IT Services is an IT provider based in downtown Orlando that offers remote and on-site managed IT, 24/7 help desk support, cybersecurity, cloud backup and disaster recovery, and Microsoft 365 work. The company also installs low voltage cabling, CCTV and access control systems, and VoIP phone systems. It says it serves businesses across Florida, with locations listed in Orlando, Tampa, Winter Park and Lake Nona.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "compliance_services",
+      "structured_cabling"
+    ],
+    "industries": [
+      "healthcare",
+      "government",
+      "education",
+      "manufacturing",
+      "hospitality",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC"
+    ],
+    "partners": [
+      "Minority Business Enterprise (MBE) certified"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Statewide Florida, including Orlando, Tampa, Titusville, Fort Lauderdale, Miami and Jacksonville",
+    "pricing": null,
+    "rating": 4.8,
+    "reviewCount": 73,
+    "weightedRating": 4.81,
+    "website": "https://www.orlandoitservices.com/",
+    "phone": "(407) 900-0578",
+    "addresses": [
+      "3700 34th St Suite 230, Orlando, FL 32805"
+    ],
+    "town": "Orlando",
+    "lat": 28.5076136,
+    "lng": -81.421677,
+    "linkedin": "https://www.linkedin.com/company/orlandoitservices",
+    "googleMapsUrl": "https://maps.google.com/?cid=16903929704905207057&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "codeblackit",
+    "name": "CodeBlackIT",
+    "summary": "CodeBlackIT is an IT networking, computer repair and sales business in Winter Park, Florida, serving the Orlando area and surrounding counties. Alongside walk-in and on-site laptop and desktop repair, it offers month-to-month managed IT contracts covering monitoring, proactive maintenance, firewall security, data backup and disaster recovery, and 24/7 support for business clients.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "computer_repair"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": 1989,
+    "teamSize": null,
+    "serviceArea": "Orlando and Central Florida: Orange, Seminole, Volusia, Osceola and Lake counties, plus cities including Orlando, Winter Park, Sanford and Kissimmee",
+    "pricing": "Fixed monthly fee for managed services on a month-to-month contract",
+    "rating": 4.8,
+    "reviewCount": 117,
+    "weightedRating": 4.81,
+    "website": "https://codeblackit.com/",
+    "phone": "(407) 740-7587",
+    "addresses": [
+      "1155 Louisiana Ave Ste 107, Winter Park, FL 32789"
+    ],
+    "town": "Winter Park",
+    "lat": 28.608549300000004,
+    "lng": -81.3619251,
+    "linkedin": null,
+    "googleMapsUrl": "https://maps.google.com/?cid=13824452750374671944&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "far-out-solutions",
+    "name": "Far Out Solutions",
+    "summary": "Winter Park, Florida-based IT provider offering managed IT, co-managed IT, managed cybersecurity, Microsoft 365 and cloud administration, hosted VoIP and backup/disaster recovery. Serves property management, healthcare, construction, hospitality and other mid-market and enterprise organizations, with clients described as nationwide.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement"
+    ],
+    "industries": [
+      "healthcare",
+      "construction",
+      "real_estate",
+      "hospitality",
+      "retail",
+      "accounting_finance",
+      "education",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS"
+    ],
+    "partners": [
+      "Microsoft AI Cloud Solution Partner",
+      "CRN MSP 500 / 2026 MSP 501 Winner"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Serving businesses nationwide; headquartered in Winter Park, FL",
+    "pricing": "VoIP is billed per user per month; other pricing not stated",
+    "rating": 4.8,
+    "reviewCount": 180,
+    "weightedRating": 4.8,
+    "website": "http://www.faroutsolutions.com/",
+    "phone": "(888) 840-4075",
+    "addresses": [
+      "7005 University Blvd, Winter Park, FL 32792"
+    ],
+    "town": "Winter Park",
+    "lat": 28.597937599999998,
+    "lng": -81.29473899999999,
+    "linkedin": "https://www.linkedin.com/company/faroutsolutions/posts/?feedView=all",
+    "googleMapsUrl": "https://maps.google.com/?cid=14518509360975286105&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "semtech-it-solutions",
+    "name": "SemTech IT Solutions",
+    "summary": "Orlando-area IT company in Longwood, FL serving Central Florida since 2011 with managed IT, help desk, cybersecurity, backup, and vCIO services. Lists focus on legal, healthcare and construction clients, plus Managed Intelligence AI offerings and a Cyber Health Check penetration-style assessment.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "construction"
+    ],
+    "compliance": [],
+    "partners": [
+      "Lenovo Silver Partner",
+      "Authorized Service Provider",
+      "Clutch.co Top IT Services Company",
+      "ChannelE2E Top 100 Vertical Market MSPs (2023)"
+    ],
+    "foundedYear": 1984,
+    "teamSize": null,
+    "serviceArea": "Orlando and Central Florida",
+    "pricing": "Flat rate managed services with predictable monthly fees",
+    "rating": 4.7,
+    "reviewCount": 18,
+    "weightedRating": 4.77,
+    "website": "https://www.semtechit.com/?y_source=1_MTI0NDE0NTUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+    "phone": "(407) 830-1434",
+    "addresses": [
+      "1844 Longwood Lake Mary Rd Ste 1050, Longwood, FL 32750"
+    ],
+    "town": "Longwood",
+    "lat": 28.7225844,
+    "lng": -81.3374544,
+    "linkedin": "https://www.linkedin.com/company/semtech-it-solutions/",
+    "googleMapsUrl": "https://maps.google.com/?cid=11323820154329411999&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "itit",
+    "name": "ITIT",
+    "summary": "ITIT is a Maitland, Florida firm offering outsourced managed IT support, cybersecurity, IT strategy consulting and structured cabling. It serves businesses across Central Florida, with industry focus on healthcare, legal, government, nonprofit, architecture and engineering, and construction. The company also publishes articles on remote access, email security and network upgrades.",
+    "services": [
+      "managed_it",
+      "cybersecurity",
+      "it_strategy_vcio",
+      "structured_cabling",
+      "network_infrastructure"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "government",
+      "nonprofit",
+      "engineering_architecture",
+      "accounting_finance",
+      "construction",
+      "manufacturing",
+      "professional_services",
+      "retail"
+    ],
+    "compliance": [
+      "HIPAA",
+      "NIST",
+      "PCI DSS"
+    ],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Greater Orlando and Central Florida, including Orange, Seminole, Osceola, Volusia, Sumter, Marion and Lake counties",
+    "pricing": null,
+    "rating": 4.6,
+    "reviewCount": 9,
+    "weightedRating": 4.75,
+    "website": "https://www.itit.com/",
+    "phone": "(407) 984-4848",
+    "addresses": [
+      "2600 Maitland Center Pkwy #168, Maitland, FL 32751"
+    ],
+    "town": "Maitland",
+    "lat": 28.6337329,
+    "lng": -81.3971093,
+    "linkedin": null,
+    "googleMapsUrl": "https://maps.google.com/?cid=12257515991768816916&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "archis-inc",
+    "name": "Archis, Inc.",
+    "summary": "Archis Inc is a Winter Garden, Florida firm offering managed IT support, network infrastructure, low-voltage cabling, life safety and electrical services. It serves schools, government agencies, commercial and industrial facilities across Central Florida, and has been operating since 2001.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "structured_cabling"
+    ],
+    "industries": [
+      "education",
+      "government",
+      "healthcare",
+      "manufacturing",
+      "retail"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": 2001,
+    "teamSize": null,
+    "serviceArea": "Central Florida, 15 counties including Orange, Osceola, Seminole, Lake, Volusia, Polk, Marion, Citrus, Hernando, Brevard, Pasco, Sumter, Hillsborough, Pinellas and Indian River",
+    "pricing": null,
+    "rating": 4.0,
+    "reviewCount": 4,
+    "weightedRating": 4.64,
+    "website": "http://archistech.com/",
+    "phone": "(888) 324-2557",
+    "addresses": [
+      "350 E Crown Point Rd #1100, Winter Garden, FL 34787"
+    ],
+    "town": "Winter Garden",
+    "lat": 28.574690099999998,
+    "lng": -81.5617887,
+    "linkedin": "https://www.linkedin.com/company/archisinc",
+    "googleMapsUrl": "https://maps.google.com/?cid=8390646690912934563&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "central-florida-technology",
+    "name": "Central Florida Technology",
+    "summary": "Central Florida Technology is an Orlando-based IT services firm offering flat-rate managed IT, network security, cloud computing and mobile computing support. It lists sector-specific offerings for healthcare, accounting, legal, engineering and manufacturing clients. The firm also provides a free network analysis and security assessment as an entry point.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "structured_cabling",
+      "hardware_procurement",
+      "web_design"
+    ],
+    "industries": [
+      "healthcare",
+      "accounting_finance",
+      "legal",
+      "engineering_architecture",
+      "manufacturing"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [
+      "Certified Network Engineers and Technicians"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Orlando, FL",
+    "pricing": "Flat-rate monthly managed IT services",
+    "rating": 3.0,
+    "reviewCount": 2,
+    "weightedRating": 4.58,
+    "website": "http://www.cft.com/",
+    "phone": "(407) 420-1800",
+    "addresses": [
+      "1717 Rio Grande Ave, Orlando, FL 32805"
+    ],
+    "town": "Orlando",
+    "lat": 28.523378299999997,
+    "lng": -81.4009398,
+    "linkedin": "https://www.linkedin.com/company/central-florida-technology",
+    "googleMapsUrl": "https://maps.google.com/?cid=15539996603961006857&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "seminole-office-solutions",
+    "name": "Seminole Office Solutions",
+    "summary": "Longwood-based business technology dealer founded in 1984 and family-owned, selling and servicing copiers, printers and document workflow tools from Toshiba, Ricoh and Epson. It also offers managed IT and business continuity services through its SemTech IT Solutions division, serving businesses across Central Florida.",
+    "services": [
+      "managed_it",
+      "backup_disaster_recovery",
+      "voip_phones",
+      "hardware_procurement"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [
+      "Toshiba ProMasters Elite Certified dealer (2025)",
+      "Toshiba",
+      "Ricoh",
+      "Epson"
+    ],
+    "foundedYear": 1984,
+    "teamSize": null,
+    "serviceArea": "Central Florida",
+    "pricing": null,
+    "rating": 4.4,
+    "reviewCount": 24,
+    "weightedRating": 4.54,
+    "website": "http://www.sosfla.com/",
+    "phone": "(407) 830-7950",
+    "addresses": [
+      "762 Big Tree Dr, Longwood, FL 32750"
+    ],
+    "town": "Longwood",
+    "lat": 28.723679399999998,
+    "lng": -81.3362317,
+    "linkedin": "https://www.linkedin.com/company/seminole-office-solutions-inc./",
+    "googleMapsUrl": "https://maps.google.com/?cid=11211814297770763968&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "lane-technology-solutions-a-division-of-asystech-inc",
+    "name": "Lane Technology Solutions, a division of ASysTech, Inc",
+    "summary": "Winter Park-based IT provider offering managed IT infrastructure, Microsoft cloud and productivity services, data backup and continuity, cybersecurity, and website design and hosting for small and mid-sized businesses in Central Florida. The company also runs a technology recycling program and lists staff-led IT helpdesk support as part of its offering.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "hardware_procurement",
+      "web_design",
+      "voip_phones"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Central Florida",
+    "pricing": null,
+    "rating": 4.1,
+    "reviewCount": 14,
+    "weightedRating": 4.43,
+    "website": "http://www.asystech.com/",
+    "phone": "(407) 647-7787",
+    "addresses": [
+      "1717 W Fairbanks Ave, Winter Park, FL 32789"
+    ],
+    "town": "Winter Park",
+    "lat": 28.5935025,
+    "lng": -81.3725642,
+    "linkedin": "https://www.linkedin.com/company/lane-technology-solutions",
+    "googleMapsUrl": "https://maps.google.com/?cid=6121740964703203250&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "quantum-computer-solutions-inc",
+    "name": "Quantum Computer Solutions Inc",
+    "summary": "Kissimmee-based IT provider founded in 2003 serving Central Florida schools and small businesses. Offers managed IT with network monitoring, help desk support, Microsoft 365 and Google Workspace support, backup and recovery, cybersecurity, VoIP phones and virtual CIO services, with a focus on education clients.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "voip_phones",
+      "it_strategy_vcio",
+      "hardware_procurement",
+      "network_infrastructure"
+    ],
+    "industries": [
+      "education"
+    ],
+    "compliance": [],
+    "partners": [
+      "Dell",
+      "Schneider Electric"
+    ],
+    "foundedYear": 2003,
+    "teamSize": null,
+    "serviceArea": "Kissimmee, Orlando and Central Florida, including Tampa",
+    "pricing": "Flat-rate fee for managed IT services",
+    "rating": 3.0,
+    "reviewCount": 4,
+    "weightedRating": 4.35,
+    "website": "http://www.qcs-corp.com/",
+    "phone": "(407) 350-4928",
+    "addresses": [
+      "204 S Rose Ave, Kissimmee, FL 34741"
+    ],
+    "town": "Kissimmee",
+    "lat": 28.289700099999997,
+    "lng": -81.41232730000002,
+    "linkedin": "https://www.linkedin.com/company/quantum-computer-solutions",
+    "googleMapsUrl": "https://maps.google.com/?cid=6650213351643468467&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "onsyte-computer-sales-and-services-consortyo-networks-and-security",
+    "name": "Onsyte Computer Sales & Services (Consortyo Networks & Security)",
+    "summary": "Longwood-based IT firm operating since 2002 under the Onsyte Computer name, part of Consortyo Networks & Security. Provides ongoing managed IT, remote and onsite support, backup, Microsoft Teams and Office 365 help, and security camera and access control work for small and mid-sized businesses, with a particular focus on medical offices. Serves Orange and Seminole counties.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "backup_disaster_recovery",
+      "cloud_microsoft_365",
+      "network_infrastructure",
+      "voip_phones",
+      "structured_cabling",
+      "cybersecurity"
+    ],
+    "industries": [
+      "healthcare"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [
+      "Alarm.com security platform",
+      "Untangle firewall"
+    ],
+    "foundedYear": 2002,
+    "teamSize": null,
+    "serviceArea": "Central Florida, including Orange and Seminole counties (Orlando, Winter Park, Longwood, Lake Mary and surrounding areas)",
+    "pricing": "Monthly packages offered for medical offices; free consultation and estimates",
+    "rating": 3.0,
+    "reviewCount": 6,
+    "weightedRating": 4.18,
+    "website": "http://www.onsytecomputer.com/",
+    "phone": "(407) 389-1670",
+    "addresses": [
+      "745 W State Rd 434 Ste H, Longwood, FL 32750"
+    ],
+    "town": "Longwood",
+    "lat": 28.699311800000004,
+    "lng": -81.3566869,
+    "linkedin": null,
+    "googleMapsUrl": "https://maps.google.com/?cid=8872976588907031800&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "ion247-it-solutions-orlando",
+    "name": "ION247 IT Solutions Orlando",
+    "summary": "ION247 is an Orlando-based managed IT and managed security provider, part of the Pavion group, serving mid-sized and multi-location companies. Services cover remote monitoring and management, help desk support, cloud and Microsoft 365 work, backup and disaster recovery, and tiered cybersecurity programs with 24/7 detection and response. The site also highlights a healthcare practice focus with HIPAA-oriented support.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "PCI DSS"
+    ],
+    "partners": [
+      "Microsoft Services"
+    ],
+    "foundedYear": 2012,
+    "teamSize": null,
+    "serviceArea": "Orlando and nationwide; Southeast multi-location coverage",
+    "pricing": null,
+    "rating": 3.8,
+    "reviewCount": 21,
+    "weightedRating": 4.15,
+    "website": "https://ion247.com/managed-it/",
+    "phone": "(844) 466-2474",
+    "addresses": [
+      "317 Northlake Blvd #1024, Altamonte Springs, FL 32701"
+    ],
+    "town": "Altamonte Springs",
+    "lat": 28.655912099999995,
+    "lng": -81.38574109999999,
+    "linkedin": "https://www.linkedin.com/company/ion247-it-support-orlando/",
+    "googleMapsUrl": "https://maps.google.com/?cid=17454919145690387032&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "blacktip-it-services",
+    "name": "Blacktip IT Services",
+    "summary": "Blacktip is a Central Florida IT firm with a focus on Microsoft 365, Azure and security. It manages client tenants and infrastructure on an ongoing basis, and also provides technology strategy, Copilot adoption, and workflow automation. It has worked with construction and financial firms, and it describes itself as a Microsoft partner with certified staff.",
+    "services": [
+      "managed_it",
+      "cloud_microsoft_365",
+      "cybersecurity",
+      "it_strategy_vcio",
+      "network_infrastructure",
+      "backup_disaster_recovery"
+    ],
+    "industries": [
+      "construction"
+    ],
+    "compliance": [
+      "CMMC"
+    ],
+    "partners": [
+      "Microsoft Solutions Partner",
+      "Microsoft Modern Work and Security Partner"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Central Florida",
+    "pricing": null,
+    "rating": 3.4,
+    "reviewCount": 14,
+    "weightedRating": 4.02,
+    "website": "https://www.blacktip.com/",
+    "phone": "(407) 212-7625",
+    "addresses": [
+      "2170 W State Rd 434 #280, Altamonte Springs, FL 32714"
+    ],
+    "town": "Altamonte Springs",
+    "lat": 28.685776099999998,
+    "lng": -81.3956994,
+    "linkedin": "https://www.linkedin.com/company/blacktipit/",
+    "googleMapsUrl": "https://maps.google.com/?cid=3318890556183384232&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "unbreakable-it",
+    "name": "Unbreakable IT",
+    "summary": "UnbreakableIT is an Orlando-based IT provider serving small and midsized businesses with managed IT, including continuous infrastructure monitoring, help desk support and network security. Its offerings also cover cloud services, disaster recovery and IT consulting for technology roadmaps. The site describes a three-step process of assessing, implementing and sustaining client technology.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "it_strategy_vcio"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": null,
+    "pricing": null,
+    "rating": 3.0,
+    "reviewCount": 12,
+    "weightedRating": 3.86,
+    "website": "https://unbreakableit.com/",
+    "phone": "(407) 583-6291",
+    "addresses": [
+      "501 N Magnolia Ave Ste 1000, Orlando, FL 32801"
+    ],
+    "town": "Orlando",
+    "lat": 28.5494964,
+    "lng": -81.3765344,
+    "linkedin": null,
+    "googleMapsUrl": "https://maps.google.com/?cid=9487320262187537603&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "infinet-technologies",
+    "name": "InfiNET Technologies",
+    "summary": "InfiNET Technologies is a Winter Park, Florida IT firm offering network management, support, hosted services, and backup and data security to small and medium-sized businesses in Orlando and Central Florida. The company says it typically works with clients of five to 50 employees or workstations across industries such as construction, health care, legal, and finance and accounting.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "construction",
+      "healthcare",
+      "legal",
+      "accounting_finance"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": "Typically serves companies with 5 to 50 employees or workstations",
+    "serviceArea": "Orlando and Central Florida, including Winter Park, Maitland, Altamonte Springs, Lake Mary, Longwood, Sanford, Winter Garden and Titusville",
+    "pricing": null,
+    "rating": null,
+    "reviewCount": 0,
+    "weightedRating": null,
+    "website": "http://www.infinettechnologies.net/",
+    "phone": "(407) 442-2829",
+    "addresses": [
+      "501 N Orlando Ave, Winter Park, FL 32789"
+    ],
+    "town": "Winter Park",
+    "lat": 28.6031417,
+    "lng": -81.367896,
+    "linkedin": "http://www.linkedin.com/company/infinet-technologies-llc",
+    "googleMapsUrl": "https://maps.google.com/?cid=16399237961364259975&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "certified-computer-solutions",
+    "name": "Certified Computer Solutions",
+    "summary": "Central Florida IT firm offering managed IT support, help desk, network and server management, Microsoft 365 administration, backup and disaster recovery, and virtual CIO services. Serves businesses in Orlando, Tampa, Jacksonville, Daytona Beach and surrounding areas, including companies with and without an internal IT department. Also provides security monitoring and vulnerability analysis, and is a Zoho partner.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [
+      "Zoho Partner",
+      "Sonicwall",
+      "Cisco",
+      "Microsoft Certified Systems Engineer",
+      "Microsoft Certified IT Professional",
+      "Certified Ethical Hacker"
+    ],
+    "foundedYear": 2002,
+    "teamSize": null,
+    "serviceArea": "Orlando, Longwood, Daytona Beach, Tampa, Jacksonville and surrounding Central Florida communities",
+    "pricing": null,
+    "rating": null,
+    "reviewCount": 0,
+    "weightedRating": null,
+    "website": "https://www.ccsfl.com/contact",
+    "phone": "(407) 834-1191",
+    "addresses": [
+      "754 Fleet Financial Ct, Longwood, FL 32750"
+    ],
+    "town": "Longwood",
+    "lat": 28.721026499999994,
+    "lng": -81.3333404,
+    "linkedin": null,
+    "googleMapsUrl": "https://maps.google.com/?cid=8349085510827082060&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "son-technology",
+    "name": "SON Technology",
+    "summary": "SON Technology is a Florida IT consulting and managed services firm serving Orlando-area and Central Florida businesses, with some work for federal agencies. Its offerings include monitoring and help desk support, network and server management, cloud and Microsoft 365 services, onsite and offsite backup, disaster recovery, cybersecurity, and structured cabling. The firm says it has served SMB clients since 2003 and lists healthcare, legal, financial, government and retail among its industries.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "structured_cabling"
+    ],
+    "industries": [
+      "healthcare",
+      "government",
+      "legal",
+      "accounting_finance",
+      "retail",
+      "manufacturing",
+      "education",
+      "nonprofit"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS"
+    ],
+    "partners": [
+      "NASA SEWP VI"
+    ],
+    "foundedYear": 2003,
+    "teamSize": null,
+    "serviceArea": "Orlando and Central Florida, with clients across the U.S. and federal government agencies",
+    "pricing": "Fixed monthly fee based on service level agreement",
+    "rating": null,
+    "reviewCount": 0,
+    "weightedRating": null,
+    "website": "https://sontechnology.com/",
+    "phone": "(407) 936-2220",
+    "addresses": [
+      "1701 W 1st St, Sanford, FL 32771"
+    ],
+    "town": "Sanford",
+    "lat": 28.8110423,
+    "lng": -81.2862798,
+    "linkedin": "https://www.linkedin.com/company/son-technology",
+    "googleMapsUrl": "https://maps.google.com/?cid=17709943692681228759&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "kordana-technology-solutions",
+    "name": "Kordana Technology Solutions",
+    "summary": "Kordana Technology Solutions is a Kissimmee-based IT provider offering managed IT, Microsoft 365 administration, security, backup and recovery, networking, and technology planning to businesses in Central Florida, including Orlando, St. Cloud and Osceola County. The firm works remotely and on-site and describes a founder-led, plain-language approach, with a free online readiness assessment as an entry point.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "it_strategy_vcio"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [
+      "Huntress",
+      "Microsoft 365 (Microsoft Teams, Exchange, SharePoint)",
+      "RingCentral",
+      "Cisco Meraki"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Central Florida, including Orlando, St. Cloud, Kissimmee and Osceola County; remote and on-site",
+    "pricing": null,
+    "rating": null,
+    "reviewCount": 0,
+    "weightedRating": null,
+    "website": "https://www.kordanatech.com/",
+    "phone": "(321) 400-9586",
+    "addresses": [
+      "1412 Levy Bnd Dr, Kissimmee, FL 34744"
+    ],
+    "town": "Kissimmee",
+    "lat": 28.2675268,
+    "lng": -81.3211042,
+    "linkedin": "https://www.linkedin.com/company/kordanatech/",
+    "googleMapsUrl": "https://maps.google.com/?cid=9636689145323906552&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "mindcore-technologies",
+    "name": "Mindcore Technologies",
+    "summary": "Mindcore Technologies is an IT and cybersecurity firm based in Orlando, Florida, with service coverage across several states. It offers managed IT support, cybersecurity and compliance work, cloud and Microsoft 365 administration, and NetSuite consulting for businesses. The firm also markets an AI-driven security platform called ShieldHQ and lists industry focus areas including healthcare, financial services, legal, insurance and manufacturing.",
+    "services": [
+      "managed_it",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "network_infrastructure"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "insurance",
+      "manufacturing",
+      "engineering_architecture"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "NIST",
+      "SOC 2"
+    ],
+    "partners": [
+      "Microsoft Solutions Partner"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "New Jersey, Florida, Maryland, South Carolina, Louisiana, Mississippi, Texas, Alabama, Georgia, North Carolina, Kansas, Missouri and the wider United States",
+    "pricing": null,
+    "rating": null,
+    "reviewCount": 0,
+    "weightedRating": null,
+    "website": "https://mind-core.com/",
+    "phone": "(561) 404-8411",
+    "addresses": [
+      "121 S Orange Ave #1500, Orlando, FL 32801"
+    ],
+    "town": "Orlando",
+    "lat": 28.5417614,
+    "lng": -81.3789254,
+    "linkedin": null,
+    "googleMapsUrl": "https://maps.google.com/?cid=16083852257150116342&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "tech-serv",
+    "name": "Tech Serv",
+    "summary": "TechServ is an Ocala, Florida based IT provider that focuses on restaurants and hospitality venues, with hotels, offices and other businesses also served. Services include a 24/7 helpdesk with optional subscription discounts on on-site work, POS system support, Watchguard and Unifi networking, March Networks camera systems, hosted VoIP phones and audio systems. The company says it serves clients across the United States, with its roots in North Central Florida and Southern Georgia.",
+    "services": [
+      "help_desk",
+      "managed_it",
+      "network_infrastructure",
+      "voip_phones",
+      "cybersecurity",
+      "computer_repair"
+    ],
+    "industries": [
+      "hospitality",
+      "retail"
+    ],
+    "compliance": [],
+    "partners": [
+      "Watchguard",
+      "Unifi",
+      "March Networks",
+      "Toast",
+      "Aloha",
+      "Brink"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Nationwide United States, based in Ocala, Florida with roots in North Central Florida and Southern Georgia",
+    "pricing": "VoIP priced at $29 per extension plus SIP fees; helpdesk offered as a subscription with discounts on on-site services",
+    "rating": null,
+    "reviewCount": 0,
+    "weightedRating": null,
+    "website": "https://calltechserv.com/",
+    "phone": "(352) 482-1999",
+    "addresses": [
+      "6649 Amory Ct #11, Winter Park, FL 32792"
+    ],
+    "town": "Winter Park",
+    "lat": 28.595018999999997,
+    "lng": -81.300936,
+    "linkedin": null,
+    "googleMapsUrl": "https://maps.google.com/?cid=8600098605266273975&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "zog-inc",
+    "name": "Zog, Inc.",
+    "summary": "Zog, Inc. is an IT services firm with offices in Philadelphia and Winter Park, Florida, serving businesses under ongoing managed IT agreements. Its services cover managed IT, co-managed IT, managed cybersecurity, backup and disaster recovery, cloud services and CMMC compliance support. Zog highlights clients in legal, healthcare, nonprofit, construction, manufacturing, government and professional services.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "co_managed_it",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "construction",
+      "manufacturing",
+      "nonprofit",
+      "government",
+      "professional_services"
+    ],
+    "compliance": [
+      "CMMC"
+    ],
+    "partners": [
+      "Registered Microsoft Partner"
+    ],
+    "foundedYear": 1999,
+    "teamSize": null,
+    "serviceArea": "Philadelphia, PA and Orlando, FL regions",
+    "pricing": "Flat subscription rate based on number of users",
+    "rating": null,
+    "reviewCount": 0,
+    "weightedRating": null,
+    "website": "https://www.zoginc.com/",
+    "phone": "(407) 548-1500",
+    "addresses": [
+      "127 W Fairbanks Ave Ste 454, Winter Park, FL 32789"
+    ],
+    "town": "Winter Park",
+    "lat": 28.593449699999997,
+    "lng": -81.35132829999999,
+    "linkedin": "https://www.linkedin.com/company/zog-inc/",
+    "googleMapsUrl": "https://maps.google.com/?cid=4733511959852649052&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "digital-armor",
+    "name": "Digital Armor",
+    "summary": "Digital Armor is an Altamonte Springs, Florida technology provider founded in 2018 that offers managed IT, network security, compliance-as-a-service and cyber insurance readiness support. The firm highlights 24/7 network monitoring, a one-hour emergency response commitment, and co-managed IT for businesses, with leadership citing prior experience in Department of Defense communications and information systems.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "backup_disaster_recovery"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": 2018,
+    "teamSize": null,
+    "serviceArea": "Florida",
+    "pricing": null,
+    "rating": null,
+    "reviewCount": 0,
+    "weightedRating": null,
+    "website": "https://yourdigitalarmor.com/contact-us/",
+    "phone": "(407) 421-4305",
+    "addresses": [
+      "478 E Altamonte Dr, Altamonte Springs, FL 32701"
+    ],
+    "town": "Altamonte Springs",
+    "lat": 28.662990999999998,
+    "lng": -81.3752137,
+    "linkedin": "https://www.linkedin.com/company/yourdigitalarmor/",
+    "googleMapsUrl": "https://maps.google.com/?cid=2736588476319513279&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "advanced-business-networking",
+    "name": "Advanced Business Networking",
+    "summary": "Advanced Business Networking is an IT services firm in Lake Mary, Florida that describes itself as a managed service provider for small and medium-sized businesses. Its offerings span IT support, network management, cybersecurity, cloud services, software development and compliance management, with a subscription or pay-as-you-go pricing model. The site states over 25 years in the IT industry.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "network_infrastructure",
+      "it_strategy_vcio",
+      "compliance_services",
+      "software_development"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Lake Mary, Florida",
+    "pricing": "Subscription or pay-as-you-go model",
+    "rating": null,
+    "reviewCount": 0,
+    "weightedRating": null,
+    "website": "https://advancedbusinessnetworking.com/",
+    "phone": "(689) 689-3525",
+    "addresses": [
+      "1130 Business Center Dr, Lake Mary, FL 32746"
+    ],
+    "town": "Lake Mary",
+    "lat": 28.7842131,
+    "lng": -81.3610467,
+    "linkedin": null,
+    "googleMapsUrl": "https://maps.google.com/?cid=10305985845895430164&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "twice-technologies-computer",
+    "name": "Twice Technologies Computer",
+    "summary": "Twice Technologies is an Orlando, Florida computer solutions firm that builds and maintains business networks, provides ongoing IT support and monitoring, and handles backup, cloud administration and Microsoft Exchange and Office 365 support. It also offers computer repair, VoIP phone setup and regulatory compliance support, with stated work for healthcare and hospitality clients.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "compliance_services",
+      "hardware_procurement",
+      "computer_repair"
+    ],
+    "industries": [
+      "healthcare",
+      "hospitality"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS"
+    ],
+    "partners": [
+      "Intel channel partner",
+      "Microsoft partner"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Orlando, Florida",
+    "pricing": "Custom IT support plans of varying sizes; free on-site consultation offered",
+    "rating": null,
+    "reviewCount": 0,
+    "weightedRating": null,
+    "website": "http://www.twicetech.com/",
+    "phone": "(407) 841-6600",
+    "addresses": [
+      "13750 W Colonial Dr Ste 350, Winter Garden, FL 34787"
+    ],
+    "town": "Winter Garden",
+    "lat": 28.5490723,
+    "lng": -81.58933400000001,
+    "linkedin": null,
+    "googleMapsUrl": "https://maps.google.com/?cid=8125193552088482010&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "cteks-managed-it-and-cybersecurity-services",
+    "name": "CTEKS | Managed IT & Cybersecurity Services",
+    "summary": "CTEKS is a managed IT and managed security provider based in Schaumburg, Illinois, offering help desk, monitoring and patching, managed SOC/EDR security, Microsoft 365 and cloud administration, backup and disaster recovery, and IT consulting. It serves small and mid-sized organizations in Chicagoland and remotely across the United States, with a focus on healthcare, legal, financial, property and nonprofit clients. Pricing is per user per month with a free remote assessment to start.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "nonprofit",
+      "education",
+      "government",
+      "real_estate",
+      "manufacturing",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS"
+    ],
+    "partners": [],
+    "foundedYear": 2002,
+    "teamSize": null,
+    "serviceArea": "Chicagoland and 30 service areas across the United States, based in Schaumburg, IL",
+    "pricing": "Per user per month plans starting at $80, with three tiers",
+    "rating": null,
+    "reviewCount": 0,
+    "weightedRating": null,
+    "website": "https://cteks.com/",
+    "phone": "(847) 200-3666",
+    "addresses": [
+      "4700 Millenia Blvd, Orlando, FL 32839"
+    ],
+    "town": "Orlando",
+    "lat": 28.4847377,
+    "lng": -81.44009,
+    "linkedin": null,
+    "googleMapsUrl": "https://maps.google.com/?cid=7734540781676874869&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "cybertronics-tech-group",
+    "name": "Cybertronics Tech Group",
+    "summary": "Orlando-based IT provider offering managed IT with 24/7 monitoring and support, cybersecurity including firewall management and penetration testing, cloud backup and disaster recovery planning, network and WiFi infrastructure, VoIP phones, and on-demand IT consulting. The site says it works with businesses of various sizes across multiple industries, and states over 20 years of IT experience.",
+    "services": [
+      "managed_it",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Orlando",
+    "pricing": null,
+    "rating": null,
+    "reviewCount": 0,
+    "weightedRating": null,
+    "website": "https://cybertronics.tech/",
+    "phone": "(407) 743-4446",
+    "addresses": [
+      "1317 Edgewater Dr #3696, Orlando, FL 32804"
+    ],
+    "town": "Orlando",
+    "lat": 28.561521000000003,
+    "lng": -81.3887211,
+    "linkedin": null,
+    "googleMapsUrl": "https://maps.google.com/?cid=6116606980741176241&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "ck-technology-partners",
+    "name": "CK Technology Partners",
+    "summary": "CK Technology Partners is a Longwood, Florida provider of managed IT services for small and medium-sized businesses, covering monitoring, help desk, cloud and Microsoft 365 management, backup, and cybersecurity. The company also offers network infrastructure, IT consulting and project management, plus audio/video services. Testimonials mention clients in sectors including restaurants and law offices.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "legal"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Central Florida, Orlando and Longwood",
+    "pricing": "Fixed monthly fee for all-inclusive IT model",
+    "rating": null,
+    "reviewCount": 0,
+    "weightedRating": null,
+    "website": "https://www.ckpartners.tech/",
+    "phone": "(844) 469-2587",
+    "addresses": [
+      "501 Florida Central Pkwy, Longwood, FL 32750"
+    ],
+    "town": "Longwood",
+    "lat": 28.6953018,
+    "lng": -81.352066,
+    "linkedin": null,
+    "googleMapsUrl": "https://maps.google.com/?cid=3360075343857773970&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "network-elites",
+    "name": "Network Elites",
+    "summary": "Network Elites is a managed IT and cybersecurity provider serving businesses in the Dallas area with remote support and onsite help when needed, and also offering services to clients in other states. Offerings include 24/7 help desk, managed security with a SOC, Microsoft 365 administration, backup and disaster recovery, and vCIO-style IT strategy, billed on flat-rate plans without long-term contracts. Named clients include nonprofits and accounting, healthcare and legal firms.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "manufacturing",
+      "nonprofit",
+      "real_estate"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [
+      "MSP 501 Top Global Managed Service Providers 2026",
+      "CRN Tech Elite 250 (two consecutive years)"
+    ],
+    "foundedYear": 2002,
+    "teamSize": "over 40 IT technicians",
+    "serviceArea": "Dallas-Fort Worth, TX metro with remote support nationwide",
+    "pricing": "Flat-rate pricing, no long-term contracts or cancellation fees",
+    "rating": null,
+    "reviewCount": 0,
+    "weightedRating": null,
+    "website": "https://www.networkelites.com/",
+    "phone": "(407) 815-5695",
+    "addresses": [
+      "37 N Orange Ave #547, Orlando, FL 32801"
+    ],
+    "town": "Orlando",
+    "lat": 28.5427814,
+    "lng": -81.3787566,
+    "linkedin": "https://www.linkedin.com/company/networkelites",
+    "googleMapsUrl": "https://maps.google.com/?cid=7787520859399574039&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "the-scarlett-group",
+    "name": "The Scarlett Group",
+    "summary": "The Scarlett Group is an IT services firm with an Orlando office that provides outsourced managed IT, help desk, managed cybersecurity and cloud administration on an ongoing basis. It also offers CMMC and HIPAA compliance consulting and serves clients in healthcare, legal, construction, accounting and government sectors across Florida, North Carolina and beyond.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "construction",
+      "accounting_finance",
+      "government",
+      "manufacturing"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "NIST",
+      "PCI DSS",
+      "GLBA"
+    ],
+    "partners": [
+      "ISACA Certified Partner",
+      "CMMC Registered Practitioners",
+      "ISACA Certified Auditors"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Florida and North Carolina; managed cybersecurity offered nationwide",
+    "pricing": null,
+    "rating": null,
+    "reviewCount": 0,
+    "weightedRating": null,
+    "website": "https://www.scarlettculture.com/managed-it-services-orlando-fl",
+    "phone": "(407) 641-4150",
+    "addresses": [
+      "111 N Orange Ave Suit 800, Orlando, FL 32801"
+    ],
+    "town": "Orlando",
+    "lat": 28.5437059,
+    "lng": -81.37888090000001,
+    "linkedin": "https://www.linkedin.com/company/the-scarlett-group/",
+    "googleMapsUrl": "https://maps.google.com/?cid=1357519309363536787&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "nexgen-business-solutions",
+    "name": "Nexgen Business Solutions",
+    "summary": "Orlando-based firm offering managed IT, cybersecurity, VoIP phone systems, and network design to Central Florida businesses, alongside AI automation and digital marketing. Serves medical, dental, legal, auto dealership, construction, and hospitality clients, with some hosting and remote IT work nationally. Operates its own server and phone infrastructure and has been in business since 2003.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "network_infrastructure",
+      "voip_phones",
+      "backup_disaster_recovery",
+      "hardware_procurement",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "healthcare",
+      "dental",
+      "legal",
+      "automotive",
+      "construction",
+      "hospitality",
+      "insurance",
+      "accounting_finance",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "SOC 2",
+      "PCI DSS",
+      "CMMC",
+      "NIST"
+    ],
+    "partners": [
+      "CCNP-level Cisco networking expertise"
+    ],
+    "foundedYear": 2003,
+    "teamSize": null,
+    "serviceArea": "Central Florida (60-mile Orlando radius), Tampa, Miami and Jacksonville corridors; national for remote IT and hosting",
+    "pricing": "Flat-rate monthly IT packages (Essential, Business Plus, Enterprise); paid strategy assessment credited toward project",
+    "rating": null,
+    "reviewCount": 0,
+    "weightedRating": null,
+    "website": "http://nbsincorp.com/contact-us.php",
+    "phone": "(407) 966-4609",
+    "addresses": [
+      "5401 S Kirkman Rd, Orlando, FL 32819"
+    ],
+    "town": "Orlando",
+    "lat": 28.484255599999997,
+    "lng": -81.4575523,
+    "linkedin": null,
+    "googleMapsUrl": "https://maps.google.com/?cid=3107963271146880531&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "cyber-security-solutions",
+    "name": "Cyber Security Solutions",
+    "summary": "Veteran-founded managed security and compliance provider based in Tampa, with offices in Orlando and Miami. It serves defense contractors and regulated professional firms such as legal, healthcare, accounting and finance, offering managed IT, a 24/7 security operations center, and CMMC, HIPAA and GLBA compliance support. Services also include vCIO planning and AI readiness work.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "insurance",
+      "manufacturing",
+      "government",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "NIST",
+      "PCI DSS",
+      "FTC Safeguards",
+      "GLBA"
+    ],
+    "partners": [],
+    "foundedYear": 2015,
+    "teamSize": null,
+    "serviceArea": "Operating in 37 states; offices in Tampa, Orlando and Miami, FL",
+    "pricing": "Pricing scoped to devices, locations, compliance needs and implementation effort; online estimator for monthly cost",
+    "rating": null,
+    "reviewCount": 0,
+    "weightedRating": null,
+    "website": "https://securedbycss.com/",
+    "phone": "(689) 334-2662",
+    "addresses": [
+      "6555 Sanger Rd, Orlando, FL 32827"
+    ],
+    "town": "Orlando",
+    "lat": 28.3667722,
+    "lng": -81.28993489999999,
+    "linkedin": "https://www.linkedin.com/company/cyber-security-solutions-fl/",
+    "googleMapsUrl": "https://maps.google.com/?cid=5017894453216141864&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "rhino-technologies",
+    "name": "Rhino Technologies",
+    "summary": "Rhino Technologies is an IT provider based in Altamonte Springs, Florida, offering fully managed IT services that act as a client's outsourced IT department. Its offerings also include network evaluations, one-off professional IT projects such as cloud migrations and hardware deployments, hosted VoIP, and structured cabling. The company states a values-driven, people-first approach to client relationships.",
+    "services": [
+      "managed_it",
+      "network_infrastructure",
+      "cloud_microsoft_365",
+      "voip_phones",
+      "structured_cabling"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Florida; Orlando area referenced in site keywords",
+    "pricing": null,
+    "rating": null,
+    "reviewCount": 0,
+    "weightedRating": null,
+    "website": "http://rhino-tech.net/",
+    "phone": null,
+    "addresses": [
+      "631 Palm Springs Dr Ste 111, Altamonte Springs, FL 32701"
+    ],
+    "town": "Altamonte Springs",
+    "lat": 28.673882700000004,
+    "lng": -81.3732539,
+    "linkedin": null,
+    "googleMapsUrl": "https://maps.google.com/?cid=18312123168388265403&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "cosys-systems-solutions-group-inc",
+    "name": "COSYS - Systems Solutions Group, Inc.",
+    "summary": "COSYS - Systems Solutions Group is an IT services firm in the Orlando, Central Florida area serving small and medium businesses. Its Shared Vision managed service provides outsourced IT department support through tiered monthly plans covering monitoring, patching, backup, firewall, antivirus and help desk. The company says it has worked with Microsoft, Dell, SonicWall and Trend Micro among other technology partners.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones"
+    ],
+    "industries": [
+      "construction",
+      "engineering_architecture",
+      "accounting_finance"
+    ],
+    "compliance": [],
+    "partners": [
+      "Microsoft",
+      "Dell",
+      "SonicWall",
+      "Trend Micro",
+      "StorageCraft",
+      "Reflexion"
+    ],
+    "foundedYear": 1988,
+    "teamSize": null,
+    "serviceArea": "Orlando, Central Florida",
+    "pricing": "Low set monthly fee per tiered service plan (React-IT, Proact-IT Professional, Proact-IT Enterprise)",
+    "rating": null,
+    "reviewCount": 0,
+    "weightedRating": null,
+    "website": "http://cosys.net/",
+    "phone": "(407) 512-6603",
+    "addresses": [
+      "5224 FL-46 #415, Sanford, FL 32771"
+    ],
+    "town": "Sanford",
+    "lat": 28.8128051,
+    "lng": -81.3531368,
+    "linkedin": null,
+    "googleMapsUrl": "https://maps.google.com/?cid=12554117388069034819&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "nerds-on-site-cfl",
+    "name": "Nerds on Site CFL",
+    "summary": "Nerds On Site is a national IT support company, founded in 1995, that provides on-site and remote support, managed IT services and cybersecurity to small and medium businesses across Canada and the United States. It also offers web development, hosting and monthly website maintenance plans, and residential IT support. The Clermont, FL listing appears to be one local branch of this national brand.",
+    "services": [
+      "managed_it",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "it_strategy_vcio",
+      "web_design",
+      "computer_repair"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": 1995,
+    "teamSize": null,
+    "serviceArea": "Across Canada & the United States",
+    "pricing": "Monthly managed service packages; web support plans from $60/month and hosting from $28.50/month; advertises no travel fees or hidden costs",
+    "rating": null,
+    "reviewCount": 0,
+    "weightedRating": null,
+    "website": "http://www.nerdsonsite.com/",
+    "phone": "(407) 350-8383",
+    "addresses": [
+      "14324 Greater Pines Blvd, Clermont, FL 34711"
+    ],
+    "town": "Clermont",
+    "lat": 28.5340137,
+    "lng": -81.7151492,
+    "linkedin": null,
+    "googleMapsUrl": "https://maps.google.com/?cid=15741306911672628551&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "harmony-tech",
+    "name": "Harmony Tech",
+    "summary": "Veteran-owned IT and security firm in Central Florida offering monthly per-user managed IT with 24/7 SOC-backed monitoring, helpdesk, backups and Microsoft 365 management. Serves law firms, medical and dental practices, CPA firms and government agencies, with published pricing and optional ransomware recovery, fractional CTO and AI consulting services.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "legal",
+      "dental",
+      "healthcare",
+      "accounting_finance",
+      "government"
+    ],
+    "compliance": [
+      "HIPAA",
+      "FTC Safeguards",
+      "SOC 2"
+    ],
+    "partners": [
+      "SDVOSB certified",
+      "Registered in SAM.gov"
+    ],
+    "foundedYear": 2011,
+    "teamSize": null,
+    "serviceArea": "Central Florida, including Orlando, Winter Park, Lake Mary, Kissimmee and surrounding areas",
+    "pricing": "Flat per-user monthly pricing (from $90/user/mo), minimum 5 users, servers billed at $250/server/mo, month-to-month after initial 90 days",
+    "rating": null,
+    "reviewCount": 0,
+    "weightedRating": null,
+    "website": "http://www.harmony-tech.com/",
+    "phone": "(407) 454-5039",
+    "addresses": [
+      "660 Celebration Ave, Kissimmee, FL 34747"
+    ],
+    "town": "Kissimmee",
+    "lat": 28.319076499999998,
+    "lng": -81.53999429999999,
+    "linkedin": "https://linkedin.com/company/harmonymspllc",
+    "googleMapsUrl": "https://maps.google.com/?cid=5397711834231871671&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "city": "orlando",
+    "state": "florida"
+  }
+]
