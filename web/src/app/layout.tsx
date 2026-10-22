@@ -30,6 +30,8 @@ export const metadata: Metadata = {
   },
   description:
     "Compare managed service providers (MSPs) by city. Verified MSPs only, with services, industries, compliance support and live Google reviews for each.",
+  // Google Search Console ownership check; renders <meta name="google-site-verification">.
+  verification: { google: "0tL9E0gmZPVhTfZxFmUCCHBPMnzztlBU1tEzTWakk3o" },
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
