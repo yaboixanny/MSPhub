@@ -1,7 +1,6 @@
 import type { MetadataRoute } from "next";
 import { getAllMsps, getAreas, getCities, getCoveredStates } from "@/lib/data";
-
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000";
+import { SITE_URL } from "@/lib/site";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const cities = getCities();

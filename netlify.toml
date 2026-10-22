@@ -1,0 +1,9 @@
+# The site lives in web/; the rest of the repo is the data pipeline.
+[build]
+  base = "web"
+  command = "npm run build"
+  # Relative to base. Netlify's Next.js runtime serves the app from here.
+  publish = ".next"
+
+[build.environment]
+  NODE_VERSION = "22"

@@ -7,6 +7,7 @@ import { CityDirectory } from "@/components/CityDirectory";
 import { JsonLd } from "@/components/JsonLd";
 import { getAreas, getCities, getCity, getCityMsps, topValues } from "@/lib/data";
 import { toDirectory } from "@/lib/directory";
+import { SITE_URL } from "@/lib/site";
 import { INDUSTRY_LABELS, label } from "@/lib/labels";
 
 export function generateStaticParams() {
@@ -145,7 +146,7 @@ async function CityContent({ params }: Pick<PageProps<"/[state]/[city]">, "param
           itemListElement: msps.map((msp, index) => ({
             "@type": "ListItem",
             position: index + 1,
-            url: `${process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000"}/msp/${msp.slug}`,
+            url: `${SITE_URL}/msp/${msp.slug}`,
             name: msp.name,
           })),
         }}

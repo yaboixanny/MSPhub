@@ -1,10 +1,10 @@
 import Link from "next/link";
 import { JsonLd } from "@/components/JsonLd";
+import { SITE_URL } from "@/lib/site";
 
 export type Crumb = { name: string; href: string };
 
 export function Breadcrumbs({ items }: { items: Crumb[] }) {
-  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000";
   return (
     <>
       <nav aria-label="Breadcrumb" className="text-sm text-slate-500">
@@ -31,7 +31,7 @@ export function Breadcrumbs({ items }: { items: Crumb[] }) {
             "@type": "ListItem",
             position: index + 1,
             name: item.name,
-            item: `${siteUrl}${item.href}`,
+            item: `${SITE_URL}${item.href}`,
           })),
         }}
       />
