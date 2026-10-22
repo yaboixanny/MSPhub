@@ -1,12 +1,14 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { Suspense } from "react";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { CityDirectory } from "@/components/CityDirectory";
 import { getArea, getAreaMsps, getAreas, getCities, getCity, topValues } from "@/lib/data";
 import { toDirectory } from "@/lib/directory";
 import { INDUSTRY_LABELS, label } from "@/lib/labels";
+
+// Static export: only the pages listed below exist; anything else is a 404.
+export const dynamicParams = false;
 
 export function generateStaticParams() {
   return getCities().flatMap((city) =>
@@ -28,17 +30,7 @@ export async function generateMetadata({ params }: PageProps<"/[state]/[city]/[a
   };
 }
 
-// Read params inside Suspense so navigations to pages outside
-// generateStaticParams can still render instantly.
-export default function AreaPage({ params }: PageProps<"/[state]/[city]/[area]">) {
-  return (
-    <Suspense fallback={null}>
-      <AreaContent params={params} />
-    </Suspense>
-  );
-}
-
-async function AreaContent({ params }: Pick<PageProps<"/[state]/[city]/[area]">, "params">) {
+export default async function AreaPage({ params }: PageProps<"/[state]/[city]/[area]">) {
   const { state, city: citySlug, area: areaSlug } = await params;
   const city = getCity(state, citySlug);
   const area = getArea(state, citySlug, areaSlug);

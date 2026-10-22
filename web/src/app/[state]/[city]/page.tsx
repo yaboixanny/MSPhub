@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { Suspense } from "react";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { CityDirectory } from "@/components/CityDirectory";
 import { JsonLd } from "@/components/JsonLd";
@@ -9,6 +8,9 @@ import { getAreas, getCities, getCity, getCityMsps, topValues } from "@/lib/data
 import { toDirectory } from "@/lib/directory";
 import { SITE_URL } from "@/lib/site";
 import { INDUSTRY_LABELS, label } from "@/lib/labels";
+
+// Static export: only the pages listed below exist; anything else is a 404.
+export const dynamicParams = false;
 
 export function generateStaticParams() {
   return getCities().map((city) => ({ state: city.state, city: city.slug }));
@@ -25,17 +27,7 @@ export async function generateMetadata({ params }: PageProps<"/[state]/[city]">)
   };
 }
 
-// Read params inside Suspense so navigations to pages outside
-// generateStaticParams can still render instantly.
-export default function CityPage({ params }: PageProps<"/[state]/[city]">) {
-  return (
-    <Suspense fallback={null}>
-      <CityContent params={params} />
-    </Suspense>
-  );
-}
-
-async function CityContent({ params }: Pick<PageProps<"/[state]/[city]">, "params">) {
+export default async function CityPage({ params }: PageProps<"/[state]/[city]">) {
   const { state, city: citySlug } = await params;
   const city = getCity(state, citySlug);
   if (!city) notFound();

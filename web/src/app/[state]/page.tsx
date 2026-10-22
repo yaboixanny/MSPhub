@@ -1,10 +1,12 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { Suspense } from "react";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { Rating } from "@/components/Rating";
 import { getAreas, getCoveredStates, getState, getStateMsps, getStates } from "@/lib/data";
+
+// Static export: only the pages listed below exist; anything else is a 404.
+export const dynamicParams = false;
 
 export function generateStaticParams() {
   return getStates().map((state) => ({ state: state.slug }));
@@ -25,17 +27,7 @@ export async function generateMetadata({ params }: PageProps<"/[state]">): Promi
   };
 }
 
-// Read params inside Suspense so navigations to pages outside
-// generateStaticParams can still render instantly.
-export default function StatePage({ params }: PageProps<"/[state]">) {
-  return (
-    <Suspense fallback={null}>
-      <StateContent params={params} />
-    </Suspense>
-  );
-}
-
-async function StateContent({ params }: Pick<PageProps<"/[state]">, "params">) {
+export default async function StatePage({ params }: PageProps<"/[state]">) {
   const { state: slug } = await params;
   const state = getState(slug);
   if (!state) notFound();

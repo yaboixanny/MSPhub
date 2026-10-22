@@ -2,6 +2,9 @@ import type { MetadataRoute } from "next";
 import { getAllMsps, getAreas, getCities, getCoveredStates } from "@/lib/data";
 import { SITE_URL } from "@/lib/site";
 
+// Static export: generate this file once at build time.
+export const dynamic = "force-static";
+
 export default function sitemap(): MetadataRoute.Sitemap {
   const cities = getCities();
   const updated = cities.map((city) => city.updated).sort().at(-1);

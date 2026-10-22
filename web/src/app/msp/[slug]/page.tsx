@@ -1,12 +1,14 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { Suspense } from "react";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { JsonLd } from "@/components/JsonLd";
 import { Rating } from "@/components/Rating";
 import { getAllMsps, getArea, getCity, getCityMsps, getCityRank, getMsp, slugify } from "@/lib/data";
 import { INDUSTRY_LABELS, SERVICE_LABELS, label } from "@/lib/labels";
+
+// Static export: only the pages listed below exist; anything else is a 404.
+export const dynamicParams = false;
 
 export function generateStaticParams() {
   return getAllMsps().map((msp) => ({ slug: msp.slug }));
@@ -48,17 +50,7 @@ function hostname(url: string) {
   return new URL(url).hostname.replace(/^www\./, "");
 }
 
-// Read params inside Suspense so navigations to pages outside
-// generateStaticParams can still render instantly.
-export default function MspPage({ params }: PageProps<"/msp/[slug]">) {
-  return (
-    <Suspense fallback={null}>
-      <MspContent params={params} />
-    </Suspense>
-  );
-}
-
-async function MspContent({ params }: Pick<PageProps<"/msp/[slug]">, "params">) {
+export default async function MspPage({ params }: PageProps<"/msp/[slug]">) {
   const { slug } = await params;
   const msp = getMsp(slug);
   if (!msp) notFound();

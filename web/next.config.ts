@@ -1,9 +1,9 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
-  cacheComponents: true,
-  partialPrefetching: true,
+  // Every page is built from the JSON data at build time and search runs in the
+  // browser, so the site exports to plain HTML in out/ and any static host can serve it.
+  output: "export",
   turbopack: {
     rules: {
       "*.css": {

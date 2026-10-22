@@ -1,9 +1,11 @@
 # The site lives in web/; the rest of the repo is the data pipeline.
+# next.config.ts exports plain HTML to web/out, so Netlify serves it as a static
+# site and doesn't need its Next.js adapter.
 [build]
   base = "web"
   command = "npm run build"
-  # Relative to base. Netlify's Next.js runtime serves the app from here.
-  publish = ".next"
+  # Relative to base.
+  publish = "out"
 
 [build.environment]
   NODE_VERSION = "22"

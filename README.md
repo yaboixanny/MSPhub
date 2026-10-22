@@ -58,7 +58,11 @@ Pages:
 | `/how-we-rank` | Ranking method |
 
 Plus `sitemap.xml` and `robots.txt`.
-Set `NEXT_PUBLIC_SITE_URL` to the real domain before deploying.
+
+`npm run build` exports the whole site as static HTML to `web/out/`, so any static
+host can serve it. It's deployed on Netlify (https://msphub.netlify.app) using
+`netlify.toml`; every push to `main` redeploys. Canonical URLs use Netlify's site
+address automatically; set `NEXT_PUBLIC_SITE_URL` once a custom domain is connected.
 
 ## Adding a city
 
