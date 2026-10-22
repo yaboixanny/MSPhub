@@ -3,9 +3,11 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { JsonLd } from "@/components/JsonLd";
-import { Rating } from "@/components/Rating";
-import { getAllMsps, getArea, getCity, getCityMsps, getCityRank, getMsp, slugify } from "@/lib/data";
+import { LiveGoogleRating } from "@/components/LiveGoogleRating";
+import { ScoreBadge } from "@/components/ScoreBadge";
+import { getAllMsps, getArea, getCity, getCityMsps, getCityRank, getMsp, placeName, slugify } from "@/lib/data";
 import { INDUSTRY_LABELS, SERVICE_LABELS, label } from "@/lib/labels";
+import { SCORE_PARTS } from "@/lib/score";
 
 // Static export: only the pages listed below exist; anything else is a 404.
 export const dynamicParams = false;
@@ -18,9 +20,8 @@ export async function generateMetadata({ params }: PageProps<"/msp/[slug]">): Pr
   const { slug } = await params;
   const msp = getMsp(slug);
   if (!msp) return {};
-  const city = getCity(msp.state, msp.city);
   return {
-    title: `${msp.name}: Managed IT Services in ${msp.town}, ${city?.stateCode ?? ""}`,
+    title: `${msp.name}: Managed IT Services in ${placeName(msp)}`,
     description: msp.summary.length > 155 ? `${msp.summary.slice(0, 152).trimEnd()}...` : msp.summary,
     alternates: { canonical: `/msp/${slug}` },
   };
@@ -56,10 +57,10 @@ export default async function MspPage({ params }: PageProps<"/msp/[slug]">) {
   if (!msp) notFound();
   const city = getCity(msp.state, msp.city)!;
   const rank = getCityRank(msp);
-  const area = getArea(msp.state, msp.city, slugify(msp.town));
+  const area = msp.town ? getArea(msp.state, msp.city, slugify(msp.town)) : undefined;
   const cityHref = `/${city.state}/${city.slug}`;
 
-  // Other MSPs in the city that share the most industries, best rated first.
+  // Other MSPs in the city that share the most industries, highest score first.
   const similar = getCityMsps(msp.state, msp.city)
     .filter((other) => other.slug !== msp.slug)
     .map((other) => ({ other, shared: other.industries.filter((value) => msp.industries.includes(value)).length }))
@@ -93,10 +94,10 @@ export default async function MspPage({ params }: PageProps<"/msp/[slug]">) {
             Managed IT services ·{" "}
             {area ? (
               <Link href={`${cityHref}/${area.slug}`} className="hover:text-brand-600 hover:underline">
-                {msp.town}, {city.stateCode}
+                {placeName(msp)}
               </Link>
             ) : (
-              <>{msp.town}, {city.stateCode}</>
+              <>{placeName(msp)}</>
             )}
           </p>
           <div className="mt-3 flex flex-wrap items-center gap-3">
@@ -106,15 +107,10 @@ export default async function MspPage({ params }: PageProps<"/msp/[slug]">) {
             >
               #{rank} of {city.count} in the {city.name} metro
             </Link>
-            <Rating rating={msp.rating} reviewCount={msp.reviewCount} size={18} />
-            <a
-              href={msp.googleMapsUrl}
-              target="_blank"
-              rel="noopener nofollow"
-              className="text-sm text-brand-600 hover:underline"
-            >
-              Read reviews on Google
-            </a>
+            <ScoreBadge score={msp.score.total} linked />
+          </div>
+          <div className="mt-3">
+            <LiveGoogleRating placeId={msp.placeId} />
           </div>
         </div>
         <div className="flex gap-2">
@@ -163,6 +159,30 @@ export default async function MspPage({ params }: PageProps<"/msp/[slug]">) {
         </div>
 
         <aside className="space-y-6">
+          <Section title={`MSP Hub Score: ${msp.score.total}/100`}>
+            <dl className="space-y-3 text-sm">
+              {SCORE_PARTS.map((part) => (
+                <div key={part.key}>
+                  <div className="flex justify-between gap-2">
+                    <dt className="text-slate-600">{part.label}</dt>
+                    <dd className="font-medium text-slate-900">
+                      {msp.score.parts[part.key]}/{part.max}
+                    </dd>
+                  </div>
+                  <div className="mt-1 h-1.5 rounded-full bg-slate-100">
+                    <div
+                      className="h-1.5 rounded-full bg-brand-600"
+                      style={{ width: `${(msp.score.parts[part.key] / part.max) * 100}%` }}
+                    />
+                  </div>
+                </div>
+              ))}
+            </dl>
+            <p className="mt-4 text-xs leading-relaxed text-slate-500">
+              Based on what {msp.name} documents on its website, not service quality.{" "}
+              <Link href="/how-we-rank" className="text-brand-600 hover:underline">How the score works</Link>
+            </p>
+          </Section>
           {details.length > 0 && (
             <Section title="Details">
               <dl className="space-y-3 text-sm">
@@ -176,9 +196,15 @@ export default async function MspPage({ params }: PageProps<"/msp/[slug]">) {
             </Section>
           )}
           <Section title={msp.addresses.length > 1 ? `Locations (${msp.addresses.length})` : "Location"}>
-            <ul className="space-y-2 text-sm text-slate-700">
-              {msp.addresses.map((address) => <li key={address}>{address}</li>)}
-            </ul>
+            {msp.addresses.length > 0 ? (
+              <ul className="space-y-2 text-sm text-slate-700">
+                {msp.addresses.map((address) => <li key={address}>{address}</li>)}
+              </ul>
+            ) : (
+              <p className="text-sm text-slate-600">
+                No office address listed on their website. Serves {msp.serviceArea ?? `the ${city.name} area`}.
+              </p>
+            )}
             <div className="mt-4 space-y-1 text-sm">
               <a href={msp.website} target="_blank" rel="noopener nofollow" className="block text-brand-600 hover:underline">
                 {hostname(msp.website)}
@@ -193,8 +219,8 @@ export default async function MspPage({ params }: PageProps<"/msp/[slug]">) {
           <div className="rounded-xl border border-dashed border-slate-300 p-5 text-sm text-slate-600">
             <p className="font-medium text-slate-900">Own this business?</p>
             <p className="mt-1">
-              Details are summarized from {hostname(msp.website)} and Google. Listing claims, so you can update your
-              profile, are coming soon.
+              Details are summarized from {hostname(msp.website)}; the Google rating is shown live from Google Maps.
+              Listing claims, so you can update your profile, are coming soon.
             </p>
           </div>
         </aside>
@@ -209,8 +235,8 @@ export default async function MspPage({ params }: PageProps<"/msp/[slug]">) {
                 <Link href={`/msp/${other.slug}`} className="font-semibold hover:text-brand-600 hover:underline">
                   {other.name}
                 </Link>
-                <p className="mt-0.5 text-sm text-slate-500">{other.town}</p>
-                <div className="mt-2"><Rating rating={other.rating} reviewCount={other.reviewCount} size={13} /></div>
+                <p className="mt-0.5 text-sm text-slate-500">{placeName(other)}</p>
+                <div className="mt-2"><ScoreBadge score={other.score.total} /></div>
               </li>
             ))}
           </ul>

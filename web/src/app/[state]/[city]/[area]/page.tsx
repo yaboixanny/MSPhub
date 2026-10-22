@@ -25,7 +25,7 @@ export async function generateMetadata({ params }: PageProps<"/[state]/[city]/[a
   if (!city || !area) return {};
   return {
     title: `Managed IT Service Providers (MSPs) in ${area.name}, ${city.stateCode}`,
-    description: `Compare ${area.count} verified managed service providers based in ${area.name}, ${city.stateCode}, ranked by Google reviews. Part of the ${city.name} metro.`,
+    description: `Compare ${area.count} verified managed service providers based in ${area.name}, ${city.stateCode}, ranked by the MSP Hub Score. Part of the ${city.name} metro.`,
     alternates: { canonical: `/${state}/${citySlug}/${areaSlug}` },
   };
 }

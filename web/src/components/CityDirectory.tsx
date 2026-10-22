@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { useMemo, useState } from "react";
-import { Rating } from "@/components/Rating";
+import { ScoreBadge } from "@/components/ScoreBadge";
 import { INDUSTRY_LABELS, SERVICE_LABELS, label } from "@/lib/labels";
 
 export type DirectoryMsp = {
@@ -12,20 +12,19 @@ export type DirectoryMsp = {
   services: string[];
   industries: string[];
   compliance: string[];
-  rating: number | null;
-  reviewCount: number;
-  weightedRating: number | null;
-  town: string;
+  score: number;
+  /** Town of the main office, if the company lists one. */
+  town: string | null;
+  /** Display location, e.g. "Winter Park, FL" or "Orlando area, FL". */
+  place: string;
   foundedYear: number | null;
 };
 
 const SORTS = {
-  best: { label: "Best rated", compare: (a: DirectoryMsp, b: DirectoryMsp) =>
-    (b.weightedRating ?? 0) - (a.weightedRating ?? 0) || b.reviewCount - a.reviewCount },
-  reviews: { label: "Most reviews", compare: (a: DirectoryMsp, b: DirectoryMsp) =>
-    b.reviewCount - a.reviewCount },
-  stars: { label: "Highest stars", compare: (a: DirectoryMsp, b: DirectoryMsp) =>
-    (b.rating ?? 0) - (a.rating ?? 0) || b.reviewCount - a.reviewCount },
+  best: { label: "MSP Hub Score", compare: (a: DirectoryMsp, b: DirectoryMsp) =>
+    b.score - a.score || a.name.localeCompare(b.name) },
+  experience: { label: "Years in business", compare: (a: DirectoryMsp, b: DirectoryMsp) =>
+    (a.foundedYear ?? 9999) - (b.foundedYear ?? 9999) || b.score - a.score },
   name: { label: "Name (A–Z)", compare: (a: DirectoryMsp, b: DirectoryMsp) => a.name.localeCompare(b.name) },
 };
 type SortKey = keyof typeof SORTS;
@@ -165,10 +164,10 @@ export function CityDirectory({ msps, hideLocation = false }: { msps: DirectoryM
                       {msp.name}
                     </Link>
                   </h3>
-                  <Rating rating={msp.rating} reviewCount={msp.reviewCount} size={14} />
+                  <ScoreBadge score={msp.score} />
                 </div>
                 <p className="mt-0.5 text-sm text-slate-500">
-                  {msp.town}
+                  {msp.place}
                   {msp.foundedYear ? ` · Since ${msp.foundedYear}` : ""}
                 </p>
                 <p className="mt-2 line-clamp-2 text-sm leading-relaxed text-slate-700">{msp.summary}</p>

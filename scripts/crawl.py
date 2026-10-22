@@ -21,7 +21,7 @@ from urllib.parse import urldefrag, urljoin, urlparse
 
 import httpx
 
-from common import city_dir, in_radius, load_city, read_places
+from common import city_dir, load_city, read_places, top_candidates
 
 USER_AGENT = "MSPHubBot/0.1 (directory of managed IT providers; crawls a few public pages per site)"
 MAX_EXTRA_PAGES = 4
@@ -261,15 +261,15 @@ def main():
 
     config = load_city(args.city_config)
     places = read_places(config)
-    candidates = [place for place in places if place["website"] and in_radius(config, place)]
+    candidates = top_candidates(config, places)
     sites_dir = city_dir(config) / "sites"
     sites_dir.mkdir(parents=True, exist_ok=True)
     todo = [place for place in candidates if args.refresh or needs_crawl(sites_dir, place)]
     if args.limit:
         todo = todo[:args.limit]
 
-    print(f"{len(places)} places -> {len(candidates)} within {config['radius_miles']} miles with a website; "
-          f"{len(todo)} to crawl")
+    print(f"{len(places)} places -> {len(candidates)} top candidates within {config['radius_miles']} miles "
+          f"with a website; {len(todo)} to crawl")
 
     counts = {}
     with ThreadPoolExecutor(max_workers=args.workers) as pool:

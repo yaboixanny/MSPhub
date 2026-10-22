@@ -4,6 +4,7 @@ import json
 import math
 import os
 from pathlib import Path
+from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parent.parent
 
@@ -47,3 +48,34 @@ def in_radius(config, place):
     center = config["center"]
     distance = miles_between(center["lat"], center["lng"], float(place["lat"]), float(place["lng"]))
     return distance <= config["radius_miles"]
+
+
+# Cities process only their top candidates by search hits, so a new city means
+# ~50 crawls and a short review list instead of hundreds. A city config can set
+# "max_candidates" to another number, or to null for no cap.
+DEFAULT_MAX_CANDIDATES = 50
+
+
+def website_key(url):
+    """One key per website page, so several Google listings for one site count once."""
+    parsed = urlparse(url)
+    host = parsed.netloc.lower()
+    host = host[4:] if host.startswith("www.") else host
+    return host + parsed.path.lower().rstrip("/")
+
+
+def top_candidates(config, places):
+    """Places inside the city radius with a website, limited to the top websites by search hits.
+
+    All listings for a selected website are kept, so they can be merged later.
+    """
+    eligible = [place for place in places if place["website"] and in_radius(config, place)]
+    limit = config.get("max_candidates", DEFAULT_MAX_CANDIDATES)
+    if limit is None:
+        return eligible
+    hits = {}
+    for place in eligible:
+        key = website_key(place["website"])
+        hits[key] = max(hits.get(key, 0), int(place["hits"]))
+    keep = set(sorted(hits, key=lambda key: (-hits[key], key))[:limit])
+    return [place for place in eligible if website_key(place["website"]) in keep]

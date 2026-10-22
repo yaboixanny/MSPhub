@@ -22,7 +22,7 @@ export async function generateMetadata({ params }: PageProps<"/[state]/[city]">)
   if (!city) return {};
   return {
     title: `Best Managed IT Service Providers (MSPs) in ${city.name}, ${city.stateCode}`,
-    description: `Compare ${city.count} verified managed service providers in ${city.name}, ${city.stateCode}. Ranked by Google reviews, with services, industries and compliance support for each MSP.`,
+    description: `Compare ${city.count} verified managed service providers in ${city.name}, ${city.stateCode}, ranked by the MSP Hub Score, with services, industries, compliance support and live Google reviews for each MSP.`,
     alternates: { canonical: `/${state}/${citySlug}` },
   };
 }
@@ -33,9 +33,9 @@ export default async function CityPage({ params }: PageProps<"/[state]/[city]">)
   if (!city) notFound();
   const msps = getCityMsps(state, citySlug);
 
-  const rated = msps.filter((msp) => msp.rating !== null && msp.reviewCount > 0);
-  const totalReviews = rated.reduce((sum, msp) => sum + msp.reviewCount, 0);
-  const averageRating = rated.reduce((sum, msp) => sum + msp.rating! * msp.reviewCount, 0) / (totalReviews || 1);
+  const founded = msps.filter((msp) => msp.foundedYear).map((msp) => msp.foundedYear!).sort((a, b) => a - b);
+  const medianFounded = founded.length ? founded[Math.floor(founded.length / 2)] : null;
+  const pricing = msps.filter((msp) => msp.pricing).length;
   const industries = topValues(msps, "industries", 4);
   const hipaa = msps.filter((msp) => msp.compliance.includes("HIPAA")).length;
   const cmmc = msps.filter((msp) => msp.compliance.includes("CMMC")).length;
@@ -74,8 +74,8 @@ export default async function CityPage({ params }: PageProps<"/[state]/[city]">)
       <dl className="mt-6 grid grid-cols-2 gap-3 sm:grid-cols-4">
         {[
           ["Verified MSPs", msps.length.toString()],
-          ["Average Google rating", averageRating.toFixed(1)],
-          ["Google reviews", totalReviews.toLocaleString()],
+          ["Typical founding year", medianFounded ? medianFounded.toString() : "n/a"],
+          ["Publish their pricing", pricing.toString()],
           ["Support HIPAA / CMMC", `${hipaa} / ${cmmc}`],
         ].map(([term, value]) => (
           <div key={term} className="rounded-xl border border-slate-200 bg-white p-4">
@@ -119,8 +119,9 @@ export default async function CityPage({ params }: PageProps<"/[state]/[city]">)
       <section className="mt-12 max-w-3xl">
         <h2 className="text-xl font-semibold">How this list is ranked</h2>
         <p className="mt-2 leading-relaxed text-slate-600">
-          &quot;Best rated&quot; blends each MSP&apos;s Google rating with its number of reviews, so a 4.9 from 200
-          clients ranks above a 5.0 from three. You can also sort by review count or raw stars.{" "}
+          The list is sorted by the MSP Hub Score, a 0-100 score based on what each provider documents publicly: years
+          in business, managed services offered, compliance support, industries served and pricing transparency. It
+          isn&apos;t a quality rating, so open a profile to see that provider&apos;s live Google reviews.{" "}
           <Link href="/how-we-rank" className="text-brand-600 hover:underline">
             Read how we rank MSPs
           </Link>

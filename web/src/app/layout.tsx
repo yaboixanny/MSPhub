@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     template: "%s | MSP Hub",
   },
   description:
-    "Compare managed service providers (MSPs) by city. Verified MSPs only, ranked by Google reviews, with services, industries and compliance support.",
+    "Compare managed service providers (MSPs) by city. Verified MSPs only, with services, industries, compliance support and live Google reviews for each.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
@@ -70,8 +70,8 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
             <div>
               <p className="font-semibold text-slate-800">MSP Hub</p>
               <p className="mt-2 leading-relaxed">
-                An independent database of verified managed IT service providers. Ratings and review counts come
-                from Google; services and specialties come from each provider&apos;s own website.
+                An independent database of verified managed IT service providers. Company details come from each
+                provider&apos;s own website; Google ratings on profiles load live from Google Maps.
               </p>
             </div>
             <div>

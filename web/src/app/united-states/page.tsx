@@ -1,13 +1,13 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
-import { Rating } from "@/components/Rating";
-import { getAllMsps, getCity, getCoveredStates, getStates } from "@/lib/data";
+import { ScoreBadge } from "@/components/ScoreBadge";
+import { getAllMsps, getCoveredStates, getStates, placeName } from "@/lib/data";
 
 export const metadata: Metadata = {
   title: "Managed IT Service Providers (MSPs) in the United States",
   description:
-    "Browse verified managed service providers by state and city across the United States, ranked by Google reviews.",
+    "Browse verified managed service providers by state and city across the United States, ranked by the MSP Hub Score.",
   alternates: { canonical: "/united-states" },
 };
 
@@ -15,7 +15,7 @@ export default function UnitedStatesPage() {
   const states = getStates();
   const covered = getCoveredStates();
   const msps = getAllMsps();
-  const topRated = msps.slice(0, 25);
+  const topScored = msps.slice(0, 25);
 
   return (
     <div className="mx-auto max-w-6xl px-4 py-8">
@@ -60,11 +60,10 @@ export default function UnitedStatesPage() {
       </section>
 
       <section className="mt-12">
-        <h2 className="text-xl font-semibold">Top-rated MSPs nationwide</h2>
-        <p className="mt-1 text-sm text-slate-600">Ranked by Google rating weighted by number of reviews.</p>
+        <h2 className="text-xl font-semibold">Top MSPs nationwide</h2>
+        <p className="mt-1 text-sm text-slate-600">Ranked by MSP Hub Score.</p>
         <ol className="mt-4 divide-y divide-slate-200 rounded-xl border border-slate-200 bg-white">
-          {topRated.map((msp, index) => {
-            const city = getCity(msp.state, msp.city);
+          {topScored.map((msp, index) => {
             return (
               <li key={msp.slug} className="flex flex-wrap items-center justify-between gap-2 px-5 py-3.5">
                 <span className="flex min-w-0 items-baseline gap-3">
@@ -73,10 +72,10 @@ export default function UnitedStatesPage() {
                     {msp.name}
                   </Link>
                   <span className="truncate text-sm text-slate-500">
-                    {msp.town}, {city?.stateCode}
+                    {placeName(msp)}
                   </span>
                 </span>
-                <Rating rating={msp.rating} reviewCount={msp.reviewCount} size={13} />
+                <ScoreBadge score={msp.score.total} />
               </li>
             );
           })}

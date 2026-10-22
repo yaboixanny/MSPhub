@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
-import { Rating } from "@/components/Rating";
-import { getAreas, getCoveredStates, getState, getStateMsps, getStates } from "@/lib/data";
+import { ScoreBadge } from "@/components/ScoreBadge";
+import { getAreas, getCoveredStates, getState, getStateMsps, getStates, placeName } from "@/lib/data";
 
 // Static export: only the pages listed below exist; anything else is a 404.
 export const dynamicParams = false;
@@ -19,7 +19,7 @@ export async function generateMetadata({ params }: PageProps<"/[state]">): Promi
   return {
     title: `Managed IT Service Providers (MSPs) in ${state.name}`,
     description: state.count
-      ? `Compare ${state.count} verified managed service providers across ${state.name}, by metro and town. Ranked by Google reviews.`
+      ? `Compare ${state.count} verified managed service providers across ${state.name}, by metro and town. Ranked by the MSP Hub Score.`
       : `MSP Hub is coming to ${state.name}. See which states and cities we cover today.`,
     alternates: { canonical: `/${slug}` },
     // States without listings yet are thin pages; keep them out of search results until they have data.
@@ -72,7 +72,7 @@ export default async function StatePage({ params }: PageProps<"/[state]">) {
     );
   }
 
-  const topRated = getStateMsps(slug).slice(0, 10);
+  const topScored = getStateMsps(slug).slice(0, 10);
 
   return (
     <div className="mx-auto max-w-6xl px-4 py-8">
@@ -83,7 +83,7 @@ export default async function StatePage({ params }: PageProps<"/[state]">) {
       <p className="mt-3 max-w-3xl leading-relaxed text-slate-600">
         {state.count} verified MSPs across {state.cities.length}{" "}
         {state.cities.length === 1 ? "metro area" : "metro areas"} so far. Pick a metro or town to compare providers by
-        Google reviews, services and the industries they serve.
+        MSP Hub Score, services and the industries they serve.
       </p>
 
       <section className="mt-10">
@@ -114,18 +114,18 @@ export default async function StatePage({ params }: PageProps<"/[state]">) {
       </section>
 
       <section className="mt-12">
-        <h2 className="text-xl font-semibold">Top-rated MSPs in {state.name}</h2>
+        <h2 className="text-xl font-semibold">Top MSPs in {state.name}</h2>
         <ol className="mt-4 divide-y divide-slate-200 rounded-xl border border-slate-200 bg-white">
-          {topRated.map((msp, index) => (
+          {topScored.map((msp, index) => (
             <li key={msp.slug} className="flex flex-wrap items-center justify-between gap-2 px-5 py-4">
               <span className="flex items-baseline gap-3">
                 <span className="w-5 text-right text-sm font-semibold text-slate-400">{index + 1}</span>
                 <Link href={`/msp/${msp.slug}`} className="font-medium hover:text-brand-600 hover:underline">
                   {msp.name}
                 </Link>
-                <span className="text-sm text-slate-500">{msp.town}</span>
+                <span className="text-sm text-slate-500">{placeName(msp)}</span>
               </span>
-              <Rating rating={msp.rating} reviewCount={msp.reviewCount} size={13} />
+              <ScoreBadge score={msp.score.total} />
             </li>
           ))}
         </ol>

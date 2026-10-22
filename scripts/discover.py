@@ -5,9 +5,15 @@ Usage:
     python3 scripts/discover.py config/cities/orlando-fl.json --dry-run
     python3 scripts/discover.py config/cities/orlando-fl.json
 
-Writes data/<state_slug>/<slug>/places.csv and places_raw.json.
-Every search in the city config runs once per area, up to --max-pages pages
-(20 results each). Results are de-duplicated by Google place ID.
+Writes data/<state_slug>/<slug>/places.csv. Every search in the city config runs
+once per area, up to --max-pages pages (20 results each). Results are
+de-duplicated by Google place ID.
+
+Google's terms allow storing place IDs indefinitely and coordinates for 30 days,
+but not other Places content. So this only requests what the pipeline needs to
+find and crawl candidates (no ratings, phone numbers, addresses or Maps links),
+and places.csv is working data: it's never published, and scripts/purge.py
+deletes it once a city is live.
 """
 import argparse
 import csv
@@ -25,21 +31,15 @@ SEARCH_URL = "https://places.googleapis.com/v1/places:searchText"
 FIELDS = [
     "places.id",
     "places.displayName",
-    "places.formattedAddress",
     "places.location",
-    "places.rating",
-    "places.userRatingCount",
     "places.websiteUri",
-    "places.nationalPhoneNumber",
-    "places.googleMapsUri",
     "places.primaryType",
     "places.types",
     "places.businessStatus",
     "nextPageToken",
 ]
 CSV_COLUMNS = [
-    "place_id", "name", "address", "lat", "lng", "rating", "review_count",
-    "website", "phone", "google_maps_url", "primary_type", "types",
+    "place_id", "name", "lat", "lng", "website", "primary_type", "types",
     "business_status", "hits", "matched_searches",
 ]
 
@@ -71,14 +71,9 @@ def to_row(place, searches):
     return {
         "place_id": place["id"],
         "name": place.get("displayName", {}).get("text", ""),
-        "address": place.get("formattedAddress", ""),
         "lat": location.get("latitude", ""),
         "lng": location.get("longitude", ""),
-        "rating": place.get("rating", ""),
-        "review_count": place.get("userRatingCount", 0),
         "website": place.get("websiteUri", ""),
-        "phone": place.get("nationalPhoneNumber", ""),
-        "google_maps_url": place.get("googleMapsUri", ""),
         "primary_type": place.get("primaryType", ""),
         "types": "|".join(place.get("types", [])),
         "business_status": place.get("businessStatus", ""),
@@ -140,11 +135,10 @@ def main():
         for place_id, place in places.items()
         if place.get("businessStatus") != "CLOSED_PERMANENTLY"
     ]
-    rows.sort(key=lambda row: (-row["hits"], -int(row["review_count"] or 0)))
+    rows.sort(key=lambda row: (-row["hits"], row["name"]))
 
     out_dir = ROOT / "data" / config["state_slug"] / config["slug"]
     out_dir.mkdir(parents=True, exist_ok=True)
-    (out_dir / "places_raw.json").write_text(json.dumps(list(places.values()), indent=2))
     with open(out_dir / "places.csv", "w", newline="") as handle:
         writer = csv.DictWriter(handle, fieldnames=CSV_COLUMNS)
         writer.writeheader()

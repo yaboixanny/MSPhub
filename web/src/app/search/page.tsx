@@ -16,7 +16,7 @@ export default function SearchPage() {
       <h1 className="text-3xl font-bold tracking-tight">Search MSPs</h1>
       <p className="mt-2 text-slate-600">
         Search by city, company, industry (&ldquo;law firms&rdquo;), service (&ldquo;cybersecurity&rdquo;) or compliance
-        need (&ldquo;HIPAA&rdquo;). Results are ranked by our weighted Google rating.
+        need (&ldquo;HIPAA&rdquo;). Results are ranked by the MSP Hub Score.
       </p>
       <div className="mt-6">
         {/* useSearchParams needs a Suspense boundary so the page shell can prerender. */}

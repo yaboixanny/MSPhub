@@ -20,12 +20,11 @@ import re
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from typing import Literal, Optional
-from urllib.parse import urlparse
 
 import anthropic
 from pydantic import BaseModel, Field
 
-from common import city_dir, in_radius, load_city, load_env, read_places
+from common import city_dir, load_city, load_env, read_places, top_candidates, website_key
 
 DEFAULT_MODEL = "claude-opus-5-5"
 # $ per million input / output tokens, for the cost summary.
@@ -36,9 +35,6 @@ PRICES = {
 }
 # Models that support server-side refusal fallbacks.
 FALLBACK_MODELS = {"claude-opus-5-5", "claude-sonnet-5-5", "claude-fable-5-1"}
-# Bayesian prior for the weighted rating: a listing behaves as if it had
-# PRIOR_REVIEWS extra reviews at the city's average rating.
-PRIOR_REVIEWS = 10
 # Free pre-filter signals: managed-IT phrases on the website, IT words in the name.
 MSP_TERMS = [
     "managed it", "managed service", "msp", "help desk", "helpdesk", "remote monitoring", "24/7 monitoring",
@@ -109,7 +105,6 @@ def build_prompt(place, site):
     return (
         "Google Business listing:\n"
         f"- Name: {place['name']}\n"
-        f"- Address: {place['address']}\n"
         f"- Google category: {place['primary_type'] or 'none'} ({place['types']})\n"
         f"- Website: {place['website']}\n\n"
         f"<website>\n{pages}\n</website>\n\n"
@@ -155,13 +150,6 @@ def cost_of(record):
     return (usage["input_tokens"] * input_price + usage["output_tokens"] * output_price) / 1_000_000
 
 
-def website_key(url):
-    parsed = urlparse(url)
-    host = parsed.netloc.lower()
-    host = host[4:] if host.startswith("www.") else host
-    return host + parsed.path.lower().rstrip("/")
-
-
 def group_listings(places):
     """Merge Google listings that point at the same website page.
 
@@ -172,13 +160,27 @@ def group_listings(places):
     for place in places:
         groups.setdefault(website_key(place["website"]), []).append(place)
     return [
-        sorted(listings, key=lambda place: -int(place["review_count"] or 0))
+        sorted(listings, key=lambda place: (-int(place["hits"]), place["place_id"]))
         for listings in groups.values()
     ]
 
 
 def load_json(path):
     return json.loads(path.read_text()) if path.exists() else None
+
+
+def load_for_group(folder, listings):
+    """A business's crawl or classification file, saved under any of its listings' place IDs."""
+    for place in listings:
+        data = load_json(folder / f"{place['place_id']}.json")
+        if data is not None:
+            return data
+    return None
+
+
+def maps_link(place_id):
+    """Google Maps link built from a place ID (place IDs are the one thing Google lets us store)."""
+    return f"https://www.google.com/maps/place/?q=place_id:{place_id}"
 
 
 def prefilter(listings, site):
@@ -206,8 +208,8 @@ def write_report(config, groups):
     rows = []
     for listings in groups:
         primary = listings[0]
-        site = load_json(base / "sites" / f"{primary['place_id']}.json")
-        result = load_json(base / "classified" / f"{primary['place_id']}.json")
+        site = load_for_group(base / "sites", listings)
+        result = load_for_group(base / "classified", listings)
         profile = (result or {}).get("profile") or {}
         decision, reason = prefilter(listings, site)
         if profile:
@@ -219,15 +221,10 @@ def write_report(config, groups):
         else:
             is_msp = "unsure" if decision == "review" else ""
 
-        # Combine ratings across merged listings, weighted by review count.
         flags = []
-        if len(listings) >= 3 and sum(int(place["review_count"] or 0) for place in listings) < 2 * len(listings):
-            flags.append(f"{len(listings)} Google listings with few reviews (possible virtual offices)")
+        if len(listings) >= 3:
+            flags.append(f"{len(listings)} Google listings for one website (possible virtual offices)")
 
-        rated = [place for place in listings if place["rating"]]
-        reviews = sum(int(place["review_count"]) for place in rated)
-        rating = (sum(float(place["rating"]) * int(place["review_count"]) for place in rated) / reviews
-                  if reviews else (float(rated[0]["rating"]) if rated else None))
         rows.append({
             "place_id": primary["place_id"],
             "name": primary["name"],
@@ -245,42 +242,23 @@ def write_report(config, groups):
             "team_size": profile.get("team_size") or "",
             "service_area": profile.get("service_area") or "",
             "pricing_model": profile.get("pricing_model") or "",
-            "rating": f"{rating:.1f}" if rating is not None else "",
-            "review_count": reviews,
-            "weighted_rating": "",
             "listings": len(listings),
             "website": primary["website"],
             "domain": website_key(primary["website"]).split("/")[0],
-            "phone": primary["phone"],
-            "address": " | ".join(place["address"] for place in listings),
             "linkedin": (site or {}).get("social", {}).get("linkedin", ""),
-            "google_maps_url": primary["google_maps_url"],
+            "google_maps": maps_link(primary["place_id"]),
             "crawl_status": site["status"] if site else "not crawled",
             "search_hits": max(int(place["hits"]) for place in listings),
-            "_rating": rating,
         })
 
-    msps = [row for row in rows if row["is_msp"] == "yes" and row["_rating"] is not None and row["review_count"]]
-    if msps:
-        city_average = (sum(row["_rating"] * row["review_count"] for row in msps)
-                        / sum(row["review_count"] for row in msps))
-        for row in rows:
-            if row["_rating"] is not None:
-                weighted = ((row["_rating"] * row["review_count"] + city_average * PRIOR_REVIEWS)
-                            / (row["review_count"] + PRIOR_REVIEWS))
-                row["weighted_rating"] = f"{weighted:.2f}"
-    for row in rows:
-        del row["_rating"]
-
     order = {"yes": 0, "unsure": 1, "": 2, "no": 3}
-    rows.sort(key=lambda row: (order[row["is_msp"]], -float(row["weighted_rating"] or 0)))
+    rows.sort(key=lambda row: (order[row["is_msp"]], -int(row["search_hits"]), row["name"]))
     with open(base / "msps.csv", "w", newline="") as handle:
         writer = csv.DictWriter(handle, fieldnames=list(rows[0].keys()))
         writer.writeheader()
         writer.writerows(rows)
 
-    review_columns = ["name", "is_msp", "reason", "flags", "rating", "review_count", "website", "address",
-                      "google_maps_url", "crawl_status", "search_hits"]
+    review_columns = ["name", "is_msp", "reason", "flags", "website", "google_maps", "crawl_status", "search_hits"]
     with open(base / "review.csv", "w", newline="") as handle:
         writer = csv.DictWriter(handle, fieldnames=review_columns, extrasaction="ignore")
         writer.writeheader()
@@ -306,7 +284,7 @@ def main():
     args = parser.parse_args()
 
     config = load_city(args.city_config)
-    places = [place for place in read_places(config) if place["website"] and in_radius(config, place)]
+    places = top_candidates(config, read_places(config))
     groups = group_listings(places)
     base = city_dir(config)
     out_dir = base / "classified"
@@ -319,10 +297,10 @@ def main():
         decisions = {}
         for listings in groups:
             primary = listings[0]
-            site = load_json(base / "sites" / f"{primary['place_id']}.json")
+            site = load_for_group(base / "sites", listings)
             decision, _ = prefilter(listings, site)
             decisions[decision] = decisions.get(decision, 0) + 1
-            if decision == "claude" and not (out_dir / f"{primary['place_id']}.json").exists():
+            if decision == "claude" and load_for_group(out_dir, listings) is None:
                 todo.append((primary, site))
         print(f"{len(places)} listings -> {len(groups)} businesses. Pre-filter: "
               f"{decisions.get('claude', 0)} for Claude, {decisions.get('review', 0)} for manual review, "

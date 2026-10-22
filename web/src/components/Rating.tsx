@@ -30,27 +30,3 @@ export function GoogleMapsAttribution() {
     </span>
   );
 }
-
-export function Rating({
-  rating,
-  reviewCount,
-  size,
-}: {
-  rating: number | null;
-  reviewCount: number;
-  size?: number;
-}) {
-  if (rating === null || reviewCount === 0) {
-    return <span className="text-sm text-slate-500">No reviews on Google Maps yet</span>;
-  }
-  return (
-    <span className="inline-flex flex-wrap items-center gap-x-2 gap-y-0.5 text-sm">
-      <span className="font-semibold text-slate-900">{rating.toFixed(1)}</span>
-      <Stars rating={rating} size={size} />
-      <span className="text-slate-500">
-        {reviewCount.toLocaleString()} review{reviewCount === 1 ? "" : "s"}
-      </span>
-      <GoogleMapsAttribution />
-    </span>
-  );
-}

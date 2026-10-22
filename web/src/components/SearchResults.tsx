@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { useRouter, useSearchParams } from "next/navigation";
 import { useMemo, useState } from "react";
-import { Rating } from "@/components/Rating";
+import { ScoreBadge } from "@/components/ScoreBadge";
 import type { SearchEntry } from "@/lib/data";
 import { runSearch } from "@/lib/search";
 
@@ -14,12 +14,12 @@ export function SearchResults({ index }: { index: SearchEntry[] }) {
   const params = useSearchParams();
   const query = params.get("q") ?? "";
   const [draft, setDraft] = useState(query);
-  const [sort, setSort] = useState<"relevance" | "reviews">("relevance");
+  const [sort, setSort] = useState<"relevance" | "name">("relevance");
   const [shown, setShown] = useState(PAGE_SIZE);
 
   const { places, msps } = useMemo(() => runSearch(index, query || "best"), [index, query]);
   const sorted = useMemo(
-    () => (sort === "reviews" ? [...msps].sort((a, b) => b.reviewCount - a.reviewCount) : msps),
+    () => (sort === "name" ? [...msps].sort((a, b) => a.name.localeCompare(b.name)) : msps),
     [msps, sort],
   );
 
@@ -73,11 +73,11 @@ export function SearchResults({ index }: { index: SearchEntry[] }) {
             Sort
             <select
               value={sort}
-              onChange={(event) => setSort(event.target.value as "relevance" | "reviews")}
+              onChange={(event) => setSort(event.target.value as "relevance" | "name")}
               className="rounded-lg border border-slate-300 bg-white px-2 py-1.5 text-sm"
             >
-              <option value="relevance">Best match, then best rated</option>
-              <option value="reviews">Most reviews</option>
+              <option value="relevance">Best match, then MSP Hub Score</option>
+              <option value="name">Name (A–Z)</option>
             </select>
           </label>
         </div>
@@ -98,7 +98,7 @@ export function SearchResults({ index }: { index: SearchEntry[] }) {
                   <Link href={`/msp/${msp.slug}`} className="text-lg font-semibold hover:text-brand-600 hover:underline">
                     {msp.name}
                   </Link>
-                  <Rating rating={msp.rating} reviewCount={msp.reviewCount} size={14} />
+                  <ScoreBadge score={msp.score} />
                 </div>
                 <p className="mt-0.5 text-sm text-slate-500">{msp.place}</p>
                 <p className="mt-2 line-clamp-2 text-sm leading-relaxed text-slate-700">{msp.summary}</p>

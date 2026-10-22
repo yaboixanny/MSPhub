@@ -1,7 +1,7 @@
 import Link from "next/link";
-import { Rating } from "@/components/Rating";
+import { ScoreBadge } from "@/components/ScoreBadge";
 import { SearchBox } from "@/components/SearchBox";
-import { getAllMsps, getAreas, getCoveredStates, getSearchIndex } from "@/lib/data";
+import { getAllMsps, getAreas, getCoveredStates, getSearchIndex, placeName } from "@/lib/data";
 import { SERVICE_LABELS, label } from "@/lib/labels";
 
 const POPULAR_SEARCHES = [
@@ -39,7 +39,7 @@ const FAQS = [
   ],
   [
     "How are MSPs ranked?",
-    "By Google rating weighted by review count, so a 4.9 from 200 clients ranks above a 5.0 from three. Rankings are never for sale.",
+    "By the MSP Hub Score: a 0-100 score based on what each provider documents publicly, such as years in business, managed services offered, compliance support and pricing transparency. Every profile also shows the provider's live Google reviews. Rankings are never for sale.",
   ],
   [
     "Is MSP Hub free?",
@@ -50,9 +50,9 @@ const FAQS = [
 export default function Home() {
   const msps = getAllMsps();
   const covered = getCoveredStates();
-  const reviews = msps.reduce((sum, msp) => sum + msp.reviewCount, 0);
+  const pricing = msps.filter((msp) => msp.pricing).length;
   const metros = covered.flatMap((state) => state.cities);
-  const topRated = msps.slice(0, 6);
+  const topScored = msps.slice(0, 6);
 
   return (
     <>
@@ -66,8 +66,9 @@ export default function Home() {
             Find the right MSP for your business
           </h1>
           <p className="mx-auto mt-5 max-w-2xl text-lg leading-relaxed text-slate-600">
-            MSP Hub is a searchable database of verified managed service providers across the United States, ranked by
-            real Google reviews. Compare who they serve, what they offer and which compliance standards they support.
+            MSP Hub is a searchable database of verified managed service providers across the United States. Compare
+            who they serve, what they offer and which compliance standards they support, with live Google reviews on
+            every profile.
           </p>
           <div className="mx-auto mt-8 max-w-2xl">
             <SearchBox index={getSearchIndex()} />
@@ -92,7 +93,7 @@ export default function Home() {
         <dl className="grid grid-cols-2 gap-4 lg:grid-cols-4">
           {[
             [msps.length.toString(), "verified MSPs"],
-            [reviews.toLocaleString(), "Google reviews behind the rankings"],
+            [pricing.toString(), "publish how they price their services"],
             [metros.length.toString(), metros.length === 1 ? "metro area covered" : "metro areas covered"],
             [`${covered.length} of 50`, "states live, more added city by city"],
           ].map(([value, text]) => (
@@ -121,7 +122,7 @@ export default function Home() {
           <div className="grid gap-4 sm:grid-cols-3 lg:col-span-3">
             {[
               ["1", "Verified, not scraped", "Every listing is checked against the company's own website. If managed IT isn't a core service, it's not listed."],
-              ["2", "Ranked fairly", "Ratings are weighted by review count, so a few five-star reviews can't outrank a long track record."],
+              ["2", "Ranked transparently", "The MSP Hub Score rewards experience, service coverage, compliance support and pricing transparency, and you can see how every score adds up."],
               ["3", "Filter by what matters", "Narrow providers by industry, service and compliance needs like HIPAA, CMMC or SOC 2."],
             ].map(([step, title, text]) => (
               <div key={step} className="rounded-xl border border-slate-200 bg-white p-5">
@@ -136,19 +137,19 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Top rated */}
+      {/* Top scored */}
       <section className="mx-auto max-w-6xl px-4 py-10">
         <div className="flex flex-wrap items-end justify-between gap-3">
           <div>
-            <h2 className="text-2xl font-bold tracking-tight sm:text-3xl">Top-rated MSPs</h2>
-            <p className="mt-1 text-slate-600">The highest weighted Google ratings in our database.</p>
+            <h2 className="text-2xl font-bold tracking-tight sm:text-3xl">Top MSPs</h2>
+            <p className="mt-1 text-slate-600">The highest MSP Hub Scores in our database.</p>
           </div>
           <Link href="/united-states" className="font-medium text-brand-600 hover:underline">
             See the national rankings
           </Link>
         </div>
         <ol className="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-          {topRated.map((msp, index) => (
+          {topScored.map((msp, index) => (
             <li key={msp.slug} className="flex flex-col rounded-xl border border-slate-200 bg-white p-5 hover:border-brand-600/40 hover:shadow-sm">
               <div className="flex items-start justify-between gap-3">
                 <Link href={`/msp/${msp.slug}`} className="font-semibold leading-snug hover:text-brand-600 hover:underline">
@@ -158,8 +159,8 @@ export default function Home() {
                   #{index + 1}
                 </span>
               </div>
-              <p className="mt-0.5 text-sm text-slate-500">{msp.town}</p>
-              <div className="mt-2"><Rating rating={msp.rating} reviewCount={msp.reviewCount} size={13} /></div>
+              <p className="mt-0.5 text-sm text-slate-500">{placeName(msp)}</p>
+              <div className="mt-2"><ScoreBadge score={msp.score.total} /></div>
               <p className="mt-3 line-clamp-3 flex-1 text-sm leading-relaxed text-slate-600">{msp.summary}</p>
               <div className="mt-3 flex flex-wrap gap-1.5">
                 {msp.services.slice(0, 3).map((value) => (

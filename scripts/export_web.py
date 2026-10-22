@@ -4,9 +4,14 @@
 Usage:
     python3 scripts/export_web.py
 
-Reads config/cities/*.json and each city's msps.csv, and writes
-web/src/data/msps.json and web/src/data/cities.json. Only rows with
-is_msp == "yes" that don't need review are published.
+Reads config/cities/*.json, each city's msps.csv and the contact details from
+scripts/contact.py, and writes web/src/data/msps.json and cities.json. Only rows
+with is_msp == "yes" that don't need review and have website contact details
+are published.
+
+Nothing from Google is published except place IDs, which Google's terms allow
+storing indefinitely: names, phones, addresses and the website URL come from
+each company's own site, and profile pages fetch Google ratings live.
 """
 import csv
 import json
@@ -25,7 +30,7 @@ def slugify(text):
 
 
 def clean_url(url):
-    """Drop tracking parameters (utm_*, gclid) that Google listings often carry."""
+    """Drop tracking parameters (utm_*, gclid) that links often carry."""
     parsed = urlparse(url)
     query = [(key, value) for key, value in parse_qsl(parsed.query)
              if not key.startswith("utm_") and key not in ("gclid", "fbclid")]
@@ -36,13 +41,9 @@ def split_list(value):
     return [item for item in value.split("|") if item]
 
 
-def city_from_address(address):
-    # "390 N Orange Ave #2300, Orlando, FL 32801, USA" -> "Orlando"
-    parts = [part.strip() for part in address.split(",")]
-    for index, part in enumerate(parts):
-        if re.match(r"^[A-Z]{2} \d{5}", part) and index > 0:
-            return parts[index - 1]
-    return ""
+def format_address(address):
+    line = f"{address['street']}, {address['city']}, {address['state']}"
+    return f"{line} {address['postal_code']}" if address.get("postal_code") else line
 
 
 def main():
@@ -59,18 +60,31 @@ def main():
             rows = [row for row in csv.DictReader(handle)
                     if row["is_msp"] == "yes" and not row["needs_review"]]
 
+        metro_towns = {area.lower() for area in config["areas"]}
+        published = 0
         for row in rows:
-            slug = slugify(row["name"])
+            contact_path = base / "contact" / f"{row['place_id']}.json"
+            record = json.loads(contact_path.read_text()) if contact_path.exists() else {}
+            contact = record.get("contact")
+            if not contact:
+                print(f"  skipped {row.get('name', row['place_id'])}: no contact details from its website "
+                      f"({record.get('status', 'contact.py not run')[:60]})")
+                continue
+            published += 1
+            # National MSPs often list their head office first; put offices in this
+            # metro's towns first and use the first one as the MSP's town.
+            local = [address for address in contact["addresses"] if address["city"].strip().lower() in metro_towns]
+            addresses = local + [address for address in contact["addresses"] if address not in local]
+            slug = slugify(contact["company_name"])
             if slug in used_slugs:
                 slug = f"{slug}-{config['slug']}"
             used_slugs.add(slug)
-            addresses = [address.replace(", USA", "") for address in row["address"].split(" | ")]
             msps.append({
                 "slug": slug,
                 # Google allows storing place IDs indefinitely (unlike other Places
                 # content), so they can be used to fetch fresh details later.
                 "placeId": row["place_id"],
-                "name": row["name"],
+                "name": contact["company_name"],
                 "summary": row["summary"],
                 "services": split_list(row["services"]),
                 "industries": split_list(row["industries"]),
@@ -80,15 +94,12 @@ def main():
                 "teamSize": row["team_size"] or None,
                 "serviceArea": row["service_area"] or None,
                 "pricing": row["pricing_model"] or None,
-                "rating": float(row["rating"]) if row["rating"] else None,
-                "reviewCount": int(row["review_count"] or 0),
-                "weightedRating": float(row["weighted_rating"]) if row["weighted_rating"] else None,
-                "website": clean_url(row["website"]),
-                "phone": row["phone"] or None,
-                "addresses": addresses,
-                "town": city_from_address(addresses[0]),
+                "website": clean_url(record["website"]),
+                "phone": contact["phone"],
+                "addresses": [format_address(address) for address in addresses],
+                # Town of the local office, for area pages; None if the site lists no office in the metro.
+                "town": local[0]["city"].strip() if local else None,
                 "linkedin": row["linkedin"] or None,
-                "googleMapsUrl": row["google_maps_url"],
                 "city": config["slug"],
                 "state": config["state_slug"],
             })
@@ -100,10 +111,10 @@ def main():
             "stateName": config["state"],
             "stateCode": config["state_code"],
             "areas": config["areas"],
-            "count": len(rows),
+            "count": published,
             "updated": time.strftime("%Y-%m-%d"),
         })
-        print(f"{config['city']}, {config['state_code']}: {len(rows)} MSPs")
+        print(f"{config['city']}, {config['state_code']}: {published} MSPs published")
 
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     (OUT_DIR / "msps.json").write_text(json.dumps(msps, indent=2))

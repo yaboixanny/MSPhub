@@ -16,23 +16,43 @@ cp .env.example .env            # then add your keys
 ## Data pipeline (per city)
 
 Each city has a config in `config/cities/` with its search areas, search phrases,
-center point and radius. Output lands in `data/<state>/<city>/`.
+center point, radius and `max_candidates`. Working files land in `data/<state>/<city>/`.
 
 | Step | Command | Output |
 |---|---|---|
-| 1. Discover | `.venv/bin/python scripts/discover.py config/cities/orlando-fl.json` | `places.csv`: every business Google returns |
-| 2. Crawl | `.venv/bin/python scripts/crawl.py config/cities/orlando-fl.json` | `sites/*.json`: text from up to 5 pages per website |
-| 3. Classify | `.venv/bin/python scripts/classify.py config/cities/orlando-fl.json` | `classified/*.json` + `msps.csv`: MSP yes/no/unsure with extracted profile |
+| 1. Discover | `scripts/discover.py <config>` | `places.csv`: businesses Google returns (place ID, name, website, category) |
+| 2. Crawl | `scripts/crawl.py <config>` | `sites/*.json`: text from up to 5 pages per website |
+| 3. Classify | `scripts/classify.py <config> --model claude-haiku-5-5` | `classified/*.json`, `msps.csv`, `review.csv` |
+| 4. Contact details | `scripts/contact.py <config> --model claude-haiku-5-5` | `contact/*.json`: name, phone, addresses from each company's website |
+| 5. Review | open `review.csv` | set `is_msp` to `yes`/`no` in `msps.csv` for unclear rows |
+| 6. Export | `scripts/export_web.py` | `web/src/data/msps.json` and `cities.json` |
+| 7. Purge | `scripts/purge.py <config>` | deletes the stored Google data for the city |
 
-Steps 2 and 3 skip work already done, so they can be stopped and rerun. Use
-`--limit 10` to test on a few sites first, and `classify.py --report-only` to
-rebuild `msps.csv` without calling Claude.
+Run each with `.venv/bin/python` and the city config, e.g.
+`.venv/bin/python scripts/crawl.py config/cities/orlando-fl.json`. Steps 2-4 skip
+work already done, so they can be stopped and rerun; `--limit 10` tests on a few
+sites, and `classify.py --report-only` rebuilds `msps.csv` without calling Claude.
 
-Before Claude runs, a free pre-filter drops sites that are gone and businesses
-with no managed-IT signal. Rows marked `needs_review` in `msps.csv` (classifier
-unsure, site blocked the crawler, or flagged, e.g. many listings with few reviews)
-are also written to `review.csv` for a manual pass. `weighted_rating` blends each rating with the
-city average so a 5.0 from 3 reviews doesn't outrank a 4.9 from 300.
+**Candidate cap.** Crawling and classification only cover the top
+`max_candidates` websites by search hits (default 50; `null` for no cap). Real MSPs
+rank near the top, so 50 candidates usually yields 25-35 confirmed MSPs. Orlando
+was built before the cap and uses `null`.
+
+**Pre-filter and review.** Before Claude runs, a free pre-filter drops sites that are
+gone and businesses with no managed-IT signal. Rows marked `needs_review` in
+`msps.csv` (classifier unsure, site blocked the crawler, or several Google listings
+for one website) are also written to `review.csv` for a manual pass.
+
+**Google's terms.** The Places API terms allow storing place IDs indefinitely and
+coordinates for 30 days, but no other Places content. So discovery only fetches what
+the pipeline needs, nothing from Google is published except place IDs (names,
+phones and addresses come from step 4), profile pages load Google ratings live, and
+step 7 deletes the city's remaining Google data once it's published.
+
+**MSP Hub Score.** Lists are ordered by a 0-100 score computed in
+`web/src/lib/score.ts` from website data only: years in business (30), managed
+services coverage (25), compliance support (20), industries (10) and transparency
+(15). `/how-we-rank` explains it using the same weights.
 
 ## Website
 
@@ -63,6 +83,13 @@ Plus `sitemap.xml` and `robots.txt`.
 host can serve it. It's deployed on Netlify (https://msphub.netlify.app) using
 `netlify.toml`; every push to `main` redeploys. Canonical URLs use Netlify's site
 address automatically; set `NEXT_PUBLIC_SITE_URL` once a custom domain is connected.
+
+**Live Google ratings** need a browser API key in `NEXT_PUBLIC_GOOGLE_MAPS_KEY` (in
+Netlify's environment variables, and in `web/.env.local` for local testing). Create
+it separately from the pipeline key: restrict it to HTTP referrers
+`https://msphub.netlify.app/*` and `http://localhost:3000/*`, and to the Maps
+JavaScript API and Places API (New). Without the key, profiles show a "Read reviews
+on Google Maps" link instead.
 
 ## Adding a city
 

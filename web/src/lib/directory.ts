@@ -1,5 +1,5 @@
 import type { DirectoryMsp } from "@/components/CityDirectory";
-import type { Msp } from "@/lib/data";
+import { type Msp, placeName } from "@/lib/data";
 
 /** The fields the sortable list needs, so pages don't ship whole profiles to the browser. */
 export function toDirectory(msps: Msp[]): DirectoryMsp[] {
@@ -10,10 +10,9 @@ export function toDirectory(msps: Msp[]): DirectoryMsp[] {
     services: msp.services,
     industries: msp.industries,
     compliance: msp.compliance,
-    rating: msp.rating,
-    reviewCount: msp.reviewCount,
-    weightedRating: msp.weightedRating,
+    score: msp.score.total,
     town: msp.town,
+    place: placeName(msp),
     foundedYear: msp.foundedYear,
   }));
 }

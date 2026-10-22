@@ -48,15 +48,15 @@ export function runSearch(index: SearchEntry[], query: string) {
       return nameB - nameA || b.count - a.count;
     });
 
-  // A query of only stop words ("best MSP") shows every MSP, best rated first.
+  // A query of only stop words ("best MSP") shows every MSP, highest MSP Hub Score first.
   const msps = index
     .filter((entry): entry is MspEntry => entry.kind === "msp")
     .filter((entry) => terms.length === 0 || matches(entry, terms))
     .sort((a, b) => {
-      // MSPs whose name contains the query come first, then best rated.
+      // MSPs whose name contains the query come first, then by MSP Hub Score.
       const nameA = a.name.toLowerCase().includes(raw) ? 1 : 0;
       const nameB = b.name.toLowerCase().includes(raw) ? 1 : 0;
-      return nameB - nameA || (b.weightedRating ?? 0) - (a.weightedRating ?? 0) || b.reviewCount - a.reviewCount;
+      return nameB - nameA || b.score - a.score || a.name.localeCompare(b.name);
     });
 
   return { terms, places, msps };
