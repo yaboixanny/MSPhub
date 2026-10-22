@@ -1,13 +1,15 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import { HowWePicked, LocationFaq, TopList } from "@/components/BestList";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { CityDirectory } from "@/components/CityDirectory";
 import { JsonLd } from "@/components/JsonLd";
 import { getAreas, getCities, getCity, getCityMsps, topValues } from "@/lib/data";
 import { toDirectory } from "@/lib/directory";
-import { SITE_URL } from "@/lib/site";
 import { INDUSTRY_LABELS, label } from "@/lib/labels";
+import { bestDescription, bestTitle, freshness, locationFaqs, topCount } from "@/lib/seo";
+import { SITE_URL } from "@/lib/site";
 
 // Static export: only the pages listed below exist; anything else is a 404.
 export const dynamicParams = false;
@@ -20,9 +22,12 @@ export async function generateMetadata({ params }: PageProps<"/[state]/[city]">)
   const { state, city: citySlug } = await params;
   const city = getCity(state, citySlug);
   if (!city) return {};
+  const place = `${city.name}, ${city.stateCode}`;
+  const { year } = freshness(getCities());
   return {
-    title: `Best Managed IT Service Providers (MSPs) in ${city.name}, ${city.stateCode}`,
-    description: `Compare ${city.count} verified managed service providers in ${city.name}, ${city.stateCode}, ranked by the MSP Hub Score, with services, industries, compliance support and live Google reviews for each MSP.`,
+    // Absolute: the "| MSP Hub" suffix would push the keyword title past what search results show.
+    title: { absolute: bestTitle(place, city.count, year) },
+    description: bestDescription(place, city.count, year),
     alternates: { canonical: `/${state}/${citySlug}` },
   };
 }
@@ -32,6 +37,8 @@ export default async function CityPage({ params }: PageProps<"/[state]/[city]">)
   const city = getCity(state, citySlug);
   if (!city) notFound();
   const msps = getCityMsps(state, citySlug);
+  const place = `${city.name}, ${city.stateCode}`;
+  const updated = freshness(getCities());
 
   const founded = msps.filter((msp) => msp.foundedYear).map((msp) => msp.foundedYear!).sort((a, b) => a - b);
   const medianFounded = founded.length ? founded[Math.floor(founded.length / 2)] : null;
@@ -40,8 +47,8 @@ export default async function CityPage({ params }: PageProps<"/[state]/[city]">)
   const hipaa = msps.filter((msp) => msp.compliance.includes("HIPAA")).length;
   const cmmc = msps.filter((msp) => msp.compliance.includes("CMMC")).length;
   const nearby = city.areas.filter((area) => area !== city.name);
-
   const areas = getAreas(state, citySlug);
+  const top = topCount(msps.length);
 
   return (
     <div className="mx-auto max-w-6xl px-4 py-8">
@@ -54,14 +61,15 @@ export default async function CityPage({ params }: PageProps<"/[state]/[city]">)
         ]}
       />
 
-      <h1 className="mt-4 text-3xl font-bold tracking-tight sm:text-4xl">
-        Managed IT Service Providers in {city.name}, {city.stateCode}
-      </h1>
-      <p className="mt-3 max-w-3xl leading-relaxed text-slate-600">
-        We found {msps.length} managed service providers (MSPs) in {city.name} and nearby{" "}
-        {nearby.slice(0, -1).join(", ")} and {nearby.at(-1)}. We read each company&apos;s website to confirm it
-        offers ongoing managed IT for businesses, not just computer repair or one-off projects. The most common
-        specialties are{" "}
+      <h1 className="mt-4 text-3xl font-bold tracking-tight sm:text-4xl">Best MSPs in {place}</h1>
+      <p className="mt-2 text-sm font-medium text-slate-500">
+        {msps.length} managed IT service providers, ranked · Updated {updated.label}
+      </p>
+      <p className="mt-4 max-w-3xl leading-relaxed text-slate-600">
+        These are the best managed service providers (MSPs) in {city.name} and nearby{" "}
+        {nearby.slice(0, -1).join(", ")} and {nearby.at(-1)}, ranked by the MSP Hub Score. We read each
+        company&apos;s website to confirm it offers ongoing managed IT for businesses, not just computer repair or
+        one-off projects. The most common specialties are{" "}
         {industries.map(([value, count], index) => (
           <span key={value}>
             {index > 0 && (index === industries.length - 1 ? " and " : ", ")}
@@ -85,8 +93,15 @@ export default async function CityPage({ params }: PageProps<"/[state]/[city]">)
         ))}
       </dl>
 
-      <section className="mt-8">
-        <h2 className="text-sm font-semibold uppercase tracking-wide text-slate-500">Browse by area</h2>
+      {top > 0 && (
+        <div className="mt-10">
+          <TopList title={`Top ${top} MSPs in ${place}`} msps={msps.slice(0, top)} asOfYear={updated.year} />
+          <HowWePicked updated={updated.label} />
+        </div>
+      )}
+
+      <section className="mt-10">
+        <h2 className="text-sm font-semibold uppercase tracking-wide text-slate-500">Best MSPs by area</h2>
         <ul className="mt-3 flex flex-wrap gap-2">
           {areas.map((area) =>
             area.hasPage ? (
@@ -95,7 +110,7 @@ export default async function CityPage({ params }: PageProps<"/[state]/[city]">)
                   href={`/${state}/${citySlug}/${area.slug}`}
                   className="inline-flex items-center gap-1.5 rounded-full border border-slate-200 bg-white px-3 py-1 text-sm text-slate-700 hover:border-brand-600 hover:text-brand-700"
                 >
-                  {area.name}
+                  Best MSPs in {area.name}
                   <span className="text-xs text-slate-400">{area.count}</span>
                 </Link>
               </li>
@@ -112,29 +127,20 @@ export default async function CityPage({ params }: PageProps<"/[state]/[city]">)
         </ul>
       </section>
 
-      <section className="mt-8">
+      <section className="mt-10">
+        <h2 className="mb-4 text-2xl font-bold tracking-tight">All {msps.length} MSPs in {place}</h2>
         <CityDirectory msps={toDirectory(msps)} />
       </section>
 
-      <section className="mt-12 max-w-3xl">
-        <h2 className="text-xl font-semibold">How this list is ranked</h2>
-        <p className="mt-2 leading-relaxed text-slate-600">
-          The list is sorted by the MSP Hub Score, a 0-100 score based on what each provider documents publicly: years
-          in business, managed services offered, compliance support, industries served and pricing transparency. It
-          isn&apos;t a quality rating, so open a profile to see that provider&apos;s live Google reviews.{" "}
-          <Link href="/how-we-rank" className="text-brand-600 hover:underline">
-            Read how we rank MSPs
-          </Link>
-          .
-        </p>
-        <p className="mt-3 text-sm text-slate-500">Last updated {city.updated}.</p>
-      </section>
+      <div className="mt-12">
+        <LocationFaq place={place} faqs={locationFaqs(place, msps, areas)} />
+      </div>
 
       <JsonLd
         data={{
           "@context": "https://schema.org",
           "@type": "ItemList",
-          name: `Managed IT service providers in ${city.name}, ${city.stateCode}`,
+          name: `Best MSPs in ${place}`,
           numberOfItems: msps.length,
           itemListElement: msps.map((msp, index) => ({
             "@type": "ListItem",

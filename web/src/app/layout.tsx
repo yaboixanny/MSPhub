@@ -83,7 +83,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
                   state.cities.map((city) => (
                     <li key={`${state.slug}/${city.slug}`}>
                       <Link href={`/${state.slug}/${city.slug}`} className="hover:text-slate-900">
-                        MSPs in {city.name}, {city.stateCode}
+                        Best MSPs in {city.name}, {city.stateCode}
                       </Link>
                     </li>
                   )),

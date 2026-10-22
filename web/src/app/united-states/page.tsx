@@ -2,27 +2,34 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { ScoreBadge } from "@/components/ScoreBadge";
-import { getAllMsps, getCoveredStates, getStates, placeName } from "@/lib/data";
+import { getAllMsps, getCities, getCoveredStates, getStates, placeName } from "@/lib/data";
+import { bestDescription, bestTitle, freshness } from "@/lib/seo";
 
-export const metadata: Metadata = {
-  title: "Managed IT Service Providers (MSPs) in the United States",
-  description:
-    "Browse verified managed service providers by state and city across the United States, ranked by the MSP Hub Score.",
-  alternates: { canonical: "/united-states" },
-};
+export function generateMetadata(): Metadata {
+  const { year } = freshness(getCities());
+  const count = getAllMsps().length;
+  return {
+    // "the US" keeps the title short enough to show in full in search results.
+    title: { absolute: bestTitle("the US", count, year) },
+    description: bestDescription("the United States", count, year),
+    alternates: { canonical: "/united-states" },
+  };
+}
 
 export default function UnitedStatesPage() {
   const states = getStates();
   const covered = getCoveredStates();
   const msps = getAllMsps();
   const topScored = msps.slice(0, 25);
+  const updated = freshness(getCities());
 
   return (
     <div className="mx-auto max-w-6xl px-4 py-8">
       <Breadcrumbs items={[{ name: "Home", href: "/" }, { name: "United States", href: "/united-states" }]} />
-      <h1 className="mt-4 text-3xl font-bold tracking-tight sm:text-4xl">
-        Managed IT Service Providers in the United States
-      </h1>
+      <h1 className="mt-4 text-3xl font-bold tracking-tight sm:text-4xl">Best MSPs in the United States</h1>
+      <p className="mt-2 text-sm font-medium text-slate-500">
+        {msps.length} managed IT service providers, ranked · Updated {updated.label}
+      </p>
       <p className="mt-3 max-w-3xl leading-relaxed text-slate-600">
         {msps.length} verified MSPs so far, across {covered.length} {covered.length === 1 ? "state" : "states"}. We
         build MSP Hub one metro at a time and verify every listing against the company&apos;s own website, so coverage
@@ -60,8 +67,10 @@ export default function UnitedStatesPage() {
       </section>
 
       <section className="mt-12">
-        <h2 className="text-xl font-semibold">Top MSPs nationwide</h2>
-        <p className="mt-1 text-sm text-slate-600">Ranked by MSP Hub Score.</p>
+        <h2 className="text-xl font-semibold">Top 25 MSPs nationwide</h2>
+        <p className="mt-1 text-sm text-slate-600">
+          Ranked by MSP Hub Score. <Link href="/how-we-rank" className="text-brand-600 hover:underline">How we rank</Link>
+        </p>
         <ol className="mt-4 divide-y divide-slate-200 rounded-xl border border-slate-200 bg-white">
           {topScored.map((msp, index) => {
             return (

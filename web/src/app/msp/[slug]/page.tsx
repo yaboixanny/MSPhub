@@ -241,7 +241,7 @@ export default async function MspPage({ params }: PageProps<"/msp/[slug]">) {
             ))}
           </ul>
           <Link href={`/${city.state}/${city.slug}`} className="mt-4 inline-block text-sm text-brand-600 hover:underline">
-            See all {city.count} MSPs in {city.name}
+            See the best MSPs in {city.name}
           </Link>
         </section>
       )}

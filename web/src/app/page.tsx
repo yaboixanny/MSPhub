@@ -141,7 +141,7 @@ export default function Home() {
       <section className="mx-auto max-w-6xl px-4 py-10">
         <div className="flex flex-wrap items-end justify-between gap-3">
           <div>
-            <h2 className="text-2xl font-bold tracking-tight sm:text-3xl">Top MSPs</h2>
+            <h2 className="text-2xl font-bold tracking-tight sm:text-3xl">Best MSPs right now</h2>
             <p className="mt-1 text-slate-600">The highest MSP Hub Scores in our database.</p>
           </div>
           <Link href="/united-states" className="font-medium text-brand-600 hover:underline">
@@ -189,11 +189,11 @@ export default function Home() {
                 <div className="flex flex-wrap items-baseline justify-between gap-2">
                   <h3 className="text-lg font-semibold">
                     <Link href={href} className="hover:text-brand-600 hover:underline">
-                      {city.name}, {city.stateCode}
+                      Best MSPs in {city.name}, {city.stateCode}
                     </Link>
                   </h3>
                   <Link href={href} className="text-sm font-medium text-brand-600 hover:underline">
-                    All {city.count} MSPs
+                    See all {city.count}
                   </Link>
                 </div>
                 <ul className="mt-4 flex flex-wrap gap-2">

@@ -1,9 +1,10 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import { HowWePicked, LocationFaq, TopList } from "@/components/BestList";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
-import { ScoreBadge } from "@/components/ScoreBadge";
-import { getAreas, getCoveredStates, getState, getStateMsps, getStates, placeName } from "@/lib/data";
+import { getAreas, getCities, getCoveredStates, getState, getStateMsps, getStates } from "@/lib/data";
+import { bestDescription, bestTitle, freshness, locationFaqs, topCount } from "@/lib/seo";
 
 // Static export: only the pages listed below exist; anything else is a 404.
 export const dynamicParams = false;
@@ -16,10 +17,13 @@ export async function generateMetadata({ params }: PageProps<"/[state]">): Promi
   const { state: slug } = await params;
   const state = getState(slug);
   if (!state) return {};
+  const { year } = freshness(getCities());
   return {
-    title: `Managed IT Service Providers (MSPs) in ${state.name}`,
+    title: state.count
+      ? { absolute: bestTitle(state.name, state.count, year) }
+      : `MSPs in ${state.name}: Coming Soon`,
     description: state.count
-      ? `Compare ${state.count} verified managed service providers across ${state.name}, by metro and town. Ranked by the MSP Hub Score.`
+      ? bestDescription(state.name, state.count, year)
       : `MSP Hub is coming to ${state.name}. See which states and cities we cover today.`,
     alternates: { canonical: `/${slug}` },
     // States without listings yet are thin pages; keep them out of search results until they have data.
@@ -72,27 +76,37 @@ export default async function StatePage({ params }: PageProps<"/[state]">) {
     );
   }
 
-  const topScored = getStateMsps(slug).slice(0, 10);
+  const msps = getStateMsps(slug);
+  const updated = freshness(getCities());
+  const top = topCount(msps.length);
 
   return (
     <div className="mx-auto max-w-6xl px-4 py-8">
       <Breadcrumbs items={crumbs} />
-      <h1 className="mt-4 text-3xl font-bold tracking-tight sm:text-4xl">
-        Managed IT Service Providers in {state.name}
-      </h1>
-      <p className="mt-3 max-w-3xl leading-relaxed text-slate-600">
-        {state.count} verified MSPs across {state.cities.length}{" "}
-        {state.cities.length === 1 ? "metro area" : "metro areas"} so far. Pick a metro or town to compare providers by
-        MSP Hub Score, services and the industries they serve.
+      <h1 className="mt-4 text-3xl font-bold tracking-tight sm:text-4xl">Best MSPs in {state.name}</h1>
+      <p className="mt-2 text-sm font-medium text-slate-500">
+        {state.count} managed IT service providers, ranked · Updated {updated.label}
+      </p>
+      <p className="mt-4 max-w-3xl leading-relaxed text-slate-600">
+        The best managed service providers in {state.name}, ranked by the MSP Hub Score. We cover{" "}
+        {state.cities.length} {state.cities.length === 1 ? "metro area" : "metro areas"} so far; pick one to see its
+        full ranking, town pages and every verified MSP.
       </p>
 
+      {top > 0 && (
+        <div className="mt-10">
+          <TopList title={`Top ${top} MSPs in ${state.name}`} msps={msps.slice(0, top)} asOfYear={updated.year} />
+          <HowWePicked updated={updated.label} />
+        </div>
+      )}
+
       <section className="mt-10">
-        <h2 className="text-xl font-semibold">Metro areas and towns</h2>
+        <h2 className="text-xl font-semibold">Best MSPs by metro area</h2>
         <div className="mt-4 grid gap-4 lg:grid-cols-2">
           {state.cities.map((city) => (
             <div key={city.slug} className="rounded-xl border border-slate-200 bg-white p-6">
               <Link href={`/${slug}/${city.slug}`} className="text-lg font-semibold hover:text-brand-600 hover:underline">
-                {city.name} metro
+                Best MSPs in {city.name}, {city.stateCode}
               </Link>
               <p className="text-sm text-slate-500">{city.count} MSPs</p>
               <ul className="mt-4 flex flex-wrap gap-2">
@@ -113,23 +127,12 @@ export default async function StatePage({ params }: PageProps<"/[state]">) {
         </div>
       </section>
 
-      <section className="mt-12">
-        <h2 className="text-xl font-semibold">Top MSPs in {state.name}</h2>
-        <ol className="mt-4 divide-y divide-slate-200 rounded-xl border border-slate-200 bg-white">
-          {topScored.map((msp, index) => (
-            <li key={msp.slug} className="flex flex-wrap items-center justify-between gap-2 px-5 py-4">
-              <span className="flex items-baseline gap-3">
-                <span className="w-5 text-right text-sm font-semibold text-slate-400">{index + 1}</span>
-                <Link href={`/msp/${msp.slug}`} className="font-medium hover:text-brand-600 hover:underline">
-                  {msp.name}
-                </Link>
-                <span className="text-sm text-slate-500">{placeName(msp)}</span>
-              </span>
-              <ScoreBadge score={msp.score.total} />
-            </li>
-          ))}
-        </ol>
-      </section>
+      <div className="mt-12">
+        <LocationFaq
+          place={state.name}
+          faqs={locationFaqs(state.name, msps, state.cities.map((city) => ({ name: city.name, count: city.count })))}
+        />
+      </div>
     </div>
   );
 }

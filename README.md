@@ -96,6 +96,14 @@ it separately from the pipeline key: restrict it to HTTP referrers
 JavaScript API and Places API (New). Without the key, profiles show a "Read reviews
 on Google Maps" link instead.
 
+## SEO
+
+Every location page targets "best MSPs in <place>" searches: keyword titles with
+the year, an H1 of "Best MSPs in <place>", a ranked Top 10 (or Top 5) with reasons,
+a "How we picked" note, data-generated FAQs, and "Best MSPs in <place>" link text.
+It's all generated from the data by `web/src/lib/seo.ts`, so new cities get it
+automatically. The rules are in `CLAUDE.md`.
+
 ## Adding a city
 
 Copy `config/cities/orlando-fl.json`, change the city, areas, center and radius,
