@@ -5,6 +5,7 @@ import { US_STATES } from "@/lib/states";
 
 export type Msp = {
   slug: string;
+  placeId: string;
   name: string;
   summary: string;
   services: string[];
@@ -22,8 +23,6 @@ export type Msp = {
   phone: string | null;
   addresses: string[];
   town: string;
-  lat: number | null;
-  lng: number | null;
   linkedin: string | null;
   googleMapsUrl: string;
   city: string;

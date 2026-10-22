@@ -4,7 +4,7 @@
 Usage:
     python3 scripts/export_web.py
 
-Reads config/cities/*.json and each city's msps.csv + places.csv, and writes
+Reads config/cities/*.json and each city's msps.csv, and writes
 web/src/data/msps.json and web/src/data/cities.json. Only rows with
 is_msp == "yes" that don't need review are published.
 """
@@ -55,14 +55,11 @@ def main():
         base = city_dir(config)
         if not (base / "msps.csv").exists():
             continue
-        with open(base / "places.csv", newline="") as handle:
-            places = {row["place_id"]: row for row in csv.DictReader(handle)}
         with open(base / "msps.csv", newline="") as handle:
             rows = [row for row in csv.DictReader(handle)
                     if row["is_msp"] == "yes" and not row["needs_review"]]
 
         for row in rows:
-            place = places[row["place_id"]]
             slug = slugify(row["name"])
             if slug in used_slugs:
                 slug = f"{slug}-{config['slug']}"
@@ -70,6 +67,9 @@ def main():
             addresses = [address.replace(", USA", "") for address in row["address"].split(" | ")]
             msps.append({
                 "slug": slug,
+                # Google allows storing place IDs indefinitely (unlike other Places
+                # content), so they can be used to fetch fresh details later.
+                "placeId": row["place_id"],
                 "name": row["name"],
                 "summary": row["summary"],
                 "services": split_list(row["services"]),
@@ -87,8 +87,6 @@ def main():
                 "phone": row["phone"] or None,
                 "addresses": addresses,
                 "town": city_from_address(addresses[0]),
-                "lat": float(place["lat"]) if place["lat"] else None,
-                "lng": float(place["lng"]) if place["lng"] else None,
                 "linkedin": row["linkedin"] or None,
                 "googleMapsUrl": row["google_maps_url"],
                 "city": config["slug"],

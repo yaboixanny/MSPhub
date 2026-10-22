@@ -19,6 +19,18 @@ export function Stars({ rating, size = 16 }: { rating: number; size?: number }) 
   );
 }
 
+/**
+ * Attribution required wherever Google Places data is shown without a Google map:
+ * the words "Google Maps" (not localized) in Roboto 400, 12-16px, colored #5E5E5E.
+ */
+export function GoogleMapsAttribution() {
+  return (
+    <span className="font-roboto text-xs whitespace-nowrap text-[#5E5E5E]" translate="no">
+      Google Maps
+    </span>
+  );
+}
+
 export function Rating({
   rating,
   reviewCount,
@@ -29,15 +41,16 @@ export function Rating({
   size?: number;
 }) {
   if (rating === null || reviewCount === 0) {
-    return <span className="text-sm text-slate-500">No Google reviews yet</span>;
+    return <span className="text-sm text-slate-500">No reviews on Google Maps yet</span>;
   }
   return (
-    <span className="inline-flex items-center gap-2 text-sm">
+    <span className="inline-flex flex-wrap items-center gap-x-2 gap-y-0.5 text-sm">
       <span className="font-semibold text-slate-900">{rating.toFixed(1)}</span>
       <Stars rating={rating} size={size} />
       <span className="text-slate-500">
-        {reviewCount.toLocaleString()} Google review{reviewCount === 1 ? "" : "s"}
+        {reviewCount.toLocaleString()} review{reviewCount === 1 ? "" : "s"}
       </span>
+      <GoogleMapsAttribution />
     </span>
   );
 }

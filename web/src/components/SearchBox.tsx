@@ -33,7 +33,7 @@ export function SearchBox({
         key: msp.slug,
         href: `/msp/${msp.slug}`,
         title: msp.name,
-        detail: msp.rating ? `${msp.place} · ${msp.rating.toFixed(1)}★ (${msp.reviewCount})` : msp.place,
+        detail: msp.place,
         kind: "MSP",
       })),
     ];

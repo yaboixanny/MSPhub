@@ -230,7 +230,6 @@ export default async function MspPage({ params }: PageProps<"/msp/[slug]">) {
           ...(msp.phone ? { telephone: msp.phone } : {}),
           ...(msp.foundedYear ? { foundingDate: String(msp.foundedYear) } : {}),
           address: msp.addresses.map((address) => ({ "@type": "PostalAddress", streetAddress: address })),
-          ...(msp.lat && msp.lng ? { geo: { "@type": "GeoCoordinates", latitude: msp.lat, longitude: msp.lng } } : {}),
           areaServed: msp.serviceArea ?? `${city.name}, ${city.stateCode}`,
           ...(msp.linkedin ? { sameAs: [msp.linkedin] } : {}),
         }}
