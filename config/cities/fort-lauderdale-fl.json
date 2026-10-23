@@ -1,0 +1,30 @@
+{
+  "city": "Fort Lauderdale",
+  "state": "Florida",
+  "state_code": "FL",
+  "slug": "fort-lauderdale",
+  "state_slug": "florida",
+  "center": {
+    "lat": 26.1224,
+    "lng": -80.1373
+  },
+  "radius_miles": 22,
+  "areas": [
+    "Fort Lauderdale",
+    "Hollywood",
+    "Pompano Beach",
+    "Coral Springs",
+    "Plantation",
+    "Sunrise",
+    "Davie",
+    "Weston",
+    "Pembroke Pines",
+    "Deerfield Beach"
+  ],
+  "queries": [
+    "managed IT services",
+    "managed service provider",
+    "IT support company",
+    "outsourced IT"
+  ]
+}

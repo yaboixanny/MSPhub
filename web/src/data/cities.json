@@ -1,5 +1,26 @@
 [
   {
+    "slug": "fort-lauderdale",
+    "name": "Fort Lauderdale",
+    "state": "florida",
+    "stateName": "Florida",
+    "stateCode": "FL",
+    "areas": [
+      "Fort Lauderdale",
+      "Hollywood",
+      "Pompano Beach",
+      "Coral Springs",
+      "Plantation",
+      "Sunrise",
+      "Davie",
+      "Weston",
+      "Pembroke Pines",
+      "Deerfield Beach"
+    ],
+    "count": 34,
+    "updated": "2026-10-23"
+  },
+  {
     "slug": "jacksonville",
     "name": "Jacksonville",
     "state": "florida",

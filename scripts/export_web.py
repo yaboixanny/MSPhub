@@ -61,7 +61,9 @@ def main():
     # reserve those slugs before naming new MSPs (a company with offices in several
     # metros gets one profile per metro, e.g. /msp/acme-it and /msp/acme-it-miami).
     previous_path = OUT_DIR / "msps.json"
-    previous = {msp["placeId"]: msp["slug"] for msp in json.loads(previous_path.read_text())} if previous_path.exists() else {}
+    # Keyed by metro too: overlapping metros can find the same Google listing.
+    previous = ({(msp["city"], msp["placeId"]): msp["slug"] for msp in json.loads(previous_path.read_text())}
+                if previous_path.exists() else {})
     used_slugs = set(previous.values())
     redirects = {}  # old slug -> slug of the profile it was merged into
 
@@ -91,8 +93,8 @@ def main():
             company_key = (contact["company_name"].lower().strip(), urlparse(record["website"]).netloc.lower().removeprefix("www."))
             if company_key in by_company:
                 existing = by_company[company_key]
-                if row["place_id"] in previous:
-                    redirects[previous[row["place_id"]]] = existing["slug"]
+                if (config["slug"], row["place_id"]) in previous:
+                    redirects[previous[(config["slug"], row["place_id"])]] = existing["slug"]
                 for address in contact["addresses"]:
                     formatted = format_address(address)
                     if formatted not in existing["addresses"]:
@@ -103,7 +105,7 @@ def main():
             # metro's towns first and use the first one as the MSP's town.
             local = [address for address in contact["addresses"] if town_key(address["city"]) in metro_towns]
             addresses = local + [address for address in contact["addresses"] if address not in local]
-            slug = previous.get(row["place_id"])
+            slug = previous.get((config["slug"], row["place_id"]))
             if slug is None:
                 slug = slugify(contact["company_name"])
                 if slug in used_slugs:

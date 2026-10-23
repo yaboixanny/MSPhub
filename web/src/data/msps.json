@@ -1,5 +1,1488 @@
 [
   {
+    "slug": "connections-for-business-fort-lauderdale",
+    "placeId": "ChIJ4X2_tYyr2YgRStUPkfce7dE",
+    "name": "Connections for Business",
+    "summary": "Connections for Business is a South Florida IT provider based in Hollywood that offers fixed-fee managed IT with a 24/7 help desk, network operations center monitoring, onsite field services, and virtual CIO planning. It also covers cybersecurity, Microsoft 365, backups and disaster recovery, and telephony, and works with law firms and financial services clients among others.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "legal",
+      "accounting_finance"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": 1977,
+    "teamSize": "19 help desk team members",
+    "serviceArea": "South Florida, including Fort Lauderdale, Boca Raton, Miami and West Palm Beach",
+    "pricing": "Fixed-fee IT services",
+    "website": "https://www.connections.com/",
+    "phone": "(954) 624-9500",
+    "addresses": [
+      "2843 Pembroke Road, Hollywood, FL 33020"
+    ],
+    "town": "Hollywood",
+    "linkedin": null,
+    "city": "fort-lauderdale",
+    "state": "florida"
+  },
+  {
+    "slug": "it-business-solutions",
+    "placeId": "ChIJoVatXL4D2YgR1-dNPsMiAtE",
+    "name": "IT Business Solutions",
+    "summary": "IT Business Solutions is a Tamarac, Florida firm offering ongoing managed IT, cybersecurity, network design, cloud and unified communications support to businesses across Miami-Dade, Broward and Palm Beach counties. It focuses on serving healthcare providers, law firms, schools and nonprofits, with HIPAA and PCI-related security work. The company is veteran-owned and emphasizes client education and a limited client roster.",
+    "services": [
+      "managed_it",
+      "cybersecurity",
+      "network_infrastructure",
+      "voip_phones",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "education",
+      "professional_services",
+      "nonprofit"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS"
+    ],
+    "partners": [
+      "Microsoft Partner",
+      "Cisco",
+      "Fortinet",
+      "Grandstream"
+    ],
+    "foundedYear": 2003,
+    "teamSize": null,
+    "serviceArea": "South Florida: Miami-Dade, Broward, and Palm Beach counties (based in Tamarac, FL)",
+    "pricing": null,
+    "website": "https://itb-solutions.com/",
+    "phone": "(954) 642-1163",
+    "addresses": [
+      "3900 West Commercial Boulevard, Tamarac, FL"
+    ],
+    "town": null,
+    "linkedin": "https://linkedin.com/company/i.t.-business-solutions-unlimited-llc",
+    "city": "fort-lauderdale",
+    "state": "florida"
+  },
+  {
+    "slug": "networksfast",
+    "placeId": "ChIJAQAAAJwA2YgRyfu7NNX8ipg",
+    "name": "NetworksFAST",
+    "summary": "NetworksFAST is a small IT support provider based in Davie, Florida, run by a U.S. Marine Corps veteran. It serves small businesses and home offices in Broward County and nearby areas with monitored systems, remote and emergency support, networking, firewalls, VoIP phones, backups and disaster recovery, and monthly-fee service plans.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Broward County, Florida, and surrounding areas",
+    "pricing": "Monthly fee",
+    "website": "https://yournetworksfast.com/",
+    "phone": "(954) 900-6519",
+    "addresses": [],
+    "town": null,
+    "linkedin": null,
+    "city": "fort-lauderdale",
+    "state": "florida"
+  },
+  {
+    "slug": "gocomputek-llc-fort-lauderdale",
+    "placeId": "ChIJwQh6Maar2YgRAxhSA3odgrU",
+    "name": "GoComputek LLC",
+    "summary": "Miami-based IT company founded in 2005 offering managed IT, cloud subscription management, security and on-demand technical services to small and mid-sized businesses in Miami-Dade and Broward. Lists industry-specific work in healthcare, legal, accounting, manufacturing and logistics, with a stated focus on NIST-aligned security practices.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement"
+    ],
+    "industries": [
+      "healthcare",
+      "manufacturing",
+      "logistics",
+      "legal",
+      "accounting_finance",
+      "nonprofit",
+      "retail",
+      "insurance"
+    ],
+    "compliance": [
+      "HIPAA",
+      "NIST",
+      "PCI DSS"
+    ],
+    "partners": [
+      "Microsoft"
+    ],
+    "foundedYear": 2005,
+    "teamSize": null,
+    "serviceArea": "Miami-Dade and Broward County, South Florida",
+    "pricing": "Fixed and transparent pricing; fixed hourly rates for industry-specific work; discounts for on-demand services",
+    "website": "https://www.gocomputek.com/",
+    "phone": "(305) 822-7070",
+    "addresses": [
+      "3363 SHERIDAN ST, SUITE 211, Hollywood, FL 33021",
+      "9830 SW 77TH AVE, STE 155, Miami, FL 33156"
+    ],
+    "town": "Hollywood",
+    "linkedin": "https://www.linkedin.com/company/gocomputek",
+    "city": "fort-lauderdale",
+    "state": "florida"
+  },
+  {
+    "slug": "berkowitz-pollack-brant",
+    "placeId": "ChIJjfbHM3AB2YgR5wp3qst2UqQ",
+    "name": "Berkowitz Pollack Brant",
+    "summary": "Managed IT and cybersecurity services offered through the accounting firm Berkowitz Pollack Brant. The page describes remote monitoring, server and network management, threat detection, cloud services, disaster recovery and IT consulting for businesses, and says it serves more than 100 clients.",
+    "services": [
+      "managed_it",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "it_strategy_vcio"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": null,
+    "pricing": null,
+    "website": "https://info.bpbcpa.com/cybersecurity-and-it",
+    "phone": "(305) 960-9009",
+    "addresses": [],
+    "town": null,
+    "linkedin": null,
+    "city": "fort-lauderdale",
+    "state": "florida"
+  },
+  {
+    "slug": "mindcore-technologies-fort-lauderdale",
+    "placeId": "ChIJjRXkPpbf2IgRMevKPDOWSwc",
+    "name": "Mindcore Technologies",
+    "summary": "Mindcore Technologies is an IT and cybersecurity provider offering managed IT, co-managed IT, IT consulting, cybersecurity and Microsoft 365 services. It serves businesses in New Jersey, Florida and several other states, with industry focus on healthcare, financial services, legal, insurance, manufacturing, architecture and engineering, and accounting firms. The company also offers its ShieldHQ zero-trust security platform and NetSuite consulting.",
+    "services": [
+      "managed_it",
+      "co_managed_it",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "network_infrastructure",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "accounting_finance",
+      "legal",
+      "insurance",
+      "manufacturing",
+      "engineering_architecture"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "NIST",
+      "SOC 2",
+      "PCI DSS",
+      "FINRA/SEC"
+    ],
+    "partners": [
+      "Microsoft Partner"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "New Jersey, Florida, Maryland, South Carolina, Louisiana, Mississippi, Texas, Alabama, Georgia, North Carolina, Kansas, Missouri, and throughout the United States",
+    "pricing": null,
+    "website": "https://mind-core.com/",
+    "phone": "(561) 404-8411",
+    "addresses": [
+      "121 S. Orange Ave, Suite 1500, Orlando, FL 32801"
+    ],
+    "town": null,
+    "linkedin": null,
+    "city": "fort-lauderdale",
+    "state": "florida"
+  },
+  {
+    "slug": "nextek-it",
+    "placeId": "ChIJQevAZ3cb2YgROmNFxodvaJU",
+    "name": "Nextek IT",
+    "summary": "Nextek IT is a South Florida managed IT and cybersecurity provider serving businesses in Fort Lauderdale, Miami and West Palm Beach. Services include server and desktop monitoring, managed firewall, hosted backup, Microsoft 365 and Azure/AWS cloud management, cybersecurity assessments, network design, VoIP, cabling and AI consulting. The firm lists a Coral Springs office and says it has been operating for over 20 years.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services",
+      "structured_cabling"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [
+      "Microsoft 365 services",
+      "Azure migration planning"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Fort Lauderdale, Miami, West Palm Beach, South Florida",
+    "pricing": "Flat monthly fee for cloud services",
+    "website": "https://nextekit.com/",
+    "phone": "(954) 780-7159",
+    "addresses": [
+      "4722 Rothschild Drive, Coral Springs, FL 33067"
+    ],
+    "town": "Coral Springs",
+    "linkedin": null,
+    "city": "fort-lauderdale",
+    "state": "florida"
+  },
+  {
+    "slug": "cspi-technology-solutions",
+    "placeId": "ChIJyXocZ-Yc2YgRtpXhZwjieds",
+    "name": "CSPi Technology Solutions",
+    "summary": "Boca Raton-based IT firm offering ongoing managed IT under its Vital branding, including 24/7 infrastructure monitoring, managed backup and disaster recovery, managed detection and response, and Azure-based managed cloud. It also provides professional IT design and deployment, networking, wireless-as-a-service, and Cisco-powered unified communications for mid-size and enterprise clients in regulated sectors such as healthcare, education, government and manufacturing.",
+    "services": [
+      "managed_it",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "cloud_microsoft_365",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "hardware_procurement"
+    ],
+    "industries": [
+      "healthcare",
+      "education",
+      "manufacturing",
+      "government",
+      "retail"
+    ],
+    "compliance": [],
+    "partners": [
+      "Cisco",
+      "Microsoft Azure",
+      "Veeam"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": null,
+    "pricing": "Predictable flat fee for Vital Managed IT Services",
+    "website": "https://www.cspitechsolutions.com/",
+    "phone": "(800) 940-1111",
+    "addresses": [
+      "951 Broken Sound Parkway NW, Suite 250, Boca Raton, FL 33487"
+    ],
+    "town": null,
+    "linkedin": "https://www.linkedin.com/company/csp-inc/",
+    "city": "fort-lauderdale",
+    "state": "florida"
+  },
+  {
+    "slug": "gtg-networks",
+    "placeId": "ChIJ3yPRWNwb2YgRU_6JxUGlCZU",
+    "name": "GTG Networks",
+    "summary": "GTG Networks is a managed IT services provider based in Boca Raton, serving businesses in South Florida and nationwide. Its offerings include managed IT, network monitoring, help desk support, managed antivirus and security, backup and disaster recovery, and IT consulting. The firm highlights work with healthcare, legal, construction, and financial and accounting clients.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "it_strategy_vcio",
+      "compliance_services",
+      "cloud_microsoft_365"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "construction",
+      "accounting_finance"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [],
+    "foundedYear": 2014,
+    "teamSize": null,
+    "serviceArea": "South Florida (Broward, Palm Beach, Boca Raton) and nationwide",
+    "pricing": "Fixed monthly fee depending on company size, number of users, complexity and services chosen",
+    "website": "https://gtgnetworks.com/",
+    "phone": "(561) 576-1355",
+    "addresses": [
+      "2650 N Military Trl, Suite 310, Boca Raton, FL 33431",
+      "5739 Lyons Road Suite #212, Coconut Creek, FL 33073"
+    ],
+    "town": null,
+    "linkedin": "https://www.linkedin.com/company/gtg-networks/",
+    "city": "fort-lauderdale",
+    "state": "florida"
+  },
+  {
+    "slug": "wheelhouse-it-fort-lauderdale",
+    "placeId": "ChIJBRHqLKgA2YgRPl6DE4WgScM",
+    "name": "WheelHouse IT",
+    "summary": "WheelHouse IT is a managed IT provider headquartered in Fort Lauderdale with offices in New York and Orlando. It offers managed IT, co-managed IT, help desk, managed SOC and SIEM security, Microsoft 365 and Azure administration, and structured cabling, serving healthcare, legal, financial services, construction, manufacturing and other professional clients across South Florida and New York. Its distinguishing features include a pod-based support model, an internal network operations center, and SOC 2 examination.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "structured_cabling"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "construction",
+      "manufacturing",
+      "engineering_architecture",
+      "nonprofit",
+      "insurance"
+    ],
+    "compliance": [
+      "HIPAA",
+      "SOC 2",
+      "PCI DSS"
+    ],
+    "partners": [
+      "Microsoft Solutions Partner (Modern Work)",
+      "Microsoft Solutions Partner (Azure Infrastructure)",
+      "CrowdStrike",
+      "Huntress",
+      "SonicWall"
+    ],
+    "foundedYear": 2016,
+    "teamSize": "300+ organizations served",
+    "serviceArea": "Fort Lauderdale, New York, Orlando; Broward County and South Florida; Long Island, Los Angeles, Miami, New York City, West Palm Beach",
+    "pricing": "Fixed monthly costs; month-to-month IT services for qualified organizations",
+    "website": "https://www.wheelhouseit.com/it-support-fort-lauderdale/",
+    "phone": "(954) 474-2204",
+    "addresses": [
+      "2890 West State Rd. 84, Suite 108, Fort Lauderdale, FL 33312",
+      "1866 Seaford Ave, Wantagh, NY 11793",
+      "2000 N Alafaya Trail, Suite 850, Orlando, FL 32826"
+    ],
+    "town": "Fort Lauderdale",
+    "linkedin": "https://www.linkedin.com/company/wheelhouse-it/",
+    "city": "fort-lauderdale",
+    "state": "florida"
+  },
+  {
+    "slug": "alewho-it-solutions",
+    "placeId": "ChIJRajnvAUK2YgRJfU3MRwjgUA",
+    "name": "Alewho IT Solutions",
+    "summary": "Alewho IT Solutions provides outsourced and co-managed IT support for businesses, covering monitoring, help desk, network security, cybersecurity, and backup and disaster recovery. The firm says it focuses on a select set of industries, including insurance, accounting, nonprofits, healthcare, and engineering and architecture firms, and offers onsite plans quoted to each business.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "healthcare",
+      "insurance",
+      "accounting_finance",
+      "nonprofit",
+      "engineering_architecture",
+      "hospitality"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "US market",
+    "pricing": null,
+    "website": "https://www.alewho.com/",
+    "phone": "(954) 512-4950",
+    "addresses": [
+      "300 S.E. 2nd Street, Suite 600, Ft. Lauderdale, FL 33301"
+    ],
+    "town": null,
+    "linkedin": null,
+    "city": "fort-lauderdale",
+    "state": "florida"
+  },
+  {
+    "slug": "computer-services-tech",
+    "placeId": "ChIJcyiy-Moc2YgRJZm_JqpK_s8",
+    "name": "Computer Services Tech",
+    "summary": "Computer Services Tech is an IT services firm based in Lauderdale Lakes, Florida, offering remote monitoring, helpdesk support, backup and disaster recovery, endpoint security, and Microsoft 365 administration. It also provides on-site field engineers, network and VoIP setup, and cloud and software development work. It states it serves businesses of all sizes across the US and internationally.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "software_development"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "US nationwide and worldwide; headquartered in Lauderdale Lakes, FL with on-site engineers in South Florida and other US locations",
+    "pricing": "Support plans priced by coverage hours (8x5, 24x7, or after hours); first annual support plan includes one month free",
+    "website": "https://computerservicestech.com/",
+    "phone": "(954) 698-4275",
+    "addresses": [],
+    "town": null,
+    "linkedin": "https://www.linkedin.com/company/computer-services-tech",
+    "city": "fort-lauderdale",
+    "state": "florida"
+  },
+  {
+    "slug": "it-usa-services",
+    "placeId": "ChIJDx9yUkwF2YgRU8nzyb6ErZQ",
+    "name": "IT USA Services",
+    "summary": "IT USA Services is a South Florida IT firm based in Coral Springs that provides business IT support, managed IT services, outsourced helpdesk, cybersecurity monitoring, cloud and networking work, and network cabling. It serves small and medium businesses across Broward, Palm Beach, Lee and Martin counties and lists partnerships with ProofPoint and AppRiver.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "structured_cabling",
+      "software_development",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "retail",
+      "education",
+      "accounting_finance"
+    ],
+    "compliance": [
+      "HIPAA",
+      "NIST",
+      "PCI DSS"
+    ],
+    "partners": [
+      "ProofPoint reseller",
+      "AppRiver reseller",
+      "Azure Solutions Architect",
+      "Azure Administrator",
+      "Azure Virtual Desktop",
+      "AWS Solutions Architect",
+      "AWS SysOps Administrator",
+      "Red Hat Certified Engineer",
+      "Red Hat Certified System Administrator",
+      "Certified Kubernetes Application Developer"
+    ],
+    "foundedYear": null,
+    "teamSize": "15+ certified engineers",
+    "serviceArea": "South Florida, including Palm Beach, Broward, Lee and Martin counties",
+    "pricing": null,
+    "website": "https://www.itusaservices.com/",
+    "phone": "(954) 556-8910",
+    "addresses": [
+      "10211 W Sample Rd # 202, Coral Springs, FL 33065"
+    ],
+    "town": "Coral Springs",
+    "linkedin": "https://www.linkedin.com/company/itusaservices/",
+    "city": "fort-lauderdale",
+    "state": "florida"
+  },
+  {
+    "slug": "microtech-it-and-cybersecurity-services",
+    "placeId": "ChIJOdGE5GYA2YgRtU3zkjVAmDY",
+    "name": "Microtech IT & Cybersecurity Services",
+    "summary": "Fort Lauderdale-based IT and cybersecurity firm providing managed IT support, network security, backup and recovery, VoIP phone services and dark web scanning. The company focuses on law firms, CPAs and financial firms, healthcare practices, dental practices and K-12 schools, serving clients across Florida and the United States. It highlights compliance support for frameworks such as HIPAA, GLBA and SOC 2.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "compliance_services"
+    ],
+    "industries": [
+      "legal",
+      "accounting_finance",
+      "healthcare",
+      "dental",
+      "education"
+    ],
+    "compliance": [
+      "HIPAA",
+      "SOC 2",
+      "PCI DSS",
+      "GLBA"
+    ],
+    "partners": [
+      "CISSP-certified cybersecurity leadership",
+      "Titans Of The Industry Award - Advanced Cybersecurity"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Florida and nationwide, with offices in Fort Lauderdale; service areas include Fort Lauderdale, Boca Raton, Aventura, Miami, Hollywood, Palm Beach, West Palm Beach, Pompano Beach and Lake Worth",
+    "pricing": null,
+    "website": "https://www.micro-tech.com/",
+    "phone": "(954) 327-1001",
+    "addresses": [
+      "110 E Broward Blvd #1700, Fort Lauderdale, FL 33301"
+    ],
+    "town": "Fort Lauderdale",
+    "linkedin": "https://www.linkedin.com/company/microtech-computer-services",
+    "city": "fort-lauderdale",
+    "state": "florida"
+  },
+  {
+    "slug": "blue-light-it",
+    "placeId": "ChIJLf0vm6Ye2YgR_0R3WoyrTuw",
+    "name": "Blue Light IT",
+    "summary": "Boca Raton-based IT and cybersecurity firm offering flat-rate, all-inclusive managed IT with remote support, 24/7 security monitoring, backup and recovery, and ransomware response. Serves small and mid-sized businesses in South Florida, with specific focus on healthcare, legal, financial and manufacturing clients.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "manufacturing"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Boca Raton, Coral Springs, Pompano Beach, Delray Beach; South Florida",
+    "pricing": "Flat-rate, all-inclusive pricing with one fee and one invoice",
+    "website": "https://www.bluelightit.com/",
+    "phone": "(561) 282-2225",
+    "addresses": [
+      "1825 NW Corporate Blvd, Suite 110, Boca Raton, FL 33431"
+    ],
+    "town": null,
+    "linkedin": "https://www.linkedin.com/company/bluelight-it/",
+    "city": "fort-lauderdale",
+    "state": "florida"
+  },
+  {
+    "slug": "corporate-technologies",
+    "placeId": "ChIJ__-veKEe2YgRjqQ1dBxICJY",
+    "name": "Corporate Technologies",
+    "summary": "Corporate Technologies is a managed IT provider for small and mid-sized businesses, with a 24/7 help desk, on-site engineering, cybersecurity, cloud and backup services billed as a flat monthly fee per user. It has a Coconut Creek, Florida office and 20 other offices across the US, and lists healthcare, financial services, professional services and logistics among the sectors it supports.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement"
+    ],
+    "industries": [
+      "healthcare",
+      "insurance",
+      "accounting_finance",
+      "legal",
+      "manufacturing",
+      "logistics",
+      "nonprofit",
+      "education",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "NIST",
+      "PCI DSS"
+    ],
+    "partners": [
+      "Authorized reseller and service provider for major business technology vendors (list on partners page)",
+      "Channel Futures MSP 501 (2025, 2026)",
+      "CRN MSP 500",
+      "Clutch Top Companies, Minneapolis (2025)"
+    ],
+    "foundedYear": 1981,
+    "teamSize": "200 people",
+    "serviceArea": "Florida (Coconut Creek office; Orlando, Tampa, Jacksonville, Miami, Fort Lauderdale, Sarasota, Naples named) and 18 states including Arkansas, California, Illinois, Minnesota, Virginia",
+    "pricing": "Flat monthly fee per user; plans from $35/user/mo (Help Desk Connect) to $80/user/mo (Total Advantage), 3-year agreement pricing",
+    "website": "https://gocorptech.com/managed-it-services-florida/",
+    "phone": "(866) 363-4628",
+    "addresses": [
+      "6210 Bury Dr, Eden Prairie, MN 55346",
+      "685 Shelby Trl Ste 102, Conway, AR 72034",
+      "16885 W Bernardo Dr Ste 212, San Diego, CA 92127",
+      "4443 Lyons Rd Ste 315, Coconut Creek, FL 33073",
+      "3380 W Americana Terrace, Boise, ID 83706",
+      "641 W Lake St #300, Chicago, IL 60661",
+      "627 E Market St, Indianapolis, IN 46202",
+      "200 State St Suite 202T, Cedar Falls, IA 50613",
+      "401 S Clairborne Rd #302, Olathe, KS 66062",
+      "651 Leson Ct, Harvey, LA 70058",
+      "7340 Executive Way M, Frederick, MD 21704",
+      "4690 Fulton St E Ste 101, Ada, MI 49301",
+      "55 Lane Rd Ste 240, Fairfield, NJ 07004",
+      "1510 Barbara Loop SE, Rio Rancho, NM 87124",
+      "2000 44th St SW #100, Fargo, ND 58103",
+      "601 Pittsburgh Ave, Mount Vernon, OH 43050",
+      "3303 S Harvard Ave Ste D, Tulsa, OK 74135",
+      "1840 Michael Faraday Dr, Reston, VA 20190"
+    ],
+    "town": null,
+    "linkedin": "https://www.linkedin.com/company/corporatetechnologiesllc/",
+    "city": "fort-lauderdale",
+    "state": "florida"
+  },
+  {
+    "slug": "downtown-computer-services",
+    "placeId": "ChIJM4JhPWIA2YgRPCe4mIotz78",
+    "name": "Downtown Computer Services",
+    "summary": "Fort Lauderdale-area IT company offering fixed monthly managed IT plans to small and mid-sized businesses, with remote-first support, a shared ticket queue, and on-site field engineers. Services also cover Microsoft 365, backup and disaster recovery, cybersecurity, structured cabling and VoIP phone systems. The site names accounting, dental, engineering, financial, law and medical firms among the industries it serves.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "structured_cabling",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "dental",
+      "legal",
+      "accounting_finance",
+      "engineering_architecture"
+    ],
+    "compliance": [],
+    "partners": [
+      "Microsoft Platform Partner (2015)",
+      "Microsoft SMB Partner award (2019)"
+    ],
+    "foundedYear": 1995,
+    "teamSize": "Nine technical people: five support, two field engineers, two network administrators",
+    "serviceArea": "South Florida, including Fort Lauderdale, Boca Raton, Palm Beach and Miami-Dade",
+    "pricing": "Fixed monthly fee for managed plan, starting at $250 a month depending on device count, locations and services",
+    "website": "https://www.downtowncomputers.com/our-locations/it-services-in-fort-lauderdale/",
+    "phone": "(954) 524-9002",
+    "addresses": [
+      "800 W. Cypress Creek Road, Suite 110, Fort Lauderdale, FL 33309",
+      "3835 NW Boca Raton Blvd., Suite 200, Boca Raton, FL 33431"
+    ],
+    "town": "Fort Lauderdale",
+    "linkedin": "https://www.linkedin.com/company/downtown-computer-services/",
+    "city": "fort-lauderdale",
+    "state": "florida"
+  },
+  {
+    "slug": "itglobal-corp",
+    "placeId": "ChIJkTAjWIIJ2YgRBXUdTpWP1XY",
+    "name": "ITGLOBAL Corp",
+    "summary": "ITGLOBAL is a Sunrise, Florida firm offering managed IT and managed cybersecurity for small and mid-sized businesses. Its services include 24/7 monitoring and detection, network and endpoint management, business continuity and data protection, and IT consulting. The site says it works with healthcare and dental practices, accounting and finance firms, and construction companies.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "dental",
+      "accounting_finance",
+      "construction"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": null,
+    "pricing": "Predictable monthly costs for managed workspaces",
+    "website": "https://itglobal.net/",
+    "phone": null,
+    "addresses": [],
+    "town": null,
+    "linkedin": null,
+    "city": "fort-lauderdale",
+    "state": "florida"
+  },
+  {
+    "slug": "level-up-technology",
+    "placeId": "ChIJqV-IgegH2YgRO1ddPqouiCw",
+    "name": "Level Up Technology",
+    "summary": "Level Up Technology is an IT services firm serving businesses in Broward, Palm Beach and Miami-Dade counties. Its offerings include managed IT, security, cloud and on-demand IT support, with customized packages for each client. It lists medical offices, legal practices, accounting firms, financial advisors, realtors, marketing companies and tech startups among the industries it serves.",
+    "services": [
+      "managed_it",
+      "cybersecurity",
+      "network_infrastructure"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "real_estate",
+      "professional_services"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Broward, Palm Beach and Miami-Dade counties, South Florida",
+    "pricing": null,
+    "website": "https://leveluptech.co/",
+    "phone": "(954) 947-3838",
+    "addresses": [],
+    "town": null,
+    "linkedin": null,
+    "city": "fort-lauderdale",
+    "state": "florida"
+  },
+  {
+    "slug": "link-up-technologies-inc",
+    "placeId": "ChIJwbn6DyYb2YgREzDwEj_UkRY",
+    "name": "Link Up Technologies, Inc.",
+    "summary": "Veteran-owned managed IT and cybersecurity company based in Coral Springs, Florida, serving Broward and South Florida onsite and clients nationwide remotely. Works mainly with law firms, medical and dental practices, real estate and title companies, and financial services firms, offering monitoring, maintenance, backups, security and Microsoft 365 administration.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "voip_phones",
+      "structured_cabling",
+      "web_design"
+    ],
+    "industries": [
+      "legal",
+      "healthcare",
+      "dental",
+      "real_estate",
+      "accounting_finance"
+    ],
+    "compliance": [
+      "HIPAA",
+      "FTC Safeguards",
+      "GLBA"
+    ],
+    "partners": [
+      "CompTIA certified technicians",
+      "Microsoft certified technicians",
+      "Cisco certified technicians"
+    ],
+    "foundedYear": 2007,
+    "teamSize": null,
+    "serviceArea": "Broward and South Florida onsite; clients nationwide remotely",
+    "pricing": "Monthly managed service contracts; 100% guarantee that clients are not charged if problems aren't solved",
+    "website": "https://linkup.tech/",
+    "phone": "(954) 227-1992",
+    "addresses": [
+      "7501 Wiles Road, Suite 102A, Coral Springs, FL 33067"
+    ],
+    "town": "Coral Springs",
+    "linkedin": "https://www.linkedin.com/company/link-up-technologies-inc/",
+    "city": "fort-lauderdale",
+    "state": "florida"
+  },
+  {
+    "slug": "network-computer-pros",
+    "placeId": "ChIJt92VAEOo2YgR7evxt62feD8",
+    "name": "Network Computer Pros",
+    "summary": "Managed IT and cybersecurity provider with offices in Davie, Florida and Brentwood, Tennessee. Serves small and growing businesses across South Florida and Middle Tennessee, with a focus on law, accounting, architecture, construction, dental, hospitality, manufacturing and nonprofit clients. Offers help desk, 24/7 monitoring, Microsoft 365 management, backup and recovery, security training, and flat-rate monthly pricing.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "legal",
+      "accounting_finance",
+      "construction",
+      "engineering_architecture",
+      "dental",
+      "healthcare",
+      "hospitality",
+      "manufacturing",
+      "nonprofit",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC"
+    ],
+    "partners": [],
+    "foundedYear": 2001,
+    "teamSize": null,
+    "serviceArea": "South Florida (Miami-Dade, Broward, Palm Beach counties) and Middle Tennessee (Nashville, Franklin, Brentwood and surrounding areas)",
+    "pricing": "Flat-rate monthly managed IT pricing based on users, devices, locations and security needs",
+    "website": "https://www.networkcomputerpros.com/",
+    "phone": "(954) 880-0388",
+    "addresses": [
+      "5240 S University Drive, Suite 103, Davie, FL 33328",
+      "216 Centerview Drive, Suite 200, Brentwood, TN 37027"
+    ],
+    "town": "Davie",
+    "linkedin": null,
+    "city": "fort-lauderdale",
+    "state": "florida"
+  },
+  {
+    "slug": "rango-technologies-fort-lauderdale",
+    "placeId": "ChIJQxtT7INOqGIRV4ia45b18qw",
+    "name": "RANGO Technologies",
+    "summary": "Miami Lakes-based managed IT and cybersecurity firm serving businesses across South Florida since 2016. Offers 24/7 monitoring, help desk, endpoint and identity security with MDR/XDR, Microsoft 365 administration, backup and networking, with a focus on medical, dental, legal and professional services clients.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement"
+    ],
+    "industries": [
+      "healthcare",
+      "dental",
+      "legal",
+      "accounting_finance",
+      "construction",
+      "manufacturing",
+      "logistics",
+      "nonprofit",
+      "professional_services",
+      "retail"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS"
+    ],
+    "partners": [
+      "Microsoft Partner",
+      "Google Cloud Partner",
+      "Ubiquiti Full Stack Professional",
+      "Ubiquiti Wireless Admin",
+      "Brivo Authorized Dealer",
+      "Omada by TP-Link",
+      "ButterflyMX Certified",
+      "Eclipse",
+      "Ooma",
+      "Lenovo Business Partner",
+      "Comcast Business Authorized Connector",
+      "BBB A+ Rated"
+    ],
+    "foundedYear": 2016,
+    "teamSize": null,
+    "serviceArea": "Miami-Dade and Broward counties, with select coverage in Palm Beach and the Keys",
+    "pricing": "Flat monthly pricing for managed IT; cybersecurity typically per user/device monthly",
+    "website": "https://rango.tech/",
+    "phone": "(305) 901-8990",
+    "addresses": [
+      "14100 Palmetto Frontage Rd, Suite 108, Miami Lakes, FL 33016"
+    ],
+    "town": null,
+    "linkedin": null,
+    "city": "fort-lauderdale",
+    "state": "florida"
+  },
+  {
+    "slug": "streamline-technology-solutions",
+    "placeId": "ChIJa3zpdS4d2YgRiZwvbHrfBEo",
+    "name": "Streamline Technology Solutions",
+    "summary": "South Florida IT company offering managed IT support, VoIP phones, cloud services, backup and disaster recovery, and IT consulting from a Coral Springs headquarters. The firm emphasizes transparent billing, fast response, and local on-site availability for small businesses.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement"
+    ],
+    "industries": [],
+    "compliance": [
+      "CMMC"
+    ],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "South Florida",
+    "pricing": "Flat-rate, predictable monthly pricing without per-ticket or hidden fees",
+    "website": "https://stsitsupport.com/",
+    "phone": "(954) 787-3288",
+    "addresses": [
+      "8010 Wiles Rd, Coral Springs, FL 33067"
+    ],
+    "town": "Coral Springs",
+    "linkedin": null,
+    "city": "fort-lauderdale",
+    "state": "florida"
+  },
+  {
+    "slug": "ten4-technology-group",
+    "placeId": "ChIJ2yn26vmw2YgRx3ATkmLTjiM",
+    "name": "Ten4 Technology Group",
+    "summary": "Ten4 Technology Group is a South Florida IT provider offering managed IT, managed cloud and managed cybersecurity, along with a virtual CIO option and Microsoft 365 Copilot deployment. It serves small and mid-sized businesses across Miami, Fort Lauderdale and nearby areas, with listed industry focus on legal, financial, professional firms, not-for-profits, healthcare and aviation. It was formed from the combination of Netcom Solutions and Sabio IT and has been renamed from Netcom Solutions.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "backup_disaster_recovery"
+    ],
+    "industries": [
+      "legal",
+      "accounting_finance",
+      "professional_services",
+      "nonprofit",
+      "healthcare"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": 2001,
+    "teamSize": null,
+    "serviceArea": "Miami, Fort Lauderdale, Doral, Coral Gables and South Florida",
+    "pricing": "Flat-rate monthly fee for managed IT services",
+    "website": "https://www.ten4tg.com/",
+    "phone": "(954) 668-2400",
+    "addresses": [
+      "8100 Oak Ln STE 402, Miami Lakes, FL 33016"
+    ],
+    "town": null,
+    "linkedin": "https://www.linkedin.com/company/ten4-technology-group",
+    "city": "fort-lauderdale",
+    "state": "florida"
+  },
+  {
+    "slug": "delaney-computer-services-inc",
+    "placeId": "ChIJqyVbiqMR2YgRS31fbZlxcPw",
+    "name": "Delaney Computer Services, Inc",
+    "summary": "Delaney Computer Services is a managed IT provider with offices in Mahwah NJ, Midtown Manhattan and Coral Springs FL, serving small and mid-sized businesses in the New York metro area, northern New Jersey and South Florida. It sells flat monthly managed support covering help desk, Microsoft 365, cybersecurity monitoring and compliance-oriented services, and also handles cabling, VoIP and network projects. The company has been operating since 1994 and works with clients in finance, healthcare, legal, professional services and nonprofits.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "structured_cabling"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "insurance",
+      "nonprofit",
+      "logistics",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "NIST",
+      "FINRA/SEC"
+    ],
+    "partners": [
+      "Microsoft Tier-1 Cloud Solutions Partner",
+      "Cisco Select Certified",
+      "Ubiquiti UniFi Partner",
+      "Huntress Reseller Partner",
+      "SentinelOne",
+      "Adobe Certified Partner"
+    ],
+    "foundedYear": 1994,
+    "teamSize": null,
+    "serviceArea": "New York metro area, Northern New Jersey (Bergen County) and South Florida (Coral Springs / Broward County)",
+    "pricing": "Fixed flat monthly fee for unlimited managed support, based on number of employees and managed devices",
+    "website": "https://www.dcsny.com/it-companies-in-broward-county-florida",
+    "phone": "(201) 669-4300",
+    "addresses": [
+      "12020 NW 40th St, Coral Springs, FL 33065",
+      "575 Corporate Drive, Suite 400, Mahwah, NJ 07430-2330",
+      "276 Fifth Avenue, Suite 800, New York, NY 10001"
+    ],
+    "town": "Coral Springs",
+    "linkedin": "http://linkedin.com/company/delaney-computer-services-inc",
+    "city": "fort-lauderdale",
+    "state": "florida"
+  },
+  {
+    "slug": "direct-technology-group",
+    "placeId": "ChIJrSaaae8D2YgRkF-UInRQMrU",
+    "name": "Direct Technology Group",
+    "summary": "Deerfield Beach, Florida provider offering flat-rate outsourced IT support to small and mid-sized businesses, including remote monitoring, help desk, security services, cloud and backup. Also sells hardware and handles cabling and phone systems, with some healthcare and education focus.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "hardware_procurement",
+      "structured_cabling",
+      "computer_repair"
+    ],
+    "industries": [
+      "healthcare",
+      "education"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [
+      "Sophos",
+      "HP Official Dealer",
+      "Official Dell Dealer",
+      "Lenovo Official Reseller",
+      "Microsoft Partner Network"
+    ],
+    "foundedYear": 2007,
+    "teamSize": null,
+    "serviceArea": "Florida (Fort Lauderdale / Deerfield Beach area)",
+    "pricing": "Flat monthly rate for managed IT support",
+    "website": "https://www.directtechnologygroup.com/",
+    "phone": "(954) 739-4700",
+    "addresses": [
+      "1358 W Newport Center Dr, Deerfield Beach, FL 33442"
+    ],
+    "town": "Deerfield Beach",
+    "linkedin": "https://www.linkedin.com/company/281792",
+    "city": "fort-lauderdale",
+    "state": "florida"
+  },
+  {
+    "slug": "it-in-motion",
+    "placeId": "ChIJncnv3SKq2YgRaGGAy11gPnw",
+    "name": "IT In Motion",
+    "summary": "IT In Motion is a South Florida managed IT provider headquartered in Davie, offering flat-fee monthly support that covers help desk, network monitoring, patching, backup and security. It serves healthcare, legal, accounting, construction, manufacturing and defense contractors, and also offers CMMC and HIPAA compliance readiness and ongoing managed compliance.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "construction",
+      "manufacturing"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "NIST",
+      "SOC 2",
+      "PCI DSS",
+      "FTC Safeguards"
+    ],
+    "partners": [],
+    "foundedYear": 2012,
+    "teamSize": null,
+    "serviceArea": "Broward County, Miami-Dade County, and greater South Florida",
+    "pricing": "Flat monthly fee for day-to-day IT; projects quoted up front",
+    "website": "https://www.itinmotion.com/",
+    "phone": "(754) 201-2090",
+    "addresses": [
+      "4801 S University Dr, Suite 3090, Davie, FL 33328"
+    ],
+    "town": "Davie",
+    "linkedin": "https://www.linkedin.com/company/28121671",
+    "city": "fort-lauderdale",
+    "state": "florida"
+  },
+  {
+    "slug": "just-beyond-technology",
+    "placeId": "ChIJGRwlei4R2YgRwrlHPqHvB0k",
+    "name": "Just Beyond Technology",
+    "summary": "Just Beyond Technology is an IT consulting and managed services firm with locations listed in Parkland/Coral Springs, Florida and Grayslake, Illinois. Its offerings cover proactive system monitoring, patching, user device support, network and firewall work, cybersecurity, backup and disaster recovery, and hardware procurement, delivered as managed MSP and MSSP services.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "it_strategy_vcio",
+      "hardware_procurement",
+      "cloud_microsoft_365"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Parkland / Coral Springs, Florida and Grayslake, Illinois",
+    "pricing": null,
+    "website": "https://www.justbeyondtechnology.com/",
+    "phone": "(754) 800-9466",
+    "addresses": [
+      "11240 Heron Bay Boulevard, Coral Springs, FL 33076"
+    ],
+    "town": "Coral Springs",
+    "linkedin": null,
+    "city": "fort-lauderdale",
+    "state": "florida"
+  },
+  {
+    "slug": "kairosit",
+    "placeId": "ChIJQ7S7sb8F2YgRjMV95U8fCTQ",
+    "name": "KairosIT",
+    "summary": "KairosIT is an IT provider with offices in Pompano Beach, Florida and Petaluma, California, offering fully managed and co-managed IT, help desk support, cybersecurity, Microsoft 365 and cloud administration, and ongoing compliance and vulnerability management. It serves businesses in regulated sectors such as healthcare, legal, accounting, nonprofits and private equity portfolio companies, and emphasizes a structured roadmap and planning process.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "accounting_finance",
+      "legal",
+      "nonprofit",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "NIST",
+      "SOC 2",
+      "GLBA",
+      "FTC Safeguards"
+    ],
+    "partners": [
+      "Microsoft Solutions Partner"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "South Florida and Northern California (Pompano Beach, FL and Petaluma, CA locations)",
+    "pricing": null,
+    "website": "https://www.kairosit.com/",
+    "phone": "(844) 352-4767",
+    "addresses": [
+      "1280 SW 36th Ave #101, Pompano Beach, FL 33069"
+    ],
+    "town": "Pompano Beach",
+    "linkedin": "https://www.linkedin.com/company/kairosit/",
+    "city": "fort-lauderdale",
+    "state": "florida"
+  },
+  {
+    "slug": "l7-solutions",
+    "placeId": "ChIJu63-JKgA2YgRy5dvusNNFWw",
+    "name": "L7 Solutions",
+    "summary": "Plantation, Florida-based IT firm offering flat-rate managed IT support, remote monitoring and maintenance, and help desk services to small and medium-sized businesses in South Florida. Also provides managed cybersecurity, hosted cloud services, and co-managed IT, with noted experience in healthcare and legal clients.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "legal"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS"
+    ],
+    "partners": [],
+    "foundedYear": 2002,
+    "teamSize": null,
+    "serviceArea": "South Florida",
+    "pricing": "Flat-rate monthly IT budget",
+    "website": "https://www.l7solutions.com/",
+    "phone": "(954) 573-1300",
+    "addresses": [
+      "7890 Peters Road Building G102, Plantation, FL 33324"
+    ],
+    "town": "Plantation",
+    "linkedin": "https://www.linkedin.com/company/l7solutions",
+    "city": "fort-lauderdale",
+    "state": "florida"
+  },
+  {
+    "slug": "on-site-technology",
+    "placeId": "ChIJsXk15RAD2YgRoKlAfCMRdH0",
+    "name": "On-Site Technology",
+    "summary": "Family-owned managed IT provider based in Clifton, New Jersey, with a second office in Fort Lauderdale, Florida. It offers managed IT, managed cybersecurity, Microsoft 365 and Copilot administration, cloud, backup and disaster recovery, VoIP, and CMMC and PCI DSS compliance support for businesses with 10 to 500 users across NJ, NY, PA and South Florida, with remote service nationally for some offerings.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement",
+      "structured_cabling"
+    ],
+    "industries": [
+      "education",
+      "government",
+      "manufacturing",
+      "nonprofit",
+      "healthcare",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "NIST",
+      "PCI DSS"
+    ],
+    "partners": [
+      "Microsoft Partner",
+      "Microsoft Azure",
+      "Cisco Meraki",
+      "SonicWall",
+      "Datto",
+      "Veeam",
+      "VMware"
+    ],
+    "foundedYear": 2001,
+    "teamSize": "200+ clients",
+    "serviceArea": "New Jersey, New York, Pennsylvania and South Florida on-site; nationwide remote for cloud, Microsoft 365 and cybersecurity",
+    "pricing": "Per-user, per-tier published pricing with fixed-fee managed IT service",
+    "website": "https://www.on-sitetechnology.com/",
+    "phone": "(973) 777-7227",
+    "addresses": [
+      "164 Brighton Road, Clifton, NJ 07012",
+      "1451 W Cypress Creek Road, Suite 300, Ft. Lauderdale, FL 33309"
+    ],
+    "town": null,
+    "linkedin": "https://linkedin.com/company/on-site-technology",
+    "city": "fort-lauderdale",
+    "state": "florida"
+  },
+  {
+    "slug": "spirit-technologies",
+    "placeId": "ChIJCyWhLNsH2YgRh9JKAQXcCAw",
+    "name": "Spirit Technologies",
+    "summary": "Spirit Technologies is a South Florida IT company offering managed IT and 24/7 support, network and endpoint security monitoring, cloud and backup services, IT consulting, and custom application development. It serves legal, healthcare, nonprofit, hospitality, real estate and professional services clients, and says it has operated in the area for about 20 years.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "cloud_microsoft_365",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement",
+      "software_development"
+    ],
+    "industries": [
+      "legal",
+      "healthcare",
+      "nonprofit",
+      "hospitality",
+      "real_estate",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "SOC 2"
+    ],
+    "partners": [],
+    "foundedYear": 2005,
+    "teamSize": null,
+    "serviceArea": "South Florida (Hollywood, Fort Lauderdale, Miami)",
+    "pricing": null,
+    "website": "https://www.spirittechnologies.net/",
+    "phone": "(954) 237-7797",
+    "addresses": [
+      "3475 Sheridan Street, Suite 310, Hollywood, FL 33021",
+      "401 East Las Olas Blvd, Suite 130-680, Fort Lauderdale, FL 33301"
+    ],
+    "town": "Hollywood",
+    "linkedin": "https://www.linkedin.com/company/spirit-technologies",
+    "city": "fort-lauderdale",
+    "state": "florida"
+  },
+  {
+    "slug": "the-cpu-squad",
+    "placeId": "ChIJe-bslOQH2YgRIeHAtWTHVbs",
+    "name": "The CPU Squad",
+    "summary": "South Florida IT support and cybersecurity firm serving small and midsize businesses on a monthly managed service basis. Services include 24/7 monitoring, helpdesk, patch management, cloud and email backup, email authentication, security awareness training and compliance reporting, with occasional consulting for planning and budgeting. The company says it works mainly with professional services firms such as law, financial, real estate and healthcare practices.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "legal",
+      "accounting_finance",
+      "real_estate",
+      "healthcare",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [],
+    "foundedYear": 2008,
+    "teamSize": "6 people, fully remote",
+    "serviceArea": "South Florida",
+    "pricing": "Monthly managed service rate",
+    "website": "https://thecpusquad.com/",
+    "phone": "(954) 667-7278",
+    "addresses": [
+      "150 S Pine Island RD, Suite 300, Plantation, FL 33324"
+    ],
+    "town": "Plantation",
+    "linkedin": "https://www.linkedin.com/company/thecpusquad/",
+    "city": "fort-lauderdale",
+    "state": "florida"
+  },
+  {
+    "slug": "bizbyteit",
+    "placeId": "ChIJt8MxSK2n2YgRTrSBCcEGflQ",
+    "name": "BizByteIT",
+    "summary": "BizByteIT is a US-focused IT services firm with offices in South Florida, offering managed IT support, help desk, Microsoft 365 administration, cybersecurity, cloud and infrastructure services, plus co-managed IT and fractional CIO options. It lists industry pages for legal, healthcare, financial services, construction and manufacturing clients, and provides remote-first support with regional pages for major metros.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "construction",
+      "manufacturing",
+      "logistics",
+      "hospitality",
+      "retail",
+      "education",
+      "government",
+      "nonprofit",
+      "real_estate",
+      "insurance",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [
+      "Microsoft Solutions Partner",
+      "Acronis Cyber Protect",
+      "Fortinet Partner",
+      "VMware Solutions Provider",
+      "Amazon Web Services Services Partner"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Remote-first across the United States, with regional pages for South Florida (Fort Lauderdale, Miami, Boca Raton, Pompano Beach, West Palm Beach) and Atlanta GA",
+    "pricing": null,
+    "website": "https://www.bizbyteit.com/",
+    "phone": "(754) 900-9498",
+    "addresses": [
+      ", Fort Lauderdale, FL"
+    ],
+    "town": "Fort Lauderdale",
+    "linkedin": null,
+    "city": "fort-lauderdale",
+    "state": "florida"
+  },
+  {
     "slug": "nettech-consultants",
     "placeId": "ChIJtTNfYnpK5IgRt-jVSGznUSc",
     "name": "NetTech Consultants",
