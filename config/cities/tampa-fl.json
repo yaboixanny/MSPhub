@@ -1,0 +1,30 @@
+{
+  "city": "Tampa",
+  "state": "Florida",
+  "state_code": "FL",
+  "slug": "tampa",
+  "state_slug": "florida",
+  "center": {
+    "lat": 27.9506,
+    "lng": -82.4572
+  },
+  "radius_miles": 30,
+  "areas": [
+    "Tampa",
+    "St. Petersburg",
+    "Clearwater",
+    "Brandon",
+    "Largo",
+    "Wesley Chapel",
+    "Lutz",
+    "Riverview",
+    "Oldsmar",
+    "Pinellas Park"
+  ],
+  "queries": [
+    "managed IT services",
+    "managed service provider",
+    "IT support company",
+    "outsourced IT"
+  ]
+}

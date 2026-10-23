@@ -43,6 +43,12 @@ def split_list(value):
     return [item for item in value.split("|") if item]
 
 
+def town_key(name):
+    """Compare town names loosely: "Saint Petersburg", "St Petersburg" and "St. Petersburg" match."""
+    name = " ".join(name.lower().replace(".", "").split())
+    return name.replace("saint ", "st ")
+
+
 def format_address(address):
     line = f"{address['street']}, {address['city']}, {address['state']}"
     return f"{line} {address['postal_code']}" if address.get("postal_code") else line
@@ -68,7 +74,8 @@ def main():
             rows = [row for row in csv.DictReader(handle)
                     if row["is_msp"] == "yes" and not row["needs_review"]]
 
-        metro_towns = {area.lower() for area in config["areas"]}
+        # Town key -> the config's spelling, which is what the site displays.
+        metro_towns = {town_key(area): area for area in config["areas"]}
         # One profile per company per metro, even when Google lists it twice with
         # different website pages (e.g. its homepage and a services page).
         by_company = {}
@@ -94,7 +101,7 @@ def main():
             published += 1
             # National MSPs often list their head office first; put offices in this
             # metro's towns first and use the first one as the MSP's town.
-            local = [address for address in contact["addresses"] if address["city"].strip().lower() in metro_towns]
+            local = [address for address in contact["addresses"] if town_key(address["city"]) in metro_towns]
             addresses = local + [address for address in contact["addresses"] if address not in local]
             slug = previous.get(row["place_id"])
             if slug is None:
@@ -125,7 +132,7 @@ def main():
                 "phone": contact["phone"],
                 "addresses": [format_address(address) for address in addresses],
                 # Town of the local office, for area pages; None if the site lists no office in the metro.
-                "town": local[0]["city"].strip() if local else None,
+                "town": metro_towns[town_key(local[0]["city"])] if local else None,
                 "linkedin": row["linkedin"] or None,
                 "city": config["slug"],
                 "state": config["state_slug"],

@@ -15,7 +15,7 @@
       "Fernandina Beach"
     ],
     "count": 32,
-    "updated": "2026-10-22"
+    "updated": "2026-10-23"
   },
   {
     "slug": "madison",
@@ -34,7 +34,7 @@
       "Stoughton"
     ],
     "count": 25,
-    "updated": "2026-10-22"
+    "updated": "2026-10-23"
   },
   {
     "slug": "miami",
@@ -54,7 +54,7 @@
       "North Miami"
     ],
     "count": 35,
-    "updated": "2026-10-22"
+    "updated": "2026-10-23"
   },
   {
     "slug": "orlando",
@@ -76,6 +76,27 @@
       "Kissimmee"
     ],
     "count": 111,
-    "updated": "2026-10-22"
+    "updated": "2026-10-23"
+  },
+  {
+    "slug": "tampa",
+    "name": "Tampa",
+    "state": "florida",
+    "stateName": "Florida",
+    "stateCode": "FL",
+    "areas": [
+      "Tampa",
+      "St. Petersburg",
+      "Clearwater",
+      "Brandon",
+      "Largo",
+      "Wesley Chapel",
+      "Lutz",
+      "Riverview",
+      "Oldsmar",
+      "Pinellas Park"
+    ],
+    "count": 34,
+    "updated": "2026-10-23"
   }
 ]

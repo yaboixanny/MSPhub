@@ -796,7 +796,7 @@
     "addresses": [
       "475 West Town Place, Suite 116, St Augustine, FL 32092"
     ],
-    "town": null,
+    "town": "St. Augustine",
     "linkedin": "https://www.linkedin.com/company/teknovate-consulting-partners",
     "city": "jacksonville",
     "state": "florida"
@@ -1421,7 +1421,7 @@
     "addresses": [
       "701 Market Street, Unit 111, Saint Augustine, FL 32095"
     ],
-    "town": null,
+    "town": "St. Augustine",
     "linkedin": "https://www.linkedin.com/company/clear-sailing-i-t-solutions-llc",
     "city": "jacksonville",
     "state": "florida"
@@ -8648,6 +8648,1489 @@
     "town": "Oviedo",
     "linkedin": null,
     "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "predictiveit",
+    "placeId": "ChIJOx026IHEwogRy5qbLh9De_M",
+    "name": "predictiveIT",
+    "summary": "predictiveIT is a managed IT and cybersecurity provider in Tampa, Florida, serving small and mid-sized businesses with ongoing monitoring, IT support, Microsoft 365 administration, cloud services and compliance-oriented security. The firm also offers business continuity planning and AI/automation consulting, and lists work with accounting, legal, healthcare and other professional clients.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "construction",
+      "engineering_architecture",
+      "professional_services",
+      "manufacturing"
+    ],
+    "compliance": [
+      "HIPAA",
+      "NIST",
+      "SOC 2"
+    ],
+    "partners": [
+      "SOC 2 Type II Audited"
+    ],
+    "foundedYear": 2003,
+    "teamSize": null,
+    "serviceArea": "Tampa and Central Florida",
+    "pricing": null,
+    "website": "https://www.predictiveit.com/",
+    "phone": "(813) 514-8600",
+    "addresses": [
+      "600 N Willow Ave 2nd floor, Tampa, FL 33606",
+      "3433 Lithia Pinecrest Road, STE 359, Valrico, FL 33596",
+      "Caracasbaaiweg 268 Unit E-F, Willemstad, Cura\u00e7ao"
+    ],
+    "town": "Tampa",
+    "linkedin": "https://www.linkedin.com/company/predictive-it/",
+    "city": "tampa",
+    "state": "florida"
+  },
+  {
+    "slug": "connecton",
+    "placeId": "ChIJHYYgcm3CwogRkn0BY4k1eSo",
+    "name": "ConnectOn",
+    "summary": "ConnectOn is a Tampa, Florida provider of fully managed and co-managed IT services, including help desk, network operations monitoring, Microsoft 365 and Google Workspace administration, and a 24/7 security operations center. It also offers disaster recovery, backup, and ransomware incident response, and serves mid-market and enterprise clients locally and nationally.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [
+      "SOC 2 Type 2 attestation (announced)",
+      "Ceeview partner (business services management)"
+    ],
+    "foundedYear": 1982,
+    "teamSize": null,
+    "serviceArea": "Tampa, FL; serves clients throughout the country and internationally",
+    "pricing": null,
+    "website": "https://connecton.com/",
+    "phone": "(813) 935-7100",
+    "addresses": [
+      "4925 Independence Parkway, Suite 400, Tampa, FL 33634"
+    ],
+    "town": "Tampa",
+    "linkedin": "https://www.linkedin.com/company/connectontampa",
+    "city": "tampa",
+    "state": "florida"
+  },
+  {
+    "slug": "protek-it-solutions",
+    "placeId": "ChIJq_v2QpDFwogRMoVoexLwhKY",
+    "name": "Protek IT Solutions",
+    "summary": "ProTek IT Solutions provides outsourced and co-managed IT for small and medium-sized businesses, covering 24/7 monitoring, help desk support, security, backup and disaster recovery, cloud and Microsoft 365 services, and network and server administration. The company is based in the Tampa Bay area with an additional office in Ventura County and Los Angeles, California.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "hardware_procurement",
+      "computer_repair"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [
+      "Dell Premier Partner",
+      "ConnectWise partner (Perch SIEM)",
+      "ThreatLocker",
+      "SentinelOne"
+    ],
+    "foundedYear": 2009,
+    "teamSize": "10 professionals",
+    "serviceArea": "Clearwater, St. Petersburg and Tampa Bay, Florida; Ventura County and Los Angeles, California",
+    "pricing": null,
+    "website": "https://protekitsolutions.com/",
+    "phone": "(727) 216-8010",
+    "addresses": [
+      "2240 Belleair Rd, Suite #160, Clearwater, FL 33764"
+    ],
+    "town": "Clearwater",
+    "linkedin": null,
+    "city": "tampa",
+    "state": "florida"
+  },
+  {
+    "slug": "sterling-ideas",
+    "placeId": "ChIJIxco4X2Hr2sRMNvq7ft_i_M",
+    "name": "Sterling Ideas",
+    "summary": "Clearwater-area IT firm offering managed IT, help desk, cybersecurity, backup and Microsoft 365 administration on a recurring basis, plus IT consulting and compliance guidance. Serves small and mid-sized businesses, with a particular focus on healthcare, legal and other regulated industries needing FTC Safeguards and HIPAA support.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "manufacturing",
+      "construction",
+      "nonprofit",
+      "real_estate",
+      "professional_services",
+      "logistics"
+    ],
+    "compliance": [
+      "HIPAA",
+      "FTC Safeguards",
+      "GLBA"
+    ],
+    "partners": [
+      "Microsoft",
+      "Dell",
+      "Veeam",
+      "WatchGuard",
+      "Kardon",
+      "Huntress",
+      "TeleVoIPs"
+    ],
+    "foundedYear": 1999,
+    "teamSize": null,
+    "serviceArea": "Clearwater, FL; St. Petersburg, FL; Raleigh, NC",
+    "pricing": null,
+    "website": "https://www.sterlingideas.com/managed-it-services-clearwater-fl/",
+    "phone": "(727) 349-4185",
+    "addresses": [
+      "1901 Ulmerton Rd Suite 425, Clearwater, FL 33762",
+      "146 2nd St N Suite 310V, St. Petersburg, FL 33701",
+      "8480 Honeycutt Rd Suite 200, Raleigh, NC 27615"
+    ],
+    "town": "Clearwater",
+    "linkedin": "https://www.linkedin.com/company/sterling-ideas-inc",
+    "city": "tampa",
+    "state": "florida"
+  },
+  {
+    "slug": "virtual-it-group-llc",
+    "placeId": "ChIJDU8_xVjNwogR97_vGweGQgY",
+    "name": "Virtual IT Group, LLC",
+    "summary": "Virtual IT Group is a Brandon, Florida managed IT provider serving small and medium businesses across Tampa Bay and Central Florida. Offerings include managed IT support, co-managed IT for in-house teams, cybersecurity with backup and disaster recovery, cloud services, VoIP and connectivity, and IT staff augmentation. The firm cites a long operating history and a case study from a behavioral health client.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "healthcare"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [
+      "Managed Service Providers Association of America (MSPAA) member",
+      "CISSP",
+      "MCSE",
+      "WCSP",
+      "CCA"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Tampa Bay and Central Florida, within a 50-mile radius of Brandon, FL",
+    "pricing": "Monthly retainer",
+    "website": "https://virtualitgroup.com/",
+    "phone": "(813) 699-0769",
+    "addresses": [
+      "1089 East Brandon Blvd, Brandon, FL 33511"
+    ],
+    "town": "Brandon",
+    "linkedin": "http://www.linkedin.com/company/virtualitgroup",
+    "city": "tampa",
+    "state": "florida"
+  },
+  {
+    "slug": "cio-technology-solutions",
+    "placeId": "ChIJVzygx_jCwogR0v3r-bhgSds",
+    "name": "CIO Technology Solutions",
+    "summary": "Tampa-based IT firm offering managed IT, co-managed support, cybersecurity, cloud hosting and Microsoft 365 administration for small and mid-sized organizations, with live-answer support and both onsite and remote service. Serves healthcare, legal, financial services, hospitality, construction and manufacturing clients, and supports clients nationwide.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "construction",
+      "manufacturing",
+      "hospitality",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS",
+      "NIST"
+    ],
+    "partners": [],
+    "foundedYear": 2010,
+    "teamSize": null,
+    "serviceArea": "Tampa Bay (Tampa, St. Petersburg, Clearwater, Sarasota, Bradenton, Brandon, Plant City, Lakeland), with nationwide remote and onsite support",
+    "pricing": null,
+    "website": "https://www.ciotech.us/",
+    "phone": "(813) 649-7762",
+    "addresses": [
+      "1300 N West Shore Blvd. Ste. 135, Tampa, FL 33607"
+    ],
+    "town": "Tampa",
+    "linkedin": "http://www.linkedin.com/company/2375607?trk=tyah",
+    "city": "tampa",
+    "state": "florida"
+  },
+  {
+    "slug": "itc-st-petersburg",
+    "placeId": "ChIJvff_K8PlwogR57dL-VRel78",
+    "name": "ITC St. Petersburg",
+    "summary": "IT Consulting St. Petersburg is a Tampa Bay firm founded in 2017 by Jeffrey Birner that combines managed IT support with cybersecurity services. It offers a free self-assessment, a layered security package for small businesses, virtual CISO advisory, and security awareness training. It serves local businesses in St. Petersburg, Clearwater and Tampa Bay and also takes clients nationwide.",
+    "services": [
+      "managed_it",
+      "cybersecurity",
+      "network_infrastructure",
+      "backup_disaster_recovery",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": 2017,
+    "teamSize": null,
+    "serviceArea": "St. Petersburg, Clearwater and Tampa Bay; also serves businesses nationwide",
+    "pricing": null,
+    "website": "https://itcstpete.com/",
+    "phone": "(727) 350-9586",
+    "addresses": [
+      "2520 N McMullen Booth Rd. Ste B202, Clearwater, FL 33716"
+    ],
+    "town": "Clearwater",
+    "linkedin": "https://www.linkedin.com/company/itcstpete/?viewAsMember=true",
+    "city": "tampa",
+    "state": "florida"
+  },
+  {
+    "slug": "my-tampa-it",
+    "placeId": "ChIJzywqjcmwwogRMzmS0cEw4VE",
+    "name": "My Tampa IT",
+    "summary": "My Tampa IT is an IT and cybersecurity firm in the Tampa Bay area offering fully managed and co-managed IT, help desk support, cybersecurity services, disaster recovery, and virtual CIO consulting. It serves businesses across several sectors including law firms, healthcare, accounting, construction and nonprofits, and offers a free online cyber risk score survey.",
+    "services": [
+      "managed_it",
+      "co_managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement"
+    ],
+    "industries": [
+      "legal",
+      "healthcare",
+      "accounting_finance",
+      "construction",
+      "manufacturing",
+      "engineering_architecture",
+      "nonprofit",
+      "insurance",
+      "real_estate",
+      "professional_services"
+    ],
+    "compliance": [],
+    "partners": [
+      "CompTIA Cybersecurity Trustmark (in process of obtaining)"
+    ],
+    "foundedYear": 2009,
+    "teamSize": null,
+    "serviceArea": "Tampa Bay Area",
+    "pricing": null,
+    "website": "https://mytampait.com/",
+    "phone": "(813) 513-9849",
+    "addresses": [
+      "2816 Windguard Circle, Suite 101, Wesley Chapel, FL 33544"
+    ],
+    "town": "Wesley Chapel",
+    "linkedin": "https://www.linkedin.com/company/my-tampa-it/",
+    "city": "tampa",
+    "state": "florida"
+  },
+  {
+    "slug": "definit-managed-it-services-tampa",
+    "placeId": "ChIJcU-8B4PDwogR7O43ZwMDPUc",
+    "name": "DefinIT Managed IT Services",
+    "summary": "DefinIT is an IT services provider with a Tampa office that offers managed IT plans billed per user per month, covering device monitoring, helpdesk, patching, backups and security. It also provides co-managed IT support for internal teams, cybersecurity, Microsoft 365 and cloud services, and network setup, serving businesses across the Tampa Bay area. Its site also lists healthcare-focused IT content for Orlando providers and a separate software development arm.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "accounting_finance",
+      "construction",
+      "manufacturing",
+      "legal",
+      "nonprofit"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Tampa Bay area, including St. Petersburg, Clearwater, Brandon, Wesley Chapel, Riverview and Lutz; also lists Jacksonville and Orlando pages",
+    "pricing": "Per-user monthly pricing, from $45 per user/month (Small Business plan) with monthly or annual billing, minimum 5 users",
+    "website": "https://definit.com/tampa/managed-it-services",
+    "phone": "(813) 210-8001",
+    "addresses": [
+      "5401 W Kennedy Blvd Suite 100, Tampa, FL 33609"
+    ],
+    "town": "Tampa",
+    "linkedin": "https://www.linkedin.com/company/definit-managed-it-services",
+    "city": "tampa",
+    "state": "florida"
+  },
+  {
+    "slug": "dynamic-solutions-group-inc",
+    "placeId": "ChIJG59R_CrywogR6HM_K9CF72s",
+    "name": "Dynamic Solutions Group, Inc.",
+    "summary": "Dynamic Solutions Group is a managed IT provider offering ongoing support, help desk, cybersecurity monitoring, backup, Microsoft 365 administration and vCIO services to small and mid-sized businesses. It serves clients in Florida (Tampa Bay area and Orlando), Illinois, and Georgia, and lists specialized work for healthcare, legal, financial services, nonprofits and other sectors.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "nonprofit",
+      "manufacturing",
+      "real_estate",
+      "professional_services",
+      "government"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "NIST",
+      "SOC 2",
+      "PCI DSS",
+      "FINRA/SEC",
+      "CJIS"
+    ],
+    "partners": [
+      "Microsoft Certified Partner",
+      "Cisco",
+      "Datto",
+      "Dell Technologies",
+      "AWS",
+      "Huntress",
+      "RingCentral",
+      "Sangoma Switchvox",
+      "Cisco Duo",
+      "UniFi Channel Partner"
+    ],
+    "foundedYear": 2000,
+    "teamSize": null,
+    "serviceArea": "Pinellas, Hillsborough and Pasco counties (Florida), Orlando, West Palm Beach, Chicago area (IL), Blue Ridge (GA); serves clients nationwide",
+    "pricing": null,
+    "website": "https://www.dsolutionsgroup.com/",
+    "phone": "(727) 734-4374",
+    "addresses": [
+      "785 County Road 1, Palm Harbor, FL 34683",
+      "50 E Washington St #503, Chicago, IL 60602"
+    ],
+    "town": null,
+    "linkedin": null,
+    "city": "tampa",
+    "state": "florida"
+  },
+  {
+    "slug": "metrotech-it",
+    "placeId": "ChIJnRNcm2nlwogRh24Ss2kZ4-c",
+    "name": "MetroTech IT",
+    "summary": "MetroTech IT is a Clearwater, Florida-based managed IT provider serving Tampa Bay businesses, with locations listed in Tampa, St. Petersburg, Sarasota, Bradenton and Lakeland. Services include co-managed and managed IT, cybersecurity and compliance support, Microsoft 365 administration, backup and disaster recovery, VoIP and network connectivity, and vCIO planning. The company emphasizes direct access to staff and publishes a customer satisfaction score on its site.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [],
+    "foundedYear": 2005,
+    "teamSize": null,
+    "serviceArea": "Tampa Bay, Florida (Tampa, St. Petersburg, Sarasota, Bradenton, Lakeland)",
+    "pricing": "Upfront pricing mentioned; no specific model stated",
+    "website": "https://mettec.net/",
+    "phone": "(727) 230-0332",
+    "addresses": [
+      "1079 Cephas Rd, Clearwater, FL 33765"
+    ],
+    "town": "Clearwater",
+    "linkedin": "https://www.linkedin.com/company/metrotech-clearwater/",
+    "city": "tampa",
+    "state": "florida"
+  },
+  {
+    "slug": "data-tech",
+    "placeId": "ChIJR4fno5DBwogRkFqemz1twHA",
+    "name": "Data-Tech",
+    "summary": "Tampa Bay-based IT provider founded in 1996 offering contract-based managed IT, a 24/7 U.S.-based help desk, managed security operations, backup and disaster recovery, and Microsoft 365 administration. Serves healthcare, legal, manufacturing and other small and mid-sized businesses, with a local data center and an offices in Tampa and Brooksville.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "manufacturing",
+      "logistics",
+      "nonprofit",
+      "insurance",
+      "professional_services"
+    ],
+    "compliance": [
+      "CMMC",
+      "SOC 2"
+    ],
+    "partners": [
+      "SOC 2 Type II",
+      "Storagecraft backup and recovery partner",
+      "Tampa Bay Business Journal Fast 50 (2023)"
+    ],
+    "foundedYear": 1996,
+    "teamSize": null,
+    "serviceArea": "Tampa Bay, Florida, with an office in Brooksville",
+    "pricing": "Monthly subscription pricing; Security as a Service billed as one monthly subscription price",
+    "website": "https://www.datatechitp.com/managed-it-services-tampa-fl/",
+    "phone": "(813) 303-0934",
+    "addresses": [
+      "7904 Hopi Pl, Tampa, FL 33634",
+      "3255 Commercial Way, Spring Hill, FL 34606"
+    ],
+    "town": "Tampa",
+    "linkedin": "https://www.linkedin.com/company/data-techtampa",
+    "city": "tampa",
+    "state": "florida"
+  },
+  {
+    "slug": "igtech365",
+    "placeId": "ChIJtSI7rbqwwogRK3QJjwt9P3A",
+    "name": "IGTech365",
+    "summary": "IGTech365 is a Tampa-based managed IT provider serving small and mid-sized businesses, with a stated focus on healthcare, legal and manufacturing clients and a 10 to 150 employee sweet spot. Offerings include managed IT support, help desk, cybersecurity monitoring, Microsoft 365 administration, backup and disaster recovery, and some cabling and VoIP support. The company lists locations in Tampa, Wesley Chapel, St. Petersburg and Orlando.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "structured_cabling"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "manufacturing",
+      "accounting_finance",
+      "construction"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS"
+    ],
+    "partners": [
+      "Microsoft Certified Partner"
+    ],
+    "foundedYear": 2015,
+    "teamSize": "8 professionals",
+    "serviceArea": "Tampa Bay and Florida, with clients nationwide",
+    "pricing": "Flat-rate monthly managed IT options",
+    "website": "https://igtech365.com/",
+    "phone": "(866) 365-7798",
+    "addresses": [
+      "5328 Primrose Lake Circle, Suite B, Tampa, FL 33647",
+      "1936 Bruce B. Downs Blvd, #505, Wesley Chapel, FL 33544"
+    ],
+    "town": "Tampa",
+    "linkedin": "https://www.linkedin.com/company/igtech365/",
+    "city": "tampa",
+    "state": "florida"
+  },
+  {
+    "slug": "the-scarlett-group-tampa",
+    "placeId": "ChIJN53GPIbFwogRNp2ejLaIwkA",
+    "name": "The Scarlett Group",
+    "summary": "Tampa-based IT firm offering managed IT, co-managed IT, help desk, managed detection and response, and Microsoft 365 administration for businesses across Tampa Bay and beyond. Its background is in IT auditing, and it has a notable compliance practice covering CMMC, NIST 800-171 and HIPAA. Services are delivered from a Tampa office with after-hours support listed as available around the clock.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "government",
+      "accounting_finance",
+      "construction"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "NIST",
+      "PCI DSS"
+    ],
+    "partners": [
+      "ISACA Certified Partner",
+      "CMMC Registered Practitioners"
+    ],
+    "foundedYear": 2006,
+    "teamSize": null,
+    "serviceArea": "Tampa Bay, Florida; also Jacksonville, Orlando, and nationwide for some services",
+    "pricing": null,
+    "website": "https://www.scarlettgroup.com/tampa-managed-it-services",
+    "phone": "(844) 727-5388",
+    "addresses": [
+      "100 S. Ashley Drive, Tampa, FL 33602",
+      "6735 Southpoint Dr South, Suite 120, Jacksonville, FL 32216",
+      "111 North Orange Ave, Suite 800, Orlando, FL 32801",
+      "4208 Six Forks Rd, Suite 1000, Raleigh, NC 27609",
+      "525 North Tryon Street, Charlotte, NC 28202"
+    ],
+    "town": "Tampa",
+    "linkedin": "https://www.linkedin.com/company/the-scarlett-group/",
+    "city": "tampa",
+    "state": "florida"
+  },
+  {
+    "slug": "datacorps-technology-solutions-inc",
+    "placeId": "ChIJyTjaJ8zNwogRsBBJpbrauDs",
+    "name": "DataCorps Technology Solutions, Inc.",
+    "summary": "DataCorps Technology Solutions is an outsourced IT provider serving businesses in the Tampa Bay area, including Brandon, Tampa, Clearwater, Sarasota, Bradenton and Lakeland. Offerings include flat-rate managed services with round-the-clock monitoring, help desk support, data backup and recovery, cloud computing, network support and VoIP phone systems. The company also publishes security content and offers dark web password scans to prospects.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": 2003,
+    "teamSize": null,
+    "serviceArea": "Tampa Bay area, Florida, including Brandon, Tampa, Clearwater, Sarasota, Bradenton and Lakeland",
+    "pricing": "Flat-rate monthly managed services fee",
+    "website": "https://www.datacorps.com/",
+    "phone": "(813) 737-0465",
+    "addresses": [
+      "1037 E. Brandon Blvd., Brandon, FL 33511"
+    ],
+    "town": "Brandon",
+    "linkedin": null,
+    "city": "tampa",
+    "state": "florida"
+  },
+  {
+    "slug": "landshark-it",
+    "placeId": "ChIJF4nOlJ3hwogRQ1QHOAD6OLg",
+    "name": "Landshark IT",
+    "summary": "Landshark IT is a Tampa Bay firm founded in 2008 in St. Petersburg that offers managed IT, network monitoring, and cybersecurity for businesses, alongside computer repair and smart home setup for individuals. It targets law, medical, accounting, and industrial clients, and its owner is a former Navy cryptologist.",
+    "services": [
+      "managed_it",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "structured_cabling",
+      "computer_repair"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "manufacturing"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS"
+    ],
+    "partners": [
+      "Microsoft",
+      "Cisco",
+      "Dell",
+      "HP",
+      "VMware",
+      "Juniper",
+      "OpenText",
+      "Sophos",
+      "Veeam",
+      "3CX",
+      "Google",
+      "AWS"
+    ],
+    "foundedYear": 2008,
+    "teamSize": null,
+    "serviceArea": "Tampa Bay (Tampa, St. Petersburg, Clearwater; Pinellas and Hillsborough counties)",
+    "pricing": null,
+    "website": "http://www.landsharkit.com/",
+    "phone": "(727) 755-3493",
+    "addresses": [
+      "5741 9th Ave N, St. Petersburg, FL 33710",
+      "210 W Platt St, Tampa, FL"
+    ],
+    "town": "St. Petersburg",
+    "linkedin": null,
+    "city": "tampa",
+    "state": "florida"
+  },
+  {
+    "slug": "ntiva",
+    "placeId": "ChIJO-sa1mzCwogRV_mBw17bEUw",
+    "name": "Ntiva",
+    "summary": "Ntiva is a managed IT services provider offering 24/7 support, managed cybersecurity, cloud, Microsoft support and IT strategy consulting to businesses. Its location pages describe service for Florida, New York, Texas and Kansas/Missouri, with remote and on-site support across the United States. Clients are offered flexible pricing where they pay for the services they need.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "government"
+    ],
+    "compliance": [
+      "CMMC"
+    ],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Florida, New York, Texas, Kansas & Missouri, Colorado, Illinois, Indiana, Louisiana, Washington DC Metro; remote and on-site across the United States",
+    "pricing": "Flexible pricing where clients pay only for what they need",
+    "website": "https://www.ntiva.com/it-support-florida",
+    "phone": "(888) 996-8482",
+    "addresses": [],
+    "town": null,
+    "linkedin": "https://www.linkedin.com/company/ntiva-inc-/",
+    "city": "tampa",
+    "state": "florida"
+  },
+  {
+    "slug": "it-resources",
+    "placeId": "ChIJjUmukVzDwogRyW_wwOEUt4Y",
+    "name": "IT Resources",
+    "summary": "IT Resources is a Tampa, Florida provider offering managed IT, remote support, server management and backup and disaster recovery to businesses. The company says it focuses on medical offices and law firms and serves organizations with 5 to 150 employees, with an emphasis on cybersecurity and cloud management.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure"
+    ],
+    "industries": [
+      "healthcare",
+      "legal"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Tampa Bay, Florida",
+    "pricing": null,
+    "website": "https://itrtampa.com/",
+    "phone": "(813) 908-8080",
+    "addresses": [],
+    "town": null,
+    "linkedin": null,
+    "city": "tampa",
+    "state": "florida"
+  },
+  {
+    "slug": "plexus-technologies-llc",
+    "placeId": "ChIJx26wlR3xwogRfLIhEP8nVAc",
+    "name": "Plexus Technologies LLC",
+    "summary": "Plexus Technologies is a managed IT and cybersecurity provider headquartered in Clearwater, Florida, serving multi-site organizations across the United States and Canada. Services include monitoring, patch management, a U.S.-based helpdesk, Microsoft 365 administration, managed security and co-managed IT. The firm highlights industry-specific programs for healthcare, senior living, finance, legal and other sectors.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "construction",
+      "manufacturing",
+      "real_estate",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS",
+      "GLBA",
+      "CMMC",
+      "NIST",
+      "FINRA/SEC"
+    ],
+    "partners": [
+      "The ASCII Group member"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Nationwide across the U.S. and Canada; Florida-based (Tampa Bay, Orlando, Miami, Jacksonville and others)",
+    "pricing": "Fixed monthly fee covering the agreed scope, with no per-ticket charges",
+    "website": "https://www.plextech.net/",
+    "phone": "(727) 580-8883",
+    "addresses": [
+      "1001 South Myrtle Ave, Suite 6, Clearwater, FL 33756"
+    ],
+    "town": "Clearwater",
+    "linkedin": "https://www.linkedin.com/company/plexus-technologies-florida",
+    "city": "tampa",
+    "state": "florida"
+  },
+  {
+    "slug": "radiant-technology-solutions",
+    "placeId": "ChIJ1aw2uDPwwogR0gTYWlqz-K4",
+    "name": "Radiant Technology Solutions",
+    "summary": "Tarpon Springs-based managed IT provider with twelve staff, serving healthcare practices, law firms, accounting offices and commercial construction companies, mostly 20 to 50 people. Services include monitoring, help desk, Microsoft 365, cybersecurity, backup, VoIP and co-managed IT, with billing per device and no long-term contracts.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "construction",
+      "manufacturing",
+      "nonprofit",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "FTC Safeguards"
+    ],
+    "partners": [
+      "Microsoft",
+      "Cisco",
+      "VMware",
+      "Dell",
+      "HP",
+      "Lenovo",
+      "Ubiquiti",
+      "SonicWall",
+      "Datto"
+    ],
+    "foundedYear": null,
+    "teamSize": "12 people",
+    "serviceArea": "Tampa Bay (Hillsborough, Pinellas and Pasco Counties); clients in 15 states",
+    "pricing": "Flat monthly fee per device, no contract, 24/7 help desk",
+    "website": "https://radiant-tech.net/",
+    "phone": "(727) 493-4723",
+    "addresses": [
+      "905 E Martin Luther King Jr Drive, Suite 206, Tarpon Springs, FL 34689"
+    ],
+    "town": null,
+    "linkedin": "https://www.linkedin.com/company/radiant-technology-solutions",
+    "city": "tampa",
+    "state": "florida"
+  },
+  {
+    "slug": "tridium",
+    "placeId": "ChIJ5fCDZeo-U0cRKcqKpB0emqQ",
+    "name": "Tridium",
+    "summary": "Clearwater, Florida-based IT provider offering ongoing managed IT operations, help desk support, and managed cybersecurity for small and mid-sized businesses. Services center on Microsoft 365 administration, including 24x7 monitoring, endpoint and identity threat detection, device management, and backup options. Also acts as a Microsoft Cloud Solutions Provider reseller and offers project work and Lenovo hardware procurement.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "hardware_procurement"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [
+      "Microsoft Cloud Solutions Provider",
+      "Huntress",
+      "Lenovo partner",
+      "Pax8 (Microsoft distributor)"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Clearwater, FL; clients throughout the US",
+    "pricing": "Monthly billing for licensing and services; SimplifyIT package billed monthly, with Microsoft 365 Business Premium included",
+    "website": "https://www.tridiumtech.com/",
+    "phone": "+1 800-261-0443",
+    "addresses": [
+      "611 Druid Rd. E., Suite 406, Clearwater, FL 33756"
+    ],
+    "town": "Clearwater",
+    "linkedin": "https://www.linkedin.com/company/tridium-technology-solutions-llc/",
+    "city": "tampa",
+    "state": "florida"
+  },
+  {
+    "slug": "iventure-solutions-tampa",
+    "placeId": "ChIJ9aqyUEDlwogRmgM4G7mppxI",
+    "name": "iVenture Solutions",
+    "summary": "iVenture Solutions is a Florida-based IT firm offering outsourced managed IT, co-managed IT, cybersecurity monitoring, cloud services and IT strategy. It serves businesses across several sectors including legal, healthcare, financial services, manufacturing and nonprofits, with offices in the Tampa Bay area and clients nationwide.",
+    "services": [
+      "managed_it",
+      "co_managed_it",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "manufacturing",
+      "nonprofit",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "NIST",
+      "ITAR",
+      "CJIS"
+    ],
+    "partners": [
+      "Great Place to Work certified"
+    ],
+    "foundedYear": 2000,
+    "teamSize": null,
+    "serviceArea": "Florida-based with nationwide coverage; Tampa Bay, Jacksonville and Orlando local teams",
+    "pricing": null,
+    "website": "https://iventuresolutions.com/about/tampa-bay/",
+    "phone": "(727) 532-0603",
+    "addresses": [
+      "11208 Blue Heron Boulevard N, Suite 200, St. Petersburg, FL 33716"
+    ],
+    "town": "St. Petersburg",
+    "linkedin": "https://www.linkedin.com/company/iventure/",
+    "city": "tampa",
+    "state": "florida"
+  },
+  {
+    "slug": "bizco-technologies",
+    "placeId": "ChIJ0QYetODwwogR1aSmihpzP68",
+    "name": "Bizco Technologies",
+    "summary": "Bizco Technologies is an integrator of IT, communications, and audio-visual solutions based in Nebraska and Florida, with offices in Lincoln, La Vista, and Clearwater. It offers managed IT with monitoring, backup, network security, and cloud services, plus AV system design and mobile device solutions. The company serves small and medium-sized businesses and education clients.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "cloud_microsoft_365",
+      "hardware_procurement",
+      "voip_phones"
+    ],
+    "industries": [
+      "education",
+      "manufacturing",
+      "logistics",
+      "construction"
+    ],
+    "compliance": [],
+    "partners": [
+      "Toughbook"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Nebraska and Florida",
+    "pricing": "Short-term contracts with transparent pricing",
+    "website": "https://www.bizco.com/",
+    "phone": "(877) 926-2490",
+    "addresses": [
+      "2185 Logan Street, Suite A, Clearwater, FL 33765",
+      "7950 O Street, Lincoln, NE 68510",
+      "12120 Port Grace Blvd, Suite 201, La Vista, NE 68128"
+    ],
+    "town": "Clearwater",
+    "linkedin": "https://www.linkedin.com/company/bizco-technologies/",
+    "city": "tampa",
+    "state": "florida"
+  },
+  {
+    "slug": "digital-brainz",
+    "placeId": "ChIJf7ZdGUOxwogR2VmUSMKpIQs",
+    "name": "Digital Brainz",
+    "summary": "DigitalBrainz is a Florida corporation headquartered in the Tampa Bay area offering outsourced IT support, help desk, and hosted VOIP phone services to commercial clients nationwide. It also provides network and security assessments, HIPAA assessments, and corporate security consulting. Reviews mention work with insurance, law, dental, and medical firms.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services",
+      "network_infrastructure"
+    ],
+    "industries": [
+      "healthcare",
+      "dental",
+      "legal",
+      "insurance"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Nationwide, headquartered in the Greater Tampa Bay area, Florida",
+    "pricing": null,
+    "website": "https://www.digitalbrainz.com/",
+    "phone": "(813) 406-0999",
+    "addresses": [
+      "3030 Starkey Blvd, Suite 289, New Port Richey, FL 34655"
+    ],
+    "town": null,
+    "linkedin": "https://www.linkedin.com/company/digitalbrainz-inc.",
+    "city": "tampa",
+    "state": "florida"
+  },
+  {
+    "slug": "hero-managed-services-llc",
+    "placeId": "ChIJdWqNBCTCwogRb3CJ2sdOUK8",
+    "name": "HERO Managed Services LLC",
+    "summary": "Tampa-based IT firm offering managed IT support, 24/7 monitoring, help desk, Microsoft 365 and Teams administration, and managed SOC security for small and midsize businesses. It also provides IT consulting, staffing and project work, with a stated focus on healthcare practices and HIPAA-regulated clients.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement",
+      "structured_cabling"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "nonprofit",
+      "education",
+      "government",
+      "construction",
+      "manufacturing",
+      "engineering_architecture",
+      "real_estate",
+      "logistics",
+      "automotive",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "NIST",
+      "PCI DSS",
+      "GLBA"
+    ],
+    "partners": [
+      "Microsoft Solutions Partner",
+      "Jamf"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Tampa, FL",
+    "pricing": "Predictable monthly fee for managed IT services; healthcare page mentions flat-rate pricing",
+    "website": "https://www.heromanaged.com/managed-it-services-tampa-fl/",
+    "phone": "(813) 358-5046",
+    "addresses": [
+      "400 N Ashley Dr #2600, Tampa, FL 33602"
+    ],
+    "town": "Tampa",
+    "linkedin": "https://www.linkedin.com/company/heromanaged/",
+    "city": "tampa",
+    "state": "florida"
+  },
+  {
+    "slug": "hero-managed-services",
+    "placeId": "ChIJJadCOBXlwogRp3bKSSzmCw4",
+    "name": "HERO Managed Services",
+    "summary": "Tampa-based provider of managed IT, helpdesk, network monitoring, backup and managed cybersecurity for small and midsize businesses, with dedicated technical account managers and vCIO consulting. Also offers Microsoft 365 and Teams administration, IT staffing and project work. Serves healthcare practices and several other sectors.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement",
+      "structured_cabling"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "construction",
+      "manufacturing",
+      "education",
+      "government",
+      "nonprofit",
+      "real_estate",
+      "logistics",
+      "automotive",
+      "professional_services",
+      "engineering_architecture"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "NIST",
+      "PCI DSS",
+      "GLBA",
+      "FTC Safeguards"
+    ],
+    "partners": [
+      "SOC 2 Type 2 Certified Staffing Partner"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Tampa, Florida (office location listed; broader service area not stated)",
+    "pricing": "Predictable monthly fee tailored to environment size; healthcare page mentions flat-rate pricing",
+    "website": "https://www.heromanaged.com/",
+    "phone": "(813) 358-5046",
+    "addresses": [
+      "400 N Ashley Dr #2600, Tampa, FL 33602"
+    ],
+    "town": "Tampa",
+    "linkedin": "https://www.linkedin.com/company/heromanaged/",
+    "city": "tampa",
+    "state": "florida"
+  },
+  {
+    "slug": "it-global-management",
+    "placeId": "ChIJq-CEiCHJwogR6aa9qBUjYVc",
+    "name": "IT Global Management",
+    "summary": "IT Global Management is a Tampa, Florida-based IT provider offering around-the-clock managed support for small and medium-sized businesses, covering desktops, mobile devices, networks, cloud and disaster recovery. The site says it also has offices in the UK and Australia and serves clients in dozens of countries, and it lists industries such as medical practices, banking and hospitality.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "cloud_microsoft_365"
+    ],
+    "industries": [
+      "healthcare",
+      "accounting_finance",
+      "education",
+      "manufacturing",
+      "retail",
+      "hospitality"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Headquartered in Tampa, FL with offices in the UK and Australia; site says it supports clients in 40 countries",
+    "pricing": null,
+    "website": "https://www.itglobalmanagement.com/",
+    "phone": "(813) 412-5282",
+    "addresses": [
+      "8875 Hidden River Parkway, Tampa, FL 33637"
+    ],
+    "town": "Tampa",
+    "linkedin": null,
+    "city": "tampa",
+    "state": "florida"
+  },
+  {
+    "slug": "infotect-design-solutions-inc",
+    "placeId": "ChIJvV47CjjPwogRNgJR2KGKT4o",
+    "name": "Infotect Design Solutions, Inc.",
+    "summary": "Infotect Design Solutions is a Tampa, Florida IT provider offering managed IT, help desk support, cloud consulting, security services, and hosted VoIP phone systems. The company also sells data entry services and positions its support as more than basic help desk work.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "voip_phones"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [
+      "3CX",
+      "Keeper Security",
+      "KnowBe4"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": null,
+    "pricing": null,
+    "website": "https://www.infotect.us/",
+    "phone": "(813) 630-2400",
+    "addresses": [
+      "8025 E. Dr. M.L.K. Jr Blvd, Tampa, FL 33619"
+    ],
+    "town": "Tampa",
+    "linkedin": "https://www.linkedin.com/company/infotect-design-solutions-inc/?viewAsMember=true",
+    "city": "tampa",
+    "state": "florida"
+  },
+  {
+    "slug": "sequentur",
+    "placeId": "ChIJQTK99hfDwogRiF6BCX6mo9I",
+    "name": "Sequentur",
+    "summary": "Sequentur is an IT services firm based in Clearwater, Florida, with additional offices in Tampa, Columbus, Washington D.C., Philadelphia, Atlanta, Nashville and Asheville. It provides managed IT with help desk and 24/7 monitoring, cybersecurity, backup and disaster recovery, Microsoft 365 and Azure cloud work, and compliance support for frameworks such as CMMC, NIST and HIPAA. The company lists industry-focused pages for law, accounting, healthcare, manufacturing and government clients.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "structured_cabling"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "manufacturing",
+      "government",
+      "nonprofit",
+      "real_estate",
+      "insurance",
+      "construction",
+      "logistics",
+      "engineering_architecture",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "NIST",
+      "SOC 2"
+    ],
+    "partners": [
+      "Microsoft Partner"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Clearwater, Florida, plus Tampa, Columbus, Washington D.C., Philadelphia, Atlanta, Nashville and Asheville",
+    "pricing": null,
+    "website": "https://www.sequentur.com/clearwater-florida/",
+    "phone": "(800) 959-5731",
+    "addresses": [
+      "601 Cleveland St #501, Clearwater, FL 33755",
+      "1600 E 8th Ave A200, Tampa, FL 33605",
+      "21 E State St, Columbus, OH 43215",
+      "1300 I St NW, Washington, DC 20005",
+      "100 S Juniper St 3rd Floor, Philadelphia, PA 19107",
+      "303 Perimeter Center N #300, Atlanta, GA 30346",
+      "555 Marriott Drive, Suite 315, Nashville, TN 37214",
+      "16 Biltmore Ave, Asheville, NC 28801"
+    ],
+    "town": "Clearwater",
+    "linkedin": "https://www.linkedin.com/company/sequentur/",
+    "city": "tampa",
+    "state": "florida"
+  },
+  {
+    "slug": "technology-success-llc",
+    "placeId": "ChIJ0-QVg7D7wogRn3BUOvwHaGs",
+    "name": "Technology Success LLC",
+    "summary": "Technology Success LLC is an IT services firm in the Tampa Bay Area that provides proactive monitoring and customized technology support to small businesses, positioning itself as an outsourced IT department. Its offerings span managed IT, data recovery, network and wifi security, hybrid cloud, VoIP, video surveillance and low-voltage cabling, along with hardware and software sales.",
+    "services": [
+      "managed_it",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "structured_cabling",
+      "hardware_procurement"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Tampa Bay Area",
+    "pricing": null,
+    "website": "https://techsuccess.us/",
+    "phone": "727-871-2548",
+    "addresses": [
+      "10801 Starkey Rd, Suite 104-216, Seminole, FL 33777"
+    ],
+    "town": null,
+    "linkedin": null,
+    "city": "tampa",
+    "state": "florida"
+  },
+  {
+    "slug": "vine-it-and-cybersecurity",
+    "placeId": "ChIJb1f3R1HiwogRz707rUaMArc",
+    "name": "Vine IT & Cybersecurity",
+    "summary": "Vine IT & Cybersecurity is a managed IT and cybersecurity provider based in St. Petersburg, Florida, serving businesses in the Tampa Bay area. Its month-to-month plans cover endpoint monitoring, help desk support, security patching, backups, MFA management and staff security training. The site highlights a client portal and AI-assisted threat detection and response.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "hardware_procurement",
+      "compliance_services"
+    ],
+    "industries": [
+      "insurance",
+      "manufacturing",
+      "construction"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Tampa Bay area, Florida",
+    "pricing": "Per-user monthly pricing starting at $175/user per month, with no long-term contract required; new projects, hardware and added locations are quoted separately",
+    "website": "https://www.vineit.com/",
+    "phone": "(844) 484-6348",
+    "addresses": [
+      "9887 4th Street North, STE 303F, St. Petersburg, FL 33702"
+    ],
+    "town": "St. Petersburg",
+    "linkedin": "https://www.linkedin.com/company/vineit/posts/?feedView=all",
+    "city": "tampa",
+    "state": "florida"
+  },
+  {
+    "slug": "affordable-computer-solutions",
+    "placeId": "ChIJv56jdpzxwogRTelmZu1tW40",
+    "name": "Affordable Computer Solutions",
+    "summary": "Tampa Bay-area IT firm offering monthly managed IT support covering monitoring, maintenance, helpdesk, cloud and Microsoft 365, plus cybersecurity, VoIP phones, network and SD-WAN work, CCTV and web design. Serves small and mid-sized businesses in Largo and the wider Tampa Bay region, with some compliance support for HIPAA, FINRA, PCI and CJIS.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio"
+    ],
+    "industries": [],
+    "compliance": [
+      "HIPAA",
+      "FINRA/SEC",
+      "PCI DSS",
+      "CJIS"
+    ],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Tampa Bay area (Tampa, St. Pete, Clearwater, Largo) and across the United States for cybersecurity",
+    "pricing": "Flat monthly rate per managed service package",
+    "website": "https://acstampabay.com/",
+    "phone": "(727) 485-4610",
+    "addresses": [
+      "7500 Ulmerton Road, #35, Largo, FL 33771"
+    ],
+    "town": "Largo",
+    "linkedin": "https://www.linkedin.com/company/acs-affordable-computer-solutions/",
+    "city": "tampa",
+    "state": "florida"
+  },
+  {
+    "slug": "bca-it-inc-tampa",
+    "placeId": "ChIJN_w4CfjFwogRm6QSRHoMH8k",
+    "name": "BCA IT, Inc.",
+    "summary": "Family-owned IT firm offering managed and co-managed IT, 24/7 help desk, managed cybersecurity and compliance support for small and mid-sized businesses in Tampa, Miami and Orlando. The company also resells and implements Sage 100 and Sage Intacct ERP software, and lists Microsoft Azure and Office 365 services.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "co_managed_it",
+      "compliance_services",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "accounting_finance",
+      "healthcare",
+      "legal",
+      "manufacturing",
+      "construction"
+    ],
+    "compliance": [],
+    "partners": [
+      "Sage Provider"
+    ],
+    "foundedYear": 1990,
+    "teamSize": null,
+    "serviceArea": "Tampa, Miami and Orlando, Florida; South Florida",
+    "pricing": null,
+    "website": "https://bcainc.com/location/managed-it-services-tampa/",
+    "phone": "813-212-5872",
+    "addresses": [
+      "400 N Tampa St, Suite 1500, Tampa, FL 33602",
+      "8750 NW 36th St, Suite 500, Doral, FL 33178",
+      "20 N Orange Ave, Suite 1100, Orlando, FL 32801",
+      "1101 Brickell Avenue, South Tower, Suite 800, Miami, FL 33131",
+      "8323 NW 12th St, Suite 204, Miami, FL 33126"
+    ],
+    "town": "Tampa",
+    "linkedin": "https://www.linkedin.com/company/business-computer-associates-inc--bca-inc--",
+    "city": "tampa",
+    "state": "florida"
+  },
+  {
+    "slug": "prodigy-complete-it-solutions",
+    "placeId": "ChIJi0v61r_wwogRuBFqi2Ka2wg",
+    "name": "Prodigy Complete IT Solutions",
+    "summary": "Tampa Bay IT services firm based in Clearwater, founded in 2007, offering managed and co-managed IT, help desk, Microsoft 365, security (MDR, email security, awareness training) and business continuity planning. Serves construction and trades, nonprofits and professional services organizations in Clearwater, St. Petersburg and Greater Tampa Bay, with flat-rate managed service packages.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "construction",
+      "nonprofit",
+      "professional_services"
+    ],
+    "compliance": [
+      "PCI DSS"
+    ],
+    "partners": [],
+    "foundedYear": 2007,
+    "teamSize": null,
+    "serviceArea": "Clearwater, St. Petersburg, Tampa and Greater Tampa Bay Area",
+    "pricing": "Flat-rate managed services packages",
+    "website": "https://prodigycompleteit.com/",
+    "phone": "(727) 756-8407",
+    "addresses": [
+      "19321 US Highway 19 N, Suite 407, Clearwater, FL 33764"
+    ],
+    "town": "Clearwater",
+    "linkedin": "https://www.linkedin.com/company/prodigycompleteitsolutions/",
+    "city": "tampa",
     "state": "florida"
   }
 ]
