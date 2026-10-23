@@ -3,7 +3,7 @@
  * cities and towns get them automatically. See CLAUDE.md for the rules.
  */
 import type { City, Msp } from "@/lib/data";
-import { INDUSTRY_LABELS, label } from "@/lib/labels";
+import { INDUSTRY_LABELS, SERVICE_LABELS, label } from "@/lib/labels";
 import { CORE_SERVICES } from "@/lib/score";
 
 const MONTHS = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
@@ -121,5 +121,46 @@ export function locationFaqs(place: string, msps: Msp[], areas: { name: string; 
       answer: `${priced.length} of ${msps.length} MSPs in ${place} describe their pricing publicly.${modelText} Exact prices depend on the number of users and devices and the services included, so ask two or three providers for quotes.`,
     });
   }
+  return faqs;
+}
+
+
+/** Profile FAQs built from the MSP's own data, so each profile answers its own questions. */
+export function profileFaqs(msp: Msp, city: City, rank: number, place: string): Faq[] {
+  const faqs: Faq[] = [];
+  const services = msp.services.map((value) => label(SERVICE_LABELS, value).toLowerCase());
+  faqs.push({
+    question: `What services does ${msp.name} offer?`,
+    answer: `${msp.name} is a managed service provider based in ${place}. Its website lists ${joinWords(services)}.`,
+  });
+  if (msp.compliance.length) {
+    faqs.push({
+      question: `Does ${msp.name} support ${msp.compliance[0]} compliance?`,
+      answer: `Yes. ${msp.name} says it helps clients meet ${joinWords(msp.compliance)}.`,
+    });
+  }
+  if (msp.industries.length) {
+    faqs.push({
+      question: `Which industries does ${msp.name} work with?`,
+      answer: `${msp.name} names ${joinWords(msp.industries.map((value) => label(INDUSTRY_LABELS, value).toLowerCase()))} among the industries it serves.`,
+    });
+  }
+  const area = msp.serviceArea ? ` It serves ${msp.serviceArea}.` : "";
+  faqs.push({
+    question: `Where is ${msp.name} located?`,
+    answer: msp.addresses.length
+      ? `${msp.name} lists ${msp.addresses.length > 1 ? `${msp.addresses.length} offices, including ` : "its office at "}${msp.addresses[0]}.${area}`
+      : `${msp.name} doesn't list an office address on its website.${area || ` It's listed in the ${city.name} metro.`}`,
+  });
+  if (msp.pricing) {
+    faqs.push({
+      question: `How does ${msp.name} price its services?`,
+      answer: `According to its website: ${msp.pricing.replace(/\.?$/, ".")} Ask the company for a quote based on your number of users and devices.`,
+    });
+  }
+  faqs.push({
+    question: `How does ${msp.name} rank among MSPs in ${city.name}?`,
+    answer: `${msp.name} ranks #${rank} of ${city.count} MSPs in the ${city.name} metro, with an MSP Hub Score of ${msp.score.total}/100. The score reflects what the company documents publicly: years in business, managed services coverage, compliance support, industries served and pricing transparency. Its live Google rating is shown at the top of this page.`,
+  });
   return faqs;
 }

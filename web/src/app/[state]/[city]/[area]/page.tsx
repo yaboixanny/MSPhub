@@ -33,6 +33,8 @@ export async function generateMetadata({ params }: PageProps<"/[state]/[city]/[a
     title: { absolute: bestTitle(place, area.count, year) },
     description: bestDescription(place, area.count, year),
     alternates: { canonical: `/${state}/${citySlug}/${areaSlug}` },
+    // Small town pages repeat most of the metro page, so keep them out of search results.
+    ...(area.indexed ? {} : { robots: { index: false, follow: true } }),
   };
 }
 

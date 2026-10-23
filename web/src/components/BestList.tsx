@@ -61,10 +61,15 @@ export function HowWePicked({ updated }: { updated: string }) {
 
 /** Location FAQs, rendered for readers and as FAQPage structured data. */
 export function LocationFaq({ place, faqs }: { place: string; faqs: Faq[] }) {
+  return <FaqSection title={`Frequently asked questions about MSPs in ${place}`} faqs={faqs} />;
+}
+
+/** FAQs rendered for readers and as FAQPage structured data. */
+export function FaqSection({ title, faqs }: { title: string; faqs: Faq[] }) {
   if (faqs.length === 0) return null;
   return (
     <section className="max-w-3xl">
-      <h2 className="text-xl font-semibold">Frequently asked questions about MSPs in {place}</h2>
+      <h2 className="text-xl font-semibold">{title}</h2>
       <div className="mt-4 divide-y divide-slate-200 rounded-xl border border-slate-200 bg-white">
         {faqs.map((faq) => (
           <details key={faq.question} className="group p-5">

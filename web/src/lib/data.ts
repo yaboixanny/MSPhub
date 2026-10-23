@@ -24,6 +24,13 @@ type MspRecord = {
   /** Town of the main office from the company's website; null if it lists no address. */
   town: string | null;
   linkedin: string | null;
+  /** Profile overview written from the company's website (scripts/writeup.py). */
+  writeup: {
+    what_they_do: string;
+    who_they_serve: string;
+    how_they_work: string;
+    what_stands_out: string;
+  } | null;
   city: string;
   state: string;
 };
@@ -56,10 +63,14 @@ export type Area = {
   count: number;
   /** Areas with enough MSPs get their own page. */
   hasPage: boolean;
+  /** Only pages with enough MSPs are offered to search engines; smaller ones are mostly a copy of the metro page. */
+  indexed: boolean;
 };
 
-// Towns need at least this many MSPs to get their own page (fewer is thin content).
+// Towns need at least this many MSPs to get their own page (fewer is thin content)...
 export const MIN_AREA_MSPS = 3;
+// ...and this many to be indexed by search engines.
+export const INDEX_MIN_AREA_MSPS = 5;
 
 const cities = cityData as City[];
 // Years in business are counted up to the year the data was last updated.
@@ -140,6 +151,7 @@ export function getAreas(state: string, city: string): Area[] {
       count,
       // The metro's own name is already covered by the city page.
       hasPage: count >= MIN_AREA_MSPS && name !== metro?.name,
+      indexed: count >= INDEX_MIN_AREA_MSPS && name !== metro?.name,
     }));
 }
 

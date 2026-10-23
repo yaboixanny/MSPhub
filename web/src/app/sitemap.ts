@@ -12,12 +12,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: SITE_URL, lastModified: updated },
     { url: `${SITE_URL}/united-states`, lastModified: updated },
     { url: `${SITE_URL}/how-we-rank` },
+    { url: `${SITE_URL}/about` },
     // States without listings are noindex, so only covered states go in the sitemap.
     ...getCoveredStates().map((state) => ({ url: `${SITE_URL}/${state.slug}`, lastModified: updated })),
     ...cities.flatMap((city) => [
       { url: `${SITE_URL}/${city.state}/${city.slug}`, lastModified: city.updated },
       ...getAreas(city.state, city.slug)
-        .filter((area) => area.hasPage)
+        .filter((area) => area.indexed)
         .map((area) => ({ url: `${SITE_URL}/${city.state}/${city.slug}/${area.slug}`, lastModified: city.updated })),
     ]),
     ...getAllMsps().map((msp) => ({ url: `${SITE_URL}/msp/${msp.slug}`, lastModified: updated })),

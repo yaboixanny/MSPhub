@@ -49,6 +49,11 @@ def town_key(name):
     return name.replace("saint ", "st ")
 
 
+def load_writeup(base, place_id):
+    path = base / "writeup" / f"{place_id}.json"
+    return json.loads(path.read_text()).get("writeup") if path.exists() else None
+
+
 def format_address(address):
     line = f"{address['street']}, {address['city']}, {address['state']}"
     return f"{line} {address['postal_code']}" if address.get("postal_code") else line
@@ -136,6 +141,8 @@ def main():
                 # Town of the local office, for area pages; None if the site lists no office in the metro.
                 "town": metro_towns[town_key(local[0]["city"])] if local else None,
                 "linkedin": row["linkedin"] or None,
+                # Profile overview from scripts/writeup.py; the summary above is for lists.
+                "writeup": load_writeup(base, row["place_id"]),
                 "city": config["slug"],
                 "state": config["state_slug"],
             })

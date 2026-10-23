@@ -31,11 +31,26 @@ Also keep:
   "best" pages, which would compete with each other.
 - **Keep "best" honest.** Rankings are by the MSP Hub Score (what providers
   document publicly), and the method stays one click away.
-- **No thin pages.** Town pages need 3+ MSPs (`MIN_AREA_MSPS`). States without
-  listings stay noindex and out of the sitemap. Future industry or compliance
+- **No thin pages.** Town pages need 3+ MSPs (`MIN_AREA_MSPS`) and are only
+  indexed with 5+ (`INDEX_MIN_AREA_MSPS`); smaller ones are noindex and out of the
+  sitemap. States without listings stay noindex and out of the sitemap. Future industry or compliance
   pages per city (e.g. "Best MSPs for law firms in Orlando") need 5+ matching MSPs.
 - **Stable URLs.** Never rename a published URL; the export reuses slugs and
   writes redirects to `web/public/_redirects` when profiles merge.
+
+## Profiles need content of their own
+
+The list summary (classify.py) appears on city pages, so profiles show the longer
+write-up from `scripts/writeup.py` (what they do, who they work with, how they
+work, what stands out) plus `profileFaqs()`. Every new city runs writeup.py before
+export. Write-ups state only what the company's site says, attribute claims to the
+company, and avoid marketing language.
+
+## Trust pages
+
+`/about` (mission, how listings are built, editorial independence, corrections)
+and `/how-we-rank` stay linked from the header and footer. Keep their claims
+accurate: if a process (human review, refresh schedule) changes, update them.
 
 ## Google Places terms
 

@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import { FaqSection } from "@/components/BestList";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { JsonLd } from "@/components/JsonLd";
 import { LiveGoogleRating } from "@/components/LiveGoogleRating";
@@ -8,6 +9,7 @@ import { ScoreBadge } from "@/components/ScoreBadge";
 import { getAllMsps, getArea, getCity, getCityMsps, getCityRank, getMsp, placeName, slugify } from "@/lib/data";
 import { INDUSTRY_LABELS, SERVICE_LABELS, label } from "@/lib/labels";
 import { SCORE_PARTS } from "@/lib/score";
+import { profileFaqs } from "@/lib/seo";
 
 // Static export: only the pages listed below exist; anything else is a 404.
 export const dynamicParams = false;
@@ -136,7 +138,28 @@ export default async function MspPage({ params }: PageProps<"/msp/[slug]">) {
       <div className="mt-8 grid gap-6 lg:grid-cols-3">
         <div className="space-y-6 lg:col-span-2">
           <Section title={`About ${msp.name}`}>
-            <p className="leading-relaxed text-slate-700">{msp.summary}</p>
+            {msp.writeup ? (
+              <div className="space-y-5">
+                {[
+                  [`What ${msp.name} does`, msp.writeup.what_they_do],
+                  [`Who ${msp.name} works with`, msp.writeup.who_they_serve],
+                  [`How ${msp.name} works`, msp.writeup.how_they_work],
+                  ["What stands out", msp.writeup.what_stands_out],
+                ]
+                  .filter(([, text]) => text)
+                  .map(([heading, text]) => (
+                    <div key={heading}>
+                      <h3 className="text-sm font-semibold text-slate-900">{heading}</h3>
+                      <p className="mt-1 leading-relaxed text-slate-700">{text}</p>
+                    </div>
+                  ))}
+                <p className="text-xs text-slate-500">
+                  Summarized by MSP Hub from {hostname(msp.website)}. Claims are the company&apos;s own.
+                </p>
+              </div>
+            ) : (
+              <p className="leading-relaxed text-slate-700">{msp.summary}</p>
+            )}
           </Section>
           <Section title="Services">
             <Chips items={msp.services.map((value) => label(SERVICE_LABELS, value))} />
@@ -224,6 +247,10 @@ export default async function MspPage({ params }: PageProps<"/msp/[slug]">) {
             </p>
           </div>
         </aside>
+      </div>
+
+      <div className="mt-12">
+        <FaqSection title={`Frequently asked questions about ${msp.name}`} faqs={profileFaqs(msp, city, rank, placeName(msp))} />
       </div>
 
       {similar.length > 0 && (

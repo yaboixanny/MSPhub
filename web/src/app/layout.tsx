@@ -54,6 +54,9 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
               <Link href="/how-we-rank" className="hidden hover:text-slate-900 sm:inline">
                 How we rank
               </Link>
+              <Link href="/about" className="hidden hover:text-slate-900 sm:inline">
+                About
+              </Link>
               <Link
                 href="/search"
                 className="flex items-center gap-1.5 rounded-lg border border-slate-300 px-3 py-1.5 font-medium text-slate-700 hover:border-brand-600 hover:text-brand-700"
@@ -96,6 +99,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
             <div>
               <p className="font-semibold text-slate-800">About</p>
               <ul className="mt-2 space-y-1.5">
+                <li><Link href="/about" className="hover:text-slate-900">About MSP Hub</Link></li>
                 <li><Link href="/how-we-rank" className="hover:text-slate-900">How we rank MSPs</Link></li>
                 <li><Link href="/search" className="hover:text-slate-900">Search the database</Link></li>
               </ul>

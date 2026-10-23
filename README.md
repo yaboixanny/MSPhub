@@ -24,7 +24,8 @@ center point, radius and `max_candidates`. Working files land in `data/<state>/<
 | 2. Crawl | `scripts/crawl.py <config>` | `sites/*.json`: text from up to 5 pages per website |
 | 3. Classify | `scripts/classify.py <config> --model claude-haiku-5-5` | `classified/*.json`, `msps.csv`, `review.csv` |
 | 4. Contact details | `scripts/contact.py <config> --model claude-haiku-5-5` | `contact/*.json`: name, phone, addresses from each company's website |
-| 5. Review | open `review.csv` | set `is_msp` to `yes`/`no` in `msps.csv` for unclear rows |
+| 5. Profile write-ups | `scripts/writeup.py <config> --model claude-haiku-5-5` | `writeup/*.json`: 150-250 word overview per MSP for its profile page |
+| 5b. Review | open `review.csv` | set `is_msp` to `yes`/`no` in `msps.csv` for unclear rows |
 | 6. Export | `scripts/export_web.py` | `web/src/data/msps.json`, `cities.json`, and redirects in `web/public/_redirects` |
 | 7. Purge | `scripts/purge.py <config>` | deletes the stored Google data for the city |
 
