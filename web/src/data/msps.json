@@ -13241,5 +13241,1347 @@
     },
     "city": "tampa",
     "state": "florida"
+  },
+  {
+    "slug": "capstone-it",
+    "placeId": "ChIJh9q8l47V3ogRJ7fd_PbFP1Y",
+    "name": "Capstone IT",
+    "summary": "Capstone IT is a South Florida IT firm based in Palm Beach Gardens serving small and medium businesses across the Treasure Coast and Palm Beach County. It offers managed IT support, co-managed IT, help desk, Microsoft 365, cloud, backup and disaster recovery, cybersecurity and security training, plus hardware procurement and Apple support. The site highlights clients in law, construction, nonprofit, manufacturing, finance and architecture/engineering.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "hardware_procurement"
+    ],
+    "industries": [
+      "legal",
+      "manufacturing",
+      "construction",
+      "nonprofit",
+      "accounting_finance",
+      "engineering_architecture"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Treasure Coast and Palm Beach County, South Florida",
+    "pricing": null,
+    "website": "https://www.capstoneitservices.com/",
+    "phone": "(561) 257-1879",
+    "addresses": [
+      "11380 Prosperity Farms Road, Suite 212, Palm Beach Gardens, FL 33410"
+    ],
+    "town": "Palm Beach Gardens",
+    "linkedin": "https://www.linkedin.com/company/capstone-it-services/",
+    "writeup": {
+      "what_they_do": "Capstone IT provides managed IT support, co-managed IT services, IT consulting, hardware and software procurement, cybersecurity, cloud services, data backup and disaster recovery, Microsoft 365 services, network audits and monitoring, Apple support and security training. The company describes its approach as 24/7 monitoring of client networks with automated processes that address issues before they disrupt work.",
+      "who_they_serve": "The company serves small and medium-sized businesses across the Treasure Coast and Palm Beach areas of South Florida, including Palm Beach Gardens, West Palm Beach, Jupiter, Stuart, Port St. Lucie, Fort Pierce and Boca Raton. Its website highlights work with law firms, manufacturing, construction, non-profits, finance, and architecture and engineering firms.",
+      "how_they_work": "The site describes Quarterly Business Reviews, a thorough onboarding process, and a free network audit and free consultation offered to prospective clients. It also states that the company offers 24/7 tech support with rapid response times and transparent pricing, but it does not list specific contract terms or fee structures.",
+      "what_stands_out": "The company states it has served South Florida businesses for over 20 years and that its CEO, Michael Borlaug, has served small and medium businesses since 2003. Its website also notes a cybersecurity book co-authored by Borlaug for law firms and that Borlaug speaks on cybersecurity for local media and professional groups."
+    },
+    "city": "west-palm-beach",
+    "state": "florida"
+  },
+  {
+    "slug": "mindcore-technologies-west-palm-beach",
+    "placeId": "ChIJjRXkPpbf2IgRMevKPDOWSwc",
+    "name": "Mindcore Technologies",
+    "summary": "Mindcore Technologies is an IT and cybersecurity provider offering managed IT support, co-managed IT, cybersecurity, cloud and Microsoft 365 services, and NetSuite consulting. It serves organizations in New Jersey, Florida and several other states, with named focus industries including healthcare, legal, insurance, accounting and manufacturing. The company also offers its own ShieldHQ zero-trust security platform.",
+    "services": [
+      "managed_it",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "co_managed_it",
+      "compliance_services",
+      "network_infrastructure"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "insurance",
+      "manufacturing",
+      "engineering_architecture",
+      "accounting_finance"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "NIST",
+      "SOC 2",
+      "PCI DSS",
+      "FINRA/SEC"
+    ],
+    "partners": [
+      "Microsoft partner"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "New Jersey, Florida, Maryland, South Carolina, Louisiana, Mississippi, Texas, Alabama, Georgia, North Carolina, Kansas, Missouri and throughout the United States",
+    "pricing": null,
+    "website": "https://mind-core.com/",
+    "phone": "(561) 404-8411",
+    "addresses": [
+      "121 S. Orange Ave, Suite 1500, Orlando, FL 32801"
+    ],
+    "town": null,
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "Mindcore Technologies offers managed IT services, co-managed IT, IT consulting, cybersecurity services, and AI agents and automations, according to its website. Its service list also includes cybersecurity compliance, cloud services, Microsoft 365 and Teams support, NetSuite services, SD-WAN, and IT infrastructure services. The company also promotes its ShieldHQ AI Transformation platform for compliance and zero-trust access.",
+      "who_they_serve": "The company states it works with businesses of various sizes across New Jersey, Florida, Maryland, South Carolina, Louisiana, Mississippi, Texas, Alabama, Georgia, North Carolina, Kansas, and Missouri, and says it serves clients throughout the United States. Listed industries include healthcare, financial services, legal and law firms, insurance, manufacturing, architecture and engineering, accounting firms, third-party administrators, and country clubs.",
+      "how_they_work": "The website describes managed IT support that monitors and maintains networks, servers, and systems, and offers an emergency service that operates outside ticket queues and business hours. Customers are invited to schedule a consultation, and client reviews mention on-site work. The site does not state pricing models or contract terms.",
+      "what_stands_out": "The company states it has 30 years of IT leadership and is a Microsoft partner. It lists HIPAA, SOC 2, NIST and CMMC compliance work, and its ShieldHQ page names Matt Rosenthal as founder and CEO; the performance and ROI figures on that page are the company's own claims."
+    },
+    "city": "west-palm-beach",
+    "state": "florida"
+  },
+  {
+    "slug": "infostream",
+    "placeId": "ChIJRVP6tOvX2IgRuO4EbZ5-QMA",
+    "name": "InfoStream",
+    "summary": "InfoStream, Inc. is a West Palm Beach IT company offering managed IT support, server and desktop care, backup and disaster recovery, and cloud services to small businesses in Palm Beach County and nearby areas. The firm also provides PCI compliance review and remediation and serves clients in legal, finance, construction and other industries.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "legal",
+      "accounting_finance",
+      "construction",
+      "manufacturing",
+      "real_estate"
+    ],
+    "compliance": [],
+    "partners": [
+      "Microsoft Small Business Specialist Certification",
+      "Registered Microsoft Partner"
+    ],
+    "foundedYear": 1994,
+    "teamSize": null,
+    "serviceArea": "West Palm Beach, Palm Beach County, Palm Beach Gardens, Jupiter, Boca Raton, Lake Worth",
+    "pricing": "Flat monthly fee for server and desktop care starting at $150/month; flat fee for backup and disaster recovery starting at $210",
+    "website": "https://www.infostream.cc/",
+    "phone": "(561) 968-0046",
+    "addresses": [
+      "1300 North Florida Mango Road, Suite 14, West Palm Beach, FL 33409"
+    ],
+    "town": "West Palm Beach",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "InfoStream is an IT support and managed services provider offering server and desktop care, 24/7/365 monitoring, patching, cyber security, backups and disaster recovery, networking, Wi-Fi, and cloud services such as Microsoft Office 365 and Amazon Web Services. The company also offers PCI and FIPA compliance auditing and remediation, along with IT consulting and strategy reviews.",
+      "who_they_serve": "The company states that it supports small businesses in West Palm Beach, Palm Beach County, Palm Beach Gardens, Jupiter, Boca Raton, and Lake Worth, and names legal, finance, construction, and land development among the industries it has worked with. The website also cites 139 businesses in Palm Beach County as clients.",
+      "how_they_work": "The company describes a fixed monthly fee for managed server and desktop care, starting at $150 per month, and a flat fee for backups and disaster recovery, starting at $210. It also offers pay-as-you-go professional IT services, and it lists a 24/7 phone support line and a 15-minute initial call.",
+      "what_stands_out": "InfoStream states it was founded in 1994, holds a Microsoft Small Business Specialist certification, and is a Registered Microsoft Partner. Its CEO, Alan Crowetz, reports more than 100 TV interview appearances."
+    },
+    "city": "west-palm-beach",
+    "state": "florida"
+  },
+  {
+    "slug": "qit-solutions",
+    "placeId": "ChIJ4fTaWJjX2IgRwPnbx7d7yeY",
+    "name": "QIT Solutions",
+    "summary": "QIT Solutions is an IT services company serving businesses in West Palm Beach, Atlanta and Naples, offering managed IT with 24/7 remote monitoring, help desk, backup and disaster recovery, Microsoft 365 administration, cybersecurity, and vCIO and vCSO advisory services. It also takes on IT projects and custom software work. The company lists healthcare, law firms, engineering, architecture, manufacturing, nonprofits and financial institutions among its industries.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "it_strategy_vcio",
+      "compliance_services",
+      "software_development"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "engineering_architecture",
+      "manufacturing",
+      "nonprofit",
+      "accounting_finance"
+    ],
+    "compliance": [
+      "HIPAA",
+      "NIST"
+    ],
+    "partners": [],
+    "foundedYear": 2004,
+    "teamSize": null,
+    "serviceArea": "West Palm Beach, Atlanta and Naples; remote support available nationwide",
+    "pricing": "Flat rate monthly managed IT fees with no hidden costs",
+    "website": "https://qitsolutions.com/",
+    "phone": "(855) 912-4678",
+    "addresses": [
+      "400 Columbia Dr Suite 105, West Palm Beach, FL 33409",
+      "1 Glenlake Pkwy NE STE 650, Atlanta, GA 30328"
+    ],
+    "town": "West Palm Beach",
+    "linkedin": "https://www.linkedin.com/company/qitsolutionscorp/",
+    "writeup": {
+      "what_they_do": "QIT Solutions offers managed IT services, including help desk support, backup and disaster recovery, cloud hosting, Microsoft 365 solutions, network management, and 24/7 remote monitoring. It also provides vCIO and vCSO services, cybersecurity solutions, HIPAA compliance services, and IT projects such as infrastructure upgrades and strategic IT planning.",
+      "who_they_serve": "The company serves businesses in West Palm Beach, Atlanta, and Naples, and its industry pages list healthcare, law firms, engineering, architecture, manufacturing, nonprofits, and financial institutions. Its website describes its focus as small businesses that cannot sustain full in-house IT teams.",
+      "how_they_work": "Managed IT is offered on a fixed monthly fee with support delivered remotely, and local resources are available for site visits. Clients start with an introductory phone call, and the site states that pricing is itemized with no hidden fees.",
+      "what_stands_out": "The company states it has provided IT services since 2004 and reports a 5.0-star rating across 121 reviews. Its cybersecurity practice aligns with the NIST Cybersecurity Framework, and its support is listed as available 24/7/365."
+    },
+    "city": "west-palm-beach",
+    "state": "florida"
+  },
+  {
+    "slug": "i-t-solutions-of-south-florida-inc",
+    "placeId": "ChIJcaIDS5PX2IgRBA4QJXHg1aY",
+    "name": "I.T. Solutions of South Florida, Inc.",
+    "summary": "West Palm Beach-based IT firm offering managed IT support, help desk, Microsoft 365 administration, managed security and backup services to small and midsize businesses in South Florida and nationally. Work is delivered on a flat-rate basis, with specific offerings for construction, manufacturing, non-profit and professional services clients.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "construction",
+      "manufacturing",
+      "nonprofit",
+      "professional_services"
+    ],
+    "compliance": [],
+    "partners": [
+      "Top 20 Managed Service Providers in the US and Canada (award claim)"
+    ],
+    "foundedYear": 2004,
+    "teamSize": null,
+    "serviceArea": "West Palm Beach, Lake Worth, Wellington, Boca Raton, Delray Beach, Boynton Beach and throughout South Florida, plus nationwide",
+    "pricing": "Flat-rate monthly IT services",
+    "website": "https://www.itsolutions247.com/",
+    "phone": "(561) 582-9467",
+    "addresses": [
+      "7540 S Federal Highway, Hypoluxo, FL 33462"
+    ],
+    "town": null,
+    "linkedin": "https://www.linkedin.com/company/it-solutions-of-south-florida",
+    "writeup": {
+      "what_they_do": "I.T. Solutions of South Florida provides managed IT support, cybersecurity, and proactive technology services, including network management, Microsoft 365 optimization, staff training, mobile device management, phishing and security services, and backup and business continuity through its I.T. Backup Safe offering. The company also offers CIO services and co-managed IT.",
+      "who_they_serve": "The company serves small and midsize businesses in West Palm Beach, Lake Worth, Wellington, Boca Raton, Delray Beach, Boynton Beach and throughout South Florida, and also works with clients nationally. Industry pages cover construction, manufacturing, non-profit organizations, and professional services.",
+      "how_they_work": "The company states that its IT services are offered on a flat-rate basis, with remote monitoring and both remote and on-site support. Support is delivered by network engineers through a phone line, email, and a remote support portal.",
+      "what_stands_out": "The company was founded in 2004, is woman-owned, and states it is ranked among the Top 20 Managed Service Providers in the United States and Canada. It says its backups are image-based, run hourly, and are stored in two off-site facilities on the east and west coasts."
+    },
+    "city": "west-palm-beach",
+    "state": "florida"
+  },
+  {
+    "slug": "decypher-technologies",
+    "placeId": "ChIJdUq6plDV3ogRsrAZw_qYaLo",
+    "name": "Decypher Technologies",
+    "summary": "Decypher Technologies offers managed IT, managed cybersecurity, and in-building cellular (DAS) installation for businesses and private clients. It serves commercial, healthcare, hospitality, and nonprofit organizations, as well as family offices and luxury residences, with support across the United States.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "network_infrastructure",
+      "co_managed_it",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "hospitality",
+      "nonprofit",
+      "accounting_finance",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "NIST",
+      "FTC Safeguards"
+    ],
+    "partners": [
+      "Arctic Wolf",
+      "Cel-Fi",
+      "Datto",
+      "Cisco Meraki",
+      "Pathfinder"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Nationwide across the United States, with select international properties",
+    "pricing": "Flat monthly fee for bundled managed IT services",
+    "website": "https://decyphertech.com/",
+    "phone": "855.808.6920",
+    "addresses": [
+      "901 Northpoint Parkway, Ste 404, West Palm Beach, FL 33407",
+      "201 Centennial Street, Ste 112, Glenwood Springs, CO 81601",
+      "3243 W Hampden Ave, Englewood, CO 80110"
+    ],
+    "town": "West Palm Beach",
+    "linkedin": "https://www.linkedin.com/company/decypher-technologies-inc-/",
+    "writeup": {
+      "what_they_do": "Decypher Technologies provides managed IT services, managed cybersecurity, and in-building cellular solutions, including Distributed Antenna Systems (DAS) and public safety DAS/ERRCS. Its managed IT offering covers monitoring, help desk support, infrastructure management, and co-managed IT for clients with in-house teams. Its cybersecurity services include managed threat detection and response, endpoint detection and response, identity management with adaptive MFA, penetration testing, and compliance assessment tools.",
+      "who_they_serve": "The company serves organizations and private clients across the United States, with select international properties, and lists sectors including professional offices, healthcare, hospitality, nonprofits, family offices, and luxury residences. Its cybersecurity page states it works with organizations of 50 to 200 employees.",
+      "how_they_work": "The services page describes a flat monthly fee for bundled managed IT services. The site describes a 24/7 helpdesk and network operations, on-site visits when needed, and a dedicated account manager model, and says many cybersecurity engagements begin with a risk assessment that can be remote or on-site.",
+      "what_stands_out": "The company states it has more than twenty years of experience and highly certified engineers, and lists certifications such as Cisco CCNA, CompTIA A+, and an FCC GROL license held by a team member. It also states that its cybersecurity program includes an SLA-backed incident response option with a guaranteed response time."
+    },
+    "city": "west-palm-beach",
+    "state": "florida"
+  },
+  {
+    "slug": "palmtech",
+    "placeId": "ChIJGfyIVT7W2IgRoDY4hroHOPo",
+    "name": "PalmTech",
+    "summary": "PalmTech is a West Palm Beach managed IT provider serving businesses with roughly 25 to 150 employees across South Florida. Services include a 24/7 helpdesk, managed security and SOC, Microsoft 365 support, backup and disaster recovery, cloud and VoIP, and virtual CIO work. It focuses on nonprofits, healthcare, legal, construction and manufacturing clients, and offers a free compliance and cyber risk review.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "construction",
+      "manufacturing",
+      "nonprofit"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": 2003,
+    "teamSize": "Businesses with 25 to 150 employees served (staff count not stated)",
+    "serviceArea": "West Palm Beach and surrounding South Florida",
+    "pricing": "Flat agreements with no onboarding fees and a 90-day no lock-in period",
+    "website": "https://www.palmtech.net/",
+    "phone": "(561) 969 1616",
+    "addresses": [
+      "1025 N. Florida Mango Rd. Suite 5, West Palm Beach, FL 33409"
+    ],
+    "town": "West Palm Beach",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "PalmTech, a West Palm Beach managed IT provider, offers managed IT services including a 24/7/365 helpdesk, endpoint detection and response, network support, proactive maintenance, and Microsoft 365 support. Its other service areas cover IT security (cybersecurity and antivirus, managed SOC, email protection, backup and disaster recovery, multi-factor authentication, security awareness training), infrastructure and cloud (IaaS, cloud migration, VoIP), and professional IT services such as virtual CIO and IT project management.",
+      "who_they_serve": "The company says it serves businesses with 25 to 150 employees based in West Palm Beach and surrounding South Florida, and it names nonprofits, construction, legal, healthcare, and manufacturing as industries it focuses on. It also states that it works with businesses in other industries.",
+      "how_they_work": "The company states it has no onboarding fees, no lock-in contracts, and a 90-day no lock-in guarantee, and it describes same-day responses with next-day onsite visits when hands-on work is needed. Its site also mentions flexible agreements and says that clients can be started with no upfront cost.",
+      "what_stands_out": "The company says it has been operating since 2003 and reports a CSAT score of 9.85 and an 85% first-call resolution rate. It also offers a free executive compliance and cyber risk readiness review and free penetration testing for selected devices."
+    },
+    "city": "west-palm-beach",
+    "state": "florida"
+  },
+  {
+    "slug": "simplitfy",
+    "placeId": "ChIJS9L2FYnV2IgR-2WmwfFvOQI",
+    "name": "Simplitfy",
+    "summary": "Simplitfy is an IT company serving small and medium-sized businesses in Palm Beach, Broward and Dade Counties in Florida. Its offerings include managed IT support, helpdesk, network security, cloud services, backup and disaster recovery, plus cabling and hardware. The site highlights healthcare IT support and electronic medical records work.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "hardware_procurement",
+      "structured_cabling",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "healthcare",
+      "legal"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Palm Beach, Broward and Dade Counties, Florida",
+    "pricing": null,
+    "website": "https://www.simplitfy.com/?y_source=1_MTM1MzAxNTAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+    "phone": "(561) 425-6100",
+    "addresses": [
+      "707 Lucerne Avenue, Lake Worth, FL 33460"
+    ],
+    "town": null,
+    "linkedin": "https://www.linkedin.com/company/simplitfy",
+    "writeup": {
+      "what_they_do": "Simplitfy is a managed service provider offering managed IT services, including servers and network infrastructure, workstations, mobile devices, and vendor relations, along with helpdesk and IT support. Additional offerings listed on the site include security services such as network security, spam protection, and web filtering and firewall, cloud computing, backup and disaster recovery, hardware, software, and cabling and network installations.",
+      "who_they_serve": "The company provides IT services to small and medium-sized businesses in Palm Beach, Broward and Dade Counties in Florida. The site also mentions healthcare and legal IT support.",
+      "how_they_work": "The company describes a proactive approach aimed at resolving issues before clients notice them. The site offers a support and client portal and invites visitors to call for a start. Pricing, contract terms, and support hours are not stated.",
+      "what_stands_out": "The company states it aims to give small businesses enterprise-level services at budget-friendly prices and offers a Backup Disaster Recovery Solution, plus EMR-related healthcare IT support."
+    },
+    "city": "west-palm-beach",
+    "state": "florida"
+  },
+  {
+    "slug": "davis-it-services",
+    "placeId": "ChIJDx_A6y4o2YgRV_i5QAJysf0",
+    "name": "Davis IT Services",
+    "summary": "Davis IT Services is a West Palm Beach firm offering managed IT for businesses, covering server and network monitoring, patch management, malware protection, and managed security such as firewalls, web filtering, and email protection. It also provides cloud desktop and cloud solutions, network design and maintenance, and IT support consulting. The company says it serves the Palm Beach and Treasure Coast communities.",
+    "services": [
+      "managed_it",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "network_infrastructure"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Palm Beach and Treasure Coast communities, Florida",
+    "pricing": null,
+    "website": "https://www.davisitservices.com/",
+    "phone": "(561) 225-4491",
+    "addresses": [
+      "2300 Palm Beach Lakes Blvd Suite 200A, West Palm Beach, FL"
+    ],
+    "town": "West Palm Beach",
+    "linkedin": "https://www.linkedin.com/company/wix-com",
+    "writeup": {
+      "what_they_do": "Davis IT Services offers managed IT services, including asset tracking, malware protection, patch management, and monitoring of servers and network devices. Its offerings also cover cloud solutions, cloud desktops, security services provided through Safebit such as managed firewall, email protection, and web filtering, network design and maintenance, and IT support consulting.",
+      "who_they_serve": "The company works with businesses in the Palm Beach and Treasure Coast communities of Florida, based in West Palm Beach. The website does not describe specific industries or business sizes served.",
+      "how_they_work": "The website states that the company's approach to each partnership depends on the client's current IT situation and goals, and it offers a free evaluation request through its contact form. It does not state pricing details, support hours, or contract terms.",
+      "what_stands_out": "The company describes cloud services billed on usage and a Safebit-based security suite that includes vulnerability evaluation, intrusion protection, and email archiving. The website does not list certifications, years in business, or client references."
+    },
+    "city": "west-palm-beach",
+    "state": "florida"
+  },
+  {
+    "slug": "florida-it-pros",
+    "placeId": "ChIJx32CXSrU2IgReSUQfuOaahM",
+    "name": "Florida IT Pros",
+    "summary": "Florida IT Pros is a West Palm Beach firm offering managed IT for small and mid-sized businesses, including help desk, network security, and ongoing network management. It also runs IT assessments and network design work, and serves clients across South Florida and remotely elsewhere.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "computer_repair"
+    ],
+    "industries": [
+      "dental",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [
+      "Cisco",
+      "HP",
+      "Dell",
+      "McAfee",
+      "RSA",
+      "Citrix",
+      "Websense",
+      "Symantec"
+    ],
+    "foundedYear": 2007,
+    "teamSize": null,
+    "serviceArea": "West Palm Beach and South Florida (up to Port St. Lucie to Coral Gables), with remote clients nationally and internationally",
+    "pricing": null,
+    "website": "https://floridaitpros.com/",
+    "phone": "(561) 206-2478",
+    "addresses": [
+      "2475 Mercer Ave, Suite 107, West Palm Beach, FL 33401"
+    ],
+    "town": "West Palm Beach",
+    "linkedin": "http://www.linkedin.com/company/florida-it-pros",
+    "writeup": {
+      "what_they_do": "Florida IT Pros provides managed IT services and network solutions for small and medium-sized businesses, covering help desk support, consulting, IT assessments, network security, email and collaboration, disaster recovery, data recovery, and cloud services. The company also offers computer repair and cloud-based offerings such as cloud backup, cloud desktop, cloud hosting, and hosted VoIP. Its services are built on vendor products from companies including Cisco, HP, Dell, McAfee, Citrix, and Symantec.",
+      "who_they_serve": "The company states it supports businesses of any type, with clients ranging from dentists to large financial institutions. Its typical client is a business of two to fifty employees without a full-time on-site IT employee, and its larger clients have up to 1,800 employees. Clients are located mainly in South Florida, from Port St. Lucie to Coral Gables, and also in other locations around the globe.",
+      "how_they_work": "Clients in South Florida receive on-site service, with travel up to 1.5 hours for clients with additional offices, while clients elsewhere are managed remotely with local vendors used for hands-on tasks. Remote clients can have the company travel to their location once a year if needed. Services can range from full outsourced IT teams to support for an existing on-site IT team or single projects such as implementation and training.",
+      "what_stands_out": "The company says it was founded in 2007 and that its network solutions work draws on more than 20 years of experience, with staff who previously worked at Fortune 500 companies. It also offers 24/7 network security monitoring and states it holds industry certifications and vendor authorizations."
+    },
+    "city": "west-palm-beach",
+    "state": "florida"
+  },
+  {
+    "slug": "integrated-technology-corporate-solutions",
+    "placeId": "ChIJ7TKj7OHh2IgRilc36HdtthA",
+    "name": "Integrated Technology Corporate Solutions",
+    "summary": "South Florida managed IT and cybersecurity provider serving companies with 10 or more employees across Broward and Palm Beach counties. Offers 24/7 network monitoring, managed security, incident response, Microsoft 365 Copilot and AI readiness services, cloud and co-managed IT, and a nonprofit program with flat-rate pricing.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "government",
+      "nonprofit",
+      "manufacturing",
+      "automotive",
+      "logistics"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "SOC 2",
+      "PCI DSS"
+    ],
+    "partners": [
+      "Microsoft Gold Partner"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Broward and Palm Beach Counties, South Florida",
+    "pricing": null,
+    "website": "https://itcscorporate.com/",
+    "phone": "(866) 580-4826",
+    "addresses": [
+      "1690 S. Congress Ave. Suite 150, Delray Beach, FL 33496",
+      "401 East Las Olas Blvd. Suite 130-723, Fort Lauderdale, FL 33301"
+    ],
+    "town": "Delray Beach",
+    "linkedin": "https://www.linkedin.com/company/integrated-technology-corporate-solutions-inc-/",
+    "writeup": {
+      "what_they_do": "Integrated Technology Corporate Solutions (ITCS) offers managed IT services, including 24/7 network management and monitoring, managed cybersecurity, cloud services such as migration, hybrid solutions and Microsoft Azure or AWS, and co-managed IT. The company also lists AI consulting and managed AI services, along with VoIP, virtual desktop, datacenter hosting and CIO/CTO services.",
+      "who_they_serve": "The company says it serves businesses with 10 or more employees across South Florida, from startups to established enterprises, and lists 11 service-area cities across Broward and Palm Beach counties. Its industries page covers a broad range of sectors, including finance, healthcare, law, industrial, and public service, and it also supports non-profit organizations.",
+      "how_they_work": "The company states its pricing is flat and straightforward with customized rather than templated services, and that support is available weekdays, weekends and holidays. Its AI services are described as available separately from managed IT, with a free AI Readiness Assessment offered as a starting point.",
+      "what_stands_out": "The cybersecurity page cites over 18 years serving Broward and Palm Beach counties, a Microsoft Gold Partner designation, and a 1-hour emergency response SLA. It also mentions HIPAA, PCI-DSS, SOC 2 and CMMC compliance support."
+    },
+    "city": "west-palm-beach",
+    "state": "florida"
+  },
+  {
+    "slug": "nettronix-technology-solutions",
+    "placeId": "ChIJH97p-R_W2IgRL_gUVMpFDH0",
+    "name": "NeTTronix Technology Solutions",
+    "summary": "NeTTronix Technology Solutions is a West Palm Beach, Florida firm offering managed IT, helpdesk, cybersecurity, IT compliance, cloud, network management, and VoIP services. It also handles surveillance, access control, and audio-visual installations, and it lists healthcare among the sectors it works with. Founded in 2011 by its president Lincoln Lewis.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services",
+      "backup_disaster_recovery"
+    ],
+    "industries": [
+      "healthcare"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [],
+    "foundedYear": 2011,
+    "teamSize": null,
+    "serviceArea": "West Palm Beach, Florida",
+    "pricing": "Predictable billing with a 1 month free trial offered for managed IT services",
+    "website": "https://1800nt.com/",
+    "phone": "(561) 404-8880",
+    "addresses": [
+      "2300 Palm Beach Lakes Blvd, Ste 221, West Palm Beach, FL 33409"
+    ],
+    "town": "West Palm Beach",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "NeTTronix Technology Solutions offers managed IT services, including core IT management, cybersecurity, backup and disaster recovery, helpdesk support, identity and access management, compliance and reporting, and strategic IT planning. The company also provides IT compliance services, network management, cloud services, Wi-Fi management, telephone and VoIP systems, and surveillance, access control, and audio-visual installations.",
+      "who_they_serve": "The company is based in West Palm Beach, Florida, and its website describes work with businesses there. The site cites a medical practice with multiple locations as a client example, and lists restaurants, clubs, and estates among surveillance and audio-visual project types.",
+      "how_they_work": "The managed IT services page lists a one-month free trial, 24/7 monitoring, and predictable billing, and the About page mentions a 30-day trial. The site also references helpdesk support, service level agreements and governance, and on-site and remote installation, maintenance, and monitoring for physical systems.",
+      "what_stands_out": "The company was founded in 2011, and its founder has over two decades of IT experience. The site references HIPAA compliance work and offers a free IT risk assessment."
+    },
+    "city": "west-palm-beach",
+    "state": "florida"
+  },
+  {
+    "slug": "technoliving-it",
+    "placeId": "ChIJn2fNg0cp2YgRvJQk9EJxtwA",
+    "name": "TechnoLiving IT",
+    "summary": "West Palm Beach IT firm in business since 2002 offering managed IT support, monitoring, cybersecurity, backup and business networking to small and mid-sized offices across Palm Beach County. Also provides cabling, business VoIP, CCTV and on-site support, with particular focus on medical, dental and law practices.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "structured_cabling",
+      "cloud_microsoft_365",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "dental",
+      "legal",
+      "accounting_finance",
+      "insurance",
+      "manufacturing",
+      "real_estate"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [],
+    "foundedYear": 2002,
+    "teamSize": null,
+    "serviceArea": "West Palm Beach and Palm Beach County, South Florida",
+    "pricing": null,
+    "website": "https://technolivingit.com/",
+    "phone": "(561) 421-5757",
+    "addresses": [
+      "999 Stinson Way, Suite #306, West Palm Beach, FL 33411"
+    ],
+    "town": "West Palm Beach",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "TechnoLiving IT is a managed IT services provider offering proactive monitoring, maintenance and responsive IT support. Its listed services also include cybersecurity, data backup and recovery, email encryption and spam protection, business WiFi and networks, network cabling, business VoIP, security cameras and CCTV, Sonos for business, and on-site IT support.",
+      "who_they_serve": "The company serves businesses in West Palm Beach and throughout Palm Beach County in South Florida. Industries it names include medical and dental offices, law firms, manufacturing and distribution, accounting and financial firms, insurance agencies, small businesses, and real estate and title companies.",
+      "how_they_work": "The site describes a customized approach in which services are designed around each client's users, locations, security requirements and budget. Clients get access to a customer ticketing portal for status and service updates, and the company offers remote troubleshooting along with on-site assistance when needed. The site also mentions a free consultation and a transparent invoice process, but it does not state specific pricing, contract terms or support hours beyond the listed business hours of Monday to Friday, 9:00am to 5:00pm.",
+      "what_stands_out": "The company states it has been in business since 2002. The site says it does not provide legal advice, HIPAA certification, formal compliance audits or independent HIPAA risk assessments, and that its healthcare services can only support a practice's HIPAA security efforts."
+    },
+    "city": "west-palm-beach",
+    "state": "florida"
+  },
+  {
+    "slug": "vxit",
+    "placeId": "ChIJF3d6cJ8q34gRUpiGvy_6IzI",
+    "name": "VXIT",
+    "summary": "VXIT is a South Florida IT firm based in West Palm Beach that provides IT strategy, security and ongoing support for businesses with roughly 25 to 250 employees. The company lists clients across legal, healthcare, financial services, manufacturing, construction and professional services.",
+    "services": [
+      "managed_it",
+      "cybersecurity",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "legal",
+      "healthcare",
+      "manufacturing",
+      "construction",
+      "professional_services",
+      "accounting_finance"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "South Florida",
+    "pricing": null,
+    "website": "https://www.vxit.com/",
+    "phone": "(561) 623-8642",
+    "addresses": [
+      "2000 Palm Beach Lakes Blvd, Suite 1000, West Palm Beach, FL 33409"
+    ],
+    "town": "West Palm Beach",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "VXIT provides IT strategy, security, and support services for businesses. The site presents these three areas as its core offering, along with a framework it calls the Vang\u00e4rd Framework.",
+      "who_they_serve": "The company serves businesses with 25 to 250 employees. The site lists clients in legal, healthcare, financial services, manufacturing, construction, and professional services, and the company is headquartered in West Palm Beach, Florida, with a South Florida focus.",
+      "how_they_work": "The site offers a client portal, a booking option for a call, and a Get Started path for new clients. It does not state its pricing model, support hours, or contract terms.",
+      "what_stands_out": "The site describes a proprietary framework called the Vang\u00e4rd Framework and publishes resources on measuring IT success and the role of AI in business. It does not list certifications or years in operation."
+    },
+    "city": "west-palm-beach",
+    "state": "florida"
+  },
+  {
+    "slug": "dedicated-it",
+    "placeId": "ChIJn1v5bqMq2YgRe6h64ykAf-k",
+    "name": "Dedicated IT",
+    "summary": "Dedicated IT is a privately owned managed IT provider with offices in Florida, Georgia and Texas, focused on healthcare practices. Services include a service desk, co-managed IT, cybersecurity, HIPAA compliance support, hosted desktops and infrastructure hosting from its own data centers, and vCIO-style strategy work. The firm also serves some non-healthcare clients such as hospitality.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "hospitality"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [
+      "NextGen",
+      "Nextech",
+      "ModMed",
+      "Athena",
+      "Veeam",
+      "AWS",
+      "Azure",
+      "Cisco"
+    ],
+    "foundedYear": 2002,
+    "teamSize": null,
+    "serviceArea": "National, with offices in Florida, Georgia and Texas; hosting facilities in Miami, Atlanta and Denver",
+    "pricing": null,
+    "website": "https://dedicatedit.com/",
+    "phone": "(561) 491-5750",
+    "addresses": [
+      "3970 RCA Blvd, Suite 7003, Palm Beach Gardens, FL 33410"
+    ],
+    "town": "Palm Beach Gardens",
+    "linkedin": "https://www.linkedin.com/company/dedicated-it/",
+    "writeup": {
+      "what_they_do": "Dedicated IT is a managed IT services provider that focuses on IT support and technology solutions for healthcare organizations, offering a service desk, co-managed IT, data protection, cloud and hosting, cybersecurity, Microsoft 365, voice and collaboration, and HIPAA compliance services. Its hosting offering includes hosted desktops and infrastructure hosting (IaaS) in its own data centers. The company also provides a strategic technology roadmap and a self-service portal for tracking key metrics.",
+      "who_they_serve": "The company serves healthcare providers, including practices of all sizes and specialties, both privately held and management-owned, and also lists senior living and hospitality among its markets. Its website names EMR systems and specialties such as orthopedics, ophthalmology, and urgent care that it supports, and it describes national reach with offices in Florida, Georgia, and Texas.",
+      "how_they_work": "The company offers turn-key and co-managed service models and a Service Desk that the website describes as providing around-the-clock healthcare-trained support. Hosted services can run from its own data centers in Miami, Atlanta, and Denver, and it states it works with platforms such as AWS, Azure, Cisco, and Veeam. Its headquarters is in Palm Beach Gardens, Florida.",
+      "what_stands_out": "The company was founded in 2002 and shifted to specialize in healthcare IT in 2016, and it states it is privately owned. It lists HIPAA compliance services such as security risk assessments, a 24/7/365 NOC and SIEM, and partnerships with EMR vendors including NextGen, Nextech, ModMed, and Athenahealth."
+    },
+    "city": "west-palm-beach",
+    "state": "florida"
+  },
+  {
+    "slug": "level5-management",
+    "placeId": "ChIJTdh6AMDh2IgRtFAJgIB9ygk",
+    "name": "Level5 Management",
+    "summary": "Level5 Management is a Boca Raton, Florida technology services company founded in 2008 that provides managed IT, cybersecurity, cloud and compliance-focused support to small and mid-sized organizations, mainly in regulated or security-sensitive sectors. It also offers vCISO services, backup and disaster recovery, VoIP phones and hardware as a service, and says it serves clients across 21 states with offices in Florida, Colorado and Arizona.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement"
+    ],
+    "industries": [
+      "accounting_finance",
+      "legal",
+      "manufacturing",
+      "engineering_architecture",
+      "nonprofit",
+      "construction",
+      "professional_services",
+      "real_estate"
+    ],
+    "compliance": [
+      "HIPAA",
+      "SOC 2",
+      "FINRA/SEC"
+    ],
+    "partners": [],
+    "foundedYear": 2008,
+    "teamSize": null,
+    "serviceArea": "Headquartered in Boca Raton, FL with clients across 21 states; regional offices in Florida, Colorado and Arizona",
+    "pricing": null,
+    "website": "https://www.level5mgmt.com/",
+    "phone": "(561) 509-2077",
+    "addresses": [
+      "2255 Glades Road #324A, Boca Raton, FL 33431"
+    ],
+    "town": "Boca Raton",
+    "linkedin": "https://www.linkedin.com/company/level5mgmt",
+    "writeup": {
+      "what_they_do": "Level5 Management is a managed IT service provider offering managed IT services, cybersecurity, compliance and IT governance, vCISO services, cloud services, backup and disaster recovery, VoIP business phone systems, and Hardware as a Service. Services can be bought as complete managed IT packages or individually, a la carte.",
+      "who_they_serve": "The company says it serves small and mid-sized organizations, especially those in regulated or security-sensitive industries, including accounting and financial services, private wealth and financial advisory firms, property management companies, professional services firms, and nonprofits. It is headquartered in Boca Raton, Florida, with regional offices in Florida, Colorado, and Arizona, and reports clients in 21 states.",
+      "how_they_work": "The site describes proactive monitoring, remote support designed to limit visits to client offices, regular reporting, and clear pricing. It offers free discovery calls and a free security risk assessment, and publishes a master services agreement, service attachments, and service level objectives.",
+      "what_stands_out": "The company states it was founded in 2008 and has over 17 years of experience, and it lists an automated IT monitoring platform and a Chief Information Security Officer among its leadership. It also offers a cybersecurity risk assessment program for non-profits and lists HIPAA, SOC 2, and FINRA among the compliance frameworks it helps clients navigate."
+    },
+    "city": "west-palm-beach",
+    "state": "florida"
+  },
+  {
+    "slug": "mhd",
+    "placeId": "ChIJhX1N2qzX2IgRfU9glAvrbL8",
+    "name": "MHD",
+    "summary": "MHD is an IT and security firm with offices in Tampa and West Palm Beach, Florida. It offers managed IT and managed security alongside network cabling, audio/visual, access control, surveillance, phone systems, nurse call, and office relocation work. It serves clients across healthcare, education, hospitality, professional services, retail, and religious institutions.",
+    "services": [
+      "managed_it",
+      "cybersecurity",
+      "network_infrastructure",
+      "voip_phones",
+      "structured_cabling"
+    ],
+    "industries": [
+      "healthcare",
+      "education",
+      "hospitality",
+      "retail",
+      "professional_services"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Tampa and West Palm Beach, Florida, and Central and South Florida",
+    "pricing": null,
+    "website": "https://mhdit.com/",
+    "phone": "(833) 643-4636",
+    "addresses": [
+      "1750 N. Florida Mango Road, Suite 413, West Palm Beach, FL 33409",
+      "5808 Breckenridge Pkwy, Suite G, Tampa, FL 33610"
+    ],
+    "town": "West Palm Beach",
+    "linkedin": "https://www.linkedin.com/company/mhd-communications/",
+    "writeup": {
+      "what_they_do": "MHD is an IT company serving Florida that offers managed IT services and managed IT security, alongside network cabling, audio/visual systems, access control, surveillance, security systems, VoIP phone systems, nurse call systems, sound masking, office moving and relocation, and wireless site surveys. The company describes its managed IT services as a way for clients to avoid the stress and expense of in-house IT.",
+      "who_they_serve": "The company serves businesses from small single-office operations to large multi-facility organizations, with stated focus on healthcare, education, hospitality, retail, professional services, and religious institutions. Its listed locations are Tampa and West Palm Beach, Florida, and it describes serving Central and South Florida.",
+      "how_they_work": "The site describes design, installation, integration, and ongoing management support, with a 24/7 support figure listed and a remote support option. It does not state its pricing model, contract terms, or onboarding process.",
+      "what_stands_out": "The company states it has more than 20 years of IT solutions experience and lists offices in Tampa and West Palm Beach. Its site references a team of management, engineers, and technicians and notes that it builds its website following WCAG accessibility guidelines."
+    },
+    "city": "west-palm-beach",
+    "state": "florida"
+  },
+  {
+    "slug": "blue-light-it-west-palm-beach",
+    "placeId": "ChIJLf0vm6Ye2YgR_0R3WoyrTuw",
+    "name": "Blue Light IT",
+    "summary": "Blue Light IT is a Boca Raton, Florida provider offering flat-fee, all-inclusive managed IT and cybersecurity for small and mid-sized businesses. Services include 24/7 security monitoring, remote help desk support, backup and recovery, ransomware remediation and risk assessments. The firm serves clients in healthcare, financial, legal and manufacturing sectors and emphasizes long-term client relationships.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "co_managed_it",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "accounting_finance",
+      "legal",
+      "manufacturing"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Boca Raton, Coral Springs, Pompano Beach, Delray Beach and South Florida",
+    "pricing": "Flat-fee, all-inclusive monthly billing with one invoice for all services",
+    "website": "https://www.bluelightit.com/",
+    "phone": "(561) 282-2225",
+    "addresses": [
+      "1825 NW Corporate BLVD Suite 110, Boca Raton, FL 33431"
+    ],
+    "town": "Boca Raton",
+    "linkedin": "https://www.linkedin.com/company/bluelight-it/",
+    "writeup": {
+      "what_they_do": "Blue Light IT is a Boca Raton, Florida managed IT and cybersecurity provider offering co-managed cybersecurity, managed IT services, remote IT support, data backup and recovery, cloud computing, ransomware remediation, risk assessment and IT consulting. The company describes its services as all-inclusive, flat-fee IT packages.",
+      "who_they_serve": "The company says it works with small to medium-size businesses and organizations in healthcare, legal, financial and manufacturing industries, including businesses that have experienced a cyber attack or need to meet strict regulations such as HIPAA. Its testimonials cite clients in agriculture, real estate and accounting. Service areas listed include Boca Raton, Coral Springs, Pompano Beach and Delray Beach.",
+      "how_they_work": "The company states that it charges one flat fee with one invoice and no extra fees or surprise billings. It offers remote support to access networks and devices to fix issues, and says it does not need to travel to client locations. Prospective clients can book a meeting or a cybersecurity risk assessment through the website.",
+      "what_stands_out": "The company reports an average client retention of more than 10 years and says its founder, Amir Sachs, has authored two cybersecurity books. It also states it was named to CRN's Security 100 list and CRN's Top lists for 2025 and 2026, and that it offers a guaranteed recovery from cyber attacks."
+    },
+    "city": "west-palm-beach",
+    "state": "florida"
+  },
+  {
+    "slug": "downtown-computer-services-west-palm-beach",
+    "placeId": "ChIJ9crIFdzh2IgRypVvFHMwhlc",
+    "name": "Downtown Computer Services",
+    "summary": "Downtown Computer Services is a South Florida managed IT provider serving small and mid-sized businesses, with a Boca Raton office at NW Boca Raton Blvd. Its services span monitoring and patching, help desk, Microsoft 365, backup and disaster recovery, cybersecurity, structured cabling and VoIP phone systems, billed as a fixed monthly fee. The company says it has been operating since 1995 and also works with nonprofits and schools.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement",
+      "structured_cabling",
+      "computer_repair"
+    ],
+    "industries": [
+      "healthcare",
+      "dental",
+      "legal",
+      "accounting_finance",
+      "engineering_architecture",
+      "nonprofit",
+      "education"
+    ],
+    "compliance": [],
+    "partners": [
+      "Microsoft Platform Partner (2015)",
+      "Microsoft SMB Partner award (2019)"
+    ],
+    "foundedYear": 1995,
+    "teamSize": "Nine technical staff; more than 100 managed clients",
+    "serviceArea": "South Florida, including Boca Raton, Fort Lauderdale and Palm Beach County",
+    "pricing": "Fixed monthly fee for managed plans; no long-term contracts",
+    "website": "https://www.downtowncomputers.com/our-locations/it-services-in-boca-raton/",
+    "phone": "(561) 560-2600",
+    "addresses": [
+      "3835 NW Boca Raton Blvd., Suite 200, Boca Raton, FL 33431",
+      "800 W. Cypress Creek Road, Suite 110, Fort Lauderdale, FL 33309"
+    ],
+    "town": "Boca Raton",
+    "linkedin": "https://www.linkedin.com/company/downtown-computer-services/",
+    "writeup": {
+      "what_they_do": "Downtown Computer Services is a managed IT services provider offering monitoring and patching, help desk and end-user support, network setup and maintenance, cabling, cloud and Microsoft 365 services, data backup and recovery, cybersecurity, and VoIP phone systems. Its monthly model covers servers, workstations, network hardware, user accounts, licenses, and vendor coordination, with a co-managed option where client staff keep applications and users.",
+      "who_they_serve": "The company serves small and medium businesses, nonprofits, and educational institutions across South Florida, with offices in Fort Lauderdale and Boca Raton. The site lists specialized services for accounting, dental, engineering, financial, law, and medical offices.",
+      "how_they_work": "Services are delivered for a fixed monthly fee with remote sessions through ScreenConnect and on-site field engineers dispatched from the Boca Raton office, and requests can come by phone, email, ticket portal, or chat. The company states it has no long-term contracts and that service can stop at any point.",
+      "what_stands_out": "The company says it has served South Florida businesses since 1995 and holds Microsoft Platform Partner certification (2015) and the Microsoft SMB Partner award (2019). The Boca Raton office reports a 5.0 rating across 30 Google reviews, and the site states it has nine technical staff and more than 100 managed clients."
+    },
+    "city": "west-palm-beach",
+    "state": "florida"
+  },
+  {
+    "slug": "your-computer-guy",
+    "placeId": "ChIJk7R83oYv2YgR-bVgX7Daak0",
+    "name": "Your Computer Guy",
+    "summary": "Palm Beach County IT firm founded in 2004 that acts as an outsourced IT department for small businesses. Offers a monthly managed network service alongside on-demand hourly support, consulting, Microsoft 365, backup and disaster recovery, and VoIP. Based in West Palm Beach and serves the Western Communities and wider Palm Beach County.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "it_strategy_vcio",
+      "voip_phones",
+      "cybersecurity"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [
+      "Microsoft Small Business Specialist"
+    ],
+    "foundedYear": 2004,
+    "teamSize": null,
+    "serviceArea": "Wellington, Royal Palm Beach, Western Communities and Palm Beach County, FL",
+    "pricing": "Flat monthly fee for Network Management; on-demand hourly rates ($180/hr onsite, $45 per 15 mins remote)",
+    "website": "https://www.yourcomputerguy.com/",
+    "phone": "(561) 337-6972",
+    "addresses": [
+      "2711 Vista Pkwy, Suite B13, West Palm Beach, FL 33411"
+    ],
+    "town": "West Palm Beach",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "Your Computer Guy, Inc. is a managed IT provider offering its YCG Network Management Service, IT consulting and implementation, business continuity and disaster recovery, Microsoft Office 365 services, employee security training, email protection, on-demand IT services, VoIP solutions, cloud services, and all-in-one websites. The company describes its managed services as 24/7 support with a predictable monthly payment.",
+      "who_they_serve": "The company provides outsourced IT department services for small businesses across a range of industries in the Western Communities and throughout Palm Beach County, Florida. Its office is in West Palm Beach. One client testimonial comes from a medical research center.",
+      "how_they_work": "Managed services are billed as a flat monthly fee, while on-demand work is pay-as-you-go. The contact page lists onsite rates of $180 per hour during weekday business hours, remote support at $45 per 15 minutes, after-hours and Saturday rates, and an emergency service rate of $275 per hour. The company offers both onsite and remote support and provides a remote support download.",
+      "what_stands_out": "The company states it has been in business since 2004 and is a Microsoft Small Business Specialist. The site lists 24/7 help and support for its management plans."
+    },
+    "city": "west-palm-beach",
+    "state": "florida"
+  },
+  {
+    "slug": "it-of-united-states-west-palm-beach",
+    "placeId": "ChIJSShcVjjh2IgRiEgZ0sJHDI8",
+    "name": "IT of United States",
+    "summary": "IT of US is an IT support provider with offices in South Florida (Miami, Coral Gables, Boca Raton and Palm Beach). It offers managed service plans with 24/7 coverage, hourly support, ticket-based support requests and remote assistance, with on-site visits available same-day locally and next-day nationwide.",
+    "services": [
+      "managed_it",
+      "help_desk"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Offices in Miami, Coral Gables, Boca Raton and Palm Beach, FL; on-site next-day nationwide, remote 24/7",
+    "pricing": "Hourly support rates starting at $119/hr; MSP plan pricing not stated",
+    "website": "https://itofus.com/",
+    "phone": "(855) 554-8872",
+    "addresses": [],
+    "town": null,
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "The company offers IT support services, including hourly support pricing, managed services plans for 24/7 coverage, a support ticketing system, and remote screen-sharing assistance. Its website links to MSP Plans and support request pages.",
+      "who_they_serve": "The website does not state the size or industries of the businesses the company serves. It lists offices in Miami, Coral Gables, Boca Raton, and Palm Beach, Florida.",
+      "how_they_work": "The company lists support pricing starting at $119 per hour and offers 24/7 remote support. On-site service is listed as same-day available in certain areas or next-day nationwide.",
+      "what_stands_out": "The company states that its support team is available 24/7 and that its services remain operational while its main website is being upgraded."
+    },
+    "city": "west-palm-beach",
+    "state": "florida"
+  },
+  {
+    "slug": "nexus-tech",
+    "placeId": "ChIJsxxtbtQp34gRs6arIF9dP5o",
+    "name": "Nexus Tech",
+    "summary": "Nexus Tech is a South Florida-based IT firm offering ongoing managed IT with system monitoring, preventive maintenance, help desk support and backup, plus cybersecurity, vCIO strategic planning and IT advisory. It focuses on optometry, dental, chiropractic and legal practices and says it also serves clients elsewhere in the US. Its listed offices are in Jupiter, Florida and Greenville, South Carolina.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "it_strategy_vcio",
+      "compliance_services",
+      "network_infrastructure"
+    ],
+    "industries": [
+      "healthcare",
+      "dental",
+      "legal",
+      "accounting_finance",
+      "construction"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [
+      "Microsoft",
+      "Cisco",
+      "Dell"
+    ],
+    "foundedYear": 2009,
+    "teamSize": null,
+    "serviceArea": "South Florida; also serves clients across the United States",
+    "pricing": null,
+    "website": "https://gonexustech.com/",
+    "phone": "(844) 644-6839",
+    "addresses": [
+      "140 Intracoastal Pointe Drive, Suite 403, Jupiter, FL 33477"
+    ],
+    "town": "Jupiter",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "Nexus Tech provides fully managed IT services, cybersecurity protection, and vCIO strategic consulting. Its managed services cover monitoring and maintenance of servers, workstations and network devices, help desk support, patching, and data backup and disaster recovery.",
+      "who_they_serve": "The company serves small and medium-sized businesses in South Florida and, according to its site, clients across the United States. It lists specific industries including optometry, dental, chiropractic, legal, accounting and construction practices.",
+      "how_they_work": "The site says the company monitors systems around the clock and schedules maintenance during off hours. Prospects start by filling out a form or calling for a 15-minute introductory call, and the company lists offices in Jupiter, FL and Greenville, SC.",
+      "what_stands_out": "The company states it has been in business since 2009 and is a member of the North Palm Beach County Chamber of Commerce. It also states it is a partner with Microsoft, Cisco, and Dell, and that it supports HIPAA, PCI-DSS and related compliance requirements."
+    },
+    "city": "west-palm-beach",
+    "state": "florida"
+  },
+  {
+    "slug": "on-call-tek-services",
+    "placeId": "ChIJJc1SFe8p2YgRkc_h8mdA3ek",
+    "name": "On-Call Tek Services",
+    "summary": "South Florida IT company based in West Palm Beach offering managed IT, computer repair, networking, cloud VoIP phones, access control, audio visual and security camera work. Its managed services cover network monitoring, security patching, backup and remote support for residential and commercial clients. The site says it has served the area since 1985 and lists Microsoft, Intel, Acer and Lenovo partnerships and A+ certification.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "hardware_procurement",
+      "computer_repair"
+    ],
+    "industries": [
+      "government",
+      "education"
+    ],
+    "compliance": [],
+    "partners": [
+      "A+ certified",
+      "Microsoft partner",
+      "Intel partner",
+      "Acer partner",
+      "Lenovo partner"
+    ],
+    "foundedYear": 1985,
+    "teamSize": null,
+    "serviceArea": "South Florida",
+    "pricing": null,
+    "website": "https://oncalltekservices.com/",
+    "phone": "(561) 471-1111",
+    "addresses": [
+      "2215 North Military Trail, Ste B1, West Palm Beach, FL 33409"
+    ],
+    "town": "West Palm Beach",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "On-Call Tek Services is a South Florida provider offering managed IT services alongside computer repair, computer sales and rentals, networking, VoIP phone systems, access control, audio visual, security systems and home automation. Its managed IT offering includes network monitoring and infrastructure management, cloud and network migration, network security, data backup services, anti-virus, security patch application and lifecycle management.",
+      "who_they_serve": "The company states it serves residential and commercial clients in South Florida. Its website names business, government and education clients for audiovisual work and small businesses for computer repair.",
+      "how_they_work": "The company says it comes to the client's location and offers 24/7 remote support and monitoring as part of its networking services. The site does not describe pricing models, contract terms or onboarding steps.",
+      "what_stands_out": "The company states it has been in business since 1985 and holds A+ certification and partner status with Microsoft, Intel, Acer and Lenovo. Testimonials on the site describe relationships of 7 to 20 years with clients."
+    },
+    "city": "west-palm-beach",
+    "state": "florida"
+  },
+  {
+    "slug": "tmd-technology-services-inc",
+    "placeId": "ChIJy-5ZM2og2YgRXAtNmZ5AsGM",
+    "name": "TMD Technology Services, Inc.",
+    "summary": "TMD Technology Services is an IT firm in Delray Beach, Florida, offering managed IT plans, helpdesk, cybersecurity with 24/7 SOC-backed monitoring, backup and disaster recovery, Microsoft 365 administration, and web design with hosting. It serves small and midsize businesses in Palm Beach, Broward and Martin counties, with onsite support locally and remote support nationwide, and lists several industries it works with including dental, legal, healthcare-adjacent, financial services and construction.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "it_strategy_vcio",
+      "compliance_services",
+      "computer_repair"
+    ],
+    "industries": [
+      "healthcare",
+      "dental",
+      "legal",
+      "accounting_finance",
+      "construction",
+      "manufacturing",
+      "education",
+      "real_estate",
+      "hospitality",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [
+      "SentinelOne",
+      "Proofpoint",
+      "Microsoft 365"
+    ],
+    "foundedYear": 2014,
+    "teamSize": null,
+    "serviceArea": "Palm Beach, Broward and Martin counties, Florida, with remote support nationwide",
+    "pricing": "Monthly managed IT plans with predictable monthly pricing and month-to-month agreements",
+    "website": "https://tmdtechnology.com/",
+    "phone": "(561) 404-9251",
+    "addresses": [
+      "1543 Fenton Drive, Delray Beach, FL 33445"
+    ],
+    "town": "Delray Beach",
+    "linkedin": "https://www.linkedin.com/company/tmdtechnologyservices/",
+    "writeup": {
+      "what_they_do": "TMD Technology Services, Inc. is a managed service provider offering managed IT services, helpdesk and computer support, cybersecurity (including EDR/MDR, DNS filtering and email protection), cloud and Microsoft 365 management, data backup and disaster recovery, network and WiFi management, and WordPress web design and hosting. The company describes its managed plans as including proactive monitoring, patching and helpdesk support.",
+      "who_they_serve": "The company says it serves small and midsize businesses in Palm Beach, Broward, and Martin counties in South Florida, with remote support offered nationwide. Industries it lists include dental offices, doctors' offices, law firms, financial services, real estate and property management, construction, manufacturing, education, hospitality and home health care.",
+      "how_they_work": "The company offers monthly managed IT plans and states it has no long-term contracts, with month-to-month service agreements. Support is delivered onsite in South Florida and remotely elsewhere, and new clients start with a free consultation after calling or submitting a contact form.",
+      "what_stands_out": "The company states it was founded in 2014 and has over 25 years of experience, and it cites SentinelOne, Proofpoint and 24/7 SOC-backed monitoring as security tools it uses. It also lists membership in the Greater Delray Beach Chamber of Commerce and the BBB, and offers a free network assessment."
+    },
+    "city": "west-palm-beach",
+    "state": "florida"
+  },
+  {
+    "slug": "ny-fl-nerds",
+    "placeId": "ChIJpS-XdcPX2IgRKveinG5pEik",
+    "name": "NY/FL Nerds",
+    "summary": "NY/FL Nerds is an IT services firm with offices in New York and Florida, offering on-site and remote computer support, managed IT and security monitoring, network installs, cabling, and business phone service. It describes support available around the clock and serves businesses and some residential clients across the New York metro area and Southeast Florida.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "network_infrastructure",
+      "voip_phones",
+      "structured_cabling",
+      "computer_repair",
+      "backup_disaster_recovery"
+    ],
+    "industries": [],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS"
+    ],
+    "partners": [
+      "Microsoft Certified Systems Engineer",
+      "CCIE",
+      "CCNA",
+      "CISSP",
+      "A+"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "New York, Long Island, Westchester, New Jersey, Connecticut, and Southeast Florida (Port St. Lucie, Fort Pierce, Vero Beach, Stuart, West Palm Beach)",
+    "pricing": "No trip charge stated; no pricing model specified",
+    "website": "https://nyflnerds.com/florida-nerds/",
+    "phone": "(833) 469-6373",
+    "addresses": [
+      "1645 Palm Beach Lakes Blvd, Suite 1200, West Palm Beach, FL 33401",
+      "1860 SW Fountainview Blvd, Suite 100, Port St. Lucie, FL 34986",
+      "300 SE 2nd Street, Suite 600, Ft. Lauderdale, FL 33304",
+      "111 8th Avenue, 12th Floor, New York, NY 10013"
+    ],
+    "town": "West Palm Beach",
+    "linkedin": "https://www.linkedin.com/company/new-york-nerds",
+    "writeup": {
+      "what_they_do": "NY/FL Nerds is a managed IT and computer support provider operating under the New York Nerds and Florida Nerds brands. Its services include managed IT services, on-site and remote computer support, network installation and security, cloud hosting, business phone service, structured cabling, and forensic investigations.",
+      "who_they_serve": "The company says it serves business and residential clients in New York City, Long Island, Westchester, New Jersey, Connecticut, and Florida, with Florida service focused on the Treasure Coast and West Palm Beach area. It names clients including 800 Flowers, Zagat, Brooks Brothers, and the United States Department of Homeland Security.",
+      "how_they_work": "The company offers remote or on-site support, states there is no trip charge, and advertises 24/7/365 availability with same-day service in parts of Florida. Its Florida offices are by appointment only, and it provides a free consultation or site survey to prospective clients.",
+      "what_stands_out": "The company states it has served New York clients for over 25 years and that all its New York Nerds hold at least one industry certification. The Florida team reports certifications including Microsoft Certified Systems Engineer, A+, CCIE, CCNA, and CISSP, and the company says it is a managed security service provider."
+    },
+    "city": "west-palm-beach",
+    "state": "florida"
+  },
+  {
+    "slug": "node0-i-t-professionals",
+    "placeId": "ChIJfaC-VPYu2YgR1-LsxiOBIQ8",
+    "name": "Node0 I.T. Professionals",
+    "summary": "Node0 IT Professionals is a Wellington, Florida firm offering fully managed IT and cybersecurity for businesses, with compliance consulting, infrastructure work, penetration testing and incident response. It also runs a computer repair center serving individuals and businesses, and it highlights a military and first responder discount.",
+    "services": [
+      "managed_it",
+      "cybersecurity",
+      "network_infrastructure",
+      "compliance_services",
+      "computer_repair",
+      "backup_disaster_recovery"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": null,
+    "pricing": null,
+    "website": "https://node0it.com/",
+    "phone": "(561) 508-6763",
+    "addresses": [
+      "12765 W Forest Hill Blvd, Suite 1310, Wellington, FL 33414"
+    ],
+    "town": "Wellington",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "Node0 I.T. Professionals offers managed IT and cybersecurity services, including managed cybersecurity, compliance services, infrastructure services, incident response, penetration testing, and computer repair. Its computer repair offering covers hardware repair, software troubleshooting, malware protection, data backup and recovery, OS installation and upgrades, and network analysis. Compliance services include IT compliance audits, gap analysis, risk assessments, and ongoing compliance testing.",
+      "who_they_serve": "The company states it serves growing and large organizations, as well as individuals and businesses needing computer repair, and one client review mentions work for a government employer. The site references an Areas Served page but the location details it covers are not stated in the scraped text beyond a Wellington, Florida address.",
+      "how_they_work": "The company offers a free consultation and provides a repair center as well as on-site service for computers. The site mentions honest, transparent pricing and timely communication during repair, and it notes a military and first responder discount in a client review.",
+      "what_stands_out": "The site states the team has decades of experience in managed services and that its services are recommended by businesses and government agencies nationwide. The company also lists 19 Google reviews averaging 5.0."
+    },
+    "city": "west-palm-beach",
+    "state": "florida"
+  },
+  {
+    "slug": "palm-bc-tech-inc",
+    "placeId": "ChIJa0yosX7X2IgRle-U6ovfgjs",
+    "name": "Palm BC Tech Inc",
+    "summary": "Palm BC Tech is a Florida IT services company offering managed IT support, helpdesk, cybersecurity, Microsoft 365 administration, network management and backup for small and mid-sized businesses. It also provides residential IT support and home networking. The company serves Palm Beach County and wider South Florida with on-site and remote support.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Palm Beach County and South Florida",
+    "pricing": "Flexible plans and project work; pricing available on request",
+    "website": "https://www.palmbctech.com/",
+    "phone": "(561) 503-3009",
+    "addresses": [],
+    "town": null,
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "Palm BC Tech Inc offers managed IT services for businesses, including helpdesk and on-site support, cybersecurity (threat detection, firewall management, endpoint protection), Microsoft 365 management, network configuration and monitoring, backup and disaster recovery, cloud migration and virtualization, and AI-powered monitoring and automation. It also provides residential IT support and home network services.",
+      "who_they_serve": "The company says it works mainly with small to mid-sized businesses, as well as growing organizations and residential clients, based in Palm Beach County and across South Florida.",
+      "how_they_work": "The company offers both on-site and remote support and states that its business services include flexible plans and project work, with pricing available on request. The site also mentions 24/7 support availability and a free consultation.",
+      "what_stands_out": "The founder, Ryan Eisele, is listed as having 13+ years of IT experience and a Bachelor's in Computer Science with minors in AI and Cybersecurity from Florida Atlantic University. The company also cites QuickBooks multi-user hosting and Microsoft 365 security (Defender for Office 365) as specific service areas."
+    },
+    "city": "west-palm-beach",
+    "state": "florida"
+  },
+  {
+    "slug": "rapid-it",
+    "placeId": "ChIJcU_Fc18f2YgRqRUPPMuz74w",
+    "name": "Rapid IT",
+    "summary": "Rapid IT is a managed IT services company based in Boca Raton, Florida, serving small and medium businesses in Miami-Dade, Broward and Palm Beach counties. Services include outsourced IT management, remote and onsite help desk, firewall and device security, data backup and recovery, and server management. The company lists healthcare, legal, construction, financial services, manufacturing and education among its client industries.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "hardware_procurement",
+      "cloud_microsoft_365"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "construction",
+      "accounting_finance",
+      "manufacturing",
+      "education"
+    ],
+    "compliance": [
+      "PCI DSS",
+      "GLBA"
+    ],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Miami-Dade, Broward and Palm Beach counties, Florida",
+    "pricing": "Monthly subscription, listed from $100 per user per month",
+    "website": "https://www.rapiditservices.com/",
+    "phone": "(561) 981-2575",
+    "addresses": [
+      "2385 NW Executive Center Drive, Boca Raton, FL 33431"
+    ],
+    "town": "Boca Raton",
+    "linkedin": "https://www.linkedin.com/company/93136544/",
+    "writeup": {
+      "what_they_do": "Rapid IT is a managed IT services provider offering proactive monitoring, maintenance and management of business IT infrastructure, including firewall and network security, data backup and recovery, server management, and a remote and onsite help desk. The company also offers IT consulting such as network architecture, secondary internet lines, and cloud solutions, plus device security, email support and hardware procurement.",
+      "who_they_serve": "The company says it supports small to medium-sized businesses across many industries, with named focus sectors of healthcare, legal services, financial services, construction, manufacturing and education. It serves Miami-Dade, Broward and Palm Beach counties in South Florida, with its service office in Boca Raton.",
+      "how_they_work": "Pricing is a monthly subscription, listed on the site as starting from $100 per user per month, with a fixed-cost model. Regular service hours are Monday to Friday, 08:00 to 17:00, with emergency out-of-hours support listed as 24/7. Onboarding begins with a consultation call, followed by a custom package design, quote, and an arranged implementation date.",
+      "what_stands_out": "The company states it has 15 years of experience and lists a 99.9% guaranteed network uptime and a 30% average cost savings claim on its Miami page, along with a free IT audit valued at $2,500 for Miami-based businesses. It lists vendor partnerships with enterprise-class hardware and software providers, though the site does not name specific partners."
+    },
+    "city": "west-palm-beach",
+    "state": "florida"
+  },
+  {
+    "slug": "blue-logic-it-solutions",
+    "placeId": "ChIJQ_OkHXMp2YgRmkAlQjcScFo",
+    "name": "Blue Logic IT Solutions",
+    "summary": "Blue Logic IT Solutions is a West Palm Beach, Florida IT provider offering tiered managed plans for desktops, servers, networks and firewalls, plus backup and disaster recovery, Microsoft 365 administration, VoIP and surveillance. It serves businesses across Palm Beach, St. Lucie and Broward counties and select US locations, and is a veteran-owned company that also offers HIPAA compliance assessments for medical practices.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services",
+      "structured_cabling"
+    ],
+    "industries": [
+      "healthcare"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "West Palm Beach, St. Lucie, Broward and Dade Counties, FL, and various locations throughout the United States",
+    "pricing": "Tiered monthly managed plans (Essential, Professional, Advanced)",
+    "website": "https://www.bluelogicits.org/",
+    "phone": "(561) 228-1871",
+    "addresses": [
+      "3805 Investment Ln, Unit 1, West Palm Beach, FL 33404",
+      "2101 Vista Parkway, West Palm Beach, FL 33411"
+    ],
+    "town": "West Palm Beach",
+    "linkedin": "https://www.linkedin.com/company/bluelogicits",
+    "writeup": {
+      "what_they_do": "Blue Logic IT Solutions describes itself as an IT managed service provider offering monitoring, troubleshooting and maintenance of computers and network systems. Its services include managed desktop, server and network support, VoIP telecom, surveillance and access control, cyber security, cloud and backup, HIPAA compliance assessments, and SEO and website services.",
+      "who_they_serve": "The company says it serves small, medium and large businesses in West Palm Beach, St. Lucie, Broward and Dade Counties, as well as various locations throughout the United States. It also states it works with medical practices and covered entities on HIPAA compliance.",
+      "how_they_work": "Services are offered through tiered managed plans named Essential, Professional and Advanced, with on-site support listed as monthly or unlimited depending on the plan and remote support available Monday to Friday, 9am to 5pm. The site also mentions 24x7 monitoring and emergency support on higher tiers, and says it builds ongoing relationships with clients.",
+      "what_stands_out": "The company states it has more than a combined 30 years of experience and is a U.S. military veteran-based business. It offers a HIPAA assessment with automated compliance reports and provides vendor management and disaster recovery as part of its server support."
+    },
+    "city": "west-palm-beach",
+    "state": "florida"
   }
 ]

@@ -18,7 +18,7 @@
       "Deerfield Beach"
     ],
     "count": 34,
-    "updated": "2026-10-23"
+    "updated": "2026-10-24"
   },
   {
     "slug": "jacksonville",
@@ -36,7 +36,7 @@
       "Fernandina Beach"
     ],
     "count": 32,
-    "updated": "2026-10-23"
+    "updated": "2026-10-24"
   },
   {
     "slug": "madison",
@@ -55,7 +55,7 @@
       "Stoughton"
     ],
     "count": 25,
-    "updated": "2026-10-23"
+    "updated": "2026-10-24"
   },
   {
     "slug": "miami",
@@ -75,7 +75,7 @@
       "North Miami"
     ],
     "count": 35,
-    "updated": "2026-10-23"
+    "updated": "2026-10-24"
   },
   {
     "slug": "orlando",
@@ -97,7 +97,7 @@
       "Kissimmee"
     ],
     "count": 111,
-    "updated": "2026-10-23"
+    "updated": "2026-10-24"
   },
   {
     "slug": "tampa",
@@ -118,6 +118,26 @@
       "Pinellas Park"
     ],
     "count": 34,
-    "updated": "2026-10-23"
+    "updated": "2026-10-24"
+  },
+  {
+    "slug": "west-palm-beach",
+    "name": "West Palm Beach",
+    "state": "florida",
+    "stateName": "Florida",
+    "stateCode": "FL",
+    "areas": [
+      "West Palm Beach",
+      "Boca Raton",
+      "Delray Beach",
+      "Boynton Beach",
+      "Jupiter",
+      "Palm Beach Gardens",
+      "Lake Worth Beach",
+      "Wellington",
+      "Royal Palm Beach"
+    ],
+    "count": 29,
+    "updated": "2026-10-24"
   }
 ]

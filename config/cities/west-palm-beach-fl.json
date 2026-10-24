@@ -1,0 +1,29 @@
+{
+  "city": "West Palm Beach",
+  "state": "Florida",
+  "state_code": "FL",
+  "slug": "west-palm-beach",
+  "state_slug": "florida",
+  "center": {
+    "lat": 26.64,
+    "lng": -80.09
+  },
+  "radius_miles": 22,
+  "areas": [
+    "West Palm Beach",
+    "Boca Raton",
+    "Delray Beach",
+    "Boynton Beach",
+    "Jupiter",
+    "Palm Beach Gardens",
+    "Lake Worth Beach",
+    "Wellington",
+    "Royal Palm Beach"
+  ],
+  "queries": [
+    "managed IT services",
+    "managed service provider",
+    "IT support company",
+    "outsourced IT"
+  ]
+}
