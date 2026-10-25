@@ -1,0 +1,57 @@
+{
+  "city": "Atlanta",
+  "state": "Georgia",
+  "state_code": "GA",
+  "slug": "atlanta",
+  "state_slug": "georgia",
+  "center": {
+    "lat": 33.749,
+    "lng": -84.388
+  },
+  "radius_miles": 30,
+  "areas": [
+    "Atlanta",
+    "Alpharetta",
+    "Marietta",
+    "Sandy Springs",
+    "Roswell",
+    "Duluth",
+    "Kennesaw",
+    "Peachtree Corners",
+    "Norcross",
+    "Lawrenceville",
+    "Decatur",
+    "Smyrna"
+  ],
+  "queries": [
+    "managed IT services",
+    "managed service provider",
+    "IT support company",
+    "outsourced IT"
+  ],
+  "nearby_towns": [
+    "Johns Creek",
+    "Suwanee",
+    "Buford",
+    "Sugar Hill",
+    "Woodstock",
+    "Cumming",
+    "Milton",
+    "Dunwoody",
+    "Brookhaven",
+    "Chamblee",
+    "Tucker",
+    "Lilburn",
+    "Snellville",
+    "Stone Mountain",
+    "Acworth",
+    "Canton",
+    "Douglasville",
+    "Peachtree City",
+    "McDonough",
+    "Conyers",
+    "East Point",
+    "College Park",
+    "Vinings"
+  ]
+}

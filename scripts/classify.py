@@ -263,7 +263,7 @@ def write_report(config, groups):
     for row in rows:
         counts[labels[row["is_msp"]]] = counts.get(labels[row["is_msp"]], 0) + 1
     listing_count = sum(row["listings"] for row in rows)
-    print(f"\nmsps.csv: {listing_count} Google listings -> {len(rows)} businesses -> {counts}")
+    print(f"\nmsps.csv: {listing_count} listings -> {len(rows)} businesses -> {counts}")
     print(f"Saved {base.relative_to(base.parents[2])}/msps.csv")
 
 

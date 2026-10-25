@@ -61,8 +61,9 @@ scrape Google results, store or publish Google content (ratings, names,
 addresses, phones, Maps URLs), or publish place IDs. Older cities' local files
 still use bare place IDs as file names, which Google's terms allow. Reviews are linked, not shown: profiles
 use `GoogleReviewsLink`, a plain Maps search hyperlink. Discovery for new cities
-must come from a source whose terms allow building a directory; everything
-published comes from each company's own website.
+comes from `scripts/discover.py` (Claude web search via the Anthropic API, with
+directory sites blocked); everything published comes from each company's own
+website, and the export's local check keeps out firms with no office in the metro.
 
 ## Conventions
 

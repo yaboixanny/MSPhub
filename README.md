@@ -20,7 +20,7 @@ center point, radius and `max_candidates`. Working files land in `data/<state>/<
 
 | Step | Command | Output |
 |---|---|---|
-| 1. Discover | *being replaced (see below)* | `places.csv`: candidate businesses (`place_id`, `name`, `website`, `lat`, `lng`, `hits`, `primary_type`, `types`) |
+| 1. Discover | `scripts/discover.py <config> --model claude-haiku-5-5` | `places.csv`: company websites found by Claude web search, with `hits` = how many searches found each |
 | 2. Crawl | `scripts/crawl.py <config>` | `sites/*.json`: text from up to 5 pages per website |
 | 3. Classify | `scripts/classify.py <config> --model claude-haiku-5-5` | `classified/*.json`, `msps.csv`, `review.csv` |
 | 4. Contact details | `scripts/contact.py <config> --model claude-haiku-5-5` | `contact/*.json`: name, phone, addresses from each company's website |
@@ -54,8 +54,15 @@ listings or directory service, and Google's terms forbid scraping its search
 results, so MSP Hub uses neither. The original discovery script used Places; it was
 retired and the stored data purged. A replacement discovery step needs to write
 `places.csv` in the format above (`place_id` can be any stable ID) from a source
-whose terms allow building a directory. Everything published comes from the
-companies' own websites.
+whose terms allow building a directory: `discover.py` now uses Claude's web search
+tool (directories and listing sites are blocked). Everything published comes from
+the companies' own websites.
+
+**Local check.** Search results carry no coordinates, so the export only publishes a
+new MSP if one of its offices is in the metro's `areas` or `nearby_towns` (a city
+config key used for matching, not searching), or, when its site lists no address,
+the site names the metro and the company name isn't a keyword phrase like
+"Managed IT Services Atlanta GA" (usually a lead-generation site).
 
 **MSP Hub Score.** Lists are ordered by a 0-100 score computed in
 `web/src/lib/score.ts` from website data only: years in business (30), managed

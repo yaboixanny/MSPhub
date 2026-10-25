@@ -1,5 +1,1359 @@
 [
   {
+    "slug": "comnexia",
+    "name": "COMNEXIA",
+    "summary": "COMNEXIA is an Roswell, Georgia-based IT provider founded in 1991 that offers managed IT, help desk, network, cybersecurity, VoIP and Microsoft 365 services. It focuses on automotive dealerships and also serves senior living, legal, property management and real estate clients, mainly in Atlanta and the Southeast.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "automotive",
+      "healthcare",
+      "legal",
+      "real_estate"
+    ],
+    "compliance": [
+      "HIPAA",
+      "FTC Safeguards",
+      "PCI DSS",
+      "NIST"
+    ],
+    "partners": [
+      "CDK & Reynolds certified"
+    ],
+    "foundedYear": 1991,
+    "teamSize": null,
+    "serviceArea": "Atlanta and the Southeast (Georgia)",
+    "pricing": null,
+    "website": "https://comnexia.com/",
+    "phone": "(877) 600-6550",
+    "addresses": [
+      "590 W Crossville Road, Suite 201, Roswell, GA 30075"
+    ],
+    "town": "Roswell",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "COMNEXIA is an Atlanta-area managed IT provider offering managed IT services with 24/7 monitoring, network solutions, cybersecurity, VoIP and phone systems, cloud solutions, and IT consulting. Its core specialty is DMS hosting and IT for automotive dealerships, and it also lists services for senior living, property management, legal, and real estate firms.",
+      "who_they_serve": "The company says it serves hundreds of businesses across the Southeast, with a particular focus on automotive dealerships in Atlanta. It also lists industry pages for senior and assisted living communities in Georgia, property management, legal practices, and real estate professionals.",
+      "how_they_work": "The site lists a Monday to Friday 8:30 AM to 5:30 PM EST business schedule along with 24/7 emergency support and a 24/7 help desk and monitoring offering. It offers a complimentary IT assessment and is located in Roswell, GA. Pricing models and contract terms are not stated.",
+      "what_stands_out": "The company says it has been in business since 1991 and is family-owned, with CDK and Reynolds & Reynolds certifications cited for DMS work. The site claims a 99.9% network uptime guarantee and lists licensed and insured status, though it does not name the certifying bodies or provide supporting documentation."
+    },
+    "city": "atlanta",
+    "state": "georgia"
+  },
+  {
+    "slug": "integricom",
+    "name": "IntegriCom",
+    "summary": "IntegriCom is a family-run IT company in the Atlanta area offering fully managed and co-managed IT for small and mid-sized businesses, mainly Windows-based organizations with roughly 10 to 200 users. Services span cybersecurity, cloud, networks and computers, business phone systems and virtual CIO work. The firm names several industries it supports, including legal, healthcare, insurance and construction, and serves clients across metro Atlanta and north Georgia.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "insurance",
+      "construction",
+      "real_estate",
+      "accounting_finance",
+      "government"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS"
+    ],
+    "partners": [
+      "Gladiators Partnership",
+      "Stripers Partnership"
+    ],
+    "foundedYear": 2000,
+    "teamSize": null,
+    "serviceArea": "Metro Atlanta and North Georgia, with clients elsewhere in Georgia and other states",
+    "pricing": "No long-term contracts; onboarding fee with full refund if switching within 90 days",
+    "website": "https://integricom.net/",
+    "phone": "678-507-0700",
+    "addresses": [
+      "1148 Satellite Blvd NW Suite 201, Suwanee, GA 30024-4368",
+      "970 Jefferson Street NW Suite 1, Atlanta, GA 30318",
+      "329 Oak Street Suite 204, Gainesville, GA 30501-3591"
+    ],
+    "town": "Suwanee",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "IntegriCom is a Georgia managed IT provider offering fully managed and co-managed IT services, covering cybersecurity, cloud services, networks and computers, business phone systems, and virtual CIO services. It also provides cybersecurity consulting, PCI and HIPAA compliance consulting, and project-based and urgent IT support.",
+      "who_they_serve": "The company focuses on companies running a Windows platform with 10 to 200 computer users, based in Atlanta and northeast Georgia. The site lists industries including construction, healthcare, insurance agencies, legal, utilities and electric cooperatives, and says it also has clients elsewhere in Georgia and in other states.",
+      "how_they_work": "The company offers no long-term contracts and states that clients who switch within 90 days receive a full refund of their onboarding fee. The site says it provides both on-site and remote support, with office hours listed as Monday through Friday, 7am to 6pm.",
+      "what_stands_out": "The company says it was founded in 2000 by Joel Thain and is family-run, and the site lists a CISSP-certified founder and states its technicians hold industry-recognized certifications. The company also states it was named to the 2026 MSP 501 list as one of a few Georgia MSPs."
+    },
+    "city": "atlanta",
+    "state": "georgia"
+  },
+  {
+    "slug": "gds-technology",
+    "name": "GDS Technology",
+    "summary": "GDS Technology is a Norcross, Georgia based IT provider serving small and mid-sized businesses, with a stated focus on proactive monitoring, help desk support, and managed security. It also offers backup and disaster recovery, VoIP phones, structured cabling, and compliance support for clients in areas such as commercial real estate, law and CPA firms, and medical offices.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "voip_phones",
+      "structured_cabling",
+      "compliance_services",
+      "network_infrastructure",
+      "cloud_microsoft_365",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "real_estate"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "PCI DSS",
+      "FTC Safeguards"
+    ],
+    "partners": [
+      "Galactic Certified (GCIR Incident Responder and GC3 Compliance Consultant)",
+      "MSP Titans of the Industry Finalist 2026 Nationwide / Multi-Location",
+      "MSP Titans of the Industry Finalist 2025 Southeast"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Atlanta, Georgia area with multi-state support",
+    "pricing": null,
+    "website": "https://www.gdstech.tech/",
+    "phone": "(404) 719-5222",
+    "addresses": [
+      "3050 Business Park Drive, Suite G, Norcross, GA 30071",
+      "450 E. 96th Street, Suite 500, Indianapolis, IN 46240"
+    ],
+    "town": "Norcross",
+    "linkedin": "https://www.linkedin.com/company/technologygds/",
+    "writeup": {
+      "what_they_do": "GDS Technology provides managed IT and cybersecurity services, including 24/7 system monitoring and maintenance, IT help desk support, cybersecurity with threat monitoring, data backup and disaster recovery planning, cloud services, and compliance services for frameworks such as HIPAA, PCI DSS, FTC and CMMC. The company also offers managed print, VoIP phone systems, structured cabling and business video surveillance.",
+      "who_they_serve": "The company states it is dedicated to small and mid-sized businesses, describing its target as businesses with 10 to 250 employees. It lists industries including co-working spaces, commercial real estate, CPA firms, law firms and medical offices, and its service area is described as multi-state with a Norcross, Georgia office.",
+      "how_they_work": "Calls are answered live during business hours by the local team, with emergency on-site support available and 24/7 system monitoring. The site describes a 15-minute discovery call followed by an assessment of the client's current technology, and support plans are described as tailored to each business. Remote support and on-site visits are both offered.",
+      "what_stands_out": "The company reports being a finalist in the MSP Titans of the Industry awards for the 2025 Southeast and 2026 Nationwide categories, and states it meets requirements for Galactic's Incident Responder and Compliance Consultant certifications. It also publishes a proprietary Business Optimization Framework and a published Master Services Agreement and service level objectives."
+    },
+    "city": "atlanta",
+    "state": "georgia"
+  },
+  {
+    "slug": "landon-technologies",
+    "name": "Landon Technologies",
+    "summary": "Landon Technologies is an IT company founded in Atlanta in 2005 that provides managed IT, co-managed IT, help desk, cybersecurity and Microsoft 365 support to small and midsized businesses. It serves clients across Georgia, Florida and other markets, with remote and onsite support and networking, backup and disaster recovery, and vCIO-style consulting.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "dental",
+      "legal",
+      "accounting_finance",
+      "insurance",
+      "construction",
+      "manufacturing",
+      "education",
+      "nonprofit",
+      "government",
+      "real_estate",
+      "hospitality",
+      "retail",
+      "logistics",
+      "automotive",
+      "professional_services"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": 2005,
+    "teamSize": null,
+    "serviceArea": "Georgia and Florida (Atlanta metro, Northeast Florida), with support in additional markets including Texas, Utah, New York and California",
+    "pricing": "Flat-rate monthly pricing",
+    "website": "https://www.landontechnologies.com/",
+    "phone": "(888) 596-3998",
+    "addresses": [],
+    "town": null,
+    "linkedin": "https://www.linkedin.com/company/landontech",
+    "writeup": {
+      "what_they_do": "Landon Technologies is a managed IT company offering managed IT services, co-managed IT, remote and onsite IT support, help desk, 24/7 monitoring, patch and device management, cybersecurity (including endpoint protection with MDR, email security, and penetration testing), network services, Microsoft 365 consulting, backup and disaster recovery, and IT consulting or vCIO services. The company describes itself as able to act as a client's complete outsourced IT department or to work alongside an existing internal IT team.",
+      "who_they_serve": "The company focuses on small and medium-sized businesses and states it supports organizations from small professional offices to larger multi-location environments. Listed industries include accounting firms, healthcare, banking, construction, education, government agencies, law firms, manufacturing, nonprofits, and retail, among others. It states service across Georgia and Florida, including the Atlanta metro and Northeast Florida, plus other markets and nationwide support.",
+      "how_they_work": "The company says it offers flat-rate, transparent monthly pricing and provides remote support through a help desk alongside on-site technicians. It describes a customized support plan built around each client's environment. The site does not specify contract terms or onboarding steps.",
+      "what_stands_out": "Landon Technologies states it was founded in Atlanta in 2005 by Bruce Landon and has more than 20 years of experience. It offers co-managed IT for organizations with existing IT staff and lists a 24/7 monitoring service."
+    },
+    "city": "atlanta",
+    "state": "georgia"
+  },
+  {
+    "slug": "ngt-technology",
+    "name": "NGT Technology",
+    "summary": "NGT Technology is a Lawrenceville, Georgia managed IT company serving small businesses across Gwinnett County and metro Atlanta since 2019. It offers monitoring and maintenance, cybersecurity, help desk, Azure and AWS cloud storage, VoIP phone systems and network design. The firm has industry-specific offerings for dental, legal, accounting, transportation, insurance, senior living and other sectors.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "structured_cabling"
+    ],
+    "industries": [
+      "healthcare",
+      "dental",
+      "legal",
+      "accounting_finance",
+      "insurance",
+      "construction",
+      "manufacturing",
+      "engineering_architecture",
+      "real_estate",
+      "logistics"
+    ],
+    "compliance": [
+      "HIPAA",
+      "FINRA/SEC"
+    ],
+    "partners": [
+      "Microsoft",
+      "Microsoft Azure",
+      "Amazon Web Services",
+      "3CX",
+      "Siptrunk"
+    ],
+    "foundedYear": 2019,
+    "teamSize": null,
+    "serviceArea": "Gwinnett County and Metro Atlanta, GA; headquartered in Lawrenceville",
+    "pricing": "Flat-rate monthly per-user pricing, month-to-month with no long-term contracts",
+    "website": "https://ngttechnology.com/",
+    "phone": "(404) 990-4540",
+    "addresses": [
+      "Lawrenceville, GA 30044"
+    ],
+    "town": "Lawrenceville",
+    "linkedin": "https://www.linkedin.com/company/ngt-tech/",
+    "writeup": {
+      "what_they_do": "NGT Technology is a managed IT company in Lawrenceville, Georgia, offering monitoring and maintenance of computers, servers and networks, layered cybersecurity, Azure and AWS cloud storage with backups, VoIP phone systems (3CX and Siptrunk), help desk support, and network design and cabling. It also offers co-managed IT for businesses with an existing internal IT team.",
+      "who_they_serve": "The company serves small businesses in Gwinnett County and the greater Atlanta metro area, with on-site and remote support. The site lists 11 industries, including dental practices, law firms, CPA and accounting firms, transportation and logistics, insurance agencies, construction, manufacturing, senior living, veterinary clinics, architecture, and real estate.",
+      "how_they_work": "The company describes flat-rate monthly managed services and says most small businesses pay between $100 and $250 per user per month, with a custom plan and no long-term contracts, month to month. Onboarding starts with a discovery call and an assessment of the current IT setup, and the site says most businesses are fully set up within one to two weeks.",
+      "what_stands_out": "The company says it has operated since 2019, founder Martin Gonzalez has 17+ years of IT experience, and it lists experience with Microsoft, Azure, AWS, 3CX and Siptrunk. The site also states it supports industry-specific software such as Dentrix, Clio and QuickBooks and offers HIPAA-focused services for healthcare clients."
+    },
+    "city": "atlanta",
+    "state": "georgia"
+  },
+  {
+    "slug": "vc3-atlanta",
+    "name": "VC3",
+    "summary": "VC3 is a managed IT and cybersecurity provider focused on municipalities, local government departments, and businesses in sectors such as financial services, healthcare, manufacturing, and aerospace and defense. Services include co-managed IT, managed security with 24/7 monitoring, backup and disaster recovery, compliance support including CMMC, and web and application development. The company states it has served clients for around 30 years and is a CMMC Registered Provider Organization.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "web_design",
+      "software_development"
+    ],
+    "industries": [
+      "healthcare",
+      "manufacturing",
+      "government",
+      "accounting_finance",
+      "insurance",
+      "construction",
+      "real_estate",
+      "logistics",
+      "professional_services",
+      "nonprofit",
+      "engineering_architecture"
+    ],
+    "compliance": [
+      "CMMC",
+      "NIST",
+      "HIPAA",
+      "PCI DSS"
+    ],
+    "partners": [
+      "CMMC Registered Provider Organization (RPO)"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": null,
+    "pricing": null,
+    "website": "https://www.vc3.com/",
+    "phone": "(800) 787-1160",
+    "addresses": [
+      "315 W Ponce De Leon Ave. Suite 565, Decatur, GA 30030",
+      "5614 Grand Ave., Duluth, MN 55807",
+      "1301 Gervais St, Suite 1800, Columbia, SC 29201",
+      "5815 Clark Rd, Bath Twp, MI 48808",
+      "777 Columbus Avenue, Lebanon, OH 45036",
+      "8040 Excelsior Dr., Suite 301, Madison, WI 53717",
+      "8000 Centerview Parkway, Suite 120, Cordova, TN 38018",
+      "3300 N. A Street Bldg. 4, Suite 101, Midland, TX 79705"
+    ],
+    "town": "Decatur",
+    "linkedin": "https://www.linkedin.com/company/vc3/",
+    "writeup": {
+      "what_they_do": "VC3 offers managed IT services, co-managed IT, managed security and co-managed cybersecurity, data backup and disaster recovery, compliance as a service, and managed AI services. It also provides technology enablement offerings such as SharePoint, Power BI, web design and hosting, and custom application development.",
+      "who_they_serve": "The company serves municipalities, including cities, counties, towns, townships, and police, fire, and water/sewer departments, along with businesses in sectors such as healthcare, aerospace and defense, manufacturing, financial services, and non-profits. The site reports more than 1,100 municipal clients and more than 700 business clients, and does not state a geographic service area beyond North America.",
+      "how_they_work": "The site says support is provided by a 100% North American-based team, with onsite support available in less than 2 hours and 24/7 support offered. Payments and invoices are processed through an online system for US clients only.",
+      "what_stands_out": "The company states it has spent about 30 years serving healthcare and municipal clients and reports an average client relationship of 11 years. It describes itself as a CMMC Registered Provider Organization and lists league partnerships with municipal leagues."
+    },
+    "city": "atlanta",
+    "state": "georgia"
+  },
+  {
+    "slug": "centerpoint-it",
+    "name": "Centerpoint IT",
+    "summary": "Atlanta-based IT provider serving metro Atlanta and North Georgia small and mid-sized businesses since 2006. Offers managed IT with help desk, 24/7 monitoring, managed cybersecurity, Microsoft 365 and cloud administration, backup and continuity, vCIO planning, and hosted business phone systems, with fully managed or co-managed options.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "nonprofit"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS",
+      "CMMC",
+      "NIST"
+    ],
+    "partners": [
+      "Microsoft Partner",
+      "Allworx Partner"
+    ],
+    "foundedYear": 2006,
+    "teamSize": null,
+    "serviceArea": "Metro Atlanta and North Georgia",
+    "pricing": "Per-user or per-device plans and flat all-in monthly agreements; no specific pricing stated",
+    "website": "https://www.centerpointit.com/",
+    "phone": "(404) 777-0147",
+    "addresses": [
+      "11285 Elkins Rd Suite E1, Roswell, GA 30076"
+    ],
+    "town": "Roswell",
+    "linkedin": "https://www.linkedin.com/company/259920",
+    "writeup": {
+      "what_they_do": "Centerpoint IT is an Atlanta-based managed IT provider offering managed IT services, IT support, vCIO strategic planning, co-managed IT, managed cybersecurity (including managed detection and response and endpoint protection), backup and business continuity, Microsoft 365 and cloud management, and business phone systems and internet. The company describes its managed IT offering as a full IT department delivered on a predictable monthly cost.",
+      "who_they_serve": "The company works with small and mid-sized businesses in metro Atlanta and across North Georgia, and lists industry-specific services for healthcare, financial, legal, start-up, and multi-location businesses. The site also references compliance support for HIPAA, PCI DSS, and CMMC.",
+      "how_they_work": "Support is delivered remotely and on-site in metro Atlanta, with a help desk and 24/7 monitoring of servers and networks. The site describes per-user, per-device, and flat monthly pricing options, a three-step process beginning with a discovery call and onboarding, and fully managed or co-managed models.",
+      "what_stands_out": "The company states it has served metro Atlanta and North Georgia since 2006, lists Microsoft Partner and Allworx Partner status, and reports a 5.0 rating across 233 client reviews. It also cites a 2025 Inc. 5000 listing and a 2024 Atlanta's Best Awards win in IT Services."
+    },
+    "city": "atlanta",
+    "state": "georgia"
+  },
+  {
+    "slug": "jett-business-technology",
+    "name": "JETT Business Technology",
+    "summary": "Alpharetta-based IT firm serving metro Atlanta and businesses in 27 states since 1998. Offers monthly managed IT support with 24/7 remote monitoring and a U.S.-based help desk, plus cloud backup and hosting, managed security, and project management. Lists law firms, HVAC, roofing, property management, and insurance among industries served.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement",
+      "structured_cabling"
+    ],
+    "industries": [
+      "legal",
+      "insurance",
+      "manufacturing",
+      "construction",
+      "real_estate",
+      "healthcare",
+      "accounting_finance",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "SOC 2",
+      "PCI DSS",
+      "FINRA/SEC"
+    ],
+    "partners": [
+      "Microsoft",
+      "Dell",
+      "Eaton",
+      "SonicWall",
+      "Flexential",
+      "Synology",
+      "Datto",
+      "Huntress"
+    ],
+    "foundedYear": 1998,
+    "teamSize": "100+ years of combined team experience",
+    "serviceArea": "Metro Atlanta and nationwide across 27 states",
+    "pricing": "Predictable monthly IT support plans; services can be selected individually or combined into a monthly plan",
+    "website": "https://jettbt.com/",
+    "phone": "(678) 387-5717",
+    "addresses": [
+      "1060 Windward Ridge Pkwy, Suite 150, Alpharetta, GA 30005"
+    ],
+    "town": "Alpharetta",
+    "linkedin": "https://www.linkedin.com/company/jett-business-technology?trk=top_nav_home",
+    "writeup": {
+      "what_they_do": "JETT Business Technology provides managed IT services from its Alpharetta headquarters, including IT support with a U.S.-based help desk, 24/7 remote monitoring, cloud computing (UmbraIT and DuplicIT), cybersecurity (managed EDR, identity threat detection, security awareness training, SIEM and dark web monitoring), and IT project management. The company also offers IT installation, low voltage premises cabling and premises security.",
+      "who_they_serve": "The company serves small and medium-sized businesses as well as larger organizations, including Fortune 500 firms, and states it currently supports businesses in 27 states. It lists industries served such as HVAC, roofing, property management, physical therapy, landscaping, insurance, manufacturing, financial advisors and law firms, with service areas across metro Atlanta.",
+      "how_they_work": "The company offers predictable monthly support plans, with services selectable individually or combined, and provides on-site visits as part of IT support. Its nationwide model pairs remote monitoring and a help desk with a network of field technicians dispatched where on-site work is needed. The site offers a free IT assessment with no obligation.",
+      "what_stands_out": "The company states it has been in business since 1998 and reports that its data centers hold SOC 1, SOC 2 and SOC 3 Type 2 certifications, PCI DSS Level 1 Service Provider status, and HIPAA/HITECH security audits. It also states a 99.9% uptime guarantee for its cloud services."
+    },
+    "city": "atlanta",
+    "state": "georgia"
+  },
+  {
+    "slug": "boost-it",
+    "name": "Boost IT",
+    "summary": "Atlanta-based IT and cybersecurity provider founded in 2000 that manages IT for professional services firms such as law, accounting and financial, engineering and architecture, healthcare, and real estate companies. Offers ongoing help desk, monitoring, Microsoft 365 administration, backup and disaster recovery, security services, and virtual CIO guidance, with on-site support in the Atlanta area.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement",
+      "voip_phones"
+    ],
+    "industries": [
+      "legal",
+      "accounting_finance",
+      "engineering_architecture",
+      "healthcare",
+      "real_estate",
+      "nonprofit",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [
+      "Microsoft Certified Professional (staff certification)",
+      "Certified SonicWALL Systems Administrator (staff certification)"
+    ],
+    "foundedYear": 2000,
+    "teamSize": null,
+    "serviceArea": "Atlanta, GA, with local, remote and on-site support",
+    "pricing": null,
+    "website": "https://www.boostitco.com/",
+    "phone": "(404) 865-1289",
+    "addresses": [
+      "3365 Piedmont Road NE, Suite 1400, Atlanta, GA 30305"
+    ],
+    "town": "Atlanta",
+    "linkedin": "https://www.linkedin.com/company/boostitco",
+    "writeup": {
+      "what_they_do": "Boost IT is a managed IT and cybersecurity provider that offers managed IT support, cybersecurity services, cloud and Microsoft 365 management, and virtual CIO (vCIO) consulting. Its services include a 24/7 help desk, remote server and network monitoring, endpoint detection and response, multi-factor authentication, a managed firewall, backup and disaster recovery, and IT projects such as cloud migrations.",
+      "who_they_serve": "The company serves professional services firms, including law firms, financial services firms, architecture, engineering and construction (AEC) firms, healthcare companies, non-profits, and real estate firms. Its office and engineers are based in Atlanta, Georgia, and the site cites a healthcare case study with an Atlanta practice.",
+      "how_they_work": "The company provides local, remote and on-site support, with Atlanta engineers stated to arrive on-site within 2 hours and an average phone or chat response time of 7 minutes. Clients receive a monthly health report covering PCs, servers, updates, patches and backups, and the company handles new employee onboarding such as account creation, licensing and email setup. The site does not state pricing or contract terms.",
+      "what_stands_out": "The company states it was founded in 2000 and has 25 years of experience with law, AEC, financial, healthcare and real estate firms. Team members list certifications including Network+, Microsoft Certified Professional and Certified SonicWALL Systems Administrator, and the company offers a HeatShield firewall and cybersecurity bundles."
+    },
+    "city": "atlanta",
+    "state": "georgia"
+  },
+  {
+    "slug": "carmichael-consulting-solutions",
+    "name": "Carmichael Consulting Solutions",
+    "summary": "Atlanta-area IT firm offering outsourced managed IT, 24/7 helpdesk, co-managed IT, security operations and virtual CIO services to small and mid-sized businesses. Lists legal and healthcare among industries served and offers compliance documentation packages. Pricing is stated as a monthly minimum for industry clients.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "legal",
+      "healthcare",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "SOC 2",
+      "PCI DSS",
+      "FTC Safeguards"
+    ],
+    "partners": [
+      "Azure certified",
+      "AWS certified"
+    ],
+    "foundedYear": 2011,
+    "teamSize": null,
+    "serviceArea": "Atlanta and North Atlanta, with some clients in other states",
+    "pricing": "Monthly minimum of $1,000 for industry-focused services; compliance packages from $2,500/month minimum or $219 per organization per month",
+    "website": "https://www.carmichaelconsulting.net/",
+    "phone": "(678) 672-3031",
+    "addresses": [
+      "11660 Alpharetta Highway building 400 Ste 490, Roswell, GA 30076"
+    ],
+    "town": "Roswell",
+    "linkedin": "https://www.linkedin.com/company/carmichael-consulting-solutions/",
+    "writeup": {
+      "what_they_do": "Carmichael Consulting Solutions offers outsourced managed IT services for businesses, including helpdesk and support, proactive maintenance, workstation and server monitoring, network management, cloud solutions, and Microsoft 365 and Google Workspace optimization. Its IT security offerings include a managed SOC, endpoint detection and response, email security, backup and disaster recovery, security awareness training, managed detection and response, and penetration testing, along with compliance packages and virtual CIO services.",
+      "who_they_serve": "The company serves small and mid-sized businesses, with stated industry focus on financial services, legal, healthcare and professional services. It is based in Atlanta, Georgia and also works with companies in other states.",
+      "how_they_work": "The site states that field service visits and short projects under 40 hours are included at no extra charge, and that clients can leave without penalty with free transition support. Its helpdesk is staffed 24/7 and the company cites answering most calls within one minute. Managed services are listed with a $1,000 monthly minimum, and compliance packages start at a $2,500 monthly minimum.",
+      "what_stands_out": "The company was founded in 2011 and reports multiple local 'Best of North Atlanta' awards, a 4.9-star Google rating, and a Net Promoter Score of 85. The site also lists 14 vendor certifications, including Azure and AWS, and offers a free $2,500 cybersecurity audit for vault-level service customers."
+    },
+    "city": "atlanta",
+    "state": "georgia"
+  },
+  {
+    "slug": "mis-solutions",
+    "name": "MIS Solutions",
+    "summary": "Family-owned managed IT services provider in the Gwinnett County and Metro Atlanta area, offering outsourced IT, co-managed IT, cloud hosting, cybersecurity, help desk and backup services. Serves accounting firms, healthcare, insurance, construction, manufacturing and professional services clients, and states it provides compliance support for frameworks such as HIPAA and PCI DSS.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "voip_phones",
+      "network_infrastructure"
+    ],
+    "industries": [
+      "healthcare",
+      "accounting_finance",
+      "insurance",
+      "construction",
+      "manufacturing",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "SOC 2"
+    ],
+    "partners": [
+      "Certified Ethical Hacker",
+      "Certified Information Systems Security Professional",
+      "Certified Chief Information Security Officer",
+      "Certified Cloud Security Professional",
+      "Certified Secure Software Lifecycle Professional",
+      "Computer Hacking Forensic Investigator"
+    ],
+    "foundedYear": 1995,
+    "teamSize": "50+ employees including 35 technicians",
+    "serviceArea": "Metro Atlanta and Gwinnett County, Georgia",
+    "pricing": "Transparent, predictable pricing; cloud services billed pay-as-you-go",
+    "website": "https://www.mis-solutions.com/",
+    "phone": "(678) 745-5109",
+    "addresses": [
+      "4485 Tench Rd Suite 440, Suwanee, GA 30024"
+    ],
+    "town": "Suwanee",
+    "linkedin": "https://www.linkedin.com/company/mis-solutions",
+    "writeup": {
+      "what_they_do": "MIS Solutions is a managed IT services provider offering managed IT, co-managed IT, cloud services (Greenlight private cloud), cybersecurity, IT consulting, data recovery, network services, help desk, IT projects, and VoIP. Its service pages also list backup and disaster recovery, done-for-you and done-with-you IT, and AI consulting.",
+      "who_they_serve": "The company serves small and midsized businesses in the Metro Atlanta area and Gwinnett County, according to its site. Industries listed include accounting firms and CPAs, construction, healthcare, HVAC, insurance, manufacturing, and professional services.",
+      "how_they_work": "The site describes a process beginning with a 15-minute discovery call, followed by a deeper discovery call and a step-by-step recommendation before services are executed. It states pricing is transparent and pay-as-you-go for cloud services, and says the company does not outsource to call centers.",
+      "what_stands_out": "The company is family owned, founded in 1995 by Lliam and Jennifer Holmes, and reports a team of over 50 employees including 35 technicians. It states its team holds certifications such as Certified Ethical Hacker and CISSP, that it is a SOC 2 Type 2 compliant provider, and that it guarantees substantial progress within the first 90 days or refunds the investment."
+    },
+    "city": "atlanta",
+    "state": "georgia"
+  },
+  {
+    "slug": "se-technical",
+    "name": "SE Technical",
+    "summary": "Southeastern Technical is a Buford, Georgia managed IT and cybersecurity provider serving medical practices, professional firms and growing businesses across greater Atlanta and north Georgia. It offers help desk, 24/7 monitoring, backups and HIPAA-aligned IT for clinics, and has recently added private, self-hosted AI servers and automation work.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "it_strategy_vcio",
+      "compliance_services",
+      "software_development"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "engineering_architecture"
+    ],
+    "compliance": [
+      "HIPAA",
+      "SOC 2",
+      "SOC 2"
+    ],
+    "partners": [
+      "Microsoft Partner",
+      "Cisco Partner",
+      "Compliancy Group Certified (HIPAA)",
+      "CompTIA A+, Network+, Security+",
+      "Cisco CCNA and CCNP",
+      "ITIL",
+      "AWS technology partner",
+      "VMware technology partner",
+      "Dell technology partner",
+      "HP technology partner"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Greater Atlanta and North Georgia, headquartered in Buford, GA",
+    "pricing": "Free IT assessment to start; flexible plan built around the client's stack, with AI layer optional later",
+    "website": "https://www.setechnical.net/",
+    "phone": "(678) 807-6156",
+    "addresses": [
+      "115 E Main St NE, Ste CB1B, Buford, GA 30518"
+    ],
+    "town": "Buford",
+    "linkedin": "https://www.linkedin.com/company/setechnical",
+    "writeup": {
+      "what_they_do": "SE Technical (Southeastern Technical) is a managed IT and cybersecurity provider offering help desk and 24/7 monitoring, network design, server and storage management, backups and disaster recovery, and IT projects. The company also builds private AI servers, AI virtual employees, custom automations and custom software, and provides cybersecurity services such as security audits, penetration testing, vulnerability scanning and phishing awareness training.",
+      "who_they_serve": "The company serves medical and specialty practices, professional firms including accounting, law and engineering firms, and growing businesses across greater Atlanta and North Georgia. It is headquartered in Buford, GA.",
+      "how_they_work": "Most issues are handled remotely, with onsite visits when hardware work is needed. The company starts with a free onsite assessment and then builds a plan around the client's stack, and states that clients pay only for the IT they need, with AI added later if wanted.",
+      "what_stands_out": "The company reports 27 years in business and holds HIPAA Compliancy Group certification, with CCNA, CCNP, CompTIA and Microsoft credentials cited for its technicians. It states that its own service desk runs on a private AI server it built and operates, and that client data for its private AI does not leave the client's network."
+    },
+    "city": "atlanta",
+    "state": "georgia"
+  },
+  {
+    "slug": "smith-network-solutions",
+    "name": "Smith Network Solutions",
+    "summary": "Atlanta-area firm offering managed IT with 24/7 monitoring, patching, help desk and backup services, plus network installations, IT consulting, and custom software and website development. Its pages also describe CMMC and NIST 800-171 gap assessment and remediation work for defense contractors, delivered remotely nationwide. It serves healthcare, legal, accounting, manufacturing and other professional clients across Metro Atlanta.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "it_strategy_vcio",
+      "compliance_services",
+      "computer_repair",
+      "software_development",
+      "web_design"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "manufacturing",
+      "government",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "NIST",
+      "FTC Safeguards",
+      "ITAR"
+    ],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Metro Atlanta, Georgia; nationwide remote delivery for CMMC work",
+    "pricing": "Flat-rate managed IT pricing, month-to-month with no long-term contracts",
+    "website": "https://smithnetworksolutions.com/",
+    "phone": "(678) 404-2408",
+    "addresses": [],
+    "town": null,
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "Smith Network Solutions offers managed IT services including 24/7 monitoring and alerting, security hardening and patching, help desk support with stated SLAs, and backups and disaster recovery. The company also provides cybersecurity services, network and server installations, IT consulting, web design and hosting, and custom software development. It has a dedicated CMMC compliance practice for defense contractors, offering gap assessments, System Security Plan and POA&M writing, and ongoing managed IT, and it states it is not a C3PAO.",
+      "who_they_serve": "The company serves businesses across the Atlanta metro area, with location pages for Duluth, Norcross, Buford, and other cities including Lawrenceville, Suwanee, Alpharetta, and Johns Creek. The site names healthcare practices, law firms, accounting firms, manufacturing companies, and professional service businesses as industries served. It also states it offers nationwide remote CMMC delivery to defense contractors and has worked with a federally funded law enforcement task force.",
+      "how_they_work": "The company offers month-to-month managed IT service with no long-term contracts and states flat-rate pricing with no hidden fees, with custom pricing for managed IT. Its location pages list 24/7 support, a 15-minute response time, and a response guarantee within one hour during business hours, with remote support and same-day on-site service available in the Atlanta area. Free consultations and free assessments are offered as the starting point.",
+      "what_stands_out": "The company reports a BBB A+ rating, a 5.0 Google rating, and a stated 100% client retention rate, and says it has been serving Duluth for six or more years. It also lists a Level 1 CMMC achievement for an industrial robotics manufacturer and experience with HIPAA, IRS WISP, and FTC Safeguards work."
+    },
+    "city": "atlanta",
+    "state": "georgia"
+  },
+  {
+    "slug": "teamspring-technologies",
+    "name": "Teamspring Technologies",
+    "summary": "Atlanta-area IT provider offering managed IT, helpdesk, backup, network security, VoIP phone setup and compliance support for small and mid-sized businesses in Northeast Atlanta, Gwinnett County and North Georgia. Based in Sugar Hill, Georgia, it is a family-run company that positions itself around phone-answering local technicians and flat, plain-language billing.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "construction",
+      "engineering_architecture",
+      "manufacturing",
+      "nonprofit",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS"
+    ],
+    "partners": [],
+    "foundedYear": 1999,
+    "teamSize": null,
+    "serviceArea": "Northeast Atlanta, Gwinnett County and North Georgia",
+    "pricing": "Monthly support plans with on-demand repairs also available; site emphasizes honest, predictable billing without specifying a model",
+    "website": "https://www.teamspring.us/",
+    "phone": "(770) 614-9495",
+    "addresses": [
+      "1400 Buford Highway Suite L-1, Sugar Hill, GA 30518"
+    ],
+    "town": "Sugar Hill",
+    "linkedin": "https://www.linkedin.com/company/teamspringtechnologies/",
+    "writeup": {
+      "what_they_do": "Teamspring Technologies offers managed IT services for small and mid-sized businesses, including proactive system maintenance, user support, managed backup, network security, cybersecurity, cloud-based VoIP phone systems, cloud migration, and IT compliance assistance for standards such as HIPAA and PCI. The company also provides email security, including DMARC implementation.",
+      "who_they_serve": "The company works with small and mid-sized businesses in Northeast Atlanta, Gwinnett County, and North Georgia, and names service providers, healthcare organizations, law practices, construction companies, and nonprofits among its clients. Its client testimonials cite manufacturers, printing services, insurance and benefit funds, and security firms.",
+      "how_they_work": "The company states that it offers on-demand repairs as well as monthly support plans, with onsite visits available and remote helpdesk support included in its packages. It says billing is transparent with no surprise fees, and that prospective clients begin with a 15-minute discovery call.",
+      "what_stands_out": "The company says it has been operating since 1999 and is family-run, and it reports donating equipment and financial support to every nonprofit it works with and matching 100% of employee charitable contributions. The site also mentions Best of Gwinnett recognition for eight consecutive years."
+    },
+    "city": "atlanta",
+    "state": "georgia"
+  },
+  {
+    "slug": "alphacis",
+    "name": "AlphaCIS",
+    "summary": "AlphaCIS is an Atlanta-area IT services firm serving businesses across metro Atlanta, Marietta and Alpharetta. Its offerings include managed IT with 24/7 monitoring and a live help desk, same-day on-site support, cloud migration and management centered on Microsoft 365 and Azure, cybersecurity and network work, and custom workflow automation. The firm lists specific focus on healthcare, dental, dealership and accounting or manufacturing clients.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "healthcare",
+      "dental",
+      "automotive",
+      "accounting_finance",
+      "manufacturing"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [
+      "Microsoft Partner"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Atlanta, Alpharetta, Marietta, Sandy Springs, Woodstock, Dunwoody, Cumming and surrounding areas",
+    "pricing": null,
+    "website": "https://www.alphacis.com/",
+    "phone": "(678) 619-1218",
+    "addresses": [
+      "55 Atlanta St SE, Suite #209, Marietta, GA 30060"
+    ],
+    "town": "Marietta",
+    "linkedin": "https://www.linkedin.com/company/alphacis-atlanta-it-consulting-&-managed-services",
+    "writeup": {
+      "what_they_do": "AlphaCIS offers managed IT services for businesses, including 24/7/365 monitoring and support with access to a live support engineer, same-day on-site technical support, and cloud services such as migration, hybrid environments and Office 365 and Azure management. The company also provides cybersecurity and network infrastructure work, including email spam filtering, zero trust controls, structured cabling and network design, and custom workflow automation.",
+      "who_they_serve": "The company serves businesses in the Atlanta area, naming Atlanta, Alpharetta, Marietta, Sandy Springs, Woodstock, Dunwoody and Cumming among its service locations. The website lists industry pages for accounting and CPA firms, automotive dealerships, healthcare (including dental and medical practices) and manufacturing, and states it works with both SMB and enterprise clients.",
+      "how_they_work": "The company offers an initial consultation and a pricing estimate with the solution broken out in detail, and states that it pays for only what is used rather than preset packages for some services. Support is available by phone, email or chat, and on-site visits are normally scheduled for the same day in its service area.",
+      "what_stands_out": "The website states that the company is a Microsoft partner focused on Office 365 and Azure, and that its healthcare offering includes HIPAA and PCI compliance support. It reports 349 happy clients, 75 five-star reviews and 987 projects, though these figures are self-reported on the site."
+    },
+    "city": "atlanta",
+    "state": "georgia"
+  },
+  {
+    "slug": "cortavo",
+    "name": "Cortavo",
+    "summary": "Atlanta, Georgia-based provider of subscription managed IT plans for small and mid-sized businesses, with tiered flat per-user monthly pricing. Offerings include a 24/7 US-based help desk, cybersecurity, Microsoft-style productivity software, connectivity and hardware replacement, with a minimum of five users per plan. Founded in 2019.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "hardware_procurement",
+      "it_strategy_vcio"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": 2019,
+    "teamSize": null,
+    "serviceArea": "Headquartered in Atlanta, Georgia; serves businesses across the US",
+    "pricing": "Flat per-user monthly fee by plan (Productivity from $155, Connectivity from $205, Techtility from $275 per user/month), minimum 5 users",
+    "website": "https://cortavo.com/",
+    "phone": "(866) 267-8286",
+    "addresses": [
+      "1600 Riveredge Pkwy, Atlanta, GA 30328"
+    ],
+    "town": "Atlanta",
+    "linkedin": "https://www.linkedin.com/company/cortavo-inc",
+    "writeup": {
+      "what_they_do": "Cortavo provides flat-fee managed IT services covering a service desk, cybersecurity, connectivity, productivity software, cloud data storage, hybrid workplace management and computers. Its plans are offered as Productivity, Connectivity and Techtility tiers, with the company also describing a strategy, implementation and ongoing support process.",
+      "who_they_serve": "Cortavo states it serves small to mid-sized businesses across onsite, hybrid and remote workplaces. The plans list a minimum of 5 users for the Productivity and Connectivity tiers and 10 users for the Techtility plan.",
+      "how_they_work": "Cortavo charges a flat monthly fee per user, with listed starting prices of $155 (Productivity), $205 (Connectivity) and $275 (Techtility) per user per month. Its US-based help desk is available 24/7, and it provides remote or on-site support after an assessment, equipment setup and testing phase.",
+      "what_stands_out": "The company was founded in 2019 and is headquartered in Atlanta, Georgia, and it reports certified engineers resolving 85% of break-fix tickets within 48 hours. The site also states that in-plan computers are replaced periodically as part of the flat fee."
+    },
+    "city": "atlanta",
+    "state": "georgia"
+  },
+  {
+    "slug": "mpowered-it",
+    "name": "mPowered IT",
+    "summary": "Atlanta-based managed IT services provider founded in 2014, offering proactive 24/7 monitoring, help desk support, layered managed security, cloud and Microsoft 365 management, and backup and disaster recovery for small and mid-sized businesses, mostly with up to 100 employees. Serves medical, insurance, financial, legal, construction and manufacturing clients, and also offers penetration testing and vulnerability scanning.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "insurance",
+      "accounting_finance",
+      "legal",
+      "construction",
+      "manufacturing",
+      "automotive",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS",
+      "NIST"
+    ],
+    "partners": [
+      "Calyptix Security Premier Partner"
+    ],
+    "foundedYear": 2014,
+    "teamSize": null,
+    "serviceArea": "Atlanta area and beyond (Atlanta, GA)",
+    "pricing": "Flat monthly fee with predictable pricing",
+    "website": "https://mpoweredit.com/",
+    "phone": "(678) 389-6200",
+    "addresses": [
+      "10898 Crabapple Road, Suite 100, Roswell, GA 30075",
+      "1080 Holcomb Bridge Rd., Building 200, Suite 330, Roswell, GA 30076"
+    ],
+    "town": "Roswell",
+    "linkedin": "https://www.linkedin.com/company/3841585/admin/",
+    "writeup": {
+      "what_they_do": "mPowered IT is an Atlanta-based managed IT services provider offering proactive monitoring, help desk support, and basic to complex network troubleshooting. Its services also include cybersecurity offerings such as Enforce Managed Security, penetration testing, vulnerability scanning, and security awareness training, plus cloud managed services, VoIP phones, and backup and disaster recovery.",
+      "who_they_serve": "The company says most of its clients have 100 or fewer employees and works with small and mid-sized businesses. It lists industries including medical practices, insurance agencies, financial advisors, law firms, marketing agencies, construction firms, manufacturers, distributors, and logistics companies, and serves the Atlanta area and beyond.",
+      "how_they_work": "The company says it consults with each new customer before selling services and customizes solutions for the customer's needs and budget. It states it offers proactive monitoring 24/7/365, response to service requests within 15 minutes or less, and fair and predictable pricing, and describes its security program as one low monthly fee.",
+      "what_stands_out": "The company was founded in 2014 by CEO John Mamon, and it reports a 4.9 rating from 217 reviews. It states that Calyptix Security named it a Premier Partner and that its penetration testing follows OSSTMM, PTES, and OWASP methodologies."
+    },
+    "city": "atlanta",
+    "state": "georgia"
+  },
+  {
+    "slug": "navious-technologies",
+    "name": "Navious Technologies",
+    "summary": "Navious Technologies is an Atlanta-area managed IT provider based in Marietta, GA, focused on architecture, engineering, and construction firms with roughly 10 to 100 employees. Services include outsourced IT support, 24/7 monitoring, cybersecurity, backup and disaster recovery, Microsoft 365, cloud services, and VoIP phones, with some support for legal and medical clients.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "legal",
+      "construction",
+      "engineering_architecture",
+      "healthcare"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Metro Atlanta and North Georgia, including Alpharetta, Marietta, Roswell, Gainesville, Rome and surrounding cities",
+    "pricing": null,
+    "website": "https://navious.com/",
+    "phone": "(470) 598-5197",
+    "addresses": [
+      "1880 W Oak Parkway Suite 104, Marietta, GA 30062"
+    ],
+    "town": "Marietta",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "Navious Technologies provides managed IT services, including outsourced IT support, cybersecurity, cloud services, data backup and recovery, disaster recovery planning, IT compliance, Office 365 and VoIP phone systems. The company offers 24/7/365 proactive monitoring and says it builds IT roadmaps for client firms.",
+      "who_they_serve": "The company focuses on architect, engineering, and construction firms, and also lists medical, legal and manufacturing industries. Its about page says it serves businesses with 10 to 100 employees in metro Atlanta and north Georgia, with listed service areas including Alpharetta, Marietta, Roswell and Gainesville.",
+      "how_they_work": "The site describes a process that starts with a 15-minute discovery call, followed by a custom IT roadmap with a 3-phase plan and then ongoing management of the client's technology. Pricing terms and contract details are not stated on the site.",
+      "what_stands_out": "The company reports an average response time of 3.5 minutes and advertises a 100% no-small-print guarantee. The site also mentions compliance support for regulations such as HIPAA, GDPR and PCI-DSS, and its address is in Marietta, Georgia."
+    },
+    "city": "atlanta",
+    "state": "georgia"
+  },
+  {
+    "slug": "taaspak",
+    "name": "TaaSPAK",
+    "summary": "Atlanta-based provider offering subscription-billed managed IT support, endpoint and network security, VoIP phone service and cloud hosting under one monthly fee. Also sells ERPsy, an integrated business management platform covering CRM, accounting, payroll and dispatch, aimed at construction and home-service firms. Serves small and mid-sized businesses including dental and medical practices.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement"
+    ],
+    "industries": [
+      "healthcare",
+      "dental",
+      "construction"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS"
+    ],
+    "partners": [
+      "3CX"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Atlanta-based; on-site support in Atlanta, remote support elsewhere",
+    "pricing": "One monthly subscription bundling IT support, cybersecurity, VoIP and cloud services",
+    "website": "https://taaspak.com/",
+    "phone": "(678) 578-2171",
+    "addresses": [],
+    "town": null,
+    "linkedin": "https://www.linkedin.com/company/taaspak-llc/",
+    "writeup": {
+      "what_they_do": "TaaSPAK offers a subscription-based managed service that bundles IT support, cybersecurity, VoIP business phone service, cloud hosting and the ERPsy business management platform under one monthly fee. Its IT support is offered as either fully managed IT services or co-managed support that works alongside a client's existing IT staff, and its cybersecurity services include EDR, XDR, MDR, next-generation firewalls, security awareness training and incident response.",
+      "who_they_serve": "The company says it serves small and mid-sized businesses, with industry focus on construction firms and contractors, home-service businesses such as plumbers and HVAC providers, and dental and small medical offices. Its IT support team is based in Atlanta, and it offers on-site support when needed.",
+      "how_they_work": "Services are delivered on a subscription model with one monthly fee and no upfront costs, and the company offers a 24/7 helpdesk and a free IT assessment or complimentary HIPAA Security Analysis on request. Prospective clients start by completing a contact form, after which a company representative reaches out.",
+      "what_stands_out": "The company states that its leadership previously ran electrical contracting and systems integration projects across North America for decades before founding TaaSPAK. It also says it offers HIPAA and PCI compliance management and gap assessments, and it includes endpoint defense, email filtering and security training in every plan."
+    },
+    "city": "atlanta",
+    "state": "georgia"
+  },
+  {
+    "slug": "the-technology-squad",
+    "name": "The Technology Squad",
+    "summary": "Atlanta-area IT firm operating since 2010, serving businesses and homes in North Atlanta cities including Alpharetta, Milton, Johns Creek, Cumming, Sandy Springs and Buckhead. Offers managed IT, cybersecurity, help desk, cloud and backup services for businesses, alongside residential computer repair and custom web, mobile and AI application development.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "computer_repair",
+      "software_development",
+      "web_design"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "professional_services",
+      "real_estate"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": 2010,
+    "teamSize": null,
+    "serviceArea": "North Atlanta, Georgia (Alpharetta, Milton, Johns Creek, Cumming, Sandy Springs, Buckhead); software development nationwide",
+    "pricing": "Fixed monthly pricing for business managed IT clients; flat-rate residential pricing",
+    "website": "https://ttsquad.com/",
+    "phone": "(770) 843-9904",
+    "addresses": [],
+    "town": null,
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "The Technology Squad provides managed IT services, cybersecurity, network management, computer repair, and cloud solutions for businesses and homes in North Atlanta. It also offers website and SEO development, mobile and AI app development, and custom software development nationwide.",
+      "who_they_serve": "The company serves businesses and homes across North Atlanta, including Alpharetta, Milton, Johns Creek, Cumming, Sandy Springs, and Buckhead. Its Milton business clients include concierge medical practices, wealth management firms, luxury real estate brokerages, and boutique law offices, and its custom software work is described as nationwide.",
+      "how_they_work": "The company offers on-site and remote support, with 24/7 support for business clients and same-day or next-day appointments for residential clients. Its Milton materials describe fixed monthly pricing for business clients, flat-rate pricing for residential visits, and no contracts required for residential support.",
+      "what_stands_out": "The company states it has been in business since 2010 and that its technicians are certified. Its Milton business materials cite a 15-minute critical response time guarantee and a 99.9% uptime SLA for managed service clients."
+    },
+    "city": "atlanta",
+    "state": "georgia"
+  },
+  {
+    "slug": "century-solutions-group",
+    "name": "Century Solutions Group",
+    "summary": "Century Solutions Group is an Atlanta-area IT provider headquartered in Tyrone, Georgia, with a branch in Atlanta, serving small and medium businesses since 1996. Services include managed IT with 24/7 support, managed cybersecurity, cloud and Microsoft 365 administration, backup, VoIP, and structured cabling. The firm lists industry-focused offerings for accounting, legal, healthcare, construction, education and other sectors.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "hardware_procurement",
+      "structured_cabling"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "construction",
+      "manufacturing",
+      "nonprofit",
+      "education",
+      "real_estate",
+      "hospitality",
+      "professional_services"
+    ],
+    "compliance": [
+      "SOC 2",
+      "FINRA/SEC",
+      "GLBA",
+      "HIPAA"
+    ],
+    "partners": [
+      "AICPA SOC2 Certification",
+      "Cyber Verify Level 2 Certification"
+    ],
+    "foundedYear": 1996,
+    "teamSize": null,
+    "serviceArea": "Atlanta metro area, Tyrone and Fayette County, and the southeast United States",
+    "pricing": null,
+    "website": "https://centurygroup.net/",
+    "phone": "(770) 692-5576",
+    "addresses": [
+      "2675 Paces Ferry Road, Suite 120, Atlanta, GA 30339",
+      "1545 Senoia Road, Suite A, Tyrone, GA 30290"
+    ],
+    "town": "Atlanta",
+    "linkedin": "https://www.linkedin.com/company/century-solutions-group-inc./",
+    "writeup": {
+      "what_they_do": "Century Solutions Group is a managed IT service provider offering managed IT support, cybersecurity, cloud services (including IaaS, PaaS, SaaS, and hardware as a service), data backup, email security, networking, VoIP, Office 365 support, and IT consulting. Its services also include virtual CIO services, server colocation, managed print, structured cabling, and Wi-Fi network design and installation.",
+      "who_they_serve": "The company serves small and medium-sized businesses in the Atlanta metro area and the southeast United States, with a headquarters in Tyrone, Georgia and an Atlanta office. The site lists industry pages for accounting, construction, education, financial services, healthcare, hospitality, legal, manufacturing, marketing, non-profit, and real estate organizations.",
+      "how_they_work": "The site states 24/7 IT support available 365 days a year, a guaranteed 1-hour response time and 8-hour onsite time for support emergencies, and a free 30-minute cybersecurity consultation offered when prospects book a call. Managed plans are described as customized to each business rather than as packaged tiers, and the site says quotes are provided on request.",
+      "what_stands_out": "The company states it has been in business since 1996 and holds an AICPA SOC 2 certification and a Cyber Verify Level 2 certification. The site also cites a 99.7% response time service level agreement and a client attrition rate of less than 2%."
+    },
+    "city": "atlanta",
+    "state": "georgia"
+  },
+  {
+    "slug": "cloud-and-technology-solutions-inc",
+    "name": "Cloud and Technology Solutions, Inc.",
+    "summary": "Atlanta-area IT firm offering managed IT support, cybersecurity, Microsoft 365 administration, backup and recovery, and vCISO services. It serves healthcare, hospitality, professional services, public sector, retail and nonprofit clients, mainly across the Atlanta metro with some clients elsewhere in the U.S.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement"
+    ],
+    "industries": [
+      "healthcare",
+      "hospitality",
+      "professional_services",
+      "government",
+      "retail",
+      "nonprofit"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "NIST"
+    ],
+    "partners": [
+      "Fortinet",
+      "Dell",
+      "Nfina",
+      "Veeam",
+      "Microsoft",
+      "Apple",
+      "Juniper"
+    ],
+    "foundedYear": 2014,
+    "teamSize": null,
+    "serviceArea": "Atlanta metro: Alpharetta, Atlanta, Canton, Marietta, Roswell, Sandy Springs, Smyrna, Woodstock",
+    "pricing": null,
+    "website": "https://www.cloudandtechnologysolutions.com/",
+    "phone": "(470) 942-2226",
+    "addresses": [],
+    "town": null,
+    "linkedin": "https://www.linkedin.com/company/cloud-and-technology-solutions/?viewAsMember=true",
+    "writeup": {
+      "what_they_do": "Cloud and Technology Solutions, Inc. (CTS) provides managed IT services, cybersecurity, cloud solutions, infrastructure support, and security-led technology strategy. Its listed offerings include managed IT plans, co-managed IT, Microsoft 365 and Copilot services, business continuity and disaster recovery, AI readiness and strategy, and virtual CISO and compliance services.",
+      "who_they_serve": "The company serves businesses across the Atlanta metro area, including Alpharetta, Atlanta, Canton, Marietta, Roswell, Sandy Sprints, Smyrna, and Woodstock, and states it has also worked with organizations across the United States. Industries named on the site include healthcare, hospitality, professional services, public sector, retail, and nonprofit organizations.",
+      "how_they_work": "The company states that clients speak directly with engineers and that it offers U.S.-based support. Its healthcare page describes a process of assessing, designing a roadmap, implementing controls in phases, and then managing and reporting, and the site says solutions are tailored to each client rather than off-the-shelf.",
+      "what_stands_out": "The company says it has served clients since 2014 and lists partnerships with Fortinet, Dell, Nfina, Veeam, Microsoft, and Apple. Its healthcare offering references HIPAA-aligned controls and its vCISO service references frameworks including NIST CSF, CIS Controls, and HIPAA."
+    },
+    "city": "atlanta",
+    "state": "georgia"
+  },
+  {
+    "slug": "cybergate-it",
+    "name": "CyberGate IT",
+    "summary": "CyberGate IT is an Atlanta, Georgia based provider of outsourced IT support for small and mid-sized businesses. Services include 24/7 remote monitoring, help desk support, managed firewall and security services, backup and disaster recovery, and virtual CIO advisory. The company also offers co-managed IT alongside in-house teams and lists healthcare and retail among the sectors it supports.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "it_strategy_vcio",
+      "co_managed_it",
+      "voip_phones"
+    ],
+    "industries": [
+      "healthcare",
+      "retail"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [
+      "Ooma Office"
+    ],
+    "foundedYear": null,
+    "teamSize": "600+ technicians",
+    "serviceArea": "Atlanta, Georgia",
+    "pricing": null,
+    "website": "https://cybergateit.com/",
+    "phone": "(678) 486-4832",
+    "addresses": [
+      "99 Grove Park Lane, Woodstock, GA 30189"
+    ],
+    "town": "Woodstock",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "CyberGate IT is a managed IT services provider offering outsourced IT support, virtual CIO services, 24x7 monitoring and help desk support, and cybersecurity services such as managed firewall administration, dark web credential monitoring, vulnerability assessments, and business continuity and disaster recovery backup. The company also lists managed WiFi, cloud solutions, mobile device management, and HIPAA and PCI compliance services.",
+      "who_they_serve": "The company states it serves small and medium-sized businesses and has listed healthcare, finance, and retail among the industries it works with. Its site identifies Atlanta, Georgia as its location.",
+      "how_they_work": "The company offers flexible service plans ranging from fully managed IT support to co-managed services alongside in-house IT teams, and it describes remote monitoring and management for distributed teams. Its site also references a free estimate and a 24x7 U.S.-based help desk, but it does not publish pricing details or contract terms.",
+      "what_stands_out": "The company states it has a 24x7 U.S.-based help desk with over 600 technicians and assigns dedicated virtual CIOs to clients. Its cybersecurity bundle lists a dark web credential search, a network vulnerability test, and an onsite cyber security assessment, each with a stated value."
+    },
+    "city": "atlanta",
+    "state": "georgia"
+  },
+  {
+    "slug": "doyb-technical-solutions-inc",
+    "name": "DOYB Technical Solutions, Inc.",
+    "summary": "DOYB Technical Solutions is an IT service management firm with offices in Atlanta, Macon and Port St Joe, serving small and mid-sized businesses across Georgia and the Southeast. Its offerings span managed IT support, network and cyber security, backup and recovery, cloud services, VoIP, and vCIO/AI strategy consulting. The company says it works with clients in healthcare, finance and legal, and highlights HIPAA and CMMC work.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "manufacturing",
+      "nonprofit",
+      "government"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "SOC 2"
+    ],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Atlanta, Sandy Springs, Marietta, Johns Creek, Alpharetta, Roswell, Macon, GA and surrounding areas; offices also in Port St Joe, FL",
+    "pricing": null,
+    "website": "https://doybcyber.com/",
+    "phone": "(678) 369-2555",
+    "addresses": [
+      "6595 Roswell Road, STE G-2293, Atlanta, GA 30328",
+      "4658 Presential Pkwy, Ste 1139, Macon, GA 31206",
+      "209 Seventh St, Suite B, Port St. Joe, FL 32456"
+    ],
+    "town": "Atlanta",
+    "linkedin": "https://linkedin.com/company/doybtech",
+    "writeup": {
+      "what_they_do": "DOYB Technical Solutions, Inc. provides managed IT service management, network and computer security, cyber protection, backup and recovery, cloud IT services, and VoIP and unified communications. The company also offers a Cyber Security Risk Assessment and AI-enabled strategy services, including vCIO and vCAiO leadership and compliance support for frameworks such as HIPAA, SOC 2, and CMMC.",
+      "who_they_serve": "The company says it serves small and mid-sized businesses in healthcare, finance, legal, manufacturing, non-profit, and public sector organizations, with a focus on Metro Atlanta and surrounding areas including Macon, Johns Creek, Marietta, Sandy Springs, Alpharetta, and Roswell. It also states it works with government contractors seeking CMMC compliance.",
+      "how_they_work": "The company offers 24/7 support with a dedicated team assigned to each client, and its listed business hours are 8:00 am to 6:00 pm. Clients begin with a deep assessment, such as the CSRA or DOYB AI Ascend tiers, which produces a prioritized roadmap. The site lists offices in Atlanta, Macon, and Port St Joe, Florida, and mentions remote access for maintenance.",
+      "what_stands_out": "The company states it has more than 20 years of experience and reports over 750K tickets and events closed and a 100% client satisfaction rate, though these figures are self-reported on its website. It also highlights HIPAA, CMMC, and financial and legal cybersecurity experience and describes itself as operating with a faith-based set of core values."
+    },
+    "city": "atlanta",
+    "state": "georgia"
+  },
+  {
+    "slug": "harness-group",
+    "name": "Harness Group",
+    "summary": "Lawrenceville, Georgia-based IT provider offering flat-rate managed IT services, 24/7 remote monitoring, help desk support, and managed cybersecurity for small and medium-sized businesses across the Georgia area. Also covers cloud services, backup, VoIP, cabling and hardware, with a stated focus on accounting, education, engineering and manufacturing clients.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement",
+      "structured_cabling",
+      "computer_repair"
+    ],
+    "industries": [
+      "manufacturing",
+      "education",
+      "accounting_finance",
+      "engineering_architecture",
+      "logistics"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS"
+    ],
+    "partners": [
+      "Official Dell Dealer",
+      "Microsoft Partner Network"
+    ],
+    "foundedYear": 2012,
+    "teamSize": null,
+    "serviceArea": "Georgia area",
+    "pricing": "Flat-rate monthly IT budget",
+    "website": "https://www.harness.group/",
+    "phone": "(678) 609-8150",
+    "addresses": [
+      "1350 Progress Industrial Blvd Suite A, Lawrenceville, GA 30043"
+    ],
+    "town": "Lawrenceville",
+    "linkedin": "https://www.linkedin.com/company/harness-group-llc",
+    "writeup": {
+      "what_they_do": "Harness Group offers managed IT services in the Georgia area, acting as an outsourced IT department with 24/7 monitoring, remote and onsite technical support, and a flat-rate service. Its services also include cybersecurity, business continuity and data backup, cloud IT solutions, VoIP, hardware services, and IT consulting.",
+      "who_they_serve": "The company says it serves small and medium-sized businesses in the Georgia area, and its website cites clients including a CPA firm, a veterinary association, and a church. It also lists industry-specific offerings for manufacturing, education, accountants, engineers and architects, and supply chain and logistics.",
+      "how_they_work": "Managed services are offered on a flat monthly rate with a live help desk available without an extra fee, and the site says support is provided 24 hours a day, 7 days a week, with unlimited onsite visits possible. Support is available by phone, remote session, email ticket, or an online portal, and the company lists office hours of Monday to Friday, 9:00am to 6:00pm.",
+      "what_stands_out": "The company states it has served the Georgia area since 2012 and advertises a 99.9% server uptime figure and a flat-rate IT budget. Its cybersecurity offerings reference help meeting HIPAA, PCI DSS, and SOX compliance standards, and it is listed as an Official Dell Dealer."
+    },
+    "city": "atlanta",
+    "state": "georgia"
+  },
+  {
+    "slug": "it-solutions-and-network-design",
+    "name": "IT Solutions and Network Design",
+    "summary": "ITSD Services Inc. is an IT and network design firm based in Atlanta, Georgia, serving law firms and small businesses across Georgia and Florida. It offers help desk and on-site support, 24/7 monitoring, cybersecurity, network design, Microsoft 365 and cloud management, VoIP phones and camera systems, with fixed monthly plans. The firm is also registered on SAM.gov and pursues government IT contracts.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "legal",
+      "healthcare",
+      "dental",
+      "accounting_finance",
+      "construction",
+      "engineering_architecture",
+      "government",
+      "real_estate",
+      "professional_services",
+      "retail"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "NIST"
+    ],
+    "partners": [
+      "SAM.gov Registered"
+    ],
+    "foundedYear": null,
+    "teamSize": "3 dedicated specialists",
+    "serviceArea": "Georgia and Florida, 18 cities including Tucker, Marietta, Atlanta, Sandy Springs, Decatur, Naples, Fort Myers, Miami and Fort Lauderdale",
+    "pricing": "Fixed monthly IT plans",
+    "website": "https://itsolutionsanddesign.com/",
+    "phone": "(404) 981-2541",
+    "addresses": [
+      "8735 Dunwoody Place, Ste R, Atlanta, GA 30350"
+    ],
+    "town": "Atlanta",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "IT Solutions and Network Design (ITSD Services Inc.) provides managed IT support, cybersecurity, network setup and management, cloud solutions, VoIP phone systems, camera surveillance, and IT consulting. Its help desk offers remote and on-site support, along with proactive system monitoring.",
+      "who_they_serve": "The company serves law firms and small businesses, and says it also works with healthcare offices, professional services firms, real estate and property groups, and government contractors. Its service area covers Georgia and Florida, with listed locations including Tucker, Marietta, Atlanta, Sandy Springs, Decatur, Naples, Fort Myers, Miami, and Fort Lauderdale.",
+      "how_they_work": "The company offers a free IT assessment as the first step, followed by a custom plan and onboarding, and it describes fixed monthly IT plans with no distance surcharges within its service area. Remote help desk support is listed for business hours, with 24/7 monitoring and emergency after-hours support for Professional and Enterprise clients.",
+      "what_stands_out": "ITSD Services Inc. is registered on SAM.gov for government IT contracts, with NAICS codes 541512, 541519, 541690, and 561621. The website states 15+ years of combined experience across three named specialists and cites a 98% client uptime rate."
+    },
+    "city": "atlanta",
+    "state": "georgia"
+  },
+  {
     "slug": "connections-for-business-fort-lauderdale",
     "name": "Connections for Business",
     "summary": "Connections for Business is a South Florida IT provider based in Hollywood that offers fixed-fee managed IT with a 24/7 help desk, network operations center monitoring, onsite field services, and virtual CIO planning. It also covers cybersecurity, Microsoft 365, backups and disaster recovery, and telephony, and works with law firms and financial services clients among others.",
@@ -1639,7 +2993,7 @@
     "website": "https://www.bizbyteit.com/",
     "phone": "(754) 900-9498",
     "addresses": [
-      ", Fort Lauderdale, FL"
+      "Fort Lauderdale, FL"
     ],
     "town": "Fort Lauderdale",
     "linkedin": null,
@@ -10217,7 +11571,7 @@
     "website": "https://advancedbusinessnetworking.com/",
     "phone": "(689) 689-3525",
     "addresses": [
-      "1035 Greenwood Blvd, Ste 275, , FL 32746"
+      "1035 Greenwood Blvd, Ste 275, FL 32746"
     ],
     "town": null,
     "linkedin": null,

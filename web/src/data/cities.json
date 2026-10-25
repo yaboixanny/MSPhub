@@ -1,5 +1,28 @@
 [
   {
+    "slug": "atlanta",
+    "name": "Atlanta",
+    "state": "georgia",
+    "stateName": "Georgia",
+    "stateCode": "GA",
+    "areas": [
+      "Atlanta",
+      "Alpharetta",
+      "Marietta",
+      "Sandy Springs",
+      "Roswell",
+      "Duluth",
+      "Kennesaw",
+      "Peachtree Corners",
+      "Norcross",
+      "Lawrenceville",
+      "Decatur",
+      "Smyrna"
+    ],
+    "count": 26,
+    "updated": "2026-10-25"
+  },
+  {
     "slug": "fort-lauderdale",
     "name": "Fort Lauderdale",
     "state": "florida",

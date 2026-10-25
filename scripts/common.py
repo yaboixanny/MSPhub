@@ -69,7 +69,10 @@ def top_candidates(config, places):
 
     All listings for a selected website are kept, so they can be merged later.
     """
-    eligible = [place for place in places if place["website"] and in_radius(config, place)]
+    # Web-search discovery has no coordinates; those candidates were found by
+    # searches scoped to the metro's towns, so they count as in the area.
+    eligible = [place for place in places
+                if place["website"] and (not place.get("lat") or in_radius(config, place))]
     limit = config.get("max_candidates", DEFAULT_MAX_CANDIDATES)
     if limit is None:
         return eligible

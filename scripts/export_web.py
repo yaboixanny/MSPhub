@@ -54,13 +54,40 @@ def company_identity(city, name, website):
     return (city, name.lower().strip(), domain)
 
 
+# A company name made of the city plus service words is usually a lead-generation
+# site ("Managed IT Services Atlanta GA"), not an MSP.
+GENERIC_NAME_WORDS = {"managed", "it", "services", "service", "support", "computer", "tech", "msp", "company", "network"}
+
+
+def looks_generic(name, config):
+    words = set(name.lower().replace(",", " ").split())
+    return config["city"].lower() in name.lower() and len(words & GENERIC_NAME_WORDS) >= 2
+
+
+def is_local(base, row, contact, config, metro_towns):
+    """New listings must show they're in the metro: an office in one of its towns, or,
+    if the site lists no address, the metro named in its pages and a real company name.
+    (Discovery by web search has no coordinates, so national firms and lead-generation
+    sites with city landing pages would otherwise slip in.)"""
+    if contact["addresses"]:
+        return any(town_key(address["city"]) in metro_towns for address in contact["addresses"])
+    if looks_generic(contact["company_name"], config):
+        return False
+    site_path = base / "sites" / f"{row['place_id']}.json"
+    if not site_path.exists():
+        return False
+    text = " ".join(page["text"] for page in json.loads(site_path.read_text())["pages"]).lower()
+    return config["city"].lower() in text
+
+
 def load_writeup(base, place_id):
     path = base / "writeup" / f"{place_id}.json"
     return json.loads(path.read_text()).get("writeup") if path.exists() else None
 
 
 def format_address(address):
-    line = f"{address['street']}, {address['city']}, {address['state']}"
+    parts = [address["street"].strip(), address["city"].strip(), address["state"].strip()]
+    line = ", ".join(part for part in parts if part)
     return f"{line} {address['postal_code']}" if address.get("postal_code") else line
 
 
@@ -89,7 +116,7 @@ def main():
                     if row["is_msp"] == "yes" and not row["needs_review"]]
 
         # Town key -> the config's spelling, which is what the site displays.
-        metro_towns = {town_key(area): area for area in config["areas"]}
+        metro_towns = {town_key(area): area for area in config["areas"] + config.get("nearby_towns", [])}
         # One profile per company per metro, even when it was found twice with
         # different website pages (e.g. its homepage and a services page).
         by_company = {}
@@ -105,6 +132,9 @@ def main():
             identity = company_identity(config["slug"], contact["company_name"], clean_url(record["website"]))
             company_key = identity[1:]
             previous_slug = previous.get(identity) or previous.get((config["slug"], row["place_id"]))
+            if previous_slug is None and not is_local(base, row, contact, config, metro_towns):
+                print(f"  skipped {contact['company_name']}: no sign of an office in {config['city']}, {config['state_code']}")
+                continue
             if company_key in by_company:
                 existing = by_company[company_key]
                 if previous_slug and previous_slug != existing["slug"]:
