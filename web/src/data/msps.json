@@ -1687,6 +1687,1225 @@
     "state": "florida"
   },
   {
+    "slug": "gamma-tech",
+    "placeId": "ChIJg6FiXgUc24gRohiLUjR8y4o",
+    "name": "Gamma Tech",
+    "summary": "Naples, Florida technology company founded in 2004 that provides managed IT, helpdesk, 24/7 security monitoring, and business phone systems to businesses in Southwest Florida. The firm also does audio/video, commercial security, and residential smart home installations. The site says it has particular experience with healthcare and construction clients.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "construction"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "PCI DSS",
+      "FTC Safeguards",
+      "GLBA",
+      "NIST"
+    ],
+    "partners": [
+      "Dell Premier Partner",
+      "Kaseya Partner",
+      "Channel Futures MSP 501 2026 (No. 456)",
+      "Gulfshore Business Best in Business 2024 (IT Service Contractor)"
+    ],
+    "foundedYear": 2004,
+    "teamSize": "35+ people on Naples team",
+    "serviceArea": "Southwest Florida, including Naples and Fort Myers",
+    "pricing": "Per-user pricing model",
+    "website": "https://www.gammatechservices.com/",
+    "phone": "(239) 330-4939",
+    "addresses": [
+      "3106 Horseshoe Dr S, Naples, FL 34104"
+    ],
+    "town": "Naples",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "Gamma Tech is a family-owned technology company in Naples, Florida that offers managed IT services, including helpdesk, monitoring, Microsoft 365 and backup, alongside cybersecurity with 24/7/365 security operations monitoring, business phone systems (GTVoice), commercial audio and video, commercial security, and AI and custom apps. The company also provides home technology such as home theater, whole-home music, smart home automation, lighting control, home security, and motorized shades.",
+      "who_they_serve": "The company serves homeowners and businesses across Southwest Florida, with its managed IT offering stating over 110 businesses supported. The site says it has significant expertise in healthcare and construction, and its cybersecurity page references HIPAA, CMMC, PCI DSS and other compliance frameworks.",
+      "how_they_work": "Managed IT is priced per user rather than per endpoint, and helpdesk hours are 7:00 AM to 6:00 PM Monday through Friday with Saturday and custom hours available and monitoring 24/7. Services include onsite and remote support, and the site describes a four-step onboarding process beginning with an assessment. The site also states a 1-year contract with a 60-day opt-out option for new clients.",
+      "what_stands_out": "The company was founded in 2004 by Bradd Konert and reports 35+ team members, a No. 456 ranking on the 2026 Channel Futures MSP 501, and Dell Premier Partner and Kaseya Partner status. The site also lists a free $300 cybersecurity assessment and a stated response time goal of under one hour for IT tickets."
+    },
+    "city": "fort-myers",
+    "state": "florida"
+  },
+  {
+    "slug": "cmit-solutions-of-fort-myers-south",
+    "placeId": "ChIJRZw5v-9t24gRtGhqWju6jWs",
+    "name": "CMIT Solutions of Fort Myers South",
+    "summary": "CMIT Solutions of Fort Myers South is a franchise location of the national CMIT network serving Fort Myers, Lehigh Acres and surrounding Southwest Florida businesses. It offers proactive managed IT with 24/7 monitoring, help desk support, cybersecurity, cloud and Microsoft 365 management, backup and recovery, and compliance support. The site states it is locally owned and draws on the wider CMIT national network for resources.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement",
+      "voip_phones"
+    ],
+    "industries": [
+      "healthcare",
+      "insurance",
+      "retail",
+      "logistics",
+      "legal",
+      "accounting_finance",
+      "construction",
+      "manufacturing",
+      "education",
+      "hospitality",
+      "nonprofit",
+      "real_estate",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "NIST",
+      "PCI DSS",
+      "FINRA/SEC"
+    ],
+    "partners": [
+      "ConnectWise Partner of the Year",
+      "Microsoft 365 (cloud services)"
+    ],
+    "foundedYear": null,
+    "teamSize": "900+ technology practitioners across the CMIT network; 250+ locations in North America",
+    "serviceArea": "Fort Myers South, Lehigh Acres, Lee & Collier counties, Southwest Florida",
+    "pricing": null,
+    "website": "https://cmitsolutions.com/fortmyers-fl-1214/",
+    "phone": "(239) 938-5943",
+    "addresses": [
+      "4213 Lee Blvd, Lehigh Acres, FL 33971"
+    ],
+    "town": "Lehigh Acres",
+    "linkedin": "https://www.linkedin.com/company/13222/",
+    "writeup": {
+      "what_they_do": "CMIT Solutions of Fort Myers South offers managed IT services including proactive monitoring, help desk and technical support, network management, cybersecurity, cloud and Microsoft 365 services, data backup and recovery, compliance support, and IT guidance and procurement. The company is part of a nationwide CMIT Solutions franchise network.",
+      "who_they_serve": "The company serves local businesses in Fort Myers, Lehigh Acres, and Lee and Collier counties in Southwest Florida. The site also references work with businesses across industries including healthcare, finance, insurance, and retail, and says the wider network has 250+ locations in North America.",
+      "how_they_work": "The company offers support by phone, remote session, or on-site in Fort Myers, with 24/7 monitoring and a free, no-obligation assessment as the starting point. Packages are referenced on the site, but specific pricing terms are not stated.",
+      "what_stands_out": "The company states it has been a Franchise 500 listing on Entrepreneur Magazine for more than a decade and was named ConnectWise Partner of the Year. The site also claims a 99.9% uptime guarantee and cites a local Best of Fort Myers award for computer support and services."
+    },
+    "city": "fort-myers",
+    "state": "florida"
+  },
+  {
+    "slug": "ironcoast-it",
+    "placeId": "ChIJwcGi1fhB24gR0xjKlWJHlDI",
+    "name": "IronCoast IT",
+    "summary": "Family-run IT company serving businesses and homes across Southwest and South Florida, with a focus on managed IT support, monitoring and helpdesk, Microsoft 365, cloud, and networking. Offers tiered monthly support packages and a security operations and Cyber Essentials service, and also handles cabling, VoIP, CCTV and access control. Some site content references UK and Essex operations.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement",
+      "structured_cabling",
+      "web_design"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "insurance",
+      "construction",
+      "manufacturing",
+      "engineering_architecture",
+      "nonprofit",
+      "education",
+      "government",
+      "real_estate",
+      "retail",
+      "automotive",
+      "professional_services"
+    ],
+    "compliance": [],
+    "partners": [
+      "Microsoft 365",
+      "Datto",
+      "Ubiquiti UniFi",
+      "Cyber Essentials"
+    ],
+    "foundedYear": 2014,
+    "teamSize": null,
+    "serviceArea": "Southwest and South Florida, including Fort Myers, Naples, Cape Coral, Bonita Springs and Palm Beach Gardens",
+    "pricing": "Monthly per-machine pack pricing (e.g. 30.00 per machine/month Pay & Go), annual packages, and hourly on-site rates",
+    "website": "https://ironcoastit.com/",
+    "phone": "(850) 655-6076",
+    "addresses": [],
+    "town": null,
+    "linkedin": "https://www.linkedin.com/company/ironcoastitus",
+    "writeup": {
+      "what_they_do": "IronCoast IT offers managed IT services covering 24/7 monitoring and helpdesk support, remote and on-site IT support, cybersecurity (including vulnerability assessments, a Security Operations Centre and Cyber Essentials certification), Microsoft 365, cloud and hosting, VoIP, networking, and IT leasing and office relocation. The company also lists CCTV, access control and print management among its services.",
+      "who_they_serve": "The company states it serves businesses and homes across a 150-mile radius of Southwest and South Florida, including Fort Myers, Naples, Cape Coral, Bonita Springs and Palm Beach Gardens. Industries named include manufacturing, healthcare, automotive dealerships, education, professional services, retail, nonprofits and law firms, mainly small to mid-sized organizations. Some pages also reference the UK, Essex and London.",
+      "how_they_work": "Support is offered 24/7 with remote and on-site options. Pricing is listed as per-machine monthly packages, hourly rates for on-site and after-hours work, and a per-mile travel charge within a 100-mile radius, with some packages described as non-contractual.",
+      "what_stands_out": "The company describes itself as family-owned and family-run, with a founding date of 2014 in the UK and a stated 17-year history. It advertises a money-back or 100% satisfaction guarantee and reports a 99.34% SLA target figure on its homepage."
+    },
+    "city": "fort-myers",
+    "state": "florida"
+  },
+  {
+    "slug": "techiest-inc",
+    "placeId": "ChIJw8P6pGs_24gRKpgP7LJu_JI",
+    "name": "techiest, inc.",
+    "summary": "Techiest, inc. is a Fort Myers, Florida managed service provider serving small and medium-sized businesses across Lee County and the state. Offerings include managed IT packages, cybersecurity assessments and training, network and cloud services, disaster recovery planning, co-managed IT support for in-house departments, and healthcare provider support.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Lee County and Fort Myers/Cape Coral, Florida; site also says statewide",
+    "pricing": null,
+    "website": "https://techiest.com/",
+    "phone": "(877) 280-4915",
+    "addresses": [
+      "13031 McGregor Blvd. Suite 15, Ft. Myers, FL 33919"
+    ],
+    "town": null,
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "techiest, inc. is a managed IT service provider offering managed IT services, cybersecurity services, network solutions, cloud services, disaster recovery planning, and AI consultation. Its managed packages include monitoring and maintenance, managed antivirus, server backups, and 24x7 network monitoring. It also offers co-managed solutions that work alongside a client's existing IT staff.",
+      "who_they_serve": "The company serves small and medium sized businesses in Lee County, Florida, with its site also referring to services for the state of Florida and to Fort Myers and Cape Coral businesses. It names healthcare providers, professional service businesses, and clubhouses among the groups it works with, and states it supports organizations from about 10 people to hundreds.",
+      "how_they_work": "The company offers tiered, scalable managed packages and co-managed services with a predictable cost structure. Support is available 24 hours a day, 7 days a day, 52 weeks a year according to the Why techiest page, while the contact section lists assistance hours of Monday to Friday, 8:00am to 5:00pm. Security risk assessments are offered to non-clients as well as existing customers, with pricing discussed with a technician.",
+      "what_stands_out": "The company states it has been in business for decades, with founders Mike Mannella and Jonathan Ledley who have worked in IT since high school. It describes a security-focused approach that includes cybersecurity awareness training, security risk assessments, and multi-factor authentication support for healthcare clients."
+    },
+    "city": "fort-myers",
+    "state": "florida"
+  },
+  {
+    "slug": "acarte-technology-services-inc",
+    "placeId": "ChIJCVHXBOhB24gRe_8s1jteWC4",
+    "name": "Acarte Technology Services, Inc.",
+    "summary": "Fort Myers-based IT firm offering managed IT, co-managed IT, cloud, business continuity, security and VoIP services to small businesses across Southwest Florida. It states it is independent of hardware and software vendors and offers flat-rate monitoring and maintenance plans. Lists offices in Fort Myers and Cape Coral, with a Georgia location listed as coming soon.",
+    "services": [
+      "managed_it",
+      "co_managed_it",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "hardware_procurement",
+      "it_strategy_vcio"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [
+      "MSPAlliance member",
+      "The ASCII Group member"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Southwest Florida including Fort Myers, Naples, Cape Coral, Estero, Port Charlotte, Punta Gorda, Lee County, Charlotte County and Collier County",
+    "pricing": "Flat rate IT and managed services billed monthly",
+    "website": "https://acarte.com/",
+    "phone": "(239) 333-2000",
+    "addresses": [
+      "2271 McGregor Blvd, Suite 300, Fort Myers, FL 33901",
+      "71 Mid Cape Terrace, Suite 3, Cape Coral, FL 33991"
+    ],
+    "town": "Fort Myers",
+    "linkedin": "https://www.linkedin.com/company/acartetechnology",
+    "writeup": {
+      "what_they_do": "Acarte Technology Services, Inc. is a managed IT service provider offering proactive management and monitoring of IT infrastructure, along with security solutions, VoIP, and services such as network administration, virtualization, cloud services, CAD management, and hardware and software sales. The company also offers business continuity, co-managed IT, and disaster planning services.",
+      "who_they_serve": "The company works with businesses across Southwest Florida, including Fort Myers, Naples, Cape Coral, and surrounding areas in Lee, Charlotte, and Collier counties. The site also notes a coming office in Blairsville, GA.",
+      "how_they_work": "The company offers flat rate IT and managed services, proactive maintenance plans with remote monitoring and scheduled visits, and services on an as-needed basis. It also offers a no-commitment Technology Assessment and a free consultation, and states it is independent of any hardware or software supplier.",
+      "what_stands_out": "The company describes 24/7 network monitoring and is an active member of the MSPAlliance, the ASCII Group, and the Association of Computer Repair Business Owners. The site also states that the company has merged with Junopi."
+    },
+    "city": "fort-myers",
+    "state": "florida"
+  },
+  {
+    "slug": "noc-out-networks",
+    "placeId": "ChIJxTAf2goV24gRBkHnN6wBk2U",
+    "name": "Noc Out Networks",
+    "summary": "Locally owned IT provider in Cape Coral, Florida, offering monitored managed IT, help desk, managed network and firewall services, and managed cybersecurity for small and mid-sized businesses across Lee County. Also handles low voltage wiring, audio/video integration, security camera installation and VoIP phone systems.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "compliance_services",
+      "structured_cabling",
+      "computer_repair"
+    ],
+    "industries": [
+      "healthcare",
+      "professional_services",
+      "retail",
+      "manufacturing"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS"
+    ],
+    "partners": [
+      "Certified Security"
+    ],
+    "foundedYear": 1999,
+    "teamSize": null,
+    "serviceArea": "Cape Coral, Fort Myers, Naples, Bonita Springs and Lee County, Southwest Florida",
+    "pricing": null,
+    "website": "https://nocoutnetworks.com/",
+    "phone": "(239) 437-4357",
+    "addresses": [
+      "3108 Del Prado Blvd S, Cape Coral, FL 33904",
+      "1234 SE 47th Terrace, Cape Coral, FL 33904"
+    ],
+    "town": "Cape Coral",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "Noc Out Networks is a managed IT services provider offering 24/7 monitoring, maintenance and updates, help desk and remote support, and on-site IT support. Its services also include managed network design and management, cybersecurity such as endpoint detection and response and managed firewalls, cloud solutions like Microsoft 365 and cloud backup, and low voltage, audio/video, security camera installation, and VoIP phone systems.",
+      "who_they_serve": "The company serves small and mid-sized businesses in Cape Coral and Southwest Florida, including throughout Lee County, with the site naming professional services firms, healthcare practices, retail operations, and manufacturing facilities among the industries it works with. It also references service locations in Fort Myers, Naples, and Bonita Springs.",
+      "how_they_work": "The company offers a help desk reachable by phone, email, or portal ticket, with stated response targets of 15 minutes for urgent issues and two hours for standard requests during business hours. It maintains a mix of remote support and on-site visits, with maintenance generally scheduled during off-hours, and says it can serve as a complete IT department or supplement an existing internal team.",
+      "what_stands_out": "The company states it has been in business since 1999 and is locally owned and based in Cape Coral, and the site mentions certified security and local partnerships. It also says it uses a discovery, strategy, implementation, and training process for its network and security engagements."
+    },
+    "city": "fort-myers",
+    "state": "florida"
+  },
+  {
+    "slug": "safebox-technology",
+    "placeId": "ChIJpT9-c7Go24gROHzbxIiqLIw",
+    "name": "Safebox Technology",
+    "summary": "Safebox Technology is a Southwest Florida IT provider offering fully managed and co-managed IT, managed cybersecurity, Microsoft 365 and cloud administration, VoIP phone systems, and infrastructure upgrades. It serves businesses with roughly 20 to 500 employees, with a focus on healthcare, construction, professional services, and multi-location operations. The firm also offers fractional CIO and CISO leadership and advertises a 15-minute response commitment for managed clients.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "construction",
+      "manufacturing",
+      "logistics",
+      "professional_services",
+      "accounting_finance",
+      "legal",
+      "retail",
+      "nonprofit"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [
+      "Microsoft Solutions Partner"
+    ],
+    "foundedYear": 2016,
+    "teamSize": null,
+    "serviceArea": "Naples, Southwest Florida, with remote and onsite support; also lists Tampa, Dallas, Fort Myers, Nashville and nationwide service",
+    "pricing": "Managed cybersecurity typically starts around $750 per month for a smaller business environment, priced by users and endpoints; one predictable monthly investment for managed IT",
+    "website": "https://www.safeboxtech.com/naples-it-services/",
+    "phone": "(239) 778-0808",
+    "addresses": [
+      "5262 Golden Gate Parkway, STE 1, Naples, FL 34116",
+      "100 S. Ashley Drive, Suite 600, Tampa, FL 33602",
+      "325 N. St Paul St, Suite 3100, Dallas, TX 75201",
+      "3200 West Ave, Suite 500, Nashville, TN 37203"
+    ],
+    "town": "Naples",
+    "linkedin": "https://www.linkedin.com/company/safebox-technology-llc/",
+    "writeup": {
+      "what_they_do": "Safebox Technology provides fully managed and co-managed IT services, along with cybersecurity, Microsoft 365 and Microsoft solutions, cloud services, VoIP phone systems, infrastructure upgrades, and IT staff augmentation. Its managed offering, branded Safebox 360, includes 24/7 monitoring, helpdesk support, patch and backup management, and strategic IT planning such as quarterly planning and roadmap development.",
+      "who_they_serve": "The company says it serves organizations with 20 to 500 employees across construction, healthcare, CPA and financial services, legal, professional services, retail and service operations, non-profits, and multi-site businesses. Its core market is Naples and Southwest Florida, with remote and onsite support across the region, and its website also references clients in multiple states and nationwide.",
+      "how_they_work": "Support is offered remotely and onsite, with a 15-minute response SLA for managed clients and business hours listed as Monday to Friday, 8:00am to 6:00pm ET. The company describes a single predictable monthly price for managed services, and its FAQ states that managed cybersecurity typically starts around $750 per month for smaller environments, with pricing based on users, endpoints, and compliance needs.",
+      "what_stands_out": "The company states it has been operating since 2016, has a CEO who previously served as CIO of a global enterprise technology company, and offers a Cybersecurity Risk Assessment and Fractional CISO leadership. Its website also lists a 15-minute response SLA guarantee and several recent awards, including a 2026 FLCAJ Readers' Choice Platinum Award."
+    },
+    "city": "fort-myers",
+    "state": "florida"
+  },
+  {
+    "slug": "it-s-it-solutions",
+    "placeId": "ChIJA5yrgw9G24gR3SA41uxIWAA",
+    "name": "IT's IT Solutions",
+    "summary": "IT's IT LLC is a Cape Coral firm offering outsourced IT management, monitoring, help desk, cybersecurity and backup services to businesses across Southwest Florida. It also provides network design, VoIP phone systems, on-demand CIO services and AI consulting. The firm lists healthcare, legal, financial, manufacturing, construction, non-profit, retail and real estate among the industries it serves.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "manufacturing",
+      "construction",
+      "nonprofit",
+      "retail",
+      "hospitality",
+      "real_estate",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS",
+      "FINRA/SEC"
+    ],
+    "partners": [
+      "Bitdefender",
+      "Untangle",
+      "Inky",
+      "ID Agent",
+      "UniFi",
+      "Microsoft Copilot"
+    ],
+    "foundedYear": 2010,
+    "teamSize": null,
+    "serviceArea": "Cape Coral, Fort Myers, Naples, Bonita Springs, Estero, Lehigh Acres, Sanibel Island, Marco Island, Punta Gorda, Port Charlotte and all of Southwest Florida",
+    "pricing": null,
+    "website": "https://www.itsitllc.com/",
+    "phone": "(239) 935-9891",
+    "addresses": [
+      "2503 Del Prado Blvd S, Suite 405, Cape Coral, FL 33904"
+    ],
+    "town": "Cape Coral",
+    "linkedin": "https://www.linkedin.com/company/it's-it-llc/",
+    "writeup": {
+      "what_they_do": "IT's IT Solutions is a Cape Coral managed IT provider offering 24/7/365 IT management and monitoring, cybersecurity with dark web monitoring, network engineering, help desk and remote support, disaster recovery and backups, and IT consulting. The company also offers on-demand CIO/CTO leadership, VoIP telecommunications, and AI consulting and managed AI services such as Microsoft Copilot deployment.",
+      "who_they_serve": "The company serves small to medium businesses across Southwest Florida, including Cape Coral, Fort Myers, Naples, Bonita Springs, Estero, Lehigh Acres, Sanibel Island, Marco Island, Punta Gorda and Port Charlotte. Its site lists industry focus areas including healthcare, legal, financial services, manufacturing, construction, non-profit, retail and hospitality, real estate, and professional services.",
+      "how_they_work": "The company begins with a free technology analysis that includes an on-site consultation, followed by an assessment summary, implementation, and ongoing support. The site describes both on-site and remote support and states the company does not lock clients into contracts they don't need, though specific pricing and contract terms are not listed.",
+      "what_stands_out": "The company states it has been operating since 2010 and reports a 15-minute average support response time, with a security page claiming zero clients have suffered a successful ransomware attack under its watch. Founder Dennis Shelton is listed with 25+ years of experience, and staff hold certifications including CompTIA, ISC2 and ITIL."
+    },
+    "city": "fort-myers",
+    "state": "florida"
+  },
+  {
+    "slug": "sjc-technology-inc",
+    "placeId": "ChIJyS3m95xG24gRqHJZCmxJsnA",
+    "name": "SJC Technology Inc.",
+    "summary": "Fort Myers-area IT company founded in 2009 and Veteran-owned, offering monthly managed IT with network monitoring, backup and disaster recovery, cloud and Microsoft 365 support, hosted VoIP, and onsite computer repair. Also offers SJC Sync, a data sharing and sync service for businesses.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "backup_disaster_recovery",
+      "cloud_microsoft_365",
+      "network_infrastructure",
+      "voip_phones",
+      "computer_repair"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": 2009,
+    "teamSize": null,
+    "serviceArea": "Fort Myers, FL area (Estero, Cape Coral location listed)",
+    "pricing": "One consistent monthly price for managed IT services",
+    "website": "https://www.sjctech.com/",
+    "phone": "(239) 324-9039",
+    "addresses": [
+      "2131 SE 15th Street, Cape Coral, FL 33990",
+      "1919 Courtney Dr Suite 15, Ft. Myers, FL 33901"
+    ],
+    "town": "Cape Coral",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "SJC Technology Inc. offers managed IT services, including network monitoring, backup and disaster recovery, cloud computing, VoIP phone, Microsoft Office 365 setup, and computer repair. The company describes its managed services as outsourced day-to-day computer network management, with network monitoring and maintenance under a fixed monthly price.",
+      "who_they_serve": "The website does not specify the size or industries of the businesses the company serves. It lists office locations in Fort Myers and Cape Coral, Florida, and an About page referencing Estero, FL.",
+      "how_they_work": "The company states clients pay one consistent monthly price for continuous network monitoring and maintenance, and it tailors services to each client's requirements and budget. It offers a free site survey, a free consultation, and a free trial for its SJC Sync data-sharing service. Onsite computer repair is referenced on the About page.",
+      "what_stands_out": "SJC Technology, Inc. was founded in 2009 and is Veteran-owned. It also offers SJC Sync, a service for sharing and syncing business data across multiple platforms."
+    },
+    "city": "fort-myers",
+    "state": "florida"
+  },
+  {
+    "slug": "jk-technology-solutions",
+    "placeId": "ChIJ9VCbhxIX24gRw0kZdMYwn5k",
+    "name": "JK Technology Solutions",
+    "summary": "JK Technology Solutions is the managed IT division of JK Consulting, serving small and mid-sized organizations with monitoring, help desk, cybersecurity, cloud, network infrastructure and compliance services. It runs offices in Lockport, Illinois and Bonita Springs, Florida and works with clients across many US states. Its sister division JK Computers handles retail and repair.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement",
+      "structured_cabling"
+    ],
+    "industries": [
+      "healthcare",
+      "dental",
+      "legal",
+      "manufacturing",
+      "logistics",
+      "construction",
+      "real_estate",
+      "insurance",
+      "nonprofit",
+      "government",
+      "engineering_architecture",
+      "accounting_finance",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "NIST",
+      "CMMC",
+      "PCI DSS"
+    ],
+    "partners": [
+      "ScalePad Partner of the Year 2023",
+      "DOD Information Security Assurance Level 2",
+      "ID Agent MSP Certification",
+      "IT Glue Certified Pro Administrator Level 2",
+      "Microsoft Certified Solutions Associate",
+      "CompTIA A+",
+      "ITIL Certified"
+    ],
+    "foundedYear": 2004,
+    "teamSize": null,
+    "serviceArea": "Offices in Lockport, Illinois and Bonita Springs, Florida; clients across 20+ or 27 US states",
+    "pricing": "Fixed-fee managed IT services",
+    "website": "https://jkconsulting.com/",
+    "phone": "(866) 634-9633",
+    "addresses": [
+      "24860 Burnt Pine Drive, Suite 3, Bonita Springs, FL 34135",
+      "16618 W 159th St, Unit 401, Lockport, IL 60441",
+      "990 E 9th Street, Lockport, IL 60441"
+    ],
+    "town": "Bonita Springs",
+    "linkedin": "https://www.linkedin.com/company/jk-computer-consulting/",
+    "writeup": {
+      "what_they_do": "JK Technology Solutions, a division of JK Consulting, provides managed IT services including 24/7 help desk support, cybersecurity, compliance (Compliance as a Service covering HIPAA, NIST, CMMC, ISO 27001, PCI DSS and GDPR), cloud services, network infrastructure, and Microsoft 365 management. Its offerings also include network cabling, Wi-Fi design, VoIP phone systems, server services, data recovery, and website design, and its sister division JK Computers sells and services business-class computers.",
+      "who_they_serve": "The company states it serves small and mid-sized businesses across a range of industries, including healthcare and dental practices, legal and professional services, manufacturing, logistics, construction, real estate, financial and insurance services, nonprofits, and local government. It says it works with organizations in 20+ or 27 U.S. states, operating from offices in Lockport, Illinois and Bonita Springs, Florida.",
+      "how_they_work": "The site describes fixed-fee managed IT pricing and a 24/7 USA-based help desk staffed by its own technicians, with remote and onsite support options. Onboarding is handled through a discovery call, and the company offers a free telecom and network assessment.",
+      "what_stands_out": "The company states it has operated since 2004 and lists certifications held by its team, including CompTIA, ITIL, Microsoft and DOD Information Assurance Level 2. It also reports being named a 2023 ScalePad Partner of the Year and states an average ticket resolution time under 30 minutes, though these figures are self-reported on its website."
+    },
+    "city": "fort-myers",
+    "state": "florida"
+  },
+  {
+    "slug": "jamko-it-services",
+    "placeId": "ChIJZWqfx_Rt24gR6zpz5JcJ92E",
+    "name": "JamKo IT Services",
+    "summary": "JamKo IT Services, also known as JamKo Force Networks, provides managed IT, cybersecurity, help desk, backup and recovery, Microsoft 365 and business VoIP for small and midsize businesses. It serves professional practices, healthcare offices, construction, insurance, logistics and metals manufacturing clients across Southwest Florida, Northeast Pennsylvania and North Jersey/New York.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "voip_phones",
+      "network_infrastructure"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "construction",
+      "insurance",
+      "logistics",
+      "automotive",
+      "manufacturing",
+      "real_estate",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS",
+      "FINRA/SEC"
+    ],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Southwest Florida (Fort Myers, Naples, Cape Coral), Northeast Pennsylvania (Scranton, Wilkes-Barre, The Poconos), and North Jersey & New York",
+    "pricing": null,
+    "website": "https://jamkoforcenetworks.com/",
+    "phone": "(239) 249-3306",
+    "addresses": [
+      "12221 Towne Lake Dr. Ste A #102, Fort Myers, FL 33913"
+    ],
+    "town": "Fort Myers",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "JamKo IT Services, also known as JamKo Force Networks, provides managed IT, cybersecurity, and business VoIP phone systems for small and midsize businesses. Its listed services include help desk support, data backup and recovery, Microsoft 365 and cloud services, risk assessment and security planning, and endpoint detection and response (EDR).",
+      "who_they_serve": "The company works with professional practices such as legal, accounting, medical and veterinary offices, construction and real estate firms, community association managers, insurance and financial services, logistics and automotive businesses, and metals and fastener manufacturers and distributors. Its main locations serve Southwest Florida and Northeast Pennsylvania, with coverage extending through North Jersey, New York City, and parts of southern New York.",
+      "how_they_work": "The site states support is offered both remotely and on-site, and that the company provides proactive monitoring. Its office hours are Monday through Friday, 9am to 5pm ET, and VoIP features and calling options depend on the solution selected.",
+      "what_stands_out": "The company describes itself as a single technology partner that combines IT support, security, and business phones under one team. It also states it can discuss technical scope for HIPAA, PCI DSS, and FINRA requirements, though the site does not list certifications."
+    },
+    "city": "fort-myers",
+    "state": "florida"
+  },
+  {
+    "slug": "ocs-it",
+    "placeId": "ChIJZ8TlLas_24gREwIFsIuZi6Q",
+    "name": "OCS IT",
+    "summary": "OCS IT is an IT services firm focused on healthcare practices, particularly ENT clinics, providing managed IT, help desk support, managed endpoint security with 24/7 monitoring, and HIPAA compliance services. The company describes a remote support team spread across multiple continents and was founded by Joe Goldstein, who has a long background in healthcare IT.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "voip_phones",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [
+      "Channel Futures MSP501 Winner (2020, 2021, 2022)"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Southwest Florida (per site); clients served nationally, including Wisconsin",
+    "pricing": null,
+    "website": "https://www.ocsit.com/",
+    "phone": "(239) 323-2111",
+    "addresses": [],
+    "town": null,
+    "linkedin": "https://www.linkedin.com/company/optimized-computer-solutions-inc/",
+    "writeup": {
+      "what_they_do": "OCS IT is a managed IT services provider offering IT support and help desk, managed IT, IT essentials, cybersecurity, business continuity, cloud computing, and VoIP services. Its cybersecurity offerings include managed endpoint security monitored 24/7, simulated phishing tests, dark web monitoring, online security training, and automated security scanning. The company also provides HIPAA compliance services such as risk assessments, policy development, employee training, and ongoing compliance monitoring.",
+      "who_they_serve": "The company focuses on healthcare practices, particularly ENT (ear, nose and throat) practices, and describes its clients as small and medium practices and businesses. The site references clients in the Midwest and Southwest Florida, and says its remote support team is spread across three continents.",
+      "how_they_work": "Support is delivered remotely by a distributed team, and the company offers a complimentary security check and a contact form for IT requests. The site describes a proactive support model and says it can work alongside a client's existing IT staff. Pricing, contract terms and support hours are not stated.",
+      "what_stands_out": "The company says it has supported healthcare practices for over 15 years, has been ranked on the Channel Futures MSP501 list in 2020, 2021 and 2022, and its founder has more than 37 years of IT and cybersecurity experience. The site also states a 95% rate of clients continuing after the first year."
+    },
+    "city": "fort-myers",
+    "state": "florida"
+  },
+  {
+    "slug": "the-20-msp",
+    "placeId": "ChIJSX5L0clB24gRZRv3wSSkyW8",
+    "name": "The 20 MSP",
+    "summary": "The 20 MSP is a managed IT services provider offering 24/7 live support, network monitoring, cybersecurity, Microsoft 365, co-managed IT and compliance services on a flat monthly rate. It serves businesses across sectors including legal, healthcare, finance, manufacturing, engineering and nonprofits, with locations in many US states.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "manufacturing",
+      "engineering_architecture",
+      "nonprofit",
+      "hospitality",
+      "government",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC"
+    ],
+    "partners": [
+      "Apple Partner"
+    ],
+    "foundedYear": 1986,
+    "teamSize": null,
+    "serviceArea": "Nationwide US, with local teams in multiple states including Dallas, Austin, Houston, Boston and Seattle",
+    "pricing": "Flat monthly rate with no labor or project fees",
+    "website": "https://www.the20msp.com/",
+    "phone": null,
+    "addresses": [],
+    "town": null,
+    "linkedin": "https://www.linkedin.com/company/the-20-msp",
+    "writeup": {
+      "what_they_do": "The 20 MSP offers managed IT services including a managed IT department, Microsoft 365 support, co-managed IT, compliance, and cybersecurity, with a 24/7/365 live support desk. Its services cover security, cloud, helpdesk, compliance, infrastructure, backups, and documentation, delivered through both on-site and remote support.",
+      "who_they_serve": "The company serves small and medium-sized businesses and growing organizations across a range of industries, including legal, architecture, engineering, financial, healthcare, hospitality, manufacturing, municipalities, non-profits, oil and gas, and property management. Its locations are listed across many US states, with headquarters in Dallas, Texas.",
+      "how_they_work": "The company states it charges a single flat monthly rate with no labor, project, or out-of-scope fees. Its network operating center is US-based and staffed 24/7, and it offers on-site and remote support.",
+      "what_stands_out": "The company says it has been providing managed IT services since 1986 and lists a 100% unconditional satisfaction policy and a guaranteed one-hour response to support requests. Its cybersecurity offering uses ID 20/20 software for user verification against social engineering."
+    },
+    "city": "fort-myers",
+    "state": "florida"
+  },
+  {
+    "slug": "gulf-pointe-solutions",
+    "placeId": "ChIJ8_h6rasd24gRmaVrF3JG18c",
+    "name": "Gulf-Pointe Solutions",
+    "summary": "Gulf-Pointe Solutions is an IT consulting and managed services firm based in Bonita Springs, Florida, with page titles also referencing Naples. It offers ongoing monitoring, support and maintenance alongside backup, cloud and Microsoft 365 services, email and web filtering, firewalls, and device management. The company also provides IT consulting, hardware and software sales, and computer repair, and works with clients on long-term engagements.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "it_strategy_vcio",
+      "hardware_procurement",
+      "computer_repair"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Naples and Bonita Springs, FL",
+    "pricing": null,
+    "website": "https://www.gulf-pointe.com/",
+    "phone": "(239) 206-3880",
+    "addresses": [
+      "24600 South Tamiami Trail, Suite 212, Bonita Springs, FL 34134"
+    ],
+    "town": "Bonita Springs",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "Gulf-Pointe Solutions offers managed IT services that include backup and disaster recovery, cloud computing, content filtering, email security and encryption, Microsoft Office 365 hosting, firewalls, mobile device management, network monitoring, virtualization, and computer repair. It also provides IT consulting and hardware and software sales.",
+      "who_they_serve": "The site describes serving businesses generally and mentions clients from the company's early days, but it does not specify business sizes or industries. The company's address is in Bonita Springs, Florida, and its pages reference Naples and Bonita Springs.",
+      "how_they_work": "The company describes a flexible engagement model for long-term partnerships, with technology consultants provided in custom configurations and proposals offered to reduce technology costs. It states that it offers 24/7 monitoring of network health and performance and provides support through an open ticket system and remote assistance.",
+      "what_stands_out": "The site states that some clients have been with the company since its beginning and that its consultants follow known technology standards and best practices. Many of the site's sub-pages were unavailable at the time of review, so further details could not be verified."
+    },
+    "city": "fort-myers",
+    "state": "florida"
+  },
+  {
+    "slug": "swfl-it-support",
+    "placeId": "ChIJo1JDHVg_24gRRBG0GeiPk2o",
+    "name": "SWFL IT Support",
+    "summary": "SWFL IT Support is an IT services firm founded in 2009 that serves businesses in Cape Coral and across Southwest Florida. Its offerings include proactive network management, managed help desk, disaster recovery and data backups, network security and phishing prevention, private cloud, hosted email, VoIP telephony, SD-WAN, and video surveillance through a partner.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [
+      "OpenEye (video surveillance partner)"
+    ],
+    "foundedYear": 2009,
+    "teamSize": null,
+    "serviceArea": "Cape Coral and Southwest Florida, from Brandon to Marco Island",
+    "pricing": null,
+    "website": "https://swflits.com/",
+    "phone": "(239) 360-2850",
+    "addresses": [
+      "4410 SE 16th Pl., Suite 2, Cape Coral, FL 33904"
+    ],
+    "town": "Cape Coral",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "SWFL IT Support is a managed IT services provider offering network support, managed help desk, disaster recovery and data backups, network security, ransomware protection, hosted email, private cloud, telephony (VoIP) solutions, access control, virtualized office, and SD-WAN setup. The company also states it partners with OpenEye for video surveillance.",
+      "who_they_serve": "The company provides technology support across the Cape Coral area and Southwest Florida, from Brandon to Marco Island, and says it works with businesses seeking to outsource IT management or enhance existing infrastructure. The site names retailers, banks, and manufacturers as examples of organizations that use SD-WAN.",
+      "how_they_work": "The company lists a main office in Cape Coral with hours of 8am to 5pm Monday through Friday, by-appointment Saturday service, and Sunday closed. It says it designs plans to fit each client's needs after an initial discussion, and it offers remote support.",
+      "what_stands_out": "The company was founded in 2009 and says its founders drew on experience at United Parcel Service in a fast-paced network environment. It states its network designs follow a \"no downtime\" business continuity structure."
+    },
+    "city": "fort-myers",
+    "state": "florida"
+  },
+  {
+    "slug": "computer-services-unlimited-csu",
+    "placeId": "ChIJz0vxoc4Z24gRrwc14S_3l98",
+    "name": "Computer Services Unlimited (CSU)",
+    "summary": "Computer Services Unlimited is an IT services provider serving small and mid-sized businesses with managed IT, 24/7 monitoring, cybersecurity, backup and disaster recovery, cloud, virtualization and IT consulting. The company describes its approach as proactive and customized, with offices in Owings Mills, Maryland and Naples, Florida.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "nonprofit",
+      "education"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [],
+    "foundedYear": 2004,
+    "teamSize": null,
+    "serviceArea": "Maryland and Florida offices; serves clients nationally per site content not stated",
+    "pricing": "Scalable plans tailored to business; pay for what you need",
+    "website": "https://www.csu-it.com/",
+    "phone": "(888) 537-2786",
+    "addresses": [
+      "11983 Tamiami Trail N, Suite 205, Naples, FL 34110",
+      "10096 Red Run Boulevard, Suite 100, Owings Mills, MD 21117"
+    ],
+    "town": "Naples",
+    "linkedin": "https://www.linkedin.com/company/computer-services-unlimited-inc./",
+    "writeup": {
+      "what_they_do": "Computer Services Unlimited (CSU) is a technology solutions provider offering managed IT services, cybersecurity, data backup and disaster recovery, IT virtualization, cloud solutions, and IT consulting and strategy. Its managed IT service includes 24/7 monitoring, automatic updates and patch management, and expert support.",
+      "who_they_serve": "The company says it serves small and mid-sized businesses, with clients in financial and professional services, medical, legal, e-commerce, education, and nonprofit organizations. Its offices are listed in Owings Mills, Maryland and Naples, Florida.",
+      "how_they_work": "The site says managed IT plans are scalable and tailored to each business, so clients pay for what they need. Consultations are offered free of charge, and the company describes a proactive, customized approach rather than standardized packages.",
+      "what_stands_out": "The company states it was founded in 2004 and has been operating for over twenty years. It mentions HIPAA compliance support for healthcare clients and lists a Trustindex-verified rating based on 40 Google reviews."
+    },
+    "city": "fort-myers",
+    "state": "florida"
+  },
+  {
+    "slug": "information-technology-associates",
+    "placeId": "ChIJT9-f053h2ogR_Qr0OSiUScM",
+    "name": "Information Technology Associates",
+    "summary": "Naples-based IT firm offering managed IT services to small and medium-sized businesses, including server and storage management, managed firewalls, WAN/LAN and VPN services, and network design. Also takes on one-off projects and service calls, and can act as a client's outsourced IT department.",
+    "services": [
+      "managed_it",
+      "network_infrastructure",
+      "backup_disaster_recovery",
+      "it_strategy_vcio",
+      "voip_phones"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Naples, Florida area",
+    "pricing": "Fixed monthly cost for managed service program",
+    "website": "https://www.itanaples.com/",
+    "phone": "(239) 919-4466",
+    "addresses": [
+      "5455 Jaeger Road, Naples, FL 34109"
+    ],
+    "town": "Naples",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "Information Technology Associates is a managed service provider that delivers and manages network-based services, applications and equipment. Its managed infrastructure offering includes server and OS management, storage (SAN/NAS) management, managed firewalls, managed WAN/LAN and managed VPN services, alongside consulting and professional services for technology planning.",
+      "who_they_serve": "The company serves small and medium-size businesses. The site references clients in the Naples area through its Naples-based branding but does not list specific industries.",
+      "how_they_work": "Managed services are offered at a fixed monthly cost, and the company says it monitors servers around the clock, 24 hours a day, 7 days a day, 365 days a year. It also offers hosting of client data, applications and messaging systems, and fully outsourced network management arrangements.",
+      "what_stands_out": "The company states that its founders and principals bring decades of expertise. The site does not list specific certifications or partner credentials."
+    },
+    "city": "fort-myers",
+    "state": "florida"
+  },
+  {
+    "slug": "interlink-consulting",
+    "placeId": "ChIJ1xGpXL0Z24gRyvdTvokpMfw",
+    "name": "InterLink Consulting",
+    "summary": "InterLink Consulting is a Southwest Florida IT firm offering managed IT, network support, backup and Microsoft 365 administration, with a specialty in technology for private clubs. Its listing emphasizes on-site and remote support, network security and strategic IT planning for organizations that want their technology handled as an ongoing service.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "it_strategy_vcio",
+      "hardware_procurement",
+      "voip_phones"
+    ],
+    "industries": [
+      "hospitality"
+    ],
+    "compliance": [],
+    "partners": [
+      "Certified Partner (unspecified vendor)"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Southwest Florida",
+    "pricing": "Managed service contracts described as affordable; no specific pricing model stated",
+    "website": "https://interlink.cc/",
+    "phone": "(239) 444-6505",
+    "addresses": [
+      "12622 Trade Way Drive, Unit 9, Bonita Springs, FL 34135"
+    ],
+    "town": "Bonita Springs",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "InterLink Consulting offers fully managed IT services, including network management, security, hosting, online backup and disaster recovery, along with IT consulting and strategic planning. The company also provides Microsoft 365 support, servers, workstations, POS, wireless, telephony and networking, and implementations built around client needs.",
+      "who_they_serve": "The company serves a range of industries and has a dedicated focus on private clubs, which it describes as a specialty with club-specific products and services. The site is based in Southwest Florida and does not state a specific business size range.",
+      "how_they_work": "The company offers on-site and remote customer service and a remote support portal. Its tech support and managed service contracts include planned network servicing, and it states that it guarantees new clients a smooth transition when switching providers.",
+      "what_stands_out": "The company states it has decades of technical experience and is authorized and certified with technology partners. Client testimonials on the site describe relationships lasting more than seven to thirteen years, though these are client statements rather than independently verified results."
+    },
+    "city": "fort-myers",
+    "state": "florida"
+  },
+  {
+    "slug": "knox-technology",
+    "placeId": "ChIJPcFAgjhA24gRMbDmE3NG3GI",
+    "name": "Knox Technology",
+    "summary": "Knox Technology is an IT provider based in Fort Myers, Florida, serving contractors and professional service firms across Southwest Florida. Its offerings include managed IT, AI services and low voltage work, with a focus on IT standards, measurement and business-aligned planning. The company also serves construction, legal, manufacturing, medical, nonprofit, and retail and hospitality clients.",
+    "services": [
+      "managed_it",
+      "structured_cabling",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "construction",
+      "legal",
+      "manufacturing",
+      "healthcare",
+      "nonprofit",
+      "retail",
+      "hospitality",
+      "professional_services"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Southwest Florida",
+    "pricing": null,
+    "website": "https://knoxtech.com/home",
+    "phone": "(239) 244-3377",
+    "addresses": [
+      "13141 McGregor Blvd, Suite 9, Fort Myers, FL 33919"
+    ],
+    "town": "Fort Myers",
+    "linkedin": "https://www.linkedin.com/company/knox-technology",
+    "writeup": {
+      "what_they_do": "Knox Technology provides IT services with a focus on standards, measurement and alignment, including managed IT, AI services and low voltage work, according to its site. The company describes its process as creating IT standards, measuring alignment against them, and calculating business impact of IT projects.",
+      "who_they_serve": "The company serves contractors and professional service firms in Southwest Florida, and lists industry pages for construction, legal, manufacturing, medical, nonprofit, and retail and hospitality. Its office is in Fort Myers, Florida.",
+      "how_they_work": "",
+      "what_stands_out": "The company says its roots are in helping local contractors and that it has grown to support professional service firms as well. Its site features customer case studies with Stokes Marine and Wildcat Renovation."
+    },
+    "city": "fort-myers",
+    "state": "florida"
+  },
+  {
+    "slug": "naples-network-services",
+    "placeId": "ChIJLxSAlvLh2ogRXYtJux9eZY4",
+    "name": "Naples Network Services",
+    "summary": "Family-owned IT provider in Southwest Florida, founded in 2004, offering ongoing IT support, Microsoft 365 migration and maintenance, network infrastructure, VoIP phone systems, and growth consulting. The company works with small and medium-sized businesses and emphasizes responsive, personal service.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services",
+      "computer_repair"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [
+      "Microsoft partnership program member",
+      "net2phone"
+    ],
+    "foundedYear": 2004,
+    "teamSize": "15+ professional staff",
+    "serviceArea": "Southwest Florida (Naples, Collier County)",
+    "pricing": null,
+    "website": "https://naplesnetworkservices.com/",
+    "phone": "(239) 293-4697",
+    "addresses": [
+      "1469 Bembury Dr., Naples, FL 34102"
+    ],
+    "town": "Naples",
+    "linkedin": "https://www.linkedin.com/company/371302/admin/?msgControlName=reply_to_sender&msgConversationId=6465298452589924352&msgOverlay=true",
+    "writeup": {
+      "what_they_do": "Naples Network Services is a family-owned IT consulting and managed services firm offering IT infrastructure installation and support, Office 365 migration and maintenance, and VoIP phone systems, including net2phone and Freedom Voice solutions. Its listed services also cover network infrastructure design, PC support, Exchange Server migration, compliance management, data recovery, remote support, and AI tool evaluation and adoption.",
+      "who_they_serve": "The company serves small and medium-sized businesses in Southwest Florida, with the site also mentioning South Florida businesses of all sizes. Testimonials reference clients in print, remodeling, design, engineering and management fields, including one engineering firm with offices along the East Coast.",
+      "how_they_work": "The site describes a local, responsive approach focused on preventing problems and on remote and phone support alongside on-site work. It does not state pricing models, contract terms, or support hours.",
+      "what_stands_out": "The company reports serving Southwest Florida since 2004 and is a Microsoft partnership program member, which it says allows licensing benefits and direct Microsoft contacts for large projects. It was named Collier County Business of the Month in September 2021 and was a finalist in the IT Services Contractor section of Gulfshore Business Magazine's Best of Business Issue in 2022, 2023 and 2024."
+    },
+    "city": "fort-myers",
+    "state": "florida"
+  },
+  {
+    "slug": "platinum-coast-technology",
+    "placeId": "ChIJIZOcrbsZ24gRLVaOloBtTv4",
+    "name": "Platinum Coast Technology",
+    "summary": "Platinum Coast Technology is an owner-led IT company in Bonita Springs, Florida, serving small and medium-sized businesses across Southwest Florida. It offers managed IT, help desk, cybersecurity with endpoint detection and monitoring, cloud and Microsoft 365 services, and backup and disaster recovery, with remote, on-site and service-center support. The firm also works with dental, medical, legal, accounting, real estate and construction clients and keeps local hardware inventory.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "hardware_procurement",
+      "computer_repair",
+      "voip_phones"
+    ],
+    "industries": [
+      "dental",
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "real_estate",
+      "construction"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS"
+    ],
+    "partners": [
+      "Microsoft Cloud Solutions Provider",
+      "RingCentral Partner"
+    ],
+    "foundedYear": 2005,
+    "teamSize": null,
+    "serviceArea": "Southwest Florida, including Bonita Springs, Naples, Estero, Fort Myers, Cape Coral and Lehigh Acres",
+    "pricing": "Per-user, per-device, hourly and project-based billing, with a complimentary one-hour consultation",
+    "website": "https://www.pctservice.com/",
+    "phone": "(239) 949-1033",
+    "addresses": [
+      "24830 S Tamiami Trail #1500, Bonita Springs, FL 34134"
+    ],
+    "town": "Bonita Springs",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "Platinum Coast Technology provides managed IT, cybersecurity, cloud solutions, data backup and disaster recovery, IT help desk and on-site support for small and medium-sized businesses. Listed services also include Microsoft 365, Apple product support, RingCentral partner services, mobile device management and IT consulting.",
+      "who_they_serve": "The company serves small and medium-sized businesses in Southwest Florida, including Naples, Estero, Fort Myers, Cape Coral and Lehigh Acres. Industries named on the site include dental offices, doctor's offices, accounting firms, wealth management, law firms, construction contractors and real estate, and the site says it can adjust recommendations for organizations with up to 150 employees.",
+      "how_they_work": "Support is offered remotely, on-site across Southwest Florida, or through a retail service center in Bonita Springs. The site describes a complimentary one-hour initial consultation followed by a high-level assessment and proposal, with billing that may be per-user, per-device, hourly or project-based.",
+      "what_stands_out": "The company has operated since 2005 and is owned and led by its founder, Ray Woods. It is a Microsoft Cloud Solutions Provider and a RingCentral Partner, and it keeps an inventory of commonly needed computers and networking hardware at its local storefront."
+    },
+    "city": "fort-myers",
+    "state": "florida"
+  },
+  {
+    "slug": "prisca-nova-llc",
+    "placeId": "ChIJieAaBXcb24gRF2r5zBxNe-c",
+    "name": "Prisca Nova LLC",
+    "summary": "Managed IT and cybersecurity provider based in Bonita Springs, Florida, serving businesses across Collier and Lee counties with on-site technicians and remote support. Offers helpdesk, endpoint and email security, Microsoft 365 administration, backup and disaster recovery, VoIP, and compliance support, with flat monthly pricing. Also lists focused support for Mac-based fleets and healthcare, legal, and accounting clients.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement"
+    ],
+    "industries": [
+      "healthcare",
+      "dental",
+      "legal",
+      "accounting_finance",
+      "construction",
+      "real_estate",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Bonita Springs, Naples, Fort Myers, Cape Coral, Estero, Marco Island, Immokalee and surrounding Collier and Lee County communities; remote cloud support nationwide",
+    "pricing": "Flat monthly rate with no per-ticket billing; custom packages (Basic, Advanced, Full)",
+    "website": "https://www.priscanova.com/",
+    "phone": "(239) 323-5232",
+    "addresses": [
+      "27975 Old 41 Road, Suite 210, Bonita Springs, FL 34135"
+    ],
+    "town": "Bonita Springs",
+    "linkedin": "https://www.linkedin.com/company/111040102/",
+    "writeup": {
+      "what_they_do": "Prisca Nova LLC is a managed IT and cybersecurity provider offering managed IT services, cybersecurity, Microsoft 365 and cloud services, connectivity and VoIP, backup and disaster recovery, compliance support, and IT consulting. The company positions its offering as one provider and one invoice covering IT, security, cloud, and communications.",
+      "who_they_serve": "The company serves small and mid-sized businesses in Southwest Florida, with offices in Bonita Springs and service areas including Naples, Fort Myers, Cape Coral, Estero, Marco Island, Immokalee, and Golden Gate. Industries listed include medical and dental practices, law firms, construction and trades, real estate, and professional services such as accounting and consulting.",
+      "how_they_work": "The company states flat monthly pricing with no per-ticket billing, and says it starts with a free IT assessment followed by a custom proposal and onboarding, typically within two weeks. Service hours are Monday through Friday, 9:00am to 5:00pm ET, with emergency support for managed clients and on-site technicians in Collier and Lee counties.",
+      "what_stands_out": "The company says it offers a 1-hour response guarantee during business hours and a 99.9% uptime SLA target, and it lists HIPAA, PCI-DSS, and SOC readiness support along with Apple device management for Mac-based businesses. Its founder, Caleb Spilchen, is listed as managing member, and the company is headquartered in Bonita Springs."
+    },
+    "city": "fort-myers",
+    "state": "florida"
+  },
+  {
+    "slug": "responsive-technology-partners",
+    "placeId": "ChIJ71o8jxtA24gR12QzE41L3v8",
+    "name": "Responsive Technology Partners",
+    "summary": "Multi-state IT firm headquartered in the Southeast offering managed IT support, help desk, cybersecurity and compliance, co-managed IT, cloud and VoIP phone services, plus structured cabling, access control and camera systems, colocation and digital marketing. Serves small to mid-sized organizations across Georgia, Florida, North Carolina, Virginia and Texas, with a hospitality technology offering for restaurant and hotel clients.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "structured_cabling"
+    ],
+    "industries": [
+      "healthcare",
+      "government",
+      "education",
+      "accounting_finance",
+      "legal",
+      "hospitality",
+      "real_estate",
+      "nonprofit"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": 2016,
+    "teamSize": "more than 100 professionals",
+    "serviceArea": "Georgia, Florida, North Carolina, Virginia and Texas",
+    "pricing": null,
+    "website": "https://responsivetechnologypartners.com/",
+    "phone": "(877) 358-9388",
+    "addresses": [
+      "10970 S Cleveland Avenue, Suite 406, Fort Myers, FL 33907",
+      "5706 Benjamin Center Drive, Suite 116, Tampa, FL 33634",
+      "1720 Windward Concourse, Suite 300, Alpharetta, GA 30005",
+      "30 S Rountree St, Metter, GA 30439",
+      "286 Jones Dr, Milledgeville, GA 31061",
+      "208 E 1st Street, Vidalia, GA 30474",
+      "251 W Main Avenue, Gastonia, NC 28052",
+      "3141 John Humphries Wynd, Suite 136, Raleigh, NC 27612",
+      "6800 Alamo Downs Pkwy, San Antonio, TX 78238",
+      "6711 Peters Creek Rd, Suite 204, Roanoke, VA 24019"
+    ],
+    "town": "Fort Myers",
+    "linkedin": "https://www.linkedin.com/company/responsivetechnologypartners/",
+    "writeup": {
+      "what_they_do": "Responsive Technology Partners offers managed IT support, including a help desk and a dedicated virtual CIO, along with cybersecurity and compliance, cloud and VoIP phone services, co-managed IT for in-house IT teams, structured cabling, access control and camera systems, data center colocation and virtual servers, and web design and digital marketing. The company also lists hospitality PO systems among its service offerings.",
+      "who_they_serve": "The company states it serves small to mid-sized businesses across Georgia, Virginia, North Carolina, Florida, and Texas, with clients including healthcare providers, government agencies, educational institutions, financial professionals, legal firms, hospitality organizations, restaurant franchises, and real estate developers. It reports more than 1,500 clients and operates ten offices across those five states.",
+      "how_they_work": "The company describes a Quick Start process that begins with a 10-minute discovery call, followed by a senior engineer's 64-point managed services assessment and a proposal developed with the client's team. Its co-managed IT program is stated to have no long-term contracts, and the site lists a guarantee of live phone answering and a satisfaction-or-money-back guarantee.",
+      "what_stands_out": "The company says it has operated for over 20 years and was ranked on the Inc. 5000 list for five consecutive years (2020 to 2025). It states that its cabling installations are tested to EIA/TIA standards with documentation, and that access control and camera services are available only in its Georgia, Florida, and Virginia locations."
+    },
+    "city": "fort-myers",
+    "state": "florida"
+  },
+  {
+    "slug": "stickboy-creative",
+    "placeId": "ChIJXSb1715s24gRVLSPJiACvs8",
+    "name": "Stickboy Creative",
+    "summary": "Stickboy, also branded Stickboy Creative, is an IT firm founded in 2007 that combines AI consulting, custom software development and managed IT. Its managed offerings include a service desk, remote monitoring, backup and disaster recovery, cybersecurity, and connectivity such as SD-WAN and unified communications. It serves law firms, insurers, accounting and finance firms, engineering and architecture firms, and other organizations across several industries.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "software_development"
+    ],
+    "industries": [
+      "legal",
+      "insurance",
+      "accounting_finance",
+      "engineering_architecture",
+      "construction",
+      "manufacturing",
+      "healthcare",
+      "logistics",
+      "nonprofit"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS"
+    ],
+    "partners": [
+      "Veeam",
+      "Microsoft Azure"
+    ],
+    "foundedYear": 2007,
+    "teamSize": null,
+    "serviceArea": null,
+    "pricing": null,
+    "website": "https://stickboycreative.com/",
+    "phone": "(239) 206-1193",
+    "addresses": [
+      "12401 Brantley Commons Ct #101, Fort Myers, FL 33907"
+    ],
+    "town": "Fort Myers",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "Stickboy Creative is a technology firm whose offerings span AI strategy and integration, custom software and app development, cybersecurity and AI security assessments, cloud and backup services, and IT support. Its service lines also include managed services such as remote monitoring and management, a service desk, unified communications, and wireless and fiber connectivity.",
+      "who_they_serve": "The company lists industries including law firms, title agencies, country clubs, insurance organizations, accounting firms, healthcare and medical organizations, engineering firms, manufacturing companies, logistics, HOAs, and non-profit organizations. The website does not state a geographic service area beyond a Lee County reference in an award mention. One testimonial describes a client with about 300 employees.",
+      "how_they_work": "The site describes a structured assessment process of 2 to 3 weeks from assessment to delivery, ending in a 90-day execution roadmap. It also mentions on-site workplace outsourcing and an after-hours helpdesk response example in a client testimonial, but does not publish pricing or contract terms.",
+      "what_stands_out": "The company states it was founded in 2007 and has 350+ successful projects and 24+ awards, and it cites Better Business Bureau recognition and a Microsoft/Azure-aligned AI readiness assessment. It also lists a Veeam-powered backup offering and HIPAA, GDPR and PCI compliance support."
+    },
+    "city": "fort-myers",
+    "state": "florida"
+  },
+  {
+    "slug": "it-pronet",
+    "placeId": "ChIJp4V4autz24gRYMqBLyc4x68",
+    "name": "iT-ProNet",
+    "summary": "iT-ProNet offers IT consulting and managed IT support for home offices and small businesses. Services cover managed support, networking, Windows Servers, Azure and Microsoft 365 cloud work, and cybersecurity. The firm starts with an infrastructure consult to identify gaps and aims for cost-effective solutions.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "network_infrastructure",
+      "it_strategy_vcio"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": null,
+    "pricing": null,
+    "website": "https://it-pronet.com/",
+    "phone": "(786) 258-8596",
+    "addresses": [],
+    "town": null,
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "iT-ProNet offers managed IT support, networking design and maintenance, Windows Server deployment and management, Microsoft 365 and Azure cloud services, cybersecurity protection, and IT consulting. Its managed support service is described as proactive, with 24/7 technical support for staff.",
+      "who_they_serve": "The company serves home offices and businesses, according to its website. The site does not name specific industries or describe the size of client organizations or service locations.",
+      "how_they_work": "The company begins with a comprehensive consultation to analyze a client's infrastructure and identify needs and gaps. The site describes its approach as focused on cost-effective solutions and lists a phone line and online booking for scheduling a conversation.",
+      "what_stands_out": "The company states that after several years in the IT industry it changed direction to focus on advising others, and that it specializes in a variety of cyber-technology fields. The site does not provide certifications, years in business, or guarantees."
+    },
+    "city": "fort-myers",
+    "state": "florida"
+  },
+  {
     "slug": "nettech-consultants",
     "placeId": "ChIJtTNfYnpK5IgRt-jVSGznUSc",
     "name": "NetTech Consultants",

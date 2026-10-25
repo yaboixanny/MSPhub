@@ -1,0 +1,27 @@
+{
+  "city": "Fort Myers",
+  "state": "Florida",
+  "state_code": "FL",
+  "slug": "fort-myers",
+  "state_slug": "florida",
+  "center": {
+    "lat": 26.43,
+    "lng": -81.81
+  },
+  "radius_miles": 30,
+  "areas": [
+    "Fort Myers",
+    "Cape Coral",
+    "Naples",
+    "Bonita Springs",
+    "Estero",
+    "Lehigh Acres",
+    "Fort Myers Beach"
+  ],
+  "queries": [
+    "managed IT services",
+    "managed service provider",
+    "IT support company",
+    "outsourced IT"
+  ]
+}

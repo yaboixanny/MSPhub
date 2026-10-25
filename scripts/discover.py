@@ -58,12 +58,24 @@ def search(api_key, text_query, page_token=None):
         },
         method="POST",
     )
-    try:
-        with urllib.request.urlopen(request, timeout=30) as response:
-            return json.load(response)
-    except urllib.error.HTTPError as error:
-        detail = error.read().decode(errors="replace")
-        sys.exit(f"\nPlaces API error {error.code} for '{text_query}':\n{detail}")
+    # Retry rate limits and server errors; anything else (bad key, quota) stops the run.
+    for attempt in range(4):
+        try:
+            with urllib.request.urlopen(request, timeout=30) as response:
+                return json.load(response)
+        except urllib.error.HTTPError as error:
+            detail = error.read().decode(errors="replace")
+            if error.code in (429, 500, 502, 503, 504) and attempt < 3:
+                print(f"  Places API {error.code}; retrying in {2 ** attempt * 5}s")
+                time.sleep(2 ** attempt * 5)
+                continue
+            sys.exit(f"\nPlaces API error {error.code} for '{text_query}':\n{detail}")
+        except urllib.error.URLError as error:
+            if attempt < 3:
+                print(f"  Network error ({error.reason}); retrying in {2 ** attempt * 5}s")
+                time.sleep(2 ** attempt * 5)
+                continue
+            sys.exit(f"\nNetwork error for '{text_query}': {error.reason}")
 
 
 def to_row(place, searches):

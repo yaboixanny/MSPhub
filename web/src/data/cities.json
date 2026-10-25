@@ -18,7 +18,25 @@
       "Deerfield Beach"
     ],
     "count": 34,
-    "updated": "2026-10-24"
+    "updated": "2026-10-25"
+  },
+  {
+    "slug": "fort-myers",
+    "name": "Fort Myers",
+    "state": "florida",
+    "stateName": "Florida",
+    "stateCode": "FL",
+    "areas": [
+      "Fort Myers",
+      "Cape Coral",
+      "Naples",
+      "Bonita Springs",
+      "Estero",
+      "Lehigh Acres",
+      "Fort Myers Beach"
+    ],
+    "count": 25,
+    "updated": "2026-10-25"
   },
   {
     "slug": "jacksonville",
@@ -36,7 +54,7 @@
       "Fernandina Beach"
     ],
     "count": 32,
-    "updated": "2026-10-24"
+    "updated": "2026-10-25"
   },
   {
     "slug": "madison",
@@ -55,7 +73,7 @@
       "Stoughton"
     ],
     "count": 25,
-    "updated": "2026-10-24"
+    "updated": "2026-10-25"
   },
   {
     "slug": "miami",
@@ -75,7 +93,7 @@
       "North Miami"
     ],
     "count": 35,
-    "updated": "2026-10-24"
+    "updated": "2026-10-25"
   },
   {
     "slug": "orlando",
@@ -97,7 +115,7 @@
       "Kissimmee"
     ],
     "count": 111,
-    "updated": "2026-10-24"
+    "updated": "2026-10-25"
   },
   {
     "slug": "tampa",
@@ -118,7 +136,7 @@
       "Pinellas Park"
     ],
     "count": 34,
-    "updated": "2026-10-24"
+    "updated": "2026-10-25"
   },
   {
     "slug": "west-palm-beach",
@@ -138,6 +156,6 @@
       "Royal Palm Beach"
     ],
     "count": 29,
-    "updated": "2026-10-24"
+    "updated": "2026-10-25"
   }
 ]
