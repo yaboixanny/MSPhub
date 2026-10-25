@@ -49,7 +49,7 @@ export default function AboutPage() {
           Company names, contact details, services, industries, compliance support, founding year and pricing come
           from each provider&apos;s website and are summarized in our own words with AI assistance.
         </li>
-        <li>Google ratings on profile pages load live from Google Maps; we don&apos;t copy or store them.</li>
+        <li>We don&apos;t copy, store or display review ratings from Google or other sites; each profile links to the provider&apos;s reviews on Google instead.</li>
       </ul>
 
       <h2 className="mt-10 text-xl font-semibold text-slate-900">How rankings work</h2>
@@ -57,7 +57,7 @@ export default function AboutPage() {
         Lists are ordered by the MSP Hub Score, a 0-100 score based on what each provider documents publicly: years in
         business, managed services coverage, compliance support, industries served and pricing transparency. It
         measures how clearly a provider shows what it offers, not service quality, which is why every profile also
-        shows that provider&apos;s live Google reviews.{" "}
+        links to that provider&apos;s reviews on Google.{" "}
         <Link href="/how-we-rank" className="text-brand-600 hover:underline">
           Read the full method
         </Link>

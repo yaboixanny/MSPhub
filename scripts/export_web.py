@@ -9,9 +9,8 @@ scripts/contact.py, and writes web/src/data/msps.json and cities.json. Only rows
 with is_msp == "yes" that don't need review and have website contact details
 are published.
 
-Nothing from Google is published except place IDs, which Google's terms allow
-storing indefinitely: names, phones, addresses and the website URL come from
-each company's own site, and profile pages fetch Google ratings live.
+Nothing from Google is published: names, phones, addresses and the website URL
+come from each company's own site.
 """
 import csv
 import json
@@ -49,6 +48,12 @@ def town_key(name):
     return name.replace("saint ", "st ")
 
 
+def company_identity(city, name, website):
+    """How a published profile is recognised between exports: metro, company name and website domain."""
+    domain = urlparse(website).netloc.lower().removeprefix("www.")
+    return (city, name.lower().strip(), domain)
+
+
 def load_writeup(base, place_id):
     path = base / "writeup" / f"{place_id}.json"
     return json.loads(path.read_text()).get("writeup") if path.exists() else None
@@ -66,9 +71,11 @@ def main():
     # reserve those slugs before naming new MSPs (a company with offices in several
     # metros gets one profile per metro, e.g. /msp/acme-it and /msp/acme-it-miami).
     previous_path = OUT_DIR / "msps.json"
-    # Keyed by metro too: overlapping metros can find the same Google listing.
-    previous = ({(msp["city"], msp["placeId"]): msp["slug"] for msp in json.loads(previous_path.read_text())}
-                if previous_path.exists() else {})
+    previous_msps = json.loads(previous_path.read_text()) if previous_path.exists() else []
+    # Place IDs aren't published, so profiles are recognised by company identity.
+    # (Older exports included placeId; those keys still match during the switch.)
+    previous = {company_identity(msp["city"], msp["name"], msp["website"]): msp["slug"] for msp in previous_msps}
+    previous.update({(msp["city"], msp["placeId"]): msp["slug"] for msp in previous_msps if msp.get("placeId")})
     used_slugs = set(previous.values())
     redirects = {}  # old slug -> slug of the profile it was merged into
 
@@ -83,7 +90,7 @@ def main():
 
         # Town key -> the config's spelling, which is what the site displays.
         metro_towns = {town_key(area): area for area in config["areas"]}
-        # One profile per company per metro, even when Google lists it twice with
+        # One profile per company per metro, even when it was found twice with
         # different website pages (e.g. its homepage and a services page).
         by_company = {}
         published = 0
@@ -95,11 +102,13 @@ def main():
                 print(f"  skipped {row.get('name', row['place_id'])}: no contact details from its website "
                       f"({record.get('status', 'contact.py not run')[:60]})")
                 continue
-            company_key = (contact["company_name"].lower().strip(), urlparse(record["website"]).netloc.lower().removeprefix("www."))
+            identity = company_identity(config["slug"], contact["company_name"], clean_url(record["website"]))
+            company_key = identity[1:]
+            previous_slug = previous.get(identity) or previous.get((config["slug"], row["place_id"]))
             if company_key in by_company:
                 existing = by_company[company_key]
-                if (config["slug"], row["place_id"]) in previous:
-                    redirects[previous[(config["slug"], row["place_id"])]] = existing["slug"]
+                if previous_slug and previous_slug != existing["slug"]:
+                    redirects[previous_slug] = existing["slug"]
                 for address in contact["addresses"]:
                     formatted = format_address(address)
                     if formatted not in existing["addresses"]:
@@ -110,7 +119,7 @@ def main():
             # metro's towns first and use the first one as the MSP's town.
             local = [address for address in contact["addresses"] if town_key(address["city"]) in metro_towns]
             addresses = local + [address for address in contact["addresses"] if address not in local]
-            slug = previous.get((config["slug"], row["place_id"]))
+            slug = previous_slug
             if slug is None:
                 slug = slugify(contact["company_name"])
                 if slug in used_slugs:
@@ -122,9 +131,6 @@ def main():
                 used_slugs.add(slug)
             msps.append({
                 "slug": slug,
-                # Google allows storing place IDs indefinitely (unlike other Places
-                # content), so they can be used to fetch fresh details later.
-                "placeId": row["place_id"],
                 "name": contact["company_name"],
                 "summary": row["summary"],
                 "services": split_list(row["services"]),

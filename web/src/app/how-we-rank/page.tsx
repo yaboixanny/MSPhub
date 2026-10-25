@@ -52,11 +52,11 @@ export default function HowWeRank() {
         their listings.
       </p>
 
-      <h2 className="mt-10 text-xl font-semibold text-slate-900">3. Google reviews</h2>
+      <h2 className="mt-10 text-xl font-semibold text-slate-900">3. Reviews</h2>
       <p className="mt-2">
-        For a sense of service quality, each profile shows the provider&apos;s current rating and review count from
-        Google Maps, loaded live when you open the page. We don&apos;t copy or store Google ratings, so they&apos;re always
-        current and they don&apos;t affect the order of the lists.
+        The MSP Hub Score doesn&apos;t use reviews. For a sense of service quality, each profile links to the
+        provider&apos;s reviews on Google so you can read them first-hand. We don&apos;t copy, store or display review
+        ratings, and they don&apos;t affect the order of the lists.
       </p>
 
       <h2 className="mt-10 text-xl font-semibold text-slate-900">4. Where the details come from</h2>

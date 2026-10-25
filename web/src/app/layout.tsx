@@ -1,19 +1,12 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { Geist, Geist_Mono, Roboto } from "next/font/google";
+import { Geist, Geist_Mono } from "next/font/google";
 import { getCoveredStates } from "@/lib/data";
 import { SITE_URL } from "@/lib/site";
 import "./globals.css";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
-  subsets: ["latin"],
-});
-
-// Google's attribution rules require "Google Maps" in Roboto 400.
-const roboto = Roboto({
-  variable: "--font-roboto-google",
-  weight: "400",
   subsets: ["latin"],
 });
 
@@ -29,7 +22,7 @@ export const metadata: Metadata = {
     template: "%s | MSP Hub",
   },
   description:
-    "Compare managed service providers (MSPs) by city. Verified MSPs only, with services, industries, compliance support and live Google reviews for each.",
+    "Compare managed service providers (MSPs) by city. Verified MSPs only, with the services, industries and compliance support of each.",
   // Google Search Console ownership check; renders <meta name="google-site-verification">.
   verification: { google: "0tL9E0gmZPVhTfZxFmUCCHBPMnzztlBU1tEzTWakk3o" },
 };
@@ -37,7 +30,7 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: LayoutProps<"/">) {
   const covered = getCoveredStates();
   return (
-    <html lang="en" className={`${geistSans.variable} ${geistMono.variable} ${roboto.variable} h-full antialiased`}>
+    <html lang="en" className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}>
       <body className="flex min-h-full flex-col font-sans">
         <header className="border-b border-slate-200 bg-white">
           <div className="mx-auto flex max-w-6xl items-center justify-between px-4 py-4">
@@ -76,7 +69,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
               <p className="font-semibold text-slate-800">MSP Hub</p>
               <p className="mt-2 leading-relaxed">
                 An independent database of verified managed IT service providers. Company details come from each
-                provider&apos;s own website; Google ratings on profiles load live from Google Maps.
+                provider&apos;s own website.
               </p>
             </div>
             <div>

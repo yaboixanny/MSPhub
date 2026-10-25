@@ -7,7 +7,6 @@ import { US_STATES } from "@/lib/states";
 /** An MSP as exported by scripts/export_web.py: website-sourced details plus a Google place ID. */
 type MspRecord = {
   slug: string;
-  placeId: string;
   name: string;
   summary: string;
   services: string[];

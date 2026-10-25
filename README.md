@@ -11,7 +11,7 @@ python3.12 -m venv .venv
 cp .env.example .env            # then add your keys
 ```
 
-`.env` needs `GOOGLE_PLACES_API_KEY` (Places API (New)) and `ANTHROPIC_API_KEY`.
+`.env` needs `ANTHROPIC_API_KEY`.
 
 ## Data pipeline (per city)
 
@@ -20,14 +20,14 @@ center point, radius and `max_candidates`. Working files land in `data/<state>/<
 
 | Step | Command | Output |
 |---|---|---|
-| 1. Discover | `scripts/discover.py <config>` | `places.csv`: businesses Google returns (place ID, name, website, category) |
+| 1. Discover | *being replaced (see below)* | `places.csv`: candidate businesses (`place_id`, `name`, `website`, `lat`, `lng`, `hits`, `primary_type`, `types`) |
 | 2. Crawl | `scripts/crawl.py <config>` | `sites/*.json`: text from up to 5 pages per website |
 | 3. Classify | `scripts/classify.py <config> --model claude-haiku-5-5` | `classified/*.json`, `msps.csv`, `review.csv` |
 | 4. Contact details | `scripts/contact.py <config> --model claude-haiku-5-5` | `contact/*.json`: name, phone, addresses from each company's website |
 | 5. Profile write-ups | `scripts/writeup.py <config> --model claude-haiku-5-5` | `writeup/*.json`: 150-250 word overview per MSP for its profile page |
 | 5b. Review | open `review.csv` | set `is_msp` to `yes`/`no` in `msps.csv` for unclear rows |
 | 6. Export | `scripts/export_web.py` | `web/src/data/msps.json`, `cities.json`, and redirects in `web/public/_redirects` |
-| 7. Purge | `scripts/purge.py <config>` | deletes the stored Google data for the city |
+| 7. Purge | `scripts/purge.py <config>` | deletes discovery data (`places.csv`) once the city's review is done |
 
 Run each with `.venv/bin/python` and the city config, e.g.
 `.venv/bin/python scripts/crawl.py config/cities/orlando-fl.json`. Steps 2-4 skip
@@ -46,14 +46,16 @@ profiles' old URLs are redirected in `web/public/_redirects`.
 
 **Pre-filter and review.** Before Claude runs, a free pre-filter drops sites that are
 gone and businesses with no managed-IT signal. Rows marked `needs_review` in
-`msps.csv` (classifier unsure, site blocked the crawler, or several Google listings
-for one website) are also written to `review.csv` for a manual pass.
+`msps.csv` (classifier unsure, site blocked the crawler, or several listings for
+one website) are also written to `review.csv` for a manual pass.
 
-**Google's terms.** The Places API terms allow storing place IDs indefinitely and
-coordinates for 30 days, but no other Places content. So discovery only fetches what
-the pipeline needs, nothing from Google is published except place IDs (names,
-phones and addresses come from step 4), profile pages load Google ratings live, and
-step 7 deletes the city's remaining Google data once it's published.
+**No Google data.** Google's Maps Platform terms forbid using the Places API in a
+listings or directory service, and Google's terms forbid scraping its search
+results, so MSP Hub uses neither. The original discovery script used Places; it was
+retired and the stored data purged. A replacement discovery step needs to write
+`places.csv` in the format above (`place_id` can be any stable ID) from a source
+whose terms allow building a directory. Everything published comes from the
+companies' own websites.
 
 **MSP Hub Score.** Lists are ordered by a 0-100 score computed in
 `web/src/lib/score.ts` from website data only: years in business (30), managed
@@ -89,13 +91,6 @@ Plus `sitemap.xml` and `robots.txt`.
 host can serve it. It's deployed on Netlify (https://msphub.netlify.app) using
 `netlify.toml`; every push to `main` redeploys. Canonical URLs use Netlify's site
 address automatically; set `NEXT_PUBLIC_SITE_URL` once a custom domain is connected.
-
-**Live Google ratings** need a browser API key in `NEXT_PUBLIC_GOOGLE_MAPS_KEY` (in
-Netlify's environment variables, and in `web/.env.local` for local testing). Create
-it separately from the pipeline key: restrict it to HTTP referrers
-`https://msphub.netlify.app/*` and `http://localhost:3000/*`, and to the Maps
-JavaScript API and Places API (New). Without the key, profiles show a "Read reviews
-on Google Maps" link instead.
 
 ## SEO
 

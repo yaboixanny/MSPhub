@@ -49,7 +49,7 @@ export function HowWePicked({ updated }: { updated: string }) {
       <p className="mt-1">
         We checked every listed company&apos;s website to confirm it offers ongoing managed IT for businesses, then ranked
         them by the MSP Hub Score: years in business, managed services coverage, compliance support, industries served
-        and pricing transparency. Rankings are never paid for. Each profile also shows live Google reviews.{" "}
+        and pricing transparency. Rankings are never paid for. Each profile links to the provider&apos;s reviews on Google.{" "}
         <Link href="/how-we-rank" className="font-medium text-brand-600 hover:underline">
           Read the full method
         </Link>

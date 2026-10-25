@@ -178,11 +178,6 @@ def load_for_group(folder, listings):
     return None
 
 
-def maps_link(place_id):
-    """Google Maps link built from a place ID (place IDs are the one thing Google lets us store)."""
-    return f"https://www.google.com/maps/place/?q=place_id:{place_id}"
-
-
 def prefilter(listings, site):
     """Free first pass: 'claude', 'review' or 'drop', plus a reason."""
     if site is None:
@@ -246,7 +241,6 @@ def write_report(config, groups):
             "website": primary["website"],
             "domain": website_key(primary["website"]).split("/")[0],
             "linkedin": (site or {}).get("social", {}).get("linkedin", ""),
-            "google_maps": maps_link(primary["place_id"]),
             "crawl_status": site["status"] if site else "not crawled",
             "search_hits": max(int(place["hits"]) for place in listings),
         })
@@ -258,7 +252,7 @@ def write_report(config, groups):
         writer.writeheader()
         writer.writerows(rows)
 
-    review_columns = ["name", "is_msp", "reason", "flags", "website", "google_maps", "crawl_status", "search_hits"]
+    review_columns = ["name", "is_msp", "reason", "flags", "website", "crawl_status", "search_hits"]
     with open(base / "review.csv", "w", newline="") as handle:
         writer = csv.DictWriter(handle, fieldnames=review_columns, extrasaction="ignore")
         writer.writeheader()

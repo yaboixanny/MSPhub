@@ -2,7 +2,7 @@
  * The MSP Hub Score: 0-100, built only from what each provider documents on its
  * own website. It measures how much a provider shows about its experience,
  * services, compliance support and pricing, not service quality; profile pages
- * show live Google reviews for that.
+ * link to the provider's Google reviews for that.
  */
 
 export type ScoreInput = {

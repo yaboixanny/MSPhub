@@ -21,7 +21,7 @@ export function bestTitle(place: string, count: number, year: number) {
 }
 
 export function bestDescription(place: string, count: number, year: number) {
-  return `The best managed service providers in ${place} for ${year}, ranked. Compare ${count} verified MSPs by services, industries, compliance support and live Google reviews.`;
+  return `The best managed service providers in ${place} for ${year}, ranked. Compare ${count} verified MSPs by services, industries, compliance support and pricing.`;
 }
 
 /** How many entries the "Top" list shows: 10 for bigger lists, 5 for small ones, none for tiny ones. */
@@ -70,7 +70,7 @@ export function locationFaqs(place: string, msps: Msp[], areas: { name: string; 
   };
   faqs.push({
     question: `Who are the best MSPs in ${place}?`,
-    answer: `Ranked by the MSP Hub Score, the top MSPs in ${place} are ${joinWords(top.map((msp) => `${msp.name} (${msp.score.total}/100)`))}. The score reflects years in business, managed services coverage, compliance support, industries served and pricing transparency, as documented on each provider's website. Every profile also shows the provider's live Google reviews.`,
+    answer: `Ranked by the MSP Hub Score, the top MSPs in ${place} are ${joinWords(top.map((msp) => `${msp.name} (${msp.score.total}/100)`))}. The score reflects years in business, managed services coverage, compliance support, industries served and pricing transparency, as documented on each provider's website. Every profile also links to the provider's reviews on Google.`,
   });
 
   const townText = areas.length > 1
@@ -160,7 +160,7 @@ export function profileFaqs(msp: Msp, city: City, rank: number, place: string): 
   }
   faqs.push({
     question: `How does ${msp.name} rank among MSPs in ${city.name}?`,
-    answer: `${msp.name} ranks #${rank} of ${city.count} MSPs in the ${city.name} metro, with an MSP Hub Score of ${msp.score.total}/100. The score reflects what the company documents publicly: years in business, managed services coverage, compliance support, industries served and pricing transparency. Its live Google rating is shown at the top of this page.`,
+    answer: `${msp.name} ranks #${rank} of ${city.count} MSPs in the ${city.name} metro, with an MSP Hub Score of ${msp.score.total}/100. The score reflects what the company documents publicly: years in business, managed services coverage, compliance support, industries served and pricing transparency. To read its reviews, use the Google link at the top of this page.`,
   });
   return faqs;
 }

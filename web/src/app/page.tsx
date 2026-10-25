@@ -39,7 +39,7 @@ const FAQS = [
   ],
   [
     "How are MSPs ranked?",
-    "By the MSP Hub Score: a 0-100 score based on what each provider documents publicly, such as years in business, managed services offered, compliance support and pricing transparency. Every profile also shows the provider's live Google reviews. Rankings are never for sale.",
+    "By the MSP Hub Score: a 0-100 score based on what each provider documents publicly, such as years in business, managed services offered, compliance support and pricing transparency. Every profile also links to the provider's reviews on Google. Rankings are never for sale.",
   ],
   [
     "Is MSP Hub free?",
@@ -67,8 +67,8 @@ export default function Home() {
           </h1>
           <p className="mx-auto mt-5 max-w-2xl text-lg leading-relaxed text-slate-600">
             MSP Hub is a searchable database of verified managed service providers across the United States. Compare
-            who they serve, what they offer and which compliance standards they support, with live Google reviews on
-            every profile.
+            who they serve, what they offer and which compliance standards they support, ranked by the transparent MSP
+            Hub Score.
           </p>
           <div className="mx-auto mt-8 max-w-2xl">
             <SearchBox index={getSearchIndex()} />

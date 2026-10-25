@@ -4,7 +4,7 @@ import { notFound } from "next/navigation";
 import { FaqSection } from "@/components/BestList";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { JsonLd } from "@/components/JsonLd";
-import { LiveGoogleRating } from "@/components/LiveGoogleRating";
+import { GoogleReviewsLink } from "@/components/GoogleReviewsLink";
 import { ScoreBadge } from "@/components/ScoreBadge";
 import { getAllMsps, getArea, getCity, getCityMsps, getCityRank, getMsp, placeName, slugify } from "@/lib/data";
 import { INDUSTRY_LABELS, SERVICE_LABELS, label } from "@/lib/labels";
@@ -112,7 +112,7 @@ export default async function MspPage({ params }: PageProps<"/msp/[slug]">) {
             <ScoreBadge score={msp.score.total} linked />
           </div>
           <div className="mt-3">
-            <LiveGoogleRating placeId={msp.placeId} />
+            <GoogleReviewsLink name={msp.name} location={placeName(msp)} />
           </div>
         </div>
         <div className="flex gap-2">
@@ -242,7 +242,7 @@ export default async function MspPage({ params }: PageProps<"/msp/[slug]">) {
           <div className="rounded-xl border border-dashed border-slate-300 p-5 text-sm text-slate-600">
             <p className="font-medium text-slate-900">Own this business?</p>
             <p className="mt-1">
-              Details are summarized from {hostname(msp.website)}; the Google rating is shown live from Google Maps.
+              Details are summarized from {hostname(msp.website)}.
               Listing claims, so you can update your profile, are coming soon.
             </p>
           </div>

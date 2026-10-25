@@ -52,19 +52,22 @@ company, and avoid marketing language.
 and `/how-we-rank` stay linked from the header and footer. Keep their claims
 accurate: if a process (human review, refresh schedule) changes, update them.
 
-## Google Places terms
+## No Google data or APIs
 
-Store only place IDs (indefinitely) and coordinates (30 days). Never publish
-ratings, review counts, names, phones, addresses or Maps URLs from Google: contact
-details come from each company's website (`scripts/contact.py`), and profiles load
-Google ratings live in the browser (`LiveGoogleRating`) with "Google Maps"
-attribution. Run `scripts/purge.py` after a city's review is done.
+Google's Maps Platform terms forbid using the Places API (a "Core Service") in a
+listings or directory service, and Google's terms forbid scraping Google Search.
+So the site and pipeline must not call Google Places or the Maps JavaScript API,
+scrape Google results, store or publish Google content (ratings, names,
+addresses, phones, Maps URLs), or publish place IDs. Older cities' local files
+still use bare place IDs as file names, which Google's terms allow. Reviews are linked, not shown: profiles
+use `GoogleReviewsLink`, a plain Maps search hyperlink. Discovery for new cities
+must come from a source whose terms allow building a directory; everything
+published comes from each company's own website.
 
 ## Conventions
 
 - Pipeline Claude calls use `--model claude-haiku-5-5` (the owner's choice for cost).
-- New cities get `max_candidates` (default 50) and 4 search phrases per town to stay
-  within the shared daily Google quota.
+- New cities get `max_candidates` (default 50) so crawling and review stay small.
 - The site is a static export (`output: "export"`) deployed on Netlify from `main`;
   read `web/node_modules/next/dist/docs/` before using Next.js APIs (see
   `web/AGENTS.md`).
