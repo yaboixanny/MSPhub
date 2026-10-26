@@ -63,7 +63,8 @@ still use bare place IDs as file names, which Google's terms allow. Reviews are 
 use `GoogleReviewsLink`, a plain Maps search hyperlink. Discovery for new cities
 comes from `scripts/discover.py` (Claude web search via the Anthropic API, with
 directory sites blocked); everything published comes from each company's own
-website, and the export's local check keeps out firms with no office in the metro.
+website, and the export's local check publishes new MSPs only with an office
+address in the metro (others go to `held.csv`; `local_ok` = yes overrides).
 
 ## Conventions
 

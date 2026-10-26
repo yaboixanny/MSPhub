@@ -54,30 +54,12 @@ def company_identity(city, name, website):
     return (city, name.lower().strip(), domain)
 
 
-# A company name made of the city plus service words is usually a lead-generation
-# site ("Managed IT Services Atlanta GA"), not an MSP.
-GENERIC_NAME_WORDS = {"managed", "it", "services", "service", "support", "computer", "tech", "msp", "company", "network"}
-
-
-def looks_generic(name, config):
-    words = set(name.lower().replace(",", " ").split())
-    return config["city"].lower() in name.lower() and len(words & GENERIC_NAME_WORDS) >= 2
-
-
-def is_local(base, row, contact, config, metro_towns):
-    """New listings must show they're in the metro: an office in one of its towns, or,
-    if the site lists no address, the metro named in its pages and a real company name.
-    (Discovery by web search has no coordinates, so national firms and lead-generation
-    sites with city landing pages would otherwise slip in.)"""
-    if contact["addresses"]:
-        return any(town_key(address["city"]) in metro_towns for address in contact["addresses"])
-    if looks_generic(contact["company_name"], config):
-        return False
-    site_path = base / "sites" / f"{row['place_id']}.json"
-    if not site_path.exists():
-        return False
-    text = " ".join(page["text"] for page in json.loads(site_path.read_text())["pages"]).lower()
-    return config["city"].lower() in text
+def is_local(contact, metro_towns):
+    """New listings must list an office in one of the metro's towns. Discovery by web
+    search has no coordinates, and a site naming the metro proves little (national
+    firms and lead-generation sites list dozens of "service areas"), so a company
+    with no address is held for review instead of published."""
+    return any(town_key(address["city"]) in metro_towns for address in contact["addresses"])
 
 
 def load_writeup(base, place_id):
@@ -120,20 +102,24 @@ def main():
         # One profile per company per metro, even when it was found twice with
         # different website pages (e.g. its homepage and a services page).
         by_company = {}
+        held = []
         published = 0
         for row in rows:
             contact_path = base / "contact" / f"{row['place_id']}.json"
             record = json.loads(contact_path.read_text()) if contact_path.exists() else {}
             contact = record.get("contact")
             if not contact:
-                print(f"  skipped {row.get('name', row['place_id'])}: no contact details from its website "
+                print(f"  skipped {row.get('company') or row.get('name') or row['place_id']}: no contact details from its website "
                       f"({record.get('status', 'contact.py not run')[:60]})")
                 continue
             identity = company_identity(config["slug"], contact["company_name"], clean_url(record["website"]))
             company_key = identity[1:]
             previous_slug = previous.get(identity) or previous.get((config["slug"], row["place_id"]))
-            if previous_slug is None and not is_local(base, row, contact, config, metro_towns):
-                print(f"  skipped {contact['company_name']}: no sign of an office in {config['city']}, {config['state_code']}")
+            # local_ok = "yes" in msps.csv publishes a held company after a manual check.
+            if previous_slug is None and row.get("local_ok") != "yes" and not is_local(contact, metro_towns):
+                reason = "no office address on its website" if not contact["addresses"] else "no office in the metro"
+                held.append({"company": contact["company_name"], "website": record["website"], "reason": reason,
+                             "place_id": row["place_id"]})
                 continue
             if company_key in by_company:
                 existing = by_company[company_key]
@@ -194,7 +180,16 @@ def main():
             "count": published,
             "updated": time.strftime("%Y-%m-%d"),
         })
-        print(f"{config['city']}, {config['state_code']}: {published} MSPs published")
+        held_path = base / "held.csv"
+        if held:
+            with open(held_path, "w", newline="") as handle:
+                writer = csv.DictWriter(handle, fieldnames=["company", "website", "reason", "place_id"])
+                writer.writeheader()
+                writer.writerows(held)
+        elif held_path.exists():
+            held_path.unlink()
+        note = f" ({len(held)} held for review in held.csv)" if held else ""
+        print(f"{config['city']}, {config['state_code']}: {published} MSPs published{note}")
 
     # Keep old profile URLs working after merges; earlier redirects are kept too.
     lines = REDIRECTS.read_text().splitlines() if REDIRECTS.exists() else []

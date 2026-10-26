@@ -59,10 +59,11 @@ tool (directories and listing sites are blocked). Everything published comes fro
 the companies' own websites.
 
 **Local check.** Search results carry no coordinates, so the export only publishes a
-new MSP if one of its offices is in the metro's `areas` or `nearby_towns` (a city
-config key used for matching, not searching), or, when its site lists no address,
-the site names the metro and the company name isn't a keyword phrase like
-"Managed IT Services Atlanta GA" (usually a lead-generation site).
+new MSP if its website lists an office in the metro's `areas` or `nearby_towns` (a
+city config key used for matching, not searching). Companies without one (national
+firms, franchise HQ sites, lead-generation sites, sites with no address) are written
+to `held.csv` instead. To publish a held company after checking it, set `local_ok`
+to `yes` on its row in `msps.csv` and export again.
 
 **MSP Hub Score.** Lists are ordered by a 0-100 score computed in
 `web/src/lib/score.ts` from website data only: years in business (30), managed

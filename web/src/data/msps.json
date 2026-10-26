@@ -1354,6 +1354,1363 @@
     "state": "georgia"
   },
   {
+    "slug": "lg-networks-inc",
+    "name": "LG Networks, Inc.",
+    "summary": "LG Networks is a Dallas-area IT provider offering monthly managed IT plans, help desk support, cybersecurity, backup and cloud services for businesses across the DFW metroplex. It focuses on accounting, logistics, manufacturing, construction and trades firms, and has a managed AI security offering called LG Secure AI 360.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "construction",
+      "manufacturing",
+      "logistics",
+      "accounting_finance",
+      "legal"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC"
+    ],
+    "partners": [
+      "Microsoft Small Business Specialist",
+      "Certified Microsoft Partner"
+    ],
+    "foundedYear": 2010,
+    "teamSize": null,
+    "serviceArea": "Dallas-Fort Worth metroplex; offices in Dallas, Addison, Fort Worth, McKinney and Irving",
+    "pricing": "Flat monthly managed IT plans priced per device; AI service is consumption-based with custom quotes",
+    "website": "https://lgnetworksinc.com/",
+    "phone": "(888) 764-0688",
+    "addresses": [
+      "9441 Lyndon B Johnson Fwy #250, Dallas, TX 75243",
+      "5015 Addison Cir #5005, Addison, TX 75001",
+      "8751 Collin McKinney Pkwy Suite 1102 #543, McKinney, TX 75070",
+      "511 E John W Carpenter Fwy, Irving, TX",
+      "1617 Park Place Ave Suite 110-LGN, Fort Worth, TX 76110"
+    ],
+    "town": "Dallas",
+    "linkedin": "https://www.linkedin.com/company/lg-networks-inc/",
+    "writeup": {
+      "what_they_do": "LG Networks, Inc. provides managed IT services in the Dallas-Fort Worth area, including a 24/7 help desk, on-site support, network monitoring and patching, cybersecurity (endpoint protection, SOC-as-a-Service, dark web monitoring), backup and disaster recovery, Microsoft 365 and Azure cloud management, and vCIO strategy and compliance support. The company also offers a managed AI service called LG Secure AI 360 for governing AI use across an organization.",
+      "who_they_serve": "The company serves North Texas businesses, with a focus on logistics, accounting and CPA firms, manufacturing, construction and trades, law firms, healthcare providers, and financial services. Its website lists service areas including Dallas, Fort Worth, Addison, Irving, McKinney and Plano.",
+      "how_they_work": "Managed IT plans are priced per device each month, and the company also offers project-based support. Its About page describes flat monthly Total Care Service Plans, and the company states it offers 24/7 help desk and on-site support across Dallas-Fort Worth.",
+      "what_stands_out": "The company states it has supported North Texas businesses since 2010 from offices in Dallas, Addison, Fort Worth, McKinney and Irving. Its About page lists a Microsoft Small Business Specialist certification and Certified Microsoft Partner status."
+    },
+    "city": "dallas",
+    "state": "texas"
+  },
+  {
+    "slug": "cloudavize",
+    "name": "Cloudavize",
+    "summary": "Cloudavize is a Dallas-Fort Worth managed IT provider offering outsourced IT management, help desk and on-site support, managed cybersecurity, cloud services, backup and disaster recovery, and IT compliance assistance. It serves small-to-mid-sized and mid-market businesses across a range of industries, with a virtual CIO option and fixed-fee pricing.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement",
+      "structured_cabling"
+    ],
+    "industries": [
+      "nonprofit"
+    ],
+    "compliance": [],
+    "partners": [
+      "Microsoft Solutions Partner"
+    ],
+    "foundedYear": 2019,
+    "teamSize": null,
+    "serviceArea": "Dallas-Fort Worth, with nationwide support mentioned",
+    "pricing": "Fixed fee costs, described as transparent and predictable flat pricing",
+    "website": "https://www.cloudavize.com/",
+    "phone": "(469) 250-1667",
+    "addresses": [
+      "8330 Lyndon B Johnson Fwy, Suite 510, Dallas, TX 75243"
+    ],
+    "town": "Dallas",
+    "linkedin": "https://www.linkedin.com/company/cloudavize/",
+    "writeup": {
+      "what_they_do": "Cloudavize is a Dallas-based managed IT services provider offering IT support, help desk, network support, cybersecurity, cloud services, and backup and disaster recovery. It also lists IT compliance, IT consulting, Microsoft 365 and Teams consulting, AWS and Azure services, and desktop support among its offerings.",
+      "who_they_serve": "The company says it serves small-to-mid-sized businesses and mid-market companies across a variety of industries in the Dallas-Fort Worth region, and its industries page also mentions nationwide clients. The site names non-profit and small business as industries it works with.",
+      "how_they_work": "The site describes a fixed-fee pricing model, a dedicated team including a project manager and engineers, and service-level agreements with stated response commitments. Support is described as both onsite and remote, and the company lists 24-hour service availability.",
+      "what_stands_out": "The company states it has been operating since 2019 and reports 230+ completed projects, 11,000+ tickets closed, 200+ clients served, and a 95.3% CSAT score. The site also says it offers a virtual CIO service and IT compliance support, though it notes that its compliance services do not constitute certification or guarantee audit outcomes."
+    },
+    "city": "dallas",
+    "state": "texas"
+  },
+  {
+    "slug": "mentis-group",
+    "name": "Mentis Group",
+    "summary": "Dallas-Fort Worth based managed IT and cybersecurity provider with offices in Dallas, Fort Worth and Houston, serving businesses and nonprofits in 15 states. Offers fully managed and co-managed IT, managed cybersecurity with 24/7 SOC and MDR, Microsoft 365 and cloud administration, VoIP through RingCentral and Teams, and project-based IT work. Notable focus on architecture, engineering and construction, legal and nonprofit clients.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement",
+      "structured_cabling"
+    ],
+    "industries": [
+      "legal",
+      "construction",
+      "nonprofit",
+      "engineering_architecture"
+    ],
+    "compliance": [
+      "CMMC",
+      "HIPAA",
+      "PCI DSS",
+      "FINRA/SEC",
+      "NIST"
+    ],
+    "partners": [
+      "Microsoft Partner",
+      "RingCentral Partner",
+      "Cisco Meraki",
+      "VMware",
+      "AWS"
+    ],
+    "foundedYear": 2001,
+    "teamSize": null,
+    "serviceArea": "Dallas-Fort Worth and North Texas, with clients across 15 states",
+    "pricing": null,
+    "website": "https://mentis-group.com/",
+    "phone": "(866) 901-7808",
+    "addresses": [
+      "8330 LBJ Freeway, Suite 450, Dallas, TX 75243",
+      "600 W 6th Street, Suite 442, Fort Worth, TX 76102",
+      "401 N Franklin Street, Suite 2400-120, Houston, TX 77002"
+    ],
+    "town": "Dallas",
+    "linkedin": "https://www.linkedin.com/company/mentis-group/",
+    "writeup": {
+      "what_they_do": "Mentis Group provides process-driven managed IT services, offering Fully Managed IT and Co-Managed IT plans alongside managed cybersecurity, VoIP, project-based IT services, managed cloud services, and AI automation and governance. Its managed plans include endpoint detection and response, identity protection, email security, security awareness training, vulnerability management, and dark web monitoring. The company describes its approach as built around process, security, and structured IT operations.",
+      "who_they_serve": "The company serves architecture, engineering and construction, financial and accounting, legal, manufacturing and distribution, and nonprofit organizations. Its stated base is Dallas-Fort Worth and North Texas, with clients across 15 states according to the site. Dedicated pages cover construction (AEC), architecture, law firms, and nonprofits.",
+      "how_they_work": "Mentis offers two support paths: fully managed IT, where it takes over day-to-day support, security, systems management, and planning, and co-managed IT, where it works alongside an internal IT team. The site lists offices in Dallas, Fort Worth, and Houston, and says it supports clients with a mix of local and remote capabilities. The site does not state pricing or support hours.",
+      "what_stands_out": "The company says it has been in business since 2001 and that its first client is still with it. It states its security approach follows the NIST Cybersecurity Framework and CIS Controls, and that it supports compliance areas including HIPAA, PCI DSS, CMMC, and FINRA and SEC expectations, with 24/7 SOC and MDR available."
+    },
+    "city": "dallas",
+    "state": "texas"
+  },
+  {
+    "slug": "velocity-it",
+    "name": "Velocity IT",
+    "summary": "Dallas-based IT company founded in 2010 that provides managed IT support, help desk, cybersecurity, cloud and Microsoft 365 services, backup and disaster recovery, and business phone systems. It serves small and mid-sized organizations across the Dallas-Fort Worth area, with a particular focus on law firms, healthcare practices, accounting and financial firms, nonprofits and churches.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "structured_cabling"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "nonprofit",
+      "construction",
+      "engineering_architecture",
+      "professional_services"
+    ],
+    "compliance": [],
+    "partners": [
+      "Microsoft 365 (solutions referenced, partner status not stated)",
+      "3CX (VoIP solutions referenced)"
+    ],
+    "foundedYear": 2010,
+    "teamSize": null,
+    "serviceArea": "Dallas-Fort Worth, TX (Addison, Arlington, Coppell, Dallas, Fort Worth, Frisco, Garland, Irving, McKinney, Plano, Richardson); structured cabling also cited for Austin and Houston",
+    "pricing": "Predictable, all-inclusive monthly managed IT packages with custom tiers; 30 days of free service offered as a trial",
+    "website": "https://www.velocityit.net/",
+    "phone": "(972) 996-6600",
+    "addresses": [
+      "8330 Lyndon B Johnson Fwy, Suite 370, Dallas, TX 75243"
+    ],
+    "town": "Dallas",
+    "linkedin": "https://www.linkedin.com/company/velocityit/",
+    "writeup": {
+      "what_they_do": "Velocity IT is a Dallas-based managed IT services provider offering managed IT with 24/7 monitoring, help desk support, and infrastructure management. Its other services include cloud migration, Microsoft 365 and Google Workspace support, backup and disaster recovery, cybersecurity assessments, hosted VoIP business telephone services, and structured cabling.",
+      "who_they_serve": "The company says it serves small- and mid-sized businesses and organizations of all sizes in the Dallas-Fort Worth area, with listed service areas including Addison, Arlington, Coppell, Dallas, Fort Worth, Frisco, Garland, Irving, McKinney, Plano, and Richardson. Industries named on its site include law firms, healthcare practices, financial services and accounting firms, construction, architects and engineers, manufacturing, non-profits, and churches.",
+      "how_they_work": "Managed IT packages are described as all-inclusive and custom-built, with a monthly fee covering monitoring, updates, cybersecurity, and customer support. New clients begin with a free consultation that includes an infrastructure review and a written risk report, followed by a 30-day free service offer. The site lists a Dallas office address and a phone line for support.",
+      "what_stands_out": "The company states it has been operating since 2010 and reports 250 clients served and 60 five-star Google reviews. The site also mentions that it offers a free Cyber Score assessment, a 3CX VoIP option, and a partner program."
+    },
+    "city": "dallas",
+    "state": "texas"
+  },
+  {
+    "slug": "gxa",
+    "name": "GXA",
+    "summary": "Richardson, Texas-based IT firm offering outsourced and co-managed IT under a virtual CIO and virtual IT manager model, plus managed security through its gShield SOC program. Serves businesses across the Dallas-Fort Worth area and wider Texas, with a focus on healthcare, AEC, financial services, manufacturing and nonprofit clients.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement"
+    ],
+    "industries": [
+      "healthcare",
+      "accounting_finance",
+      "construction",
+      "manufacturing",
+      "engineering_architecture",
+      "nonprofit",
+      "education",
+      "real_estate",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "SOC 2",
+      "PCI DSS",
+      "CMMC",
+      "NIST",
+      "GLBA"
+    ],
+    "partners": [
+      "Microsoft Solutions Partner",
+      "Microsoft Security Partner",
+      "Vanta Partner",
+      "SOC 2 Type II attested",
+      "ISO 9001:2015",
+      "CISSP-certified leadership"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Dallas-Fort Worth and across Texas, headquartered in Richardson",
+    "pricing": "Predictable flat monthly cost for all tools, software and monitoring included",
+    "website": "https://www.gxait.com/",
+    "phone": "(972) 630-3323",
+    "addresses": [
+      "269 W. Renner Pkwy, Richardson, TX 75080"
+    ],
+    "town": "Richardson",
+    "linkedin": "https://www.linkedin.com/company/gxait",
+    "writeup": {
+      "what_they_do": "GXA is a managed IT provider offering fully outsourced and co-managed IT departments, with virtual CIO and virtual IT manager leadership, managed cybersecurity through its gShield program, cloud and Microsoft 365 services, backup and disaster recovery, network management, and AI and digital transformation consulting. The company also lists project services such as cloud migrations, office relocations, and system implementations.",
+      "who_they_serve": "The company states that it serves growing businesses in the Dallas-Fort Worth area and across Texas, with headquarters in Richardson. It lists industry focus areas including healthcare, financial services, manufacturing, professional services, commercial real estate, architecture/engineering/construction, education, nonprofits, and technology.",
+      "how_they_work": "Clients can choose gComplete, a fully managed model for companies with no internal IT staff, or gPartner, a co-managed model for companies with about 1 to 5 internal IT staff. The site describes a predictable monthly cost that includes tools and monitoring, quarterly business reviews, 24/7 support with a 15-minute average response time, and monthly on-site visits by the virtual IT manager in its AEC materials.",
+      "what_stands_out": "The company reports 21 years in business, SOC 2 Type II attestation, ISO 9001:2015 certification, and CISSP-certified leadership, and it lists Microsoft Solutions Partner and Vanta Partner status. Its website also cites 44,810 issues resolved in 2025 and a 4.9 rating from 128 reviews."
+    },
+    "city": "dallas",
+    "state": "texas"
+  },
+  {
+    "slug": "uprite",
+    "name": "Uprite",
+    "summary": "Texas-based managed IT and cybersecurity provider founded in 1999, serving small and mid-sized businesses across Houston, San Antonio, Dallas, and Fort Worth. Offers managed and co-managed IT, managed security with 24/7 monitoring, cloud and Microsoft 365 support, managed phones, cabling, and vCIO services, with notable healthcare offerings aligned to HIPAA and Texas privacy law.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "structured_cabling"
+    ],
+    "industries": [
+      "healthcare",
+      "manufacturing",
+      "accounting_finance",
+      "engineering_architecture",
+      "real_estate",
+      "construction",
+      "nonprofit",
+      "professional_services",
+      "logistics"
+    ],
+    "compliance": [
+      "HIPAA",
+      "NIST",
+      "SOC 2",
+      "CMMC"
+    ],
+    "partners": [],
+    "foundedYear": 1999,
+    "teamSize": "42 professionals",
+    "serviceArea": "Texas, with metro teams in Houston, San Antonio, Dallas, and Fort Worth",
+    "pricing": "Per-user monthly managed IT contracts; vCIO included with fully managed IT contracts; locked-in pricing for 12 months",
+    "website": "https://uprite.com/",
+    "phone": "(281) 956-2280",
+    "addresses": [
+      "5757 Alpha Rd, Suite 530, Dallas, TX 75240",
+      "5718 Westheimer Rd, #1000-101, Houston, TX 77057",
+      "11831 Radium Street, San Antonio, TX 78216",
+      "16441 Space Center Blvd, Suite B-1, Houston, TX 77058"
+    ],
+    "town": "Dallas",
+    "linkedin": "https://www.linkedin.com/company/upriteservices/",
+    "writeup": {
+      "what_they_do": "Uprite is a Texas-based managed IT and cybersecurity provider offering managed and co-managed IT services, managed cybersecurity (including 24/7 SOC-as-a-service and managed endpoint and email protection), cloud services, managed phone service, and a virtual CIO offering. The company also lists cabling, IT consulting, and managed AI services among its offerings.",
+      "who_they_serve": "The company serves small and mid-sized businesses across Houston, San Antonio, Dallas, Fort Worth, and the state of Texas. Its listed industries include manufacturing, financial services, CPA and accounting, oil and gas, engineering and architecture, real estate, construction, healthcare, legal and professional services, maritime and logistics, nonprofits, and private equity.",
+      "how_they_work": "Most engagements start with managed IT services, and the company describes a five-step vCIO process covering assessment, roadmap and budget, implementation, adjustment, and quarterly business reviews. Its Guarantee includes a 120-day satisfaction clause allowing exit from the contract, locked-in pricing for 12 months, and a stated no-surprise-fees policy. The site describes a free consultation and estimate but does not state support hours in full.",
+      "what_stands_out": "The company states it has been operating since 1999 and completed a SOC 2 Type 1 attestation of its own security program in May 2023. It also states it is HIPAA compliant and offers healthcare-specific tiers, and it says its vCIO role is included in fully managed IT contracts rather than billed separately."
+    },
+    "city": "dallas",
+    "state": "texas"
+  },
+  {
+    "slug": "dkbinnovative",
+    "name": "DKBinnovative",
+    "summary": "Frisco-based managed IT and cybersecurity firm serving small and mid-sized businesses across Dallas-Fort Worth, with offices in Frisco, Plano and Irving. Offers fully managed and co-managed IT, helpdesk, 24/7 SOC-backed endpoint and network security, vCISO and compliance support, plus cloud, consulting and DevOps work. Focuses on professional services, healthcare, construction, finance and manufacturing clients.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "software_development"
+    ],
+    "industries": [
+      "healthcare",
+      "construction",
+      "manufacturing",
+      "accounting_finance",
+      "legal",
+      "professional_services",
+      "engineering_architecture"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "NIST",
+      "SOC 2",
+      "PCI DSS",
+      "FINRA/SEC",
+      "FTC Safeguards",
+      "GLBA"
+    ],
+    "partners": [],
+    "foundedYear": 2004,
+    "teamSize": null,
+    "serviceArea": "Dallas-Fort Worth, Texas",
+    "pricing": null,
+    "website": "https://dkbinnovative.com/",
+    "phone": "(214) 981-8569",
+    "addresses": [
+      "1701 Legacy Dr #1450, Frisco, TX 75034",
+      "1400 Preston Rd #400, Plano, TX 75093",
+      "7301 State Hwy 161 #148, Irving, TX 75039"
+    ],
+    "town": "Frisco",
+    "linkedin": "https://www.linkedin.com/company/dkbinnovative",
+    "writeup": {
+      "what_they_do": "DKBinnovative is a Frisco, Texas managed IT and cybersecurity firm offering managed IT, co-managed IT, cybersecurity (including EDR/MDR and 24/7 SOC monitoring), cloud computing, IT consulting, and DevOps services. It also lists vCISO services, IT helpdesk, network support, and unified communications among its offerings.",
+      "who_they_serve": "The company says it serves small and midsize businesses, typically 20 to 250 employees, across Dallas-Fort Worth, with a focus on investment and professional firms, healthcare, construction, financial services, energy and industrial resources, and manufacturing. Its site describes compliance support for frameworks such as HIPAA, SEC Regulation S-P, FINRA, and CMMC.",
+      "how_they_work": "Clients can use fully managed or co-managed engagement models, and cybersecurity can be bought standalone or alongside an existing IT team. The company states standard onboarding takes 45 to 90 days from contract signature, and it operates offices in Frisco, Plano, and Irving, Texas.",
+      "what_stands_out": "The company states it was founded in 2004, reports a 98.14% client satisfaction rating and an average resolution time of 1.2 hours, and says its in-house SOC runs 24/7/365 with a 3-minute average first-response benchmark on critical alerts. The site also describes two incident response cases involving a business email compromise and a post-acquisition account compromise."
+    },
+    "city": "dallas",
+    "state": "texas"
+  },
+  {
+    "slug": "ighty-support",
+    "name": "Ighty Support",
+    "summary": "Ighty Support is a Dallas-Fort Worth IT company offering managed IT support, help desk, network monitoring, and monthly per-user plans for small and mid-sized businesses. It also installs structured cabling, security cameras and access control systems, positioning itself as a single vendor for IT and physical infrastructure. Industries served include healthcare, legal, education, logistics and manufacturing, per the site.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services",
+      "structured_cabling"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "manufacturing",
+      "education",
+      "government",
+      "nonprofit",
+      "logistics",
+      "automotive",
+      "retail",
+      "real_estate",
+      "accounting_finance",
+      "hospitality"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS"
+    ],
+    "partners": [
+      "Microsoft 365",
+      "Azure",
+      "Google Workspace",
+      "Intune",
+      "Cisco",
+      "Ubiquiti",
+      "Datto",
+      "Duo",
+      "CrowdStrike",
+      "SentinelOne"
+    ],
+    "foundedYear": 2011,
+    "teamSize": null,
+    "serviceArea": "Dallas-Fort Worth, Texas, with offices in Dallas and Fort Worth area",
+    "pricing": "Month-to-month per-user plans: Essentials at $49/user and Managed+ at $79/user, plus custom compliance packages",
+    "website": "https://www.ightysupport.com/",
+    "phone": "(972) 200-3219",
+    "addresses": [
+      "1509 W Hebron Parkway, Suite Number 120, Carrollton, TX 75010",
+      "2001 N Lamar Street, Suite Number 270, Dallas, TX 75202"
+    ],
+    "town": "Carrollton",
+    "linkedin": "https://www.linkedin.com/company/ightysupport/",
+    "writeup": {
+      "what_they_do": "Ighty Support provides managed IT services in the Dallas-Fort Worth area, including 24/7 helpdesk support, proactive monitoring, backup and disaster recovery, and cybersecurity. The company also offers structured cabling installation and security systems installation, including security cameras and access control.",
+      "who_they_serve": "The company states it works with small, medium, and large businesses across diverse industries, including healthcare, law, fintech, manufacturing, education, and government offices. Its service area is listed as Dallas-Fort Worth cities, and its website also claims availability in 100+ cities.",
+      "how_they_work": "The website describes a flat monthly per-user pricing structure with month-to-month plans and no lock-in contract, along with a free IT assessment and onboarding process. Business-hours and after-hours support are described, and the company states that its engineers are based in the DFW area and dispatch on-site.",
+      "what_stands_out": "The company states it has operated since 2011, is Texas licensed and insured, and claims contractual SLA commitments with automatic invoice credits for missed response times. Its website also lists certifications and awards, though some of these claims are not independently verified on the site."
+    },
+    "city": "dallas",
+    "state": "texas"
+  },
+  {
+    "slug": "bluekey-it",
+    "name": "BlueKey IT",
+    "summary": "BlueKey IT is a managed service provider offering fully managed and co-managed IT, help desk, 24/7 monitoring and patching, Microsoft 365 administration, backup and disaster recovery, and cybersecurity and compliance support. It serves small and mid-sized businesses, with named focus on healthcare, dental, legal, accounting, architecture and engineering, veterinary, and defense contractor clients. Offices are in Arizona, Utah, Colorado, Texas, Kansas and Tennessee, with remote support across the US.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "computer_repair"
+    ],
+    "industries": [
+      "healthcare",
+      "dental",
+      "legal",
+      "accounting_finance",
+      "engineering_architecture",
+      "construction",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "NIST",
+      "SOC 2",
+      "PCI DSS",
+      "FTC Safeguards"
+    ],
+    "partners": [
+      "CMMC Certified Professional (CCP)",
+      "CyberAB Registered Practitioner (RP)",
+      "Datto",
+      "RocketCyber",
+      "Kaseya"
+    ],
+    "foundedYear": 2007,
+    "teamSize": "200+ customers; 6,000+ endpoints managed (no staff count stated)",
+    "serviceArea": "Arizona, Utah, Colorado, Texas, Kansas, Tennessee, North Carolina, and remote support across the US",
+    "pricing": "Per-user and per-device monthly pricing, averaging about $100 per user per month with a 10-user minimum; month-to-month for smaller businesses, annual with 90-day out period for larger engagements",
+    "website": "https://bluekeyit.com/",
+    "phone": "(866) 844-0536",
+    "addresses": [
+      "1001 W Euless Blvd, Suite 308, Euless, TX 76040",
+      "916 East Baseline Road, Suite 227, Mesa, AZ 85204",
+      "2819 S 5600 W, West Valley City, UT 84120",
+      "5808 S Rapp St, Suite 275, Littleton, CO 80120",
+      "12345 W 95th Street, 2nd Floor, Lenexa, KS 66215",
+      "9005 Overlook Blvd, Brentwood, TN 37027"
+    ],
+    "town": "Euless",
+    "linkedin": "https://www.linkedin.com/company/bluekeyit",
+    "writeup": {
+      "what_they_do": "BlueKey IT provides managed and co-managed IT services, including help desk and workstation support, 24/7 monitoring and patch management, endpoint security, backup and disaster recovery, Microsoft 365 and Google Workspace management, and networking. It also offers cybersecurity and compliance services covering frameworks such as CMMC, HIPAA, PCI DSS, and SOC 2, along with IT consulting, vCIO/vCISO packages, and managed AI.",
+      "who_they_serve": "The company supports over 200 customers and more than 6,000 endpoints, with industry focus on healthcare and medical practices, dental practices, law firms, accounting and CPA firms, architecture and engineering firms, veterinary clinics, defense contractors, and small businesses. It has offices in Arizona, Utah, Colorado, Texas, Kansas, and Tennessee and provides remote support to businesses anywhere in the US.",
+      "how_they_work": "Managed IT is priced per user and per device, with the site stating an average of about $100 per user per month and a 10-user minimum; co-managed IT is priced by module. Smaller businesses can work month to month, while larger engagements use an annual agreement with a 90-day out period at the start. Onboarding begins with a discovery call and review, followed by a proposal and quarterly reviews, and response targets are 1 business hour for critical issues.",
+      "what_stands_out": "The company states it has supported businesses since 2007 and has operated as BlueKey IT since 2021. Its site lists CMMC Certified Professional and CyberAB Registered Practitioner credentials on staff, plus hands-on HIPAA and PCI experience."
+    },
+    "city": "dallas",
+    "state": "texas"
+  },
+  {
+    "slug": "fluid-it",
+    "name": "Fluid IT",
+    "summary": "Fluid IT is a Lewisville, Texas firm offering monthly managed IT plans for small and mid-sized businesses in the Dallas-Fort Worth area, covering help desk, remote monitoring, Microsoft 365 and Azure administration, backup and disaster recovery, and managed cybersecurity with US-based engineers. They also provide virtual CIO and technology roadmap consulting and focus on clients with roughly 25 to 200 employees.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement"
+    ],
+    "industries": [
+      "accounting_finance",
+      "healthcare",
+      "legal",
+      "logistics",
+      "manufacturing",
+      "real_estate"
+    ],
+    "compliance": [],
+    "partners": [
+      "Certified Microsoft Cloud Solutions Provider (CSP) Tier 1",
+      "Microsoft Tier 1 Partnership"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Dallas, Fort Worth, Frisco, McKinney, Plano; Dallas-Fort Worth Metroplex",
+    "pricing": "All-inclusive per-user monthly pricing with annual term; projects billed separately",
+    "website": "https://www.fluiditservices.com/",
+    "phone": "(888) 992-1230",
+    "addresses": [
+      "301 Leora Lane, Suite 420, Lewisville, TX 75056"
+    ],
+    "town": "Lewisville",
+    "linkedin": "https://www.linkedin.com/company/fluid-it-services/",
+    "writeup": {
+      "what_they_do": "Fluid IT is a managed IT services provider offering managed IT support, managed cybersecurity (including 24x7 monitoring, vulnerability and threat response, perimeter management, and backup and disaster recovery), Azure cloud hosting and lifecycle management, and managed Microsoft 365 and Teams configuration. The company also offers virtual CIO and technology roadmap services and a help desk with unlimited support for all users.",
+      "who_they_serve": "The company states it works with SMBs and supports companies of all sizes, with its typical client in the small to mid-market segment of 25 to 200 employees. It names industries including accounting, healthcare, legal, logistics, manufacturing, oil and gas, and real estate, and it is based in Lewisville, Texas, serving the Dallas/Fort Worth area, including Frisco, McKinney, and Plano.",
+      "how_they_work": "Managed IT plans are priced per user and are all-inclusive, with annual terms and monthly invoices accepted by check, credit card, or ACH. The company reports 2-hour response SLAs with typical responses within 15 minutes, uses remote tools first and sends onsite technicians when needed, and bills projects separately after approval. Onboarding typically begins within a week after a discovery process.",
+      "what_stands_out": "The company states it is a Certified Microsoft Cloud Solutions Tier 1 Provider (CSP) and reports a 99% client retention rate, and it lists 24x7 monitoring by US-based cybersecurity engineers. It also says it has scaled startups from 6 employees to 1,600."
+    },
+    "city": "dallas",
+    "state": "texas"
+  },
+  {
+    "slug": "network-elites-dallas",
+    "name": "Network Elites",
+    "summary": "Network Elites is a Dallas-based managed IT provider offering fully managed and co-managed support, 24/7 help desk, managed security with a SOC, Microsoft 365 administration, backup and disaster recovery, and vCIO-style IT strategy. It serves small to mid-sized businesses across the Dallas area and beyond, with remote support and onsite help when needed, and highlights industry work in accounting, healthcare and legal.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "manufacturing"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [
+      "MSP 501 Top Global Managed Service Providers 2026",
+      "CRN Tech Elite 250 (two consecutive years)"
+    ],
+    "foundedYear": 2002,
+    "teamSize": "over 40 IT technicians",
+    "serviceArea": "Dallas, TX metro area and surrounding cities, with nationwide remote support",
+    "pricing": "Flat-rate pricing, no long-term contracts or cancellation fees",
+    "website": "https://www.networkelites.com/",
+    "phone": "(800) 656-6387",
+    "addresses": [
+      "4100 International Pkwy Ste 2200, Carrollton, TX 75007",
+      "8080 N Central Expy Ste 1700, Dallas, TX 75206",
+      "24 Greenway Plaza Ste 1800, Houston, TX 77046",
+      "3700 W Parmer Ln, Austin, TX 78727",
+      "37 N Orange Ave Ste 547, Orlando, FL 32801"
+    ],
+    "town": "Carrollton",
+    "linkedin": "https://www.linkedin.com/company/networkelites",
+    "writeup": {
+      "what_they_do": "Network Elites is a Dallas-based managed IT services provider offering managed IT and help desk support, cybersecurity with 24/7 SOC monitoring and its Elite Platform, Microsoft 365 and cloud services, backup and disaster recovery, and IT strategy through vCIO and consulting. The company also lists services such as VoIP, WiFi surveys, access control systems, and compliance support.",
+      "who_they_serve": "The company states it supports small to mid-sized businesses, from teams of one or two people up to over 500 employees, with support across the Dallas area and Texas. Industries named on its site include accounting, health care, legal, manufacturing, marketing, and property management.",
+      "how_they_work": "The company offers fully managed or co-managed support with 24/7/365 access and an initial response time of less than 15 minutes, priced at a flat rate with no long-term contracts or cancellation fees. It provides remote support with onsite help when needed, and its FAQ states there is no onsite presence unless requested.",
+      "what_stands_out": "Network Elites says it has been in business since 2002 and was named to the 2026 MSP 501 Top Global Managed Service Providers list and to CRN's Tech Elite 250 for two consecutive years. The site reports over 40 IT technicians, 1,500+ servers managed, and a dedicated client champion for each client."
+    },
+    "city": "dallas",
+    "state": "texas"
+  },
+  {
+    "slug": "reliable-technology-services",
+    "name": "Reliable Technology Services",
+    "summary": "Frisco-headquartered IT provider offering managed and co-managed IT, cybersecurity, Microsoft 365 administration, backup and disaster recovery, and Fortinet network support. Serves businesses across Dallas-Fort Worth and North Texas with remote and onsite service, with listed industry focus on legal, manufacturing, financial services, healthcare, construction and nonprofits.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "construction",
+      "manufacturing",
+      "engineering_architecture",
+      "nonprofit",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "NIST",
+      "SOC 2",
+      "PCI DSS",
+      "FTC Safeguards"
+    ],
+    "partners": [
+      "Fortinet Expert Partner",
+      "Fortinet MSSP Partner",
+      "Official IT Partner, Texas Legends (NBA G League)",
+      "Inc. 5000 Honoree",
+      "CRN Fast Growth 150"
+    ],
+    "foundedYear": 2007,
+    "teamSize": "250+ partners supported",
+    "serviceArea": "Dallas-Fort Worth and North Texas, with remote service nationwide",
+    "pricing": "Predictable monthly service model",
+    "website": "https://reliabletsi.com/",
+    "phone": "(972) 829-5300",
+    "addresses": [
+      "1518 Legacy Drive, Suite 240, Frisco, TX 75034"
+    ],
+    "town": "Frisco",
+    "linkedin": "https://www.linkedin.com/company/reliabletsi/",
+    "writeup": {
+      "what_they_do": "Reliable Technology Services is a Frisco, Texas managed IT provider offering managed and co-managed IT support, cybersecurity, Microsoft 365 administration, business continuity and disaster recovery, Fortinet services, compliance support, networking, cloud and wireless design. The company positions its managed IT offering as covering help desk, monitoring, patching, documentation, vendor coordination and technology planning on a monthly service model.",
+      "who_they_serve": "The company serves businesses across Dallas-Fort Worth and North Texas, and its site says it also serves clients nationwide. Industries listed include legal, manufacturing, financial and professional services, healthcare, construction, engineering and technology, churches and nonprofits, multi-location businesses, and sports and entertainment.",
+      "how_they_work": "Service is delivered remotely and onsite across DFW and North Texas, with scheduled and project-based onsite help. The site states that monitoring is 24/7, after-hours support is available, and engagements can be fully managed or co-managed alongside an internal IT team, beginning with a review of the current environment.",
+      "what_stands_out": "The company states it was founded in 2007 and has supported businesses since then, and it lists Fortinet Expert Partner status, Inc. 5000 recognition and the Official IT Partner role with the Texas Legends. Testimonials on the site describe responsive support, though these are client-provided and not independently verified."
+    },
+    "city": "dallas",
+    "state": "texas"
+  },
+  {
+    "slug": "axxys-technologies",
+    "name": "Axxys Technologies",
+    "summary": "Dallas-Fort Worth IT firm based in Plano, Texas, offering fully managed and co-managed IT support, managed security services, Microsoft cloud administration, backup and disaster recovery, and VoIP. Serves businesses across sectors including healthcare, nonprofits, oil and gas, construction, municipalities and financial firms, and has operated since the mid-1990s.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "construction",
+      "government",
+      "nonprofit",
+      "professional_services",
+      "accounting_finance",
+      "legal",
+      "insurance"
+    ],
+    "compliance": [
+      "NIST"
+    ],
+    "partners": [
+      "Cisco Meraki",
+      "Microsoft",
+      "VMware",
+      "CompTIA",
+      "AWS"
+    ],
+    "foundedYear": 1996,
+    "teamSize": null,
+    "serviceArea": "Dallas, Fort Worth (DFW) and Plano, Texas",
+    "pricing": "Simple flat fees for local businesses",
+    "website": "https://www.axxys.com/",
+    "phone": "(214) 297-2100",
+    "addresses": [
+      "5850 Granite Parkway, Suite 720, Plano, TX 75024"
+    ],
+    "town": "Plano",
+    "linkedin": "https://www.linkedin.com/company/axxys-technologies/",
+    "writeup": {
+      "what_they_do": "Axxys Technologies is a managed service provider offering fully managed and co-managed IT services, along with cloud services built on Microsoft products such as Azure, Microsoft 365, Teams and OneDrive. Its offerings also include managed security services, data backup and disaster recovery, and communications and collaboration solutions such as VoIP. The company describes security as central to its managed IT model under its MSP and MSSP Informed approach.",
+      "who_they_serve": "The company serves businesses in the Dallas, Fort Worth and Plano, Texas area and its website lists industries including construction, healthcare, financial services, municipalities, nonprofits, oil and gas, and small businesses. Its published case examples include an oil and gas company with sites in Texas and Louisiana, an insurance firm, and a 30-year-old law firm.",
+      "how_they_work": "The website states that IT services in Dallas are offered with simple flat fees and that onboarding includes a service team assigned to each client, on-site support during migration, and delivery of onboarding documentation. Support is described as available 24/7/365 network monitoring for certain plans, and clients can choose full outsourcing or co-managed support where the company supplements an internal IT team.",
+      "what_stands_out": "The company states it has been in business for over 34 years and was founded in 1987 by Jack Safrit, with the Axxys Technologies name adopted in 1996. Its website says its staff hold certifications from Microsoft, Cisco, VMware, CompTIA, AWS and Meraki, and advanced security certifications including CEH, CISM, CISSP and CCNA Security, and that its security offerings align with the NIST Cybersecurity Framework."
+    },
+    "city": "dallas",
+    "state": "texas"
+  },
+  {
+    "slug": "ctg-tech",
+    "name": "CTG Tech",
+    "summary": "CTG Tech is a Texas managed IT services provider founded in 1982, serving small and midsize businesses in the Dallas-Fort Worth area and Amarillo. Its offerings include outsourced IT departments, 24/7 monitoring, backup and disaster recovery, managed security and hosted VoIP, with a focus on healthcare, legal, accounting, financial, manufacturing and construction clients.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "manufacturing",
+      "construction"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [],
+    "foundedYear": 1982,
+    "teamSize": null,
+    "serviceArea": "Dallas-Fort Worth (Bedford, Dallas, Fort Worth, Arlington, Plano and surrounding cities) and Amarillo, Texas",
+    "pricing": "Flat-fee monthly managed IT pricing",
+    "website": "https://www.ctgmanagedit.com/",
+    "phone": "(972) 490-6711",
+    "addresses": [
+      "1306 Norwood Dr, Bedford, TX 76022",
+      "509 S Arthur St #200, Amarillo, TX 79102"
+    ],
+    "town": "Bedford",
+    "linkedin": "https://www.linkedin.com/company/ctgtech/",
+    "writeup": {
+      "what_they_do": "CTG Tech is a Texas managed IT services provider offering managed IT services, business continuity and disaster recovery, network security and cybersecurity, cloud solutions and hosting, hosted VoIP phone systems, IT consulting, and vCIO services. It can act either as a supplement to a client's existing IT department or as a complete outsourced IT department.",
+      "who_they_serve": "The company serves small and midsize businesses and names accounting/CPA, healthcare, legal, financial, and manufacturing/construction firms as industries it works with. Its stated service area covers the Dallas-Fort Worth area and Amarillo, with offices listed in Bedford and Amarillo, Texas.",
+      "how_they_work": "The site describes flat-rate, simple monthly pricing for outsourced IT departments and offers a free IT assessment and consultation before engagement. It states that a 24/7/365 monitoring and help desk is provided with remote and on-site response, and that onboarding updates are scheduled during off-peak hours.",
+      "what_stands_out": "The company states it was founded in 1982 and has over 40 years in business, and it lists awards and a Texas-based cybersecurity team with a 24/7 Security Operations Center. Its cybersecurity offerings include security awareness training, managed detection and response, endpoint protection and EDR, and incident response retainers."
+    },
+    "city": "dallas",
+    "state": "texas"
+  },
+  {
+    "slug": "divergeit",
+    "name": "DivergeIT",
+    "summary": "DivergeIT provides monthly managed IT, managed security and co-managed IT support to growing businesses, with offices in Torrance, Dallas and Miami. The firm publishes its pricing and response-time commitments and reports performance against them. It also offers compliance readiness, strategic IT consulting and AI deployment services.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "professional_services",
+      "logistics",
+      "nonprofit",
+      "manufacturing",
+      "accounting_finance"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "NIST"
+    ],
+    "partners": [
+      "Certified MSSP"
+    ],
+    "foundedYear": 1999,
+    "teamSize": null,
+    "serviceArea": "Businesses in more than 25 states, with offices in Los Angeles area (Torrance), Dallas/Plano TX and Miami FL",
+    "pricing": "Flat monthly per-user pricing for ManageIT; SecureIT from $450/mo for 15 devices; published starting prices",
+    "website": "https://divergeit.com/",
+    "phone": "(310) 765-5334",
+    "addresses": [
+      "580 Belleview Dr, Suite 205, Plano, TX 75024",
+      "2980 Columbia St, Torrance, CA 90503",
+      "1395 Brickell Avenue #800, Miami, FL"
+    ],
+    "town": "Plano",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "DivergeIT provides managed IT, cybersecurity, IT compliance, co-managed IT, strategic IT consulting and AI services for businesses. Its core offering, ManageIT, covers help desk, devices, servers, network, cloud and backups, while SecureIT provides managed threat detection and response across email, endpoints, network and cloud.",
+      "who_they_serve": "The company serves growing businesses across more than 25 states, from offices in Torrance (headquarters), Dallas and Miami. The site lists industries including financial services, healthcare, legal, professional services, logistics and transportation, entertainment and sports, nonprofits and manufacturing.",
+      "how_they_work": "Pricing is published on the website, with ManageIT tiers and SecureIT starting prices stated per user or per device per month, and published starting prices assume a 3-year agreement. Response guarantees are defined in each client's master services agreement, with a live expert promised within 5 minutes and a $100 credit when missed, and the site lists 24/7/365 coverage on the ManageIT Pro tier.",
+      "what_stands_out": "The company states it has been in business since 1999 and is a certified MSSP. It publishes its service agreements and quarterly performance reports, and offers money-back style remedies such as a $100 credit for missed response times and restoration at no charge if ransomware gets through under its watch."
+    },
+    "city": "dallas",
+    "state": "texas"
+  },
+  {
+    "slug": "techmedics",
+    "name": "Techmedics",
+    "summary": "Techmedics is a managed IT services provider founded in Los Angeles in 1999, with offices in Dallas, Denver, Las Vegas, Los Angeles and Phoenix. It offers fully managed and co-managed IT, managed security, helpdesk and desktop support, IT consulting, cloud and backup services, serving architecture, dental, healthcare, legal, financial services, nonprofit and other organizations.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement"
+    ],
+    "industries": [
+      "healthcare",
+      "dental",
+      "legal",
+      "accounting_finance",
+      "insurance",
+      "manufacturing",
+      "engineering_architecture",
+      "nonprofit",
+      "government",
+      "real_estate",
+      "education",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS"
+    ],
+    "partners": [
+      "Microsoft Silver Partner",
+      "Cisco Premier Partner",
+      "CRN MSP 500",
+      "CloudTango MSP Select 2024",
+      "Clutch Champion Spring 2024"
+    ],
+    "foundedYear": 1999,
+    "teamSize": "25+",
+    "serviceArea": "Dallas, Denver, Las Vegas, Los Angeles, Phoenix and national remote support",
+    "pricing": "Predictable monthly fee",
+    "website": "https://www.techmedics.com/",
+    "phone": "(877) 832-4180",
+    "addresses": [
+      "2451 W. Grapevine Mills Cir. #541, Grapevine, TX 76051",
+      "45 S. Arroyo Pkwy. Ste. 104, Pasadena, CA 91105",
+      "383 Corona St. Ste. 100, Denver, CO 80218"
+    ],
+    "town": "Grapevine",
+    "linkedin": "https://linkedin.com/company/techmedics",
+    "writeup": {
+      "what_they_do": "Techmedics provides managed IT services, including day-to-day IT operations, helpdesk and desktop support, and IT consulting and strategy. Its managed security offering covers monitoring, endpoint protection, threat detection and response, and compliance support, and it also lists cloud, backup and disaster recovery, network management, and IT procurement services.",
+      "who_they_serve": "The company serves small and midsize businesses, startups, and enterprises across industries including architecture, banks, dental, education, engineering, government, healthcare, insurance, legal, manufacturing, nonprofits, and real estate. It lists offices in Dallas, Denver, Las Vegas, Los Angeles, and Phoenix, and its site states it has served around 400 businesses.",
+      "how_they_work": "The company offers fully managed and co-managed setups, with remote and onsite support, and states it charges a predictable monthly fee. Partnerships begin with a free consultation followed by a structured onboarding process and a dedicated team.",
+      "what_stands_out": "The company states it was founded in Los Angeles in 1999 and has been a Microsoft Silver Partner, Cisco Premier Partner, and CRN MSP 500 listee. Its site also cites HIPAA, PCI DSS, and GDPR compliance support and a stated 25 years in business."
+    },
+    "city": "dallas",
+    "state": "texas"
+  },
+  {
+    "slug": "the-fulcrum-group-inc",
+    "name": "The Fulcrum Group, Inc.",
+    "summary": "The Fulcrum Group is a Keller, Texas based IT provider serving Dallas-Fort Worth businesses, with a focus on local government, water districts, and nonprofits. Services include managed IT under a flat-rate model, managed cybersecurity with a CISSP on staff, cloud computing, VoIP phone systems, and AI consulting. The company has operated since 2002 and describes a fractional CIO approach through its STARPower quarterly planning process.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "government",
+      "nonprofit",
+      "healthcare"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS",
+      "CJIS",
+      "FTC Safeguards",
+      "FINRA/SEC"
+    ],
+    "partners": [
+      "State of Texas HUB Certified IT Vendor",
+      "Texas DIR Contract",
+      "Sangoma Switchvox"
+    ],
+    "foundedYear": 2002,
+    "teamSize": null,
+    "serviceArea": "Dallas-Fort Worth, Texas",
+    "pricing": "Flat-rate monthly managed services",
+    "website": "https://www.fulcrumgroup.net/",
+    "phone": "(817) 337-0300",
+    "addresses": [
+      "1670 Keller Parkway, Suite 130, Keller, TX 76248-3769"
+    ],
+    "town": "Keller",
+    "linkedin": "https://www.linkedin.com/company/795291/admin/feed/posts/",
+    "writeup": {
+      "what_they_do": "The Fulcrum Group, Inc. provides managed IT services for Dallas-Fort Worth organizations, covering managed cybersecurity (SPOT Shield bundles and specialty services such as detection and response and penetration testing), cloud computing, business VoIP, Microsoft 365 support, and AI consulting. Its offerings also include fractional CIO strategy through its STARPower process and a service desk.",
+      "who_they_serve": "The company says it typically works with businesses, nonprofits, municipalities, and healthcare organizations with 20 to 150 employees. Its site describes its base as Dallas-Fort Worth and includes offerings for local government and water district clients.",
+      "how_they_work": "The site states that services are offered on a flat-rate basis under SPOT Managed IT agreements, with most issues resolved remotely and on-site visits when needed. Main service desk hours are Monday through Friday, 7:30am to 5:30pm, with after-hours on-call support and 24/7 network monitoring.",
+      "what_stands_out": "The company states it has been in business since 2002 and that it keeps a CISSP-certified security professional on staff. It also states it is a Texas-owned company based in Keller, holds State of Texas HUB Certified IT Vendor status, and offers a satisfaction guarantee and a stated emergency response time of one hour or less."
+    },
+    "city": "dallas",
+    "state": "texas"
+  },
+  {
+    "slug": "myit-com",
+    "name": "myIT.com",
+    "summary": "myIT.com is a Bedford, Texas IT company serving Dallas-Fort Worth businesses with flat-rate managed IT, help desk, network and server management, backup and recovery, cybersecurity, and hosted VoIP phone systems. It highlights construction, manufacturing and non-profit clients and lists a broad set of cities it serves across the DFW area.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "construction",
+      "manufacturing",
+      "nonprofit"
+    ],
+    "compliance": [
+      "HIPAA",
+      "SOC 2"
+    ],
+    "partners": [],
+    "foundedYear": 1997,
+    "teamSize": null,
+    "serviceArea": "Dallas-Fort Worth, Texas (including Fort Worth, Dallas, Plano, Arlington, Bedford and about 40 other cities)",
+    "pricing": "Flat-rate fee for managed IT services",
+    "website": "https://www.myit.com/",
+    "phone": "(817) 835-0000",
+    "addresses": [
+      "2221 Martin Dr, Suite 100, Bedford, TX 76021"
+    ],
+    "town": "Bedford",
+    "linkedin": "https://www.linkedin.com/company/myit-com",
+    "writeup": {
+      "what_they_do": "The company provides managed IT services for businesses, including IT support, cloud services, server and network management, Microsoft 365, data backup and recovery, HelpDesk, IT business consulting, VoIP phone systems, and cybersecurity. Its managed services are offered for a flat-rate fee, and its cybersecurity work covers evaluation, assessment, and implementation of security plans.",
+      "who_they_serve": "The company serves businesses across the Dallas-Fort Worth area, with a listed service area that includes more than thirty cities such as Fort Worth, Dallas, Plano, and Arlington. The website names construction, manufacturing, and non-profit organizations as industries it serves, and states it has 65+ fully managed VoIP clients.",
+      "how_they_work": "The company states it offers flat-rate pricing for managed services and 24/7 system monitoring. It also describes a 10-minute discovery call and a risk-free consultation as first steps, and says VoIP migrations typically take one to three weeks.",
+      "what_stands_out": "The company states it was started in 1997 and is based in Bedford, Texas. It says its VoIP system includes failover routing and that it provides compliance support for requirements such as HIPAA and SOC."
+    },
+    "city": "dallas",
+    "state": "texas"
+  },
+  {
+    "slug": "ncc-data",
+    "name": "NCC Data",
+    "summary": "NCC Data is a Texas IT provider headquartered in Plano with a second office in Irving, offering outsourced managed IT, managed networks (firewalls, switches, Wi-Fi, SD-WAN), cybersecurity including managed detection and vCISO consulting, and unified communications. It serves healthcare, non-profit, government and other organizations, primarily in the Dallas-Fort Worth area and remotely elsewhere.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "network_infrastructure",
+      "it_strategy_vcio",
+      "compliance_services",
+      "voip_phones"
+    ],
+    "industries": [
+      "healthcare",
+      "dental",
+      "nonprofit",
+      "government",
+      "accounting_finance",
+      "construction"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS"
+    ],
+    "partners": [
+      "Microsoft Gold"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Texas, primarily Dallas-Fort Worth area; remote service elsewhere",
+    "pricing": null,
+    "website": "https://nccdata.com/",
+    "phone": "(972) 392-5300",
+    "addresses": [
+      "6836 Dallas Parkway Suite 201, Plano, TX 75024",
+      "4320 N Belt Line Rd First Floor, Suite 315, Irving, TX 75038"
+    ],
+    "town": "Plano",
+    "linkedin": "https://www.linkedin.com/company/ncc-data/",
+    "writeup": {
+      "what_they_do": "NCC Data offers managed IT services, including managed networks (managed firewalls, switches, Wi-Fi and SD-WAN), cybersecurity (XDR/EDR/MDR, SIEM, penetration testing, vCISO consulting and compliance management), cloud solutions, unified communications, and contact center/CX services. The company also provides IT consulting and help desk support as part of its fully managed offering.",
+      "who_they_serve": "The company says it works with small, medium and enterprise businesses, startups, medical practices, non-profits and government agencies, including local, state and federal bodies. It states it conducts business primarily in Texas, in the Dallas-Fort Worth area, and that its cloud solutions can be delivered anywhere.",
+      "how_they_work": "Services are delivered remotely or onsite depending on the solution, with headquarters in Plano, TX and an additional Irving, TX office listed. The company offers a complimentary consultation and IT evaluation to start, and it states it can serve as an outsourced IT department or supplement an existing in-house IT team.",
+      "what_stands_out": "The company reports 25+ years of experience, 24+ industries served and an average savings of 18%, and states it is a Microsoft Gold organization. It also describes 24/7 monitoring and a four-layer network security program."
+    },
+    "city": "dallas",
+    "state": "texas"
+  },
+  {
+    "slug": "onetech360-llc",
+    "name": "Onetech360 LLC",
+    "summary": "Onetech360 is a managed IT provider offering helpdesk, 24/7 monitoring, cybersecurity, cloud and Microsoft 365 support, backup and disaster recovery, and vCIO consulting. It serves small and mid-sized businesses and lists offices in New York City, Pennsylvania and Dallas, with industry pages for healthcare, legal, accounting, nonprofits, education, real estate and architecture firms.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "structured_cabling"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "nonprofit",
+      "education",
+      "real_estate",
+      "construction",
+      "manufacturing",
+      "engineering_architecture",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS",
+      "NIST"
+    ],
+    "partners": [
+      "Gold-level partnerships with unnamed hardware, software and cloud security vendors",
+      "National Managed Security Services Provider (MSSP) status, as claimed on the site"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "New York City, Long Island, Pennsylvania (Scranton, Allentown, Cresco) and Dallas-Fort Worth (Dallas, Fort Worth, Irving, Lewisville, Plano)",
+    "pricing": "Fixed monthly all-inclusive IT support plan",
+    "website": "https://onetech360.com/",
+    "phone": "(844) 977-3445",
+    "addresses": [
+      "2451 W Grapevine Mills Circle # 1062, Grapevine, TX 76051",
+      "42 Broadway, 12th Floor, Suite 208, New York, NY 10004",
+      "201 Lackawanna Ave, Suite 224, Scranton, PA 18503",
+      "40 South 5th Street, Ste 100-516, Allentown, PA 18101",
+      "60 Crossways Park Drive West, Woodbury, NY 11797"
+    ],
+    "town": "Grapevine",
+    "linkedin": "https://www.linkedin.com/company/onetech360-llc/",
+    "writeup": {
+      "what_they_do": "Onetech360 LLC is a managed service provider offering managed IT services, including 24/7 system monitoring and maintenance, cybersecurity, cloud services, IT consulting with a dedicated vCIO, compliance support for frameworks such as HIPAA, PCI and NIST, and data backup and disaster recovery. Its catalog also lists IT helpdesk, onsite support, network support, cabling, Microsoft 365 and Azure consulting.",
+      "who_they_serve": "The company states it serves small businesses (under 50 employees), medium businesses (50-250 employees) and large enterprises (250+ employees), across industries including healthcare, education, legal, accounting, banking, real estate, construction, manufacturing and non-profits. It lists offices in New York City, Pennsylvania (Scranton, Allentown, Cresco) and Texas (Dallas area).",
+      "how_they_work": "The company describes an all-inclusive fixed monthly fee and states it requires client approval before any projects. It offers remote and onsite support, and states a one-hour response guarantee for support calls.",
+      "what_stands_out": "The site states more than 20 years of experience and a decade of work in the medical industry, and that it holds gold-level partnerships with hardware, software and cloud security vendors. It also describes itself as a national Managed Security Services Provider (MSSP) and MSP, and lists a Zero Trust Security Policy offering."
+    },
+    "city": "dallas",
+    "state": "texas"
+  },
+  {
+    "slug": "quantum-it-group",
+    "name": "Quantum IT Group",
+    "summary": "Quantum IT Group is a Frisco, Texas-based managed IT provider serving small and medium-sized businesses across the DFW metroplex. Services include remote monitoring, help desk support, patching, backups, cloud and hosted email, managed security, and VoIP phone service on monthly support contracts. The site highlights work with legal and construction clients.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "hardware_procurement"
+    ],
+    "industries": [
+      "legal",
+      "construction"
+    ],
+    "compliance": [],
+    "partners": [
+      "Microsoft",
+      "Amazon",
+      "HP",
+      "Cisco",
+      "CoPilot VoIP",
+      "Ubiquiti"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "DFW metroplex, Texas",
+    "pricing": "Predictable monthly pricing under support contracts",
+    "website": "https://www.quantumitgroup.com/",
+    "phone": "(469) 252-1520",
+    "addresses": [
+      "2500 Legacy Dr, Suite 206, Frisco, TX 75034"
+    ],
+    "town": "Frisco",
+    "linkedin": "https://www.linkedin.com/company/quantumitgroup/",
+    "writeup": {
+      "what_they_do": "Quantum IT Group is a managed IT services provider based in Frisco, Texas, offering managed IT (MSP) services including remote monitoring, unlimited support, software patching, virus protection and nightly backups. Its service list also covers cloud hosting, hosted email, Office 365, managed network, data backup, hosted VoIP, and managed security (MSSP) offerings such as managed firewall, multi-factor authentication, intrusion prevention and security monitoring.",
+      "who_they_serve": "The company says it serves small and medium-sized businesses in the Dallas-Fort Worth metroplex, and its site lists industry pages for construction, financial, legal and SMB IT services.",
+      "how_they_work": "The site states that managed IT support is offered on predictable monthly pricing under support contracts, with remote monitoring described as running day and night and 24/7/365 monitoring listed as a benefit. It also offers emergency support and a ticket portal, and states that its team is Frisco-based.",
+      "what_stands_out": "The company names partnerships with Microsoft, Amazon, HP, Cisco, CoPilot VoIP and Ubiquiti, and its CEO and founder is listed as Blake York. The site does not state how many years the company has been in business."
+    },
+    "city": "dallas",
+    "state": "texas"
+  },
+  {
+    "slug": "total-it",
+    "name": "Total IT",
+    "summary": "Total IT is a Richardson, Texas-based IT company serving businesses across the Dallas-Fort Worth area. It offers managed IT with network monitoring, backups, content and spam filtering, cloud services, and IT consulting, with healthcare and accounting pages among its industry-focused offerings.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "healthcare",
+      "accounting_finance"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [],
+    "foundedYear": 2009,
+    "teamSize": null,
+    "serviceArea": "Dallas-Fort Worth area (Richardson, Garland, Arlington, Dallas, Carrollton, Farmers Branch, Plano, Allen, Frisco, Fort Worth, Lewisville)",
+    "pricing": null,
+    "website": "https://totalit.com/",
+    "phone": "(972) 383-7330",
+    "addresses": [
+      "801 E Campbell Rd, Suite 580, Richardson, TX 75081"
+    ],
+    "town": "Richardson",
+    "linkedin": "https://www.linkedin.com/company/total-it-inc/",
+    "writeup": {
+      "what_they_do": "Total IT is a Dallas-based managed IT and IT consulting company offering managed services, network monitoring, network security, data backup and recovery, cloud services, content and spam filtering, technology assessments, and CTO and IT consulting. The company also lists broadcast and radio IT services.",
+      "who_they_serve": "The company serves businesses across the DFW area and beyond, with listed service areas including Richardson, Garland, Arlington, Dallas, Carrollton, Farmers Branch, Plano, Allen, Frisco, Fort Worth, and Lewisville. It has dedicated pages for healthcare and medical offices and for accounting firms, and it also lists broadcast and radio clients.",
+      "how_they_work": "The site describes 24/7 network monitoring and patching, automatic alerts to support staff, and on-site support in the DFW area. Offsite data backups and tailored backup plans are offered, and the company provides free quotes and consultations. Pricing model and contract terms are not stated.",
+      "what_stands_out": "The company says it has been in business since 2009 and that its broadcast team has over 20 years of broadcast experience. The healthcare page states HIPAA compliance support, and the company lists EMR support and HIPAA audits among its healthcare services."
+    },
+    "city": "dallas",
+    "state": "texas"
+  },
+  {
+    "slug": "5k-technical-services",
+    "name": "5K Technical Services",
+    "summary": "5K Technical Services is a managed service provider based in Allen, Texas, serving businesses across the Dallas-Fort Worth area. Offerings include managed IT support, cloud services, network security, disaster recovery planning, IT project management, cabling and Wi-Fi, VoIP phones, and Mac support. The firm states a focus on U.S.-based remote help desk support and has worked with churches, nonprofits, insurance agencies, law firms and healthcare practices.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services",
+      "structured_cabling"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "insurance",
+      "manufacturing",
+      "nonprofit",
+      "engineering_architecture",
+      "real_estate",
+      "accounting_finance"
+    ],
+    "compliance": [
+      "HIPAA",
+      "NIST",
+      "PCI DSS"
+    ],
+    "partners": [
+      "CompTIA Managed Services trustmark",
+      "CRN MSP 500 listed",
+      "Microsoft-Certified MSP"
+    ],
+    "foundedYear": 2006,
+    "teamSize": null,
+    "serviceArea": "Dallas-Fort Worth, including Allen, Richardson, Plano, McKinney and Frisco, Texas",
+    "pricing": null,
+    "website": "https://www.5ktech.com/",
+    "phone": "(469) 656-3159",
+    "addresses": [
+      "450 Century Parkway, Suite 277, Allen, TX 75013"
+    ],
+    "town": "Allen",
+    "linkedin": "https://www.linkedin.com/company/5k-technical-services",
+    "writeup": {
+      "what_they_do": "5K Technical Services is a managed services provider based in Allen, Texas, offering IT infrastructure build-out and maintenance, upgrades and support, cloud-based services, and AI strategic consulting. Its listed services include managed IT, cloud computing, strategic IT consulting, network security, IT project management, network cabling and Wi-Fi, VoIP phone systems, disaster recovery planning, Mac/Apple IT support, church management software, and cyber security.",
+      "who_they_serve": "The company serves businesses and organizations of all types, with a focus on small and medium-sized businesses, and lists industry pages for financial consulting, engineering, healthcare, insurance, law firms, manufacturing, non-profits, and real estate. It names service areas of Allen, Frisco, McKinney, Plano, and Richardson in the Dallas-Fort Worth area, and its testimonials include several churches.",
+      "how_they_work": "The company offers remote IT support, stating that 85% of most problems can be solved remotely, and says its help desk uses U.S.-based employees. It states that it responds within 60 minutes or less and provides a portal for real-time issue updates. The site describes 5K Secure service tiers for network security, including a network security assessment, but does not state pricing or contract terms.",
+      "what_stands_out": "The company says it has been in business since 2006, has more than 20 years of experience, is CRN MSP 500 listed, and holds Microsoft-Certified MSP status and the CompTIA Managed Services trustmark. It also offers HIPAA-compliant processes for healthcare practices and compliance programs for PCI-DSS, ISO, SOX, HIPAA, and NIST."
+    },
+    "city": "dallas",
+    "state": "texas"
+  },
+  {
+    "slug": "advatech-solutions",
+    "name": "AdvaTech Solutions",
+    "summary": "AdvaTech Solutions is a Texas-based managed IT provider offering flat-rate monthly IT support, cybersecurity, Microsoft 365 administration, backup and disaster recovery, and VoIP phone services. The company serves small and medium businesses in the Dallas-Fort Worth, Sherman/Denison and Houston areas, with dedicated healthcare IT support for medical practices. It is a family-operated, veteran-owned company with offices in Plano, Sherman and Houston.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "real_estate"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "PCI DSS"
+    ],
+    "partners": [
+      "Microsoft 365"
+    ],
+    "foundedYear": 1997,
+    "teamSize": null,
+    "serviceArea": "Dallas-Fort Worth (Dallas, Plano, Frisco, McKinney), Sherman/Denison TX, Houston TX",
+    "pricing": "Flat monthly rate per the site; no hourly charges or hidden fees",
+    "website": "https://advatech-solutions.com/",
+    "phone": "(972) 848-0615",
+    "addresses": [
+      "101 East Park Blvd., Suite 600, Plano, TX 75074",
+      "1800 Teague Dr., Suite 2000, Sherman, TX 75090",
+      "363 N Sam Houston Pkwy E, Suite 1100, Houston, TX 77060"
+    ],
+    "town": "Plano",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "AdvaTech Solutions provides managed IT services, including IT support, cyber security, Microsoft 365 support, backup and disaster recovery, and VoIP phone services. The company also offers IT consulting, IT project planning and implementation, and cloud storage, backup and computing services.",
+      "who_they_serve": "The company serves small and medium-sized businesses of all sizes, with a focus on those that have high cybersecurity and compliance requirements. It lists healthcare IT and commercial real estate IT as industry specializations and has offices in the Dallas/Fort Worth, Sherman/Denison and Houston areas of Texas.",
+      "how_they_work": "The company offers flat-rate, fixed monthly pricing with no hourly charges and a stated 'No Surprises! No Hidden Costs!' policy. Onboarding begins with a 10-minute discovery call, followed by an IT assessment and report, and the company states it offers a live answered helpdesk with round-the-clock support and some remote and on-site support.",
+      "what_stands_out": "The company states it has been in business since 1997, is veteran-owned and family-operated, and offers a 100% money-back guarantee on its managed IT services. It also states it is HIPAA certified for healthcare clients and provides compliance assistance for HIPAA, PCI DSS and GDPR."
+    },
+    "city": "dallas",
+    "state": "texas"
+  },
+  {
+    "slug": "cyber-one-solutions",
+    "name": "Cyber One Solutions",
+    "summary": "Texas and Tennessee-based provider offering managed IT, managed cybersecurity with 24/7 SOC monitoring, Microsoft 365 and cloud administration, managed VoIP and internet, and vCIO consulting on tiered monthly plans. Serves healthcare, legal, finance, automotive, manufacturing, government and nonprofit clients, with offices in Houston, Dallas, Lufkin, Spring and Sevierville.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement",
+      "structured_cabling"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "automotive",
+      "manufacturing",
+      "government",
+      "professional_services",
+      "nonprofit",
+      "education",
+      "construction"
+    ],
+    "compliance": [
+      "HIPAA",
+      "GLBA",
+      "FTC Safeguards"
+    ],
+    "partners": [
+      "Ubiquiti UniFi certified installer"
+    ],
+    "foundedYear": 2018,
+    "teamSize": null,
+    "serviceArea": "Texas (Houston, Dallas, Lufkin, Spring) and Tennessee (Sevierville), plus remote support across the US",
+    "pricing": "Flat monthly rate per device on tiered Bronze, Silver and Gold plans; project work billed time and materials",
+    "website": "https://www.cyberonesol.com/",
+    "phone": "(866) 998-7691",
+    "addresses": [
+      "2727 LBJ Fwy STE 515, Farmers Branch, TX 75234",
+      "1110 NASA Pkwy STE 630, Houston, TX 77058",
+      "105 S. Cotton Square, Lufkin, TX 75904",
+      "2626 Spring Cypress Rd, Spring, TX",
+      "100 E. Main St STE 302, Sevierville, TN 37862"
+    ],
+    "town": "Farmers Branch",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "Cyber One Solutions provides fully managed IT services, including helpdesk support, 24/7 NOC monitoring, patch management, and vCIO guidance on Silver and Gold plans. Its managed offerings also cover cybersecurity with 24/7 SOC monitoring, cloud and Microsoft 365 management, VoIP and unified communications, managed internet and WAN, and compliance programs for HIPAA, GLBA, and FTC Safeguards. The company also offers non-managed project work, hardware sales, website development, and physical security and structured cabling services.",
+      "who_they_serve": "The company serves businesses across Texas and Tennessee and the rest of the US, with industry pages covering healthcare, legal, finance, automotive, manufacturing, government, professional services, nonprofits and education, construction, and small and mid-size businesses. The site cites more than 500 businesses served.",
+      "how_they_work": "Managed IT is sold as a flat monthly rate per device with no per-ticket fees, and project work is billed time and materials with a written estimate first. Service is delivered through Bronze (9x5 remote helpdesk), Silver (after-hours support for Priority 1 and 2 issues plus vCIO), and Gold (24/7/365 helpdesk) tiers, and the company also offers co-managed IT alongside an internal IT staff. The site states that its support team is US based and that its offices have staff on site.",
+      "what_stands_out": "The company states it has served businesses since 2018, reports a measured average first response of 15 minutes on critical tickets, and has offices in Houston, Dallas, Lufkin, Spring, and Sevierville, Tennessee. Its security tiers include a partner MDR provider for around-the-clock monitoring, with the company's own engineers on call for escalation."
+    },
+    "city": "dallas",
+    "state": "texas"
+  },
+  {
     "slug": "connections-for-business-fort-lauderdale",
     "name": "Connections for Business",
     "summary": "Connections for Business is a South Florida IT provider based in Hollywood that offers fixed-fee managed IT with a 24/7 help desk, network operations center monitoring, onsite field services, and virtual CIO planning. It also covers cybersecurity, Microsoft 365, backups and disaster recovery, and telephony, and works with law firms and financial services clients among others.",

@@ -1,0 +1,61 @@
+{
+  "city": "Dallas",
+  "state": "Texas",
+  "state_code": "TX",
+  "slug": "dallas",
+  "state_slug": "texas",
+  "center": {
+    "lat": 32.85,
+    "lng": -96.8
+  },
+  "radius_miles": 30,
+  "areas": [
+    "Dallas",
+    "Plano",
+    "Frisco",
+    "Irving",
+    "Richardson",
+    "Addison",
+    "Carrollton",
+    "McKinney",
+    "Allen",
+    "Garland",
+    "Arlington"
+  ],
+  "nearby_towns": [
+    "Bedford",
+    "Cedar Hill",
+    "Celina",
+    "Colleyville",
+    "Coppell",
+    "DeSoto",
+    "Denton",
+    "Duncanville",
+    "Euless",
+    "Farmers Branch",
+    "Flower Mound",
+    "Grand Prairie",
+    "Grapevine",
+    "Highland Park",
+    "Keller",
+    "Lancaster",
+    "Lewisville",
+    "Little Elm",
+    "Mesquite",
+    "Murphy",
+    "Prosper",
+    "Rockwall",
+    "Rowlett",
+    "Sachse",
+    "Southlake",
+    "The Colony",
+    "University Park",
+    "Wylie"
+  ],
+  "queries": [
+    "managed IT services",
+    "managed service provider",
+    "IT support company",
+    "outsourced IT"
+  ]
+}
