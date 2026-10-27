@@ -68,7 +68,11 @@ def load_writeup(base, place_id):
 
 
 def format_address(address):
-    parts = [address["street"].strip(), address["city"].strip(), address["state"].strip()]
+    street = address["street"].strip()
+    # Some sites put the city in the street line ("Sarasota FL, 34232"); drop it then.
+    if address["city"].strip() and street.lower().startswith(address["city"].strip().lower()):
+        street = ""
+    parts = [street, address["city"].strip(), address["state"].strip()]
     line = ", ".join(part for part in parts if part)
     return f"{line} {address['postal_code']}" if address.get("postal_code") else line
 

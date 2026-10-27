@@ -9280,7 +9280,7 @@
     "website": "https://hometechit.com/",
     "phone": "(305) 728-4848",
     "addresses": [
-      "Miami Lakes, FL 33016, Miami Lakes, FL 33016"
+      "Miami Lakes, FL 33016"
     ],
     "town": "Miami Lakes",
     "linkedin": null,
@@ -15221,6 +15221,648 @@
       "what_stands_out": "The company states it has been in business since 2000, that it has a Certified Information Systems Security Professional on staff, and that it offers a 100% satisfaction guarantee. It also says it maintains network documentation and diagrams and stores client passwords in an encrypted location."
     },
     "city": "orlando",
+    "state": "florida"
+  },
+  {
+    "slug": "portolan-networks-llc",
+    "name": "Portolan Networks LLC",
+    "summary": "Portolan Networks is a Sarasota-based managed IT and cybersecurity company founded in 2020 that serves small and midsize businesses across Sarasota, Manatee and Charlotte counties. Its per-user monthly plans include 24/7 monitoring, patching, help desk and a built-in security baseline of EDR/MDR, DNS filtering and privileged access management, with co-managed IT, Microsoft 365, backup, business VoIP and internet failover also offered.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "hardware_procurement"
+    ],
+    "industries": [
+      "education",
+      "legal",
+      "accounting_finance",
+      "manufacturing",
+      "construction"
+    ],
+    "compliance": [],
+    "partners": [
+      "Huntress",
+      "DNSFilter",
+      "Proofpoint",
+      "Keeper Security",
+      "CyberFox AutoElevate",
+      "Timus Networks",
+      "Microsoft 365"
+    ],
+    "foundedYear": 2020,
+    "teamSize": null,
+    "serviceArea": "Sarasota, Manatee and Charlotte counties, Florida",
+    "pricing": "Per-user monthly pricing starting at $150 per user per month with a 10-user minimum; extra devices carry separate fees; VoIP from $25 per user per month",
+    "website": "https://www.portolannetworks.com/",
+    "phone": "(941) 200-4360",
+    "addresses": [
+      "8429 Lorraine Rd. Ste 420, Lakewood Ranch, FL 34202"
+    ],
+    "town": "Lakewood Ranch",
+    "linkedin": "https://www.linkedin.com/company/portolan-networks-llc",
+    "writeup": {
+      "what_they_do": "Portolan Networks LLC is a managed IT and cybersecurity company offering managed and co-managed IT, with help desk support, 24/7 monitoring, patching and a built-in security baseline of EDR/MDR, DNS filtering and privileged access management. Additional services include Microsoft 365, cloud services and migrations, backup and disaster recovery, business VoIP, internet failover, IT consulting, and IT asset disposal.",
+      "who_they_serve": "The company serves small and midsize businesses across Sarasota, Manatee and Charlotte counties in Florida, including Sarasota, Bradenton, Lakewood Ranch, Venice, North Port and Port Charlotte. Its site says most clients have 10 to 30 employees and no full-time IT person, and cites work in manufacturing, construction, education, legal, finance, golf clubs and membership organizations.",
+      "how_they_work": "Managed IT plans are priced per user per month starting at $150, with a 10-user minimum and quarterly user count reviews, and extra devices carry a separate fee. Live help desk runs Monday to Friday, 8 a.m. to 5 p.m., with 24/7 coverage as an add-on, and most support is remote with on-site visits for hands-on hardware work.",
+      "what_stands_out": "The founder, Pat Midzio, has worked in IT since 1998 and founded the company in 2020, and the firm states a written SLA with a 2-business-hour response for critical outages. Security tools named on the site include Huntress, DNSFilter, CyberFox AutoElevate and Proofpoint, and the company says it is not sold as an upsell."
+    },
+    "city": "sarasota",
+    "state": "florida"
+  },
+  {
+    "slug": "nupc-technology",
+    "name": "NUPC Technology",
+    "summary": "NUPC Technology is a family-owned IT company in Venice, Florida, offering managed and co-managed IT, cybersecurity, helpdesk, backup and network cabling for businesses across Southwest Florida. It also provides project consulting, equipment procurement and business computer repair, and serves a range of industries including construction, manufacturing and professional services.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "hardware_procurement",
+      "structured_cabling",
+      "computer_repair"
+    ],
+    "industries": [
+      "construction",
+      "manufacturing",
+      "accounting_finance",
+      "engineering_architecture",
+      "logistics",
+      "real_estate",
+      "professional_services"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": 2022,
+    "teamSize": null,
+    "serviceArea": "Southwest Florida (Sarasota, Manatee, Charlotte, Lee and Hillsborough counties); remote support across the US",
+    "pricing": "Project-based estimates, flat-rate packages, hourly work and custom plans",
+    "website": "https://nupctech.com/",
+    "phone": "(941) 888-4474",
+    "addresses": [
+      "710 Commerce Drive, Suite 105, Venice, FL 34292"
+    ],
+    "town": "Venice",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "NUPC Technology is a family-owned managed IT and cybersecurity provider that offers fully managed and co-managed IT services, helpdesk and onsite support, cybersecurity, data protection and backups, email and web security, procurement, business computer repair, project management and consulting, and network infrastructure and cabling. The company states it covers employee devices, networks, and day-to-day IT needs for Windows, Mac, Android, and iOS devices.",
+      "who_they_serve": "The company serves businesses in Southwest Florida from its base in Venice, with a five-county service area covering Sarasota, Charlotte, Lee, Manatee, and Hillsborough counties. Listed industries include accounting and bookkeeping, construction, engineering and architecture, franchises, logistics and distribution, manufacturing, media production, professional services, real estate agencies, and veterinary clinics. The company also states it provides remote support to businesses throughout the United States.",
+      "how_they_work": "Engagement options include project-based estimates, flat-rate packages, hourly work, and custom plans. Onsite support is available within the Southwest Florida service area, while remote support is provided elsewhere in the United States. Onboarding begins with an assessment of current IT infrastructure and typically takes a few weeks, and the business hours listed are Monday through Friday, 8:30 AM to 5:00 PM ET.",
+      "what_stands_out": "The company states it has operated since 2022 and that its team members are the owners whose name is on the company. It also lists email security support for Microsoft 365 and Google Workspace and has hosted cybersecurity and efficiency seminars for local businesses."
+    },
+    "city": "sarasota",
+    "state": "florida"
+  },
+  {
+    "slug": "b2b-i-t-solutions",
+    "name": "B2B I.T. Solutions",
+    "summary": "B2B I.T. Solutions is a Sarasota-area IT firm serving businesses in Florida and, according to the site, clients across the US and beyond. Its offerings include managed IT with monitoring and scheduled maintenance, help desk support, cybersecurity with zero trust endpoint protection, backup and disaster recovery, and network and firewall work. It has operated since 1999 and bills on a pay-by-the-job basis rather than hourly.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "network_infrastructure"
+    ],
+    "industries": [
+      "accounting_finance",
+      "real_estate",
+      "construction"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": 1999,
+    "teamSize": null,
+    "serviceArea": "Sarasota and Bradenton, Florida; nationwide US support for multi-location businesses",
+    "pricing": "Pay-by-the-job pricing rather than hourly rates; managed IT service model described as a predictable operational expense",
+    "website": "https://www.scrfix.com/",
+    "phone": "(941) 923-6280",
+    "addresses": [
+      "Sarasota, FL 34232"
+    ],
+    "town": "Sarasota",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "B2B I.T. Solutions is a managed IT provider offering cybersecurity, networking, server management, computer monitoring, monthly maintenance, data backup and recovery, data migration, and firewall-based network security. The company also offers single-call technical support and states it handles related services such as SEO and website design advice.",
+      "who_they_serve": "The company states it serves clients worldwide and says it has clientele in all industries, with specific pages covering Sarasota-area businesses, financial firms, and general offices. It also says it serves other IT companies as a Managed Service Provider resource and works with US-based offices nationwide.",
+      "how_they_work": "The company states it prices work \"by the job, not by the hour\" and has used the same pricing model for over two decades. It says it offers normal business hours plus after-hours emergency services, has technicians who access systems remotely, and performs scheduled monthly maintenance with 24/7/365 monitoring.",
+      "what_stands_out": "The company states it has supported businesses since 1999 and has over 25 years of experience, with a Cyberhero Division it describes as made up of hundreds of cybersecurity technicians. Its site also describes a zero trust endpoint model that allows only approved applications to run."
+    },
+    "city": "sarasota",
+    "state": "florida"
+  },
+  {
+    "slug": "four-winds-it",
+    "name": "Four Winds IT",
+    "summary": "Four Winds IT is a Sarasota, Florida-based IT provider offering managed IT support, Microsoft 365 and cloud administration, and tiered managed cybersecurity including 24/7 SOC monitoring. It serves small and mid-sized businesses on Florida's Gulf Coast with a focus on law firms, accounting, healthcare, financial services, nonprofits, real estate, insurance, manufacturing and construction. Pricing is per device and software license with monthly invoicing and no long-term contracts.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "nonprofit",
+      "real_estate",
+      "insurance",
+      "manufacturing",
+      "construction"
+    ],
+    "compliance": [
+      "HIPAA",
+      "SOC 2",
+      "FINRA/SEC",
+      "CMMC"
+    ],
+    "partners": [],
+    "foundedYear": 2014,
+    "teamSize": "300+ businesses supported",
+    "serviceArea": "Sarasota, Bradenton, Lakewood Ranch, Venice, Tampa, St. Petersburg, Clearwater, Naples, Fort Myers, Cape Coral, Orlando, Atlanta",
+    "pricing": "Priced per device and software license, monthly invoice, no long-term contracts",
+    "website": "https://www.fourwindsit.com/",
+    "phone": "(941) 315-2380",
+    "addresses": [
+      "6151 Lake Osprey Dr, Suite 365, Sarasota, FL 34240"
+    ],
+    "town": "Sarasota",
+    "linkedin": "https://www.linkedin.com/company/four-winds-it/",
+    "writeup": {
+      "what_they_do": "Four Winds IT provides managed IT services, including proactive monitoring, help desk support, and strategic IT guidance, along with cybersecurity layers ranging from email security and endpoint protection to 24/7 SOC monitoring. The company also offers cloud services covering Microsoft 365, Google Workspace, Azure, AWS and Google Cloud migrations, and AI and software optimization. It states it is vendor agnostic and does not push products.",
+      "who_they_serve": "The company says it supports 300+ businesses and is headquartered in Sarasota, serving Florida's Gulf Coast from Tampa Bay to Naples, plus Central Florida and Atlanta. It lists industry focus areas including law firms, accounting firms, financial services, healthcare, nonprofits, real estate, insurance, manufacturing and construction.",
+      "how_they_work": "Pricing is based on the number of devices and software licenses with no minimums, no long-term contracts and no hardware markup, and clients own their equipment. Onboarding is described as taking 1-14 days, with a questionnaire followed by an onsite visit to deploy monitoring software, and the company says support is available to employees as soon as onboarding begins. Clients can choose individual services and security layers rather than fixed bundles.",
+      "what_stands_out": "The company states it has operated since 2014, reports a 15-minute average response time and a 4.9-star Google rating, and claims a 100% ransomware recovery rate across its clients. It also says it has industry-specific expertise, such as HIPAA, SEC and trust accounting compliance support, and a three-tier security framework named Secured, Insured and Compliant."
+    },
+    "city": "sarasota",
+    "state": "florida"
+  },
+  {
+    "slug": "computers-done-right",
+    "name": "Computers Done Right",
+    "summary": "Computers Done Right is a locally owned IT provider in Venice, Florida, founded in 2007, serving Venice, North Port, Sarasota and nearby communities. It offers flat-rate managed IT plans for small and mid-size businesses, alongside cybersecurity, data recovery, computer repair, remote support and network setup. Walk-in and drop-off service is available at its Venice Island location.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "cloud_microsoft_365",
+      "computer_repair",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "healthcare"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [],
+    "foundedYear": 2007,
+    "teamSize": null,
+    "serviceArea": "Venice, North Port, Sarasota, Englewood and Charlotte County, FL; managed IT available nationwide",
+    "pricing": "Flat-rate managed IT starting at $49 per device per month, with three tiers",
+    "website": "https://computersdoneright.com/",
+    "phone": "(941) 240-2675",
+    "addresses": [
+      "105 Tampa Ave. W., Venice, FL 34285"
+    ],
+    "town": "Venice",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "Computers Done Right is a Venice, Florida provider of managed IT services, cybersecurity, computer repair and upgrades, data recovery, remote support, and network setup. Its managed IT offering covers 24/7 monitoring, patch management, helpdesk support, and IT strategy for a flat monthly fee per device.",
+      "who_they_serve": "The company serves homes and businesses in Venice, North Port, Sarasota, Englewood, Nokomis, Osprey, and Port Charlotte, with on-site support across Sarasota and Charlotte counties. Its managed IT and remote support are described as available to clients nationwide, and its managed IT plans are aimed at small and mid-size businesses.",
+      "how_they_work": "Managed IT plans are priced at a flat rate starting at $49 per device per month, with three tiers named Essential, Business, and Enterprise. The company offers on-site, drop-off, and remote support, and states that clients receive a flat-rate quote before work begins. Office hours are Monday through Friday 9 AM to 5 PM and Saturday 9 AM to 1 PM, at its Venice Island location.",
+      "what_stands_out": "The company states it was founded in 2007 by John Reed and is locally owned and operated, with certified IT professionals on staff. Its listed cybersecurity offerings include HIPAA IT compliance consulting, managed cybersecurity monitoring, and employee security awareness training."
+    },
+    "city": "sarasota",
+    "state": "florida"
+  },
+  {
+    "slug": "work-solutions-group",
+    "name": "Work Solutions Group",
+    "summary": "Florida-based managed IT firm headquartered in Sarasota, founded in 2009, with offices in Jacksonville, Ocala, Orlando and Fort Myers. Provides monitoring, helpdesk, cybersecurity, cloud and consulting services to healthcare, financial, legal, corporate, industrial and nonprofit clients, with an emphasis on no long-term contracts and a faith-based company culture.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "accounting_finance",
+      "legal",
+      "nonprofit",
+      "manufacturing",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS"
+    ],
+    "partners": [
+      "ThreatLocker Gold Partner",
+      "Compliancy Group (HIPAA monitoring)"
+    ],
+    "foundedYear": 2009,
+    "teamSize": "300+ years of combined experience",
+    "serviceArea": "Florida (Sarasota, Tampa Bay, Fort Myers, Orlando, Jacksonville, Ocala) plus Blackshear and Brunswick, GA",
+    "pricing": "Flat-rate predictable pricing with no long-term contracts",
+    "website": "https://itnsgroup.com/",
+    "phone": "(800) 350-0013",
+    "addresses": [
+      "6321 Porter Road, Unit 13, Sarasota, FL 34240"
+    ],
+    "town": "Sarasota",
+    "linkedin": "https://www.linkedin.com/company/it-network-solutions-group-llc/",
+    "writeup": {
+      "what_they_do": "Work Solutions Group, which the site names as IT Network Solutions Group (ITNS), offers managed IT support with 24/7/365 monitoring, helpdesk, patching, backups and asset management. Its service lines also include strategic IT consulting and virtual CIO work, cybersecurity (EDR, security awareness training, intrusion detection), cloud services for Microsoft 365 and Azure, backup and disaster recovery, business VoIP phone systems, custom application development, and AI services with governance.",
+      "who_they_serve": "The company serves healthcare, financial firms, law firms, corporate offices, industrial operations such as plants and warehouses, and nonprofits. It is headquartered in Sarasota, Florida, with offices in Jacksonville, Ocala, Orlando and Fort Myers, and it also lists service areas in Blackshear and Brunswick, Georgia.",
+      "how_they_work": "The site states that pricing is flat-rate and predictable, that clients are not placed on long-term contracts, and that a free, no-obligation consultation precedes an onboarding plan. Support is offered remotely or onsite, and the company reports a 100% client satisfaction guarantee.",
+      "what_stands_out": "The company was founded in 2009 in Sarasota, reports 300+ years of combined experience, and states it is HIPAA compliance verified through Compliancy Group and a ThreatLocker Gold Partner. It has a 4.9 rating on Google from 103+ reviews, and it publishes a threat log of security advisories."
+    },
+    "city": "sarasota",
+    "state": "florida"
+  },
+  {
+    "slug": "n2-solutions",
+    "name": "N2 Solutions",
+    "summary": "N2 Solutions is a managed IT provider with offices in St. Charles, IL, and Sarasota and Clearwater, FL. It offers help desk, cybersecurity, network, cloud, Microsoft 365, backup, vCIO planning and hardware procurement on a monthly basis, alongside CRM and business systems work through an in-house team. It serves organizations in home services, construction, automotive, healthcare, manufacturing, professional services, public sector and education.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "it_strategy_vcio",
+      "hardware_procurement"
+    ],
+    "industries": [
+      "healthcare",
+      "construction",
+      "manufacturing",
+      "professional_services",
+      "government",
+      "education",
+      "automotive"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "St. Charles and Chicagoland area, IL; Sarasota, Clearwater and Tampa Bay, FL; nationwide remote support",
+    "pricing": "Managed IT priced per user per month, set during scoping; hardware, licenses and one-time projects quoted in writing",
+    "website": "https://www.n2solutions.digital/",
+    "phone": "(630) 590-9825",
+    "addresses": [
+      "1680 Fruitville Rd, Suite 322, Sarasota, FL 34236",
+      "214 W River Drive, St. Charles, IL 60174",
+      "2454 McMullen Booth Rd, Suite 700, Clearwater, FL 33759"
+    ],
+    "town": "Sarasota",
+    "linkedin": "https://www.linkedin.com/company/18837782/",
+    "writeup": {
+      "what_they_do": "N2 Solutions is a managed IT provider offering help desk and support, network support, cloud services, Microsoft 365, backup and recovery, cybersecurity, vCIO planning, hardware and software management, and physical security such as access control and video surveillance. The company also offers business solutions including CRM, automation, and custom software.",
+      "who_they_serve": "The company supports small and medium-sized businesses and institutions across Illinois and Florida, with listed industries including home services, construction, automotive, health care, manufacturing, professional services, public sector, and education. Its website also lists service areas in Naperville, Aurora, Schaumburg, St. Charles, Tampa, Sarasota, and Clearwater.",
+      "how_they_work": "Managed IT is priced per user per month and set during scoping, with hardware, licenses, and large one-time projects quoted in writing before work begins. Support is offered by phone, email, text, remote, and on-site, with business-hours phone support Monday to Friday and an emergency line available 24/7; contract terms are set during scoping and written into the agreement.",
+      "what_stands_out": "The company states it was founded by co-founders who first worked on their family business's technology, and it lists offices in St. Charles, IL, Sarasota, FL, and Clearwater, FL. Its website also offers a free IT environment evaluation and describes a layered cybersecurity program with endpoint detection and response, email protection, and security awareness training."
+    },
+    "city": "sarasota",
+    "state": "florida"
+  },
+  {
+    "slug": "alliance-it",
+    "name": "Alliance IT",
+    "summary": "Sarasota, Florida-based IT firm offering outsourced managed IT for small and medium-sized businesses, covering security, cloud, network infrastructure, phone systems and compliance support. Serves healthcare, financial, real estate, construction and other sectors, and was founded as Suncoast Business Technologies.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services",
+      "structured_cabling"
+    ],
+    "industries": [
+      "healthcare",
+      "construction",
+      "manufacturing",
+      "real_estate",
+      "accounting_finance",
+      "retail",
+      "government",
+      "insurance"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [],
+    "foundedYear": 2007,
+    "teamSize": null,
+    "serviceArea": "Sarasota, FL and surrounding region",
+    "pricing": "Flat-rate cost",
+    "website": "https://allianceitllc.com/",
+    "phone": "(941) 556-4460",
+    "addresses": [
+      "722 Apex Road, Unit F, Sarasota, FL 34240",
+      "601 21st Street, Suite 300, Vero Beach, FL 32960-0860",
+      "222 Merchandise Mart Plaza, Suite 1225, Chicago, IL 60654-4357"
+    ],
+    "town": "Sarasota",
+    "linkedin": "https://www.linkedin.com/company/alliance-it-llc/",
+    "writeup": {
+      "what_they_do": "Alliance IT is a managed IT services provider offering a virtual IT department that protects servers, networks and devices, along with cloud services, security and compliance, managed detection and response, VoIP phones, structured cabling, disaster recovery and business continuity, and IT consulting. The company also lists HIPAA privacy and security officer services, penetration testing and AWS migrations among its services.",
+      "who_they_serve": "The company says it focuses on small and medium-sized businesses and lists healthcare, construction, manufacturing, real estate, financial, retail, government and insurance among the industries it serves. Its website is based in Sarasota, Florida, and it describes its client base as nationwide in one passage.",
+      "how_they_work": "The company states that its managed services are offered at a flat-rate cost and that it provides support 24/7/365. It also says it meets regularly with clients to review their security and offers services on an \u00e0 la carte basis.",
+      "what_stands_out": "The company says it was founded in 2007 as Suncoast Business Technologies and celebrates 18 years of service. It states that it manages thousands of devices and implements web filtering, firewalls, and spam and email protection as part of its managed IT solution."
+    },
+    "city": "sarasota",
+    "state": "florida"
+  },
+  {
+    "slug": "entech",
+    "name": "Entech",
+    "summary": "Florida-based managed IT and cybersecurity provider with six local offices, serving healthcare, manufacturing, legal, financial, construction, government, nonprofit and private club clients. Offerings include ongoing monitoring, backup and recovery, Microsoft 365 administration, compliance support, and IT leadership consulting.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "construction",
+      "manufacturing",
+      "government",
+      "nonprofit",
+      "education",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "NIST"
+    ],
+    "partners": [
+      "Microsoft Solutions Partner"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Florida, with offices in Bradenton, Fort Myers, Bonita Springs, Naples, Fort Lauderdale and Boca Raton",
+    "pricing": null,
+    "website": "https://www.entechus.com/",
+    "phone": "(239) 539-2433",
+    "addresses": [
+      "615 67th St. Circle East, Suite 101, Bradenton, FL 34208",
+      "5276 Summerlin Commons Way, Suite 701, Fort Myers, FL 33907",
+      "9220 Bonita Beach Rd, Suite 102, Bonita Springs, FL 34135",
+      "3606 Enterprise Avenue, Suite 206, Naples, FL 34104",
+      "5100 NW 33rd Avenue, Suite 255, Fort Lauderdale, FL 33309",
+      "23123 State Road 7, Suite 260, Boca Raton, FL 33428"
+    ],
+    "town": "Bradenton",
+    "linkedin": "https://www.linkedin.com/company/entechus/",
+    "writeup": {
+      "what_they_do": "Entech is a Florida-based managed IT and cybersecurity provider offering managed IT, managed cybersecurity, cloud solutions, risk and compliance, IT leadership as a service, Microsoft 365 management, and AI services. The company describes its work as proactive monitoring, backup and recovery, and a roadmap-led approach to IT planning.",
+      "who_they_serve": "The company works with healthcare practices, manufacturing businesses, law firms, financial services, construction firms, government, non-profits, and private clubs, and lists private education and architecture and engineering among its solutions areas. Its site states it supports more than 500 businesses and operates from six Florida offices.",
+      "how_they_work": "Entech starts with a conversation about the client's current environment, then provides a custom roadmap with recommended improvements. The site describes a dedicated Florida-based support team and 24/7 security monitoring, but does not state pricing or contract terms.",
+      "what_stands_out": "The company states a 98% customer satisfaction rate and offers an AI report covering unapproved employee AI use, exposed sensitive data, and compliance alignment. It also lists HIPAA and CMMC-related support among its industry-specific offerings."
+    },
+    "city": "sarasota",
+    "state": "florida"
+  },
+  {
+    "slug": "paradise-computer-repair-inc",
+    "name": "Paradise Computer Repair, Inc.",
+    "summary": "Paradise Computer Repair & Services is a Venice, Florida company that has repaired computers and software since 1995 and now offers outsourced IT management, maintenance and support for small and medium businesses. It also covers cybersecurity, cloud backup setup, networking and virus or malware removal, and serves both residential and business customers.",
+    "services": [
+      "managed_it",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "computer_repair"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": 1995,
+    "teamSize": null,
+    "serviceArea": "Venice, FL and surrounding areas",
+    "pricing": null,
+    "website": "https://www.paradise-computer-repair.com/",
+    "phone": "(941) 493-5126",
+    "addresses": [
+      "1832 Tamiami Trail South, Unit B, Venice, FL 34293",
+      "530 U.S. 41 Bypass S. Suite 10A, Venice, FL 34285"
+    ],
+    "town": "Venice",
+    "linkedin": "https://www.linkedin.com/company/pcrvenice/",
+    "writeup": {
+      "what_they_do": "Paradise Computer Repair, Inc. is a locally owned and operated computer repair and IT services company in Venice, Florida, offering computer repair, maintenance and updates, security and antivirus, printer setup, OS upgrades, and virus and malware removal. Its managed IT offering covers monitoring, maintenance and updates, cybersecurity, and backup and recovery, including configuring automated cloud backup such as OneDrive and Google Drive on client devices. The company says it can provide a fully outsourced IT department or support for in-house staff.",
+      "who_they_serve": "The company serves residential customers and small to medium businesses in Venice, Florida and surrounding areas.",
+      "how_they_work": "The site lists business hours of Monday to Friday, 8:30 AM to 5:00 PM, with weekends closed, and says on-site service appointments are available. It also offers a free guide and a phone line for contact, but does not describe pricing, contract terms, or support response times.",
+      "what_stands_out": "The company states it has been repairing computers since 1995 and has been operating for over 20 years, and it reports being voted Best Computer Repair Service by local recognition, with the owner citing more than 20 years of IT experience."
+    },
+    "city": "sarasota",
+    "state": "florida"
+  },
+  {
+    "slug": "pcs-florida",
+    "name": "PCS Florida",
+    "summary": "PCS Florida is an IT services firm with offices in Sarasota, Vero Beach and Jacksonville that provides managed IT support, proactive monitoring, managed cybersecurity, cloud services and Microsoft 365 administration to businesses. It also offers cybersecurity training and tech audits, and says it serves small and mid-size companies, large enterprises and non-profits.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "insurance"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [
+      "Amazon Web Services (AWS) Select Partner",
+      "Microsoft-certified experts"
+    ],
+    "foundedYear": null,
+    "teamSize": "over 200 PCS Managed Services experts with AWS proficiency",
+    "serviceArea": "Sarasota, Lakewood Ranch, Vero Beach, St. Lucie and Jacksonville, Florida",
+    "pricing": null,
+    "website": "https://pcsflorida.com/",
+    "phone": "(941) 292-0727",
+    "addresses": [
+      "1819 Main St #301, Sarasota, FL 34236",
+      "601 21st Street #300, Vero Beach, FL 32960",
+      "9310 Old Kings Rd S. #1301, Jacksonville, FL 32257"
+    ],
+    "town": "Sarasota",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "PCS Florida is a managed service provider offering managed IT support, including a 24/7 help desk, proactive monitoring, managed cybersecurity services, and cloud services such as AWS, Azure, and Microsoft 365/Office 365 implementation and management. Its cybersecurity offerings include managed endpoint protection, dark web monitoring, next-generation antivirus, advanced email security, multi-factor authentication, and zero trust threat protection. The company also lists a Rapid Response line for system outages and a Critical Incident Response Team for ransomware and data breaches.",
+      "who_they_serve": "The company serves large enterprises, small and mid-size companies, and non-profit organizations. It names service areas including Sarasota, Lakewood Ranch, Vero Beach, St. Lucie, and Jacksonville, Florida, with offices in Sarasota, Vero Beach, and Jacksonville.",
+      "how_they_work": "The site states that support is available 24/7 and that the company offers a free consultation to discuss customized solutions. It also says it offers online and in-person security awareness training sessions and works through remote support access. Pricing models and contract terms are not stated.",
+      "what_stands_out": "The company states it is a Amazon Web Services (AWS) Select Partner and that it has over 200 managed services experts with AWS proficiency, and it describes its Microsoft-certified experts and its role as a Microsoft reseller. It also offers HIPAA Security Rule certification training and approved CEUs for industry-specific licenses."
+    },
+    "city": "sarasota",
+    "state": "florida"
+  },
+  {
+    "slug": "r-technologies-inc",
+    "name": "R Technologies Inc.",
+    "summary": "R Technologies Inc. is a locally owned IT services and network support company in Sarasota, Florida. It provides outsourced IT management, monitoring, security, cloud and Microsoft 365 support, and backup for small and medium businesses, along with hardware procurement and project work. The company also offers remote technical support nationwide.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "hardware_procurement"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Greater Sarasota Area, Fort Myers to Tampa; remote support nationwide",
+    "pricing": null,
+    "website": "https://www.rtechnologies.com/",
+    "phone": "(941) 371-5819",
+    "addresses": [
+      "5228 Paylor Ln, Sarasota, FL 34240"
+    ],
+    "town": "Sarasota",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "R Technologies Inc. is a systems integration and support company offering outsourced IT services, including IT security and risk management, managed monitoring and alerts, cloud services, Microsoft 365 implementation and support, and IT consulting and design. Its services listed on the site also include network administration, hosted email and backup solutions, antivirus and email filtering, and hardware and software procurement.",
+      "who_they_serve": "The company is based in Sarasota, Florida, and states that it serves businesses from Fort Myers to Tampa, with enterprise-grade remote access and technical support offered nationwide. The site describes its services as aimed at small and medium businesses.",
+      "how_they_work": "The site lists business hours of Monday through Friday, 8:00 a.m. to 6:00 p.m., with emergency support offered outside those hours. Its security approach starts with a risk assessment followed by layered security, and it describes 24/7 monitoring, regular patching, threat detection, incident response, and compliance support as part of its managed IT security services. The company also describes itself as locally owned.",
+      "what_stands_out": "The company states it has more than 25 years serving Sarasota businesses and presents itself as a single-vendor partner for IT needs. The site also mentions a Top Certifications section, but it does not name specific certifications in the text provided."
+    },
+    "city": "sarasota",
+    "state": "florida"
+  },
+  {
+    "slug": "itilogy",
+    "name": "ITILOGY",
+    "summary": "Itilogy is an outsourced IT support and consultancy firm based in Sarasota, Florida, serving small and medium-sized businesses across the Tampa Bay area. It offers managed IT contracts covering monitoring, maintenance and security, and also handles technology projects such as network installations, office moves and system upgrades. The company lists cybersecurity, cloud, backup, Microsoft 365, VoIP and structured cabling among its services.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "structured_cabling"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "construction",
+      "manufacturing"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Sarasota, Manatee and Tampa Bay area, Florida",
+    "pricing": null,
+    "website": "https://itilogy.com/",
+    "phone": "(941) 225-2214",
+    "addresses": [
+      "1343 Main St., Ste 705, Sarasota, FL 34236"
+    ],
+    "town": "Sarasota",
+    "linkedin": "https://www.linkedin.com/company/itilogy-group-inc",
+    "writeup": {
+      "what_they_do": "ITILOGY provides outsourced IT support and consultancy to small and medium-sized businesses, offering Managed Service contracts that monitor, secure and maintain client IT infrastructure. Its service lines include cybersecurity, cloud solutions, backup and recovery, Microsoft 365, VoIP phone systems and structured cabling, and it also manages technology projects such as network installations, office moves and system upgrades.",
+      "who_they_serve": "The company serves small and medium-sized businesses in Sarasota, Manatee and Tampa, in the Tampa Bay area. The website names healthcare, law firms, construction and manufacturing among the industries it works with.",
+      "how_they_work": "Managed service contracts range from full IT management to co-management, and the company offers remote and on-site support. Its Managed IT approach includes continuous 24x7x365 monitoring, routine maintenance, patch management and periodic assessments. Cloud services are offered on a pay-as-you-go basis.",
+      "what_stands_out": "The company describes its approach as proactive, aiming to prevent problems through continuous monitoring and alert response. Its cybersecurity offering includes security assessments, employee training, encryption, endpoint protection and incident response planning."
+    },
+    "city": "sarasota",
+    "state": "florida"
+  },
+  {
+    "slug": "saramana-business-solutions",
+    "name": "SaraMana Business Solutions",
+    "summary": "Sarasota-based provider offering managed IT, cybersecurity, backup, and vCIO consulting alongside office equipment such as copiers, phone systems, and document management. Serves small and mid-sized businesses on Florida's west coast, including financial, accounting, healthcare, legal, non-profit, and education clients. Also sells bottleneck-free office water dispensers.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "cloud_microsoft_365"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "education"
+    ],
+    "compliance": [],
+    "partners": [
+      "ISO 27001 compliant provider (self-described)"
+    ],
+    "foundedYear": null,
+    "teamSize": "600+ clients served; no staff count stated",
+    "serviceArea": "West Coast of Florida, Sarasota",
+    "pricing": null,
+    "website": "https://www.saramana.com/",
+    "phone": "(941) 379-9999",
+    "addresses": [
+      "1618 Barber Road, Sarasota, FL 34240"
+    ],
+    "town": "Sarasota",
+    "linkedin": "https://www.linkedin.com/company/saramana-business-solutions/",
+    "writeup": {
+      "what_they_do": "SaraMana Business Solutions is a managed service provider based in Sarasota, Florida, offering managed IT services and support, office technology, and business automation. Its listed services include cybersecurity, business continuity, network management, vCIO consulting, cloud services, printers and copiers, scanners, VoIP phone systems, conference room equipment, document management, and bottleless office water systems.",
+      "who_they_serve": "The company states it serves more than 600 clients on the West Coast of Florida. Its site lists industries including financial firms, accounting, healthcare, legal, non-profits, and education.",
+      "how_they_work": "The site describes a consultative approach that begins with a free consultation and states that the company is locally based in Sarasota. It mentions a client portal, remote support, and a managed IT plan that includes 24/7 network monitoring. Pricing terms and contract details are not stated.",
+      "what_stands_out": "The company states it has been in business for 50 years and is privately owned and operated, and that it is ISO 27001-compliant. Its site also lists a managed detection and response service and AI behavior-based security tools."
+    },
+    "city": "sarasota",
     "state": "florida"
   },
   {

@@ -1,0 +1,41 @@
+{
+  "city": "Sarasota",
+  "state": "Florida",
+  "state_code": "FL",
+  "slug": "sarasota",
+  "state_slug": "florida",
+  "center": {
+    "lat": 27.3,
+    "lng": -82.5
+  },
+  "radius_miles": 30,
+  "areas": [
+    "Sarasota",
+    "Bradenton",
+    "Lakewood Ranch",
+    "Venice",
+    "North Port",
+    "Palmetto"
+  ],
+  "nearby_towns": [
+    "Osprey",
+    "Nokomis",
+    "Englewood",
+    "Ellenton",
+    "Parrish",
+    "Longboat Key",
+    "Siesta Key",
+    "University Park",
+    "Myakka City",
+    "Holmes Beach",
+    "Anna Maria",
+    "Port Charlotte"
+  ],
+  "queries": [
+    "managed IT services",
+    "managed service provider",
+    "IT support company",
+    "outsourced IT"
+  ],
+  "max_candidates": 85
+}

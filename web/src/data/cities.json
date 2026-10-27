@@ -20,7 +20,7 @@
       "Smyrna"
     ],
     "count": 26,
-    "updated": "2026-10-26"
+    "updated": "2026-10-27"
   },
   {
     "slug": "dallas",
@@ -42,7 +42,7 @@
       "Arlington"
     ],
     "count": 25,
-    "updated": "2026-10-26"
+    "updated": "2026-10-27"
   },
   {
     "slug": "fort-lauderdale",
@@ -63,7 +63,7 @@
       "Deerfield Beach"
     ],
     "count": 34,
-    "updated": "2026-10-26"
+    "updated": "2026-10-27"
   },
   {
     "slug": "fort-myers",
@@ -81,7 +81,7 @@
       "Fort Myers Beach"
     ],
     "count": 25,
-    "updated": "2026-10-26"
+    "updated": "2026-10-27"
   },
   {
     "slug": "jacksonville",
@@ -99,7 +99,7 @@
       "Fernandina Beach"
     ],
     "count": 32,
-    "updated": "2026-10-26"
+    "updated": "2026-10-27"
   },
   {
     "slug": "madison",
@@ -118,7 +118,7 @@
       "Stoughton"
     ],
     "count": 25,
-    "updated": "2026-10-26"
+    "updated": "2026-10-27"
   },
   {
     "slug": "miami",
@@ -138,7 +138,7 @@
       "North Miami"
     ],
     "count": 35,
-    "updated": "2026-10-26"
+    "updated": "2026-10-27"
   },
   {
     "slug": "orlando",
@@ -160,7 +160,24 @@
       "Kissimmee"
     ],
     "count": 111,
-    "updated": "2026-10-26"
+    "updated": "2026-10-27"
+  },
+  {
+    "slug": "sarasota",
+    "name": "Sarasota",
+    "state": "florida",
+    "stateName": "Florida",
+    "stateCode": "FL",
+    "areas": [
+      "Sarasota",
+      "Bradenton",
+      "Lakewood Ranch",
+      "Venice",
+      "North Port",
+      "Palmetto"
+    ],
+    "count": 14,
+    "updated": "2026-10-27"
   },
   {
     "slug": "tampa",
@@ -181,7 +198,7 @@
       "Pinellas Park"
     ],
     "count": 34,
-    "updated": "2026-10-26"
+    "updated": "2026-10-27"
   },
   {
     "slug": "west-palm-beach",
@@ -201,6 +218,6 @@
       "Royal Palm Beach"
     ],
     "count": 29,
-    "updated": "2026-10-26"
+    "updated": "2026-10-27"
   }
 ]
