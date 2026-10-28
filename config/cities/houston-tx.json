@@ -1,0 +1,57 @@
+{
+  "city": "Houston",
+  "state": "Texas",
+  "state_code": "TX",
+  "slug": "houston",
+  "state_slug": "texas",
+  "center": {
+    "lat": 29.7604,
+    "lng": -95.3698
+  },
+  "radius_miles": 35,
+  "areas": [
+    "Houston",
+    "The Woodlands",
+    "Sugar Land",
+    "Katy",
+    "Pearland",
+    "Spring",
+    "Cypress",
+    "Pasadena",
+    "Humble",
+    "Missouri City",
+    "League City"
+  ],
+  "nearby_towns": [
+    "Kingwood",
+    "Tomball",
+    "Conroe",
+    "Bellaire",
+    "Stafford",
+    "Richmond",
+    "Rosenberg",
+    "Friendswood",
+    "Webster",
+    "Baytown",
+    "Atascocita",
+    "Fulshear",
+    "Seabrook",
+    "Kemah",
+    "La Porte",
+    "Deer Park",
+    "Channelview",
+    "Magnolia",
+    "Montgomery",
+    "Jersey Village",
+    "West University Place",
+    "Clear Lake",
+    "Shenandoah",
+    "Dickinson"
+  ],
+  "queries": [
+    "managed IT services",
+    "managed service provider",
+    "IT support company",
+    "outsourced IT"
+  ]
+}

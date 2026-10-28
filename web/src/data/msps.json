@@ -5558,6 +5558,1419 @@
     "state": "florida"
   },
   {
+    "slug": "uprite-services",
+    "name": "Uprite Services",
+    "summary": "Uprite Services is a Texas-based managed IT and cybersecurity provider founded in 1999, serving small and mid-sized businesses in Houston, San Antonio, Dallas, Fort Worth and across the state. It offers managed and co-managed IT, managed cybersecurity, cloud, managed phone, vCIO and cabling services, with dedicated healthcare and HIPAA-focused offerings.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "structured_cabling"
+    ],
+    "industries": [
+      "healthcare",
+      "manufacturing",
+      "accounting_finance",
+      "engineering_architecture",
+      "construction",
+      "real_estate",
+      "legal",
+      "nonprofit",
+      "logistics",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "NIST",
+      "SOC 2",
+      "CMMC"
+    ],
+    "partners": [
+      "SOC 2 Type 1 attestation (May 2023)"
+    ],
+    "foundedYear": 1999,
+    "teamSize": "42 passionate professionals",
+    "serviceArea": "Houston, San Antonio, Dallas, Fort Worth and the state of Texas",
+    "pricing": "Per-user monthly managed IT pricing; vCIO included in fully managed IT contracts, with 12-month locked-in pricing and a 120-day satisfaction guarantee",
+    "website": "https://uprite.com/",
+    "phone": "(281) 956-2280",
+    "addresses": [
+      "5718 Westheimer Rd, #1000-101, Houston, TX 77057",
+      "16441 Space Center Blvd, Suite B-1, Houston, TX 77058",
+      "11831 Radium Street, San Antonio, TX 78216",
+      "5757 Alpha Rd, Suite 530, Dallas, TX 75240"
+    ],
+    "town": "Houston",
+    "linkedin": "https://www.linkedin.com/company/upriteservices/",
+    "writeup": {
+      "what_they_do": "Uprite Services is a Texas-based managed IT and cybersecurity provider offering managed IT services, co-managed IT, cybersecurity, managed phone, cloud services, and vCIO services. Its managed cybersecurity plans include next-generation antivirus, email filtering, multi-factor authentication, dark web monitoring, security awareness training, and 24/7 SOC-as-a-service with managed detection and response.",
+      "who_they_serve": "The company serves small and mid-sized businesses across Texas, with metro teams in Houston, San Antonio, Dallas, and Fort Worth. Listed industries include manufacturing, financial services, CPA and accounting, oil and gas, engineering and architecture, real estate, construction, healthcare, legal and professional services, maritime and logistics, nonprofit, and private equity.",
+      "how_they_work": "Most engagements start with managed IT services, and each fully managed client is assigned a dedicated vCIO, with the vCIO included in the managed contract rather than billed separately. The company states a 120-day satisfaction guarantee, locked pricing for the first 12 months, and onboarding that begins with a custom technology roadmap.",
+      "what_stands_out": "The company states it has been in business since 1999 and completed a SOC 2 Type 1 attestation of its own security program in May 2023. It also states it is HIPAA compliant and offers a healthcare-specific tiered suite, Uprite MED."
+    },
+    "city": "houston",
+    "state": "texas"
+  },
+  {
+    "slug": "braintek-llc",
+    "name": "Braintek, LLC",
+    "summary": "Houston-based managed IT provider serving small and mid-sized businesses, typically 10 to 200 employees, across the Houston metro with a Fort Worth office covering Dallas\u2013Fort Worth. Services include monitoring, help desk, cybersecurity, backup and recovery, Microsoft 365 administration, co-managed IT and IT strategy, billed as a flat monthly fee. Also offers AI enablement, business automation and custom development.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "accounting_finance",
+      "healthcare",
+      "manufacturing",
+      "construction",
+      "legal",
+      "professional_services",
+      "engineering_architecture",
+      "nonprofit",
+      "real_estate"
+    ],
+    "compliance": [
+      "HIPAA",
+      "FTC Safeguards",
+      "CMMC",
+      "NIST"
+    ],
+    "partners": [
+      "BBB Accredited",
+      "Microsoft Certified Professional",
+      "CompTIA A+, Network+, Security+ certified technicians",
+      "Cisco CCNA certified technicians",
+      "Sophos certified technicians",
+      "Linux+ and Project+ certified technicians",
+      "Claude Certified Developer (Anthropic, 2026)"
+    ],
+    "foundedYear": 2002,
+    "teamSize": "nearly 20 people",
+    "serviceArea": "Houston metro and Dallas\u2013Fort Worth, Texas",
+    "pricing": "Flat monthly fee: $150\u2013$250 per device per month plus $15\u2013$35 per Microsoft 365 mailbox, Microsoft licensing billed separately",
+    "website": "https://www.braintek.com/",
+    "phone": "(281) 367-8253",
+    "addresses": [
+      "26519 Oak Ridge Drive, Spring, TX 77380",
+      "6825 Manhattan Blvd, Suite 100-2, Fort Worth, TX 76120"
+    ],
+    "town": "Spring",
+    "linkedin": "https://www.linkedin.com/company/braintek",
+    "writeup": {
+      "what_they_do": "Braintek, LLC is a Houston managed IT services and IT support company that acts as an outsourced IT department, covering monitoring, helpdesk, cybersecurity, backup and disaster recovery, and IT strategy. Its service list also includes Microsoft 365 and Azure management, network support, co-managed IT, VoIP, and AI enablement and business automation.",
+      "who_they_serve": "The company says it works with small and mid-sized businesses, typically 10 to 200 employees, across the Houston metro, and it also serves the Dallas-Fort Worth area from a Fort Worth office. The site lists industry focuses including CPA and financial firms, healthcare and medical practices, manufacturing, construction, energy, law firms, engineering firms, nonprofits, and real estate.",
+      "how_they_work": "The company offers a flat monthly fee priced per device and per Microsoft 365 mailbox, at $150 to $250 per device and $15 to $35 per mailbox, with Microsoft licensing billed separately. Quotes follow a short discovery call, and the site describes on-site visits as scheduled or as needed, alongside remote support.",
+      "what_stands_out": "The company states it has operated since 2002 and holds a 100% money-back guarantee with a 90-day risk-free start on new agreements. Its listed credentials include CompTIA, Cisco CCNA, and Microsoft certifications, plus BBB accreditation and a 4.9-star rating from 367 Google reviews."
+    },
+    "city": "houston",
+    "state": "texas"
+  },
+  {
+    "slug": "layerlogix",
+    "name": "LayerLogix",
+    "summary": "LayerLogix (formerly My IT Guy, founded 2014) is a Houston-area IT provider offering managed IT with 24/7 monitoring and help desk, managed cybersecurity built on the Todyl platform, cloud and Microsoft 365 services, and structured cabling. It serves small and mid-size businesses across Houston, The Woodlands, Spring and Conroe, with a focus on healthcare, legal, energy, manufacturing and compliance-driven clients.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement",
+      "structured_cabling",
+      "web_design",
+      "computer_repair"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "manufacturing",
+      "construction",
+      "nonprofit",
+      "education",
+      "real_estate",
+      "hospitality",
+      "accounting_finance",
+      "insurance",
+      "government",
+      "engineering_architecture",
+      "logistics",
+      "automotive"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "NIST",
+      "SOC 2",
+      "PCI DSS",
+      "FINRA/SEC",
+      "FTC Safeguards",
+      "GLBA",
+      "ITAR"
+    ],
+    "partners": [
+      "Todyl Complete",
+      "Microsoft Partner",
+      "PAM tool-certified security practice"
+    ],
+    "foundedYear": 2014,
+    "teamSize": "500+ clients served; team size not stated",
+    "serviceArea": "Houston, The Woodlands, Spring, Conroe, Katy, Sugar Land, Pearland; also Dallas, Austin and nationwide support",
+    "pricing": "Flat-rate pricing offered for managed IT; no further detail stated",
+    "website": "https://layerlogix.com/",
+    "phone": "(713) 571-2390",
+    "addresses": [
+      "2001 Timberloch Pl, Suite 551R, The Woodlands, TX 77380",
+      "1000 Heritage Center Cir, Suite 358, Round Rock, TX 78664",
+      "1201 W Peachtree St NW, Suite 2300, Atlanta, GA 30309"
+    ],
+    "town": "The Woodlands",
+    "linkedin": "https://www.linkedin.com/company/layerlogix",
+    "writeup": {
+      "what_they_do": "LayerLogix, formerly My IT Guy, provides managed IT services including 24/7 monitoring, a help desk and proactive maintenance, along with cybersecurity (PAM, threat monitoring, incident response), cloud services, structured cabling and network design, and web development. Its security offering is built on Todyl Complete, with a 24/7 SOC run by Todyl and a local LayerLogix team handling remediation.",
+      "who_they_serve": "The company says it serves over 500 clients across Houston, The Woodlands, Spring and Conroe, including small and mid-size businesses. Industries listed on the site include healthcare, energy, legal, manufacturing, construction, defense contractors, nonprofits, and a range of others such as accounting firms, credit unions and veterinary clinics.",
+      "how_they_work": "The site states flat-rate pricing, on-site and remote support, and on-demand and flat-rate plans for business IT services. It describes a process of assessment, planning, implementation, monitoring and quarterly optimization, and offers a free IT assessment.",
+      "what_stands_out": "The company was founded in 2014 and has been in Houston for over a decade, and it lists certified partnerships with major cloud providers and a Microsoft Partner designation. It also offers compliance support for HIPAA, SOC 2, CMMC, NIST, PCI-DSS and ITAR, and states it does not perform the audits itself."
+    },
+    "city": "houston",
+    "state": "texas"
+  },
+  {
+    "slug": "cyber-one-solutions-houston",
+    "name": "Cyber One Solutions",
+    "summary": "Texas and Tennessee based provider offering managed IT with 24/7 NOC monitoring, helpdesk, managed security with SOC and endpoint detection, Microsoft 365 and cloud administration, managed VoIP and internet/WAN, plus compliance support and vCIO advisory. Serves healthcare, legal, finance, automotive, manufacturing and other sectors, with offices in Houston, Dallas, Lufkin, Spring and Sevierville.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement",
+      "structured_cabling"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "automotive",
+      "manufacturing",
+      "government",
+      "professional_services",
+      "nonprofit",
+      "education",
+      "construction",
+      "engineering_architecture",
+      "real_estate",
+      "hospitality",
+      "retail",
+      "logistics",
+      "insurance",
+      "dental"
+    ],
+    "compliance": [
+      "HIPAA",
+      "GLBA",
+      "FTC Safeguards"
+    ],
+    "partners": [
+      "UniFi Certified Installer"
+    ],
+    "foundedYear": 2018,
+    "teamSize": "500+ businesses served",
+    "serviceArea": "Texas and Tennessee, including Greater Houston, Dallas Fort Worth, Deep East Texas, Spring/North Houston and East Tennessee",
+    "pricing": "Flat monthly per-device managed IT pricing with Bronze, Silver and Gold tiers; projects billed time and materials",
+    "website": "https://www.cyberonesol.com/",
+    "phone": "(866) 998-7691",
+    "addresses": [
+      "1110 NASA Pkwy STE 630, Houston, TX 77058",
+      "2626 Spring Cypress Rd, Spring, TX",
+      "2727 LBJ Fwy STE 515, Farmers Branch, TX 75234",
+      "105 S. Cotton Square, Lufkin, TX 75904",
+      "100 E. Main St STE 302, Sevierville, TN 37862"
+    ],
+    "town": "Houston",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "Cyber One Solutions provides fully managed IT services, including helpdesk support, 24/7 monitoring through a NOC, patch management, and vCIO guidance on Silver and Gold plans. Its service lines also cover managed cybersecurity with SOC monitoring and endpoint detection and response, managed cloud and Microsoft 365, managed VoIP, managed internet and WAN, and compliance programs for HIPAA, GLBA and FTC Safeguards. The company also offers non-managed project work and physical security, cabling and digital signage installs.",
+      "who_they_serve": "The company serves businesses across industries including healthcare, legal, finance, automotive, manufacturing, government, professional services, nonprofits and education, and construction, with a focus on small and mid-size businesses. Its offices are in Texas and Tennessee, and the site references service areas across Texas, Tennessee and the rest of the US.",
+      "how_they_work": "Managed IT is offered as a flat monthly rate under a single contract, with tiers named Bronze, Silver and Gold that differ in helpdesk hours and vCIO access. Project and hardware work is billed time and materials with a written estimate. The company also offers co-managed IT for businesses that already have internal IT staff.",
+      "what_stands_out": "The company states it has been serving businesses since 2018, reports more than 500 businesses served, and cites a 15-minute measured average first response on critical tickets. It also says its engineers hold Ubiquiti and UniFi installer certifications for physical security work."
+    },
+    "city": "houston",
+    "state": "texas"
+  },
+  {
+    "slug": "cinchops-llc",
+    "name": "CinchOps, LLC",
+    "summary": "CinchOps is a Katy, Texas-based managed IT and cybersecurity provider serving small and midsize businesses across the Houston area. Services include 24/7 monitoring, help desk, Microsoft 365 and cloud management, backup and disaster recovery, managed security, VoIP and SD-WAN, with flat per-user monthly pricing and month-to-month terms. The firm highlights industry-specific support for accounting, law, engineering, construction, manufacturing, energy and wealth management clients.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "construction",
+      "accounting_finance",
+      "engineering_architecture",
+      "legal",
+      "manufacturing",
+      "healthcare",
+      "nonprofit",
+      "real_estate",
+      "logistics",
+      "professional_services"
+    ],
+    "compliance": [
+      "SOC 2",
+      "HIPAA",
+      "CMMC",
+      "NIST",
+      "PCI DSS",
+      "FINRA/SEC",
+      "FTC Safeguards"
+    ],
+    "partners": [
+      "BBB Accredited"
+    ],
+    "foundedYear": null,
+    "teamSize": "Serves businesses of 10 to 200 employees; internal team size not stated",
+    "serviceArea": "Houston metro area including Katy, Sugar Land, Richmond, Rosenberg, Cypress, Fulshear, Brookshire, Sealy, Missouri City, Tomball and The Woodlands; remote support elsewhere",
+    "pricing": "Flat per-user/per-seat monthly pricing, month-to-month with 30-day out clause; typically $100-$250 per user per month",
+    "website": "https://cinchops.com/",
+    "phone": "(281) 269-6506",
+    "addresses": [
+      "2717 Commercial Center Blvd, Suite E200, Katy, TX 77494"
+    ],
+    "town": "Katy",
+    "linkedin": "https://www.linkedin.com/company/cinchops",
+    "writeup": {
+      "what_they_do": "CinchOps, LLC is a Houston-area managed IT services provider offering managed IT support, IT help desk, 24/7 monitoring and response, cybersecurity (including managed firewall, email security, managed detection and response, and vCISO), business continuity and disaster recovery, Microsoft 365 and cloud services, SD-WAN, VoIP, virtual CTO/CIO services, and business process automation. The company also offers hourly consulting and IT project management.",
+      "who_they_serve": "The company says it serves small and midsize businesses of roughly 10 to 200 employees in the Houston metro area, including Katy, Sugar Land, Richmond, Cypress, The Woodlands, and surrounding communities, with remote support available elsewhere. Its listed industries include construction, CPA and accounting firms, engineering, energy services and utilities, law firms, manufacturing, oil and gas services, and wealth management.",
+      "how_they_work": "The company states it uses flat, per-user or per-seat monthly pricing on month-to-month terms with no long-term contract, and that after-hours work is not billed extra. Onboarding is described as a four-step process over about 30 days covering assessment, planning, migration, and ongoing management, with a 30-day out-clause and a 100% refund offer in the first 30 days. Monthly health reports and quarterly business reviews are listed as included.",
+      "what_stands_out": "The company reports more than 35 years of IT experience, is BBB Accredited, and lists a Google rating of 5.0. It states that a named primary engineer is assigned to each account and that it publishes indicative pricing of $100 to $250 per user per month."
+    },
+    "city": "houston",
+    "state": "texas"
+  },
+  {
+    "slug": "i-t-matters-inc",
+    "name": "I.T. Matters, Inc.",
+    "summary": "Houston-based IT company offering managed IT services, remote monitoring, cybersecurity, Microsoft 365 administration, business continuity and disaster recovery, plus VoIP and CMMC readiness consulting. Serves businesses in Houston, Austin, San Antonio and Dallas/Fort Worth, with fixed-rate monthly plans and a focus on transparent invoicing.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement"
+    ],
+    "industries": [
+      "government"
+    ],
+    "compliance": [
+      "CMMC",
+      "NIST"
+    ],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Houston, Austin, San Antonio, Dallas/Fort Worth and neighboring Texas communities",
+    "pricing": "Fixed-rate monthly plans",
+    "website": "https://www.itmattersinc.com/",
+    "phone": "(281) 280-8500",
+    "addresses": [
+      "2211 Norfolk St Ste 777, Houston, TX 77098"
+    ],
+    "town": "Houston",
+    "linkedin": "https://www.linkedin.com/company/itmattersinc/",
+    "writeup": {
+      "what_they_do": "I.T. Matters, Inc. is a Houston-based managed service provider offering managed IT services, co-managed IT, cybersecurity, Microsoft 365 services, VoIP and cloud communications, business continuity and disaster recovery, network infrastructure design, and IT consulting. It also provides CMMC and NIST compliance consulting for organizations working with the Department of Defense.",
+      "who_they_serve": "The company says it serves small startups through established enterprises across businesses of all sizes and industries, with a focus on local businesses in Houston, Austin, Dallas/Fort Worth, and San Antonio, as well as neighboring Texas communities. Its CMMC consulting is aimed at DoD contractors and subcontractors.",
+      "how_they_work": "The company describes fixed-rate monthly plans, transparent invoices and statements of work, and a plan-based process that begins with a site visit and customized plan. Its website also states that employees can contact the support team directly and that hardware failures and software installs are included in its services.",
+      "what_stands_out": "The company states that its leadership team has over 40 years of combined experience and that its certified IT staff includes cybersecurity and CMMC specialists. It offers 24/7 security monitoring and a third-party CMMC Readiness Assessment as a first step for DoD contractors."
+    },
+    "city": "houston",
+    "state": "texas"
+  },
+  {
+    "slug": "mako-logics",
+    "name": "Mako Logics",
+    "summary": "Houston-area managed IT provider based in Montgomery, operating from inside the Westland Bunker Tier III data center. Offers monitoring, help desk, cybersecurity, Microsoft 365, vCIO and colocation, with a focus on compliance-heavy sectors such as energy, healthcare, legal and CPA firms. Also builds its own AI products and runs an in-house web design studio.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "web_design"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "insurance",
+      "construction",
+      "manufacturing",
+      "professional_services",
+      "logistics"
+    ],
+    "compliance": [
+      "HIPAA",
+      "SOC 2",
+      "CMMC"
+    ],
+    "partners": [
+      "TWIC\u00ae credentialed engineers",
+      "Cisco Meraki partner deployments",
+      "Ubiquiti deployments"
+    ],
+    "foundedYear": 2001,
+    "teamSize": null,
+    "serviceArea": "Houston, The Woodlands, Montgomery County, and surrounding areas including Louisiana for existing clients",
+    "pricing": "One monthly number per client; travel included in managed-IT agreements",
+    "website": "https://makologics.com/",
+    "phone": "(281) 206-4848",
+    "addresses": [
+      "550 Club Dr #264, Montgomery, TX 77316"
+    ],
+    "town": "Montgomery",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "Mako Logics is a Houston-area managed IT provider offering managed IT support, cybersecurity and compliance, Microsoft 365, strategic IT (vCIO and consulting), AI services, and colocation in the Westland Bunker Tier III data center. The company also offers its own products (LocalAIBox, MakoAnswer, MakoChat) and a web design and development team, Mako Studio.",
+      "who_they_serve": "The company serves Houston-area businesses in compliance-heavy industries, including energy and industrial services, healthcare, professional services, construction, CPA and accounting firms, port and maritime logistics, petrochemical and refinery operations, and law firms. Its primary focus is Houston, The Woodlands, and surrounding areas, and it follows existing clients into Louisiana. Its office is in Montgomery, and it lists clients in cities including The Woodlands, Conroe, Spring, Katy, and Pasadena.",
+      "how_they_work": "Service is delivered with a help desk, 24/7 monitoring, and a self-serve client portal, and the site states that travel is included in every managed-IT agreement. The site describes a four-step onboarding process (discovery, plan, transition, running) with a typical timeline of 2 to 4 weeks from signed agreement to fully operational. Pricing is described as one monthly number, though no specific prices are listed.",
+      "what_stands_out": "The company states it has been operating since 2001, reports an average client tenure of 10+ years, and says every engineer is TWIC-credentialed. Its offices are located inside the Westland Bunker, a Tier III data center, and it cites compliance-related readiness for HIPAA, SOC 2, CMMC, and IRS Publication 4557."
+    },
+    "city": "houston",
+    "state": "texas"
+  },
+  {
+    "slug": "precise-business-solutions",
+    "name": "Precise Business Solutions",
+    "summary": "Spring, Texas-based provider offering managed IT support, help desk, cybersecurity, backup and disaster recovery for small and mid-sized businesses, with add-on cloud, VoIP, web design and digital marketing services. The site says it serves clients across Texas and several other states, and lists industries including accounting, healthcare, law and manufacturing.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services",
+      "web_design",
+      "software_development"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "insurance",
+      "construction",
+      "manufacturing",
+      "nonprofit",
+      "education",
+      "government",
+      "retail",
+      "hospitality",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CJIS"
+    ],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Texas, with stated reach to several other U.S. states",
+    "pricing": "Predictable monthly pricing for managed IT services; free consultation and free IT assessment offered",
+    "website": "https://precisebusinesssolutions.net/",
+    "phone": "(281) 612-1133",
+    "addresses": [
+      "504 Spring Hill Drive Suite 420, Spring, TX 77386"
+    ],
+    "town": "Spring",
+    "linkedin": "https://www.linkedin.com/company/precise-business-solutions---pbs",
+    "writeup": {
+      "what_they_do": "Precise Business Solutions is a Texas-based managed service provider offering fully managed IT services, including proactive monitoring and maintenance, help desk support, network management, cybersecurity, backup and disaster recovery, and IT consulting. The company also offers cloud hosting and migration, VoIP and phone systems, web design and software development, and digital marketing such as SEO and paid search.",
+      "who_they_serve": "The company states it serves small and mid-sized businesses, with headquarters in Spring, TX and clients across Texas. Its website also lists industries including accounting, construction, government and municipal offices, healthcare, insurance agencies, law firms, manufacturing, nonprofits, and schools, and mentions service to organizations across the United States.",
+      "how_they_work": "The company describes support through a 24/7 help desk, remote and onsite support, and managed IT plans with a predictable monthly pricing model. It offers a free IT assessment and consultation as a starting point, and its security offering describes discovery, onboarding, deployment, continuous monitoring, and regular reporting.",
+      "what_stands_out": "The website describes the company's specialization in managed IT security with compliance support for frameworks such as HIPAA, PCI-DSS, and CJIS. It also states the company has been operating since 2016 based on its copyright line and lists an award-winning designation, though the site does not name specific awards."
+    },
+    "city": "houston",
+    "state": "texas"
+  },
+  {
+    "slug": "werner-technology-solutions",
+    "name": "Werner Technology Solutions",
+    "summary": "Houston-based IT company serving small and medium-sized businesses with managed IT services, cybersecurity, cloud solutions, backup and disaster recovery, and telecom/printing systems. The site highlights industry-specific support for healthcare, legal, engineering, energy, manufacturing and financial firms, and lists service areas across the greater Houston region.",
+    "services": [
+      "managed_it",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "manufacturing",
+      "engineering_architecture",
+      "government",
+      "professional_services"
+    ],
+    "compliance": [],
+    "partners": [
+      "Microsoft Partner"
+    ],
+    "foundedYear": 2003,
+    "teamSize": null,
+    "serviceArea": "Greater Houston area, Texas, including The Woodlands, League City, Tomball, Sugar Land, Katy, Pearland and Galveston",
+    "pricing": null,
+    "website": "https://wernertechsolutions.com/",
+    "phone": "(281) 598-8365",
+    "addresses": [
+      "4606 Farm to Market 1960 Rd W # 325, Houston, TX 77069"
+    ],
+    "town": "Houston",
+    "linkedin": "https://www.linkedin.com/company/werner-technology-solutions/",
+    "writeup": {
+      "what_they_do": "Werner Technology Solutions is a Houston-area IT services company offering managed IT services that include daily maintenance, monitoring, and system optimization. Its listed services cover cloud solutions, cybersecurity (firewalls, patch management, multi-factor authentication, email filtering), data backup and recovery, business continuity and disaster recovery, and printing and telecom systems.",
+      "who_they_serve": "The company says it works mainly with small and medium-sized businesses in Houston and the surrounding area, and it lists industry focus areas including financial firms, law firms, manufacturing, energy, engineering, healthcare, and enterprise organizations. Its location pages name more than a dozen Houston-area communities, including The Woodlands, League City, Sugar Land, and Katy.",
+      "how_they_work": "The site describes a process that begins with a full assessment of a client's current systems and goals, followed by tailored recommendations and a quote. It lists office hours of Monday to Friday 9:00 am to 6:00 pm and Saturday 10:00 am to 5:00 pm, and it offers free consultations and cybersecurity audits. Pricing models, contract terms, and on-site versus remote delivery are not specified.",
+      "what_stands_out": "The company states it has been operating since 2003 and says it is a Microsoft Partner whose team holds various certifications, though the specific certifications are not named. A client case study reports a 25% increase in operational efficiency and zero security incidents for a manufacturing client, which the company itself reports without independent verification."
+    },
+    "city": "houston",
+    "state": "texas"
+  },
+  {
+    "slug": "aspendora-technologies-llc",
+    "name": "Aspendora Technologies, LLC",
+    "summary": "Aspendora Technologies is a Houston-area IT firm founded in 2010 that provides managed IT, 24/7 monitoring and security, Microsoft 365 administration, and backup services on monthly plans. It also offers compliance support, hourly help, and co-managed IT, and says it serves small businesses including accounting, construction, medical and dental, and manufacturing clients.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "accounting_finance",
+      "construction",
+      "healthcare",
+      "dental",
+      "manufacturing"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS",
+      "CMMC",
+      "NIST"
+    ],
+    "partners": [],
+    "foundedYear": 2010,
+    "teamSize": null,
+    "serviceArea": "Houston, La Porte, Pasadena, Pearland and Baytown, TX",
+    "pricing": "Flat monthly plans starting at $795 for 1-5 users and $1,490 to $2,490 per month for up to 10 users at one location, with Microsoft 365 Business Premium licenses included",
+    "website": "https://www.aspendora.com/",
+    "phone": "(281) 941-4028",
+    "addresses": [
+      "506 S. Utah, La Porte, TX 77571"
+    ],
+    "town": "La Porte",
+    "linkedin": "https://www.linkedin.com/company/aspendora-technologies/",
+    "writeup": {
+      "what_they_do": "Aspendora Technologies offers managed IT services for small businesses, centered on cybersecurity that includes 24/7 threat detection and response, Microsoft 365 account protection, email security, and patch management. Its other offerings include data backup and recovery, Microsoft 365 solutions, IT compliance support for frameworks such as HIPAA, PCI, and CMMC, hourly IT support, and IT consulting.",
+      "who_they_serve": "The company serves small businesses in the Houston area, with listed service areas including La Porte, Pasadena, Pearland, and Baytown in Texas. The site highlights industry pages for accounting firms, construction companies, medical and dental practices, and manufacturing and industrial companies.",
+      "how_they_work": "Managed plans are priced as flat monthly rates, starting at $1,490 per month for Cybersecurity or $2,490 per month with Remote Help Desk for up to 10 users at one location, and $795 per month for teams of 1 to 5 users. The company states it does not use long-term contracts, and it also offers hourly support with no commitment required.",
+      "what_stands_out": "The company says it has been in business since 2010, and its founder, Lacy Moore, has worked in IT since 1989. The site states that its security operations center is staffed 24/7 by analysts and that its backups are immutable offsite storage that is test-restored."
+    },
+    "city": "houston",
+    "state": "texas"
+  },
+  {
+    "slug": "elevate-technology",
+    "name": "Elevate Technology",
+    "summary": "Houston-based IT provider offering managed IT support, helpdesk, managed cybersecurity, Microsoft 365 administration, cloud hosting and a hosted VoIP phone platform. The company serves businesses across Houston and nearby Texas cities, with industry pages covering energy, healthcare, professional services, manufacturing, hospitality, churches and nonprofits.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement",
+      "structured_cabling"
+    ],
+    "industries": [
+      "healthcare",
+      "professional_services",
+      "manufacturing",
+      "hospitality",
+      "nonprofit",
+      "accounting_finance",
+      "legal",
+      "real_estate",
+      "automotive"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [
+      "Cisco Duo",
+      "Proofpoint",
+      "Epicor Prophet 21"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Houston, Katy, Sugar Land, The Woodlands, Dallas, Fort Worth, Austin, San Antonio, Texas",
+    "pricing": "Managed IT blog cites flat per-user monthly pricing around $75\u2013$150/user/month; site says special pricing offered to churches and nonprofits",
+    "website": "https://elevatetechnology.com/",
+    "phone": "(713) 244-7744",
+    "addresses": [
+      "9434 Katy Freeway Ste 170, Houston, TX 77055"
+    ],
+    "town": "Houston",
+    "linkedin": "https://www.linkedin.com/company/elevate-technology",
+    "writeup": {
+      "what_they_do": "Elevate Technology is a Houston-based managed IT services provider offering managed cybersecurity, managed cloud servers, Microsoft 365 management, managed print services, and network monitoring and helpdesk support. The company also sells cloud business phone systems (Elevate UC), contact center software, security awareness training, and low voltage cabling and security camera installation.",
+      "who_they_serve": "The company serves businesses in Houston and surrounding Texas areas, including Katy, Sugar Land, The Woodlands, Austin, San Antonio, Dallas and Fort Worth. It names industries including energy, healthcare, professional services, manufacturing and distribution, restaurants, churches and ministries, and non-profits, and its Why Us page reports 700+ companies supported.",
+      "how_they_work": "The site offers a free IT assessment and a request-a-quote form, and it describes support available 24/7 in customer testimonials. It also mentions remote support sessions, special pricing for churches and 501(c)(3) non-profits, and a support ticket system.",
+      "what_stands_out": "The company states it has been serving Houston businesses for over 20 years and reports 30,000+ support tickets solved and 5,000+ workstations protected. It offers HIPAA-related compliance services and cites more than 15 years of medical IT experience."
+    },
+    "city": "houston",
+    "state": "texas"
+  },
+  {
+    "slug": "ltc-technology-systems",
+    "name": "LTC Technology Systems",
+    "summary": "LTC Technology Systems is an IT company based in Ocala, Florida, with a Houston-area office in Tomball, Texas. It offers outsourced managed IT, help desk, cybersecurity, business continuity, VoIP phone systems, email and messaging, and structured cabling. The company names healthcare, construction, finance, and legal clients among the industries it serves.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "voip_phones",
+      "structured_cabling",
+      "network_infrastructure"
+    ],
+    "industries": [
+      "healthcare",
+      "construction",
+      "legal"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Ocala, Florida; Tomball and Spring, Texas; Klein and The Woodlands, Texas; nationwide",
+    "pricing": null,
+    "website": "https://ltcsystems.us/",
+    "phone": "(855) 582-7875",
+    "addresses": [
+      "13415 Medical Complex Dr, Tomball, TX 77375",
+      "1512 SW 5th Avenue, Ocala, FL 34471"
+    ],
+    "town": "Tomball",
+    "linkedin": "https://www.linkedin.com/company/ltcsystems",
+    "writeup": {
+      "what_they_do": "LTC Technology Systems offers managed IT services, including help desk support, business cybersecurity, business continuity and disaster recovery, security awareness training, and mobile device management. Its service lineup also covers business communications such as VoIP phone systems and email and messaging, along with internet, fiber optic, structured cabling, IP paging, and video surveillance.",
+      "who_they_serve": "The company says it serves businesses of all sizes and names health care, construction, finance, legal, and agency clients as industries it works with. It lists offices in Ocala, Florida and Tomball, Texas, and its service areas include Texas locations and nationwide support.",
+      "how_they_work": "The company states it evaluates a client's current IT environment before developing a solution and offers proactive support through performance analysis, monitoring, and training. Its contact line is staffed Monday through Friday, 8:00 am to 6:00 pm EST, and it offers scheduled meetings through its website.",
+      "what_stands_out": "The company states that its technicians are certified IT professionals and that it is driven by HIPAA and HITECH compliance for health care clients. Its website also lists a leadership team of named executives and managers."
+    },
+    "city": "houston",
+    "state": "texas"
+  },
+  {
+    "slug": "scorpion-technology-llc",
+    "name": "Scorpion Technology LLC",
+    "summary": "Houston-area managed IT and cybersecurity provider founded in 2007 by Jonathan Cardoza and based in Spring, TX. Serves small and medium businesses across Greater Houston with monitoring, patching, help desk, Microsoft 365 management, backup, a 24/7 SOC-backed security stack and managed VoIP, with a notable focus on HIPAA-compliant IT for medical practices.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "voip_phones",
+      "computer_repair",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "real_estate",
+      "professional_services",
+      "retail",
+      "construction",
+      "engineering_architecture"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [
+      "Nextech",
+      "PatientNow",
+      "ModMed",
+      "Weave"
+    ],
+    "foundedYear": 2007,
+    "teamSize": null,
+    "serviceArea": "Greater Houston, including Spring, The Woodlands, Katy, Sugar Land, Cypress and Memorial",
+    "pricing": "Flat monthly rate per managed IT client, with no surprise bills",
+    "website": "https://www.scorpionitsupport.com/",
+    "phone": "(713) 623-1266",
+    "addresses": [
+      "1401 Lake Plaza Drive, Suite 200-134, Spring, TX 77379"
+    ],
+    "town": "Spring",
+    "linkedin": "https://www.linkedin.com/company/scorpion-it-support/",
+    "writeup": {
+      "what_they_do": "Scorpion Technology LLC provides proactive managed IT services, including monitoring, patch management, Microsoft 365 and Azure management, backup and disaster recovery, and help desk support. It also offers cybersecurity services such as endpoint detection and response with a 24/7 security operations center, email security, DNS filtering, and phishing simulation training, plus cloud-hosted business VoIP phone systems.",
+      "who_they_serve": "The company serves small and medium-sized businesses across Greater Houston, including The Woodlands, Spring, Katy, Sugar Land, and the Medical Center. Its listed industries include healthcare practices such as plastic surgery, dermatology, and medspas, CPA and financial firms, law firms, property management companies, and oil and gas or energy firms.",
+      "how_they_work": "The company describes a flat monthly rate for managed IT with no surprise bills, and a single monthly invoice that can include VoIP. It offers a free assessment and discovery call before onboarding, with a stated under-one-hour response time for managed IT clients and same-day on-site visits from its Spring, TX office.",
+      "what_stands_out": "The company states it has been operating since 2007, is independently owned, and signs a Business Associate Agreement with every healthcare client. It reports a 4.9 Google rating from 30 reviews and says its security stack is included in its base managed IT plans rather than sold as an add-on."
+    },
+    "city": "houston",
+    "state": "texas"
+  },
+  {
+    "slug": "techspedite",
+    "name": "Techspedite",
+    "summary": "Techspedite is a Houston-area IT company based in The Woodlands, serving businesses across Greater Houston with managed IT, help desk support, Microsoft 365 administration, backup and recovery, network security and VoIP phone systems. It markets flat-rate monthly plans and focuses on serving accounting, legal, architecture, construction, engineering and manufacturing clients.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "structured_cabling"
+    ],
+    "industries": [
+      "legal",
+      "accounting_finance",
+      "construction",
+      "manufacturing",
+      "engineering_architecture",
+      "professional_services"
+    ],
+    "compliance": [],
+    "partners": [
+      "Microsoft"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Greater Houston area, including The Woodlands, Conroe, Kingwood, Atascocita, Spring, Tomball and Humble",
+    "pricing": "Monthly flat-rate IT support and service plans",
+    "website": "https://techspedite.com/",
+    "phone": "(281) 318-1680",
+    "addresses": [
+      "25329 Budde Rd Suite #818, The Woodlands, TX 77380"
+    ],
+    "town": "The Woodlands",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "Techspedite is a managed IT service provider offering managed services, IT support, network security, VoIP phone systems, cloud storage and management, data backup and recovery, and infrastructure cabling. The company describes installing, managing and supporting clients' IT infrastructure, including servers, workstations, routers, switches, firewalls, printers and VoIP systems, with a managed cybersecurity offering that covers assessments, firewalls, endpoint protection, email filtering and patch management.",
+      "who_they_serve": "The company serves small and midsize businesses in Greater Houston, with listed industry focus on accountants, law firms, architecture firms, construction companies, engineering firms and manufacturing companies. Its listed service areas include The Woodlands, Conroe, Kingwood, Atascocita, Spring, Tomball and Humble.",
+      "how_they_work": "The company offers monthly flat-rate service plans with fixed pricing for its most popular plans, and provides 24/7 monitoring and remote support, with on-site assistance for problems involving physical equipment or cabling. Clients request a consultation through the website or by phone, and the site describes a technology plan as part of onboarding.",
+      "what_stands_out": "The company states it has over 20 years of IT experience and is veteran-owned and operated, with a Microsoft 365 and email support focus. Its office is listed at 25329 Budde Rd Suite #818, The Woodlands, Texas."
+    },
+    "city": "houston",
+    "state": "texas"
+  },
+  {
+    "slug": "galaxy-it-solutions",
+    "name": "Galaxy IT Solutions",
+    "summary": "Conroe, Texas-based managed IT provider serving small and mid-sized businesses in Montgomery County and Greater Houston. Offers flat-rate managed services with 24/7 monitoring and help desk, managed cybersecurity with a SOC, Microsoft 365 administration, hosted PBX phone systems, cloud and colocation hosting, and structured cabling. Serves industries including oil and gas, manufacturing, healthcare, hospitality and public works.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement",
+      "structured_cabling"
+    ],
+    "industries": [
+      "healthcare",
+      "manufacturing",
+      "hospitality",
+      "government",
+      "engineering_architecture"
+    ],
+    "compliance": [
+      "HIPAA",
+      "NIST",
+      "CMMC",
+      "PCI DSS",
+      "CJIS"
+    ],
+    "partners": [
+      "Microsoft Solutions Partner",
+      "Palo Alto Networks partner",
+      "Fortinet partner",
+      "Cisco",
+      "Sangoma",
+      "Huntress"
+    ],
+    "foundedYear": 2021,
+    "teamSize": null,
+    "serviceArea": "Conroe, Montgomery County and Greater Houston, including The Woodlands, Spring, Tomball, Kingwood, Humble and Willis",
+    "pricing": "Flat-rate monthly per-user pricing, month-to-month agreements",
+    "website": "https://galaxyit.solutions/",
+    "phone": "(346) 406-1700",
+    "addresses": [
+      "1135 Grand Central Parkway, STE 250, Conroe, TX 77304"
+    ],
+    "town": "Conroe",
+    "linkedin": "https://www.linkedin.com/company/galaxyitmsp",
+    "writeup": {
+      "what_they_do": "Galaxy IT Solutions is a Conroe, Texas managed IT services provider offering managed services that cover support, security, backups, and Microsoft 365 management, along with managed cybersecurity, cloud-hosted PBX phone systems (SimpleVoIP), AWS and Azure cloud services, and structured cabling. The company also lists private datacenter colocation and virtualization, along with hardware procurement and resale.",
+      "who_they_serve": "The company says it serves small and mid-sized businesses in Montgomery County and Greater Houston, including named areas such as Conroe, The Woodlands, Spring, Tomball, Kingwood, and Humble. Its listed verticals are oil and gas, manufacturing, medical, public works, and hospitality.",
+      "how_they_work": "Managed services are billed at a flat rate per employee or per user each month, with month-to-month agreements and a defined Service Level Agreement for response and resolution. The company provides onsite support for hands-on work and remote support for issues fixed over a secure session, and it also offers block-hour and project-based support for clients without a full managed relationship. The site describes a typical SMB onboarding as taking two to four weeks.",
+      "what_stands_out": "The company states it was founded in 2021 and that its engineers bring 16+ years of IT experience from oil and gas, manufacturing, and healthcare, and it lists a 24/7 SOC, Palo Alto, Fortinet, and Microsoft partnerships, and compliance support for frameworks such as HIPAA, NIST 800-171, CMMC, and TX-RAMP. It also says it offers a free 30-minute assessment and a baseline vulnerability scan during onboarding."
+    },
+    "city": "houston",
+    "state": "texas"
+  },
+  {
+    "slug": "houston-it-developers-llc",
+    "name": "Houston IT Developers LLC",
+    "summary": "Houston-based software and digital agency founded in 2005, building custom web and mobile applications, AI tools, and websites, with SEO and PPC services. It also offers managed IT, help desk, and managed security (EDR, 24/7 SOC, email security) on flat monthly per-user or per-plan pricing, with clients in healthcare, real estate, construction, logistics and nonprofits.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "compliance_services",
+      "it_strategy_vcio",
+      "software_development",
+      "web_design"
+    ],
+    "industries": [
+      "healthcare",
+      "real_estate",
+      "construction",
+      "logistics",
+      "accounting_finance",
+      "nonprofit"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS",
+      "CMMC"
+    ],
+    "partners": [
+      "BBB Accredited"
+    ],
+    "foundedYear": 2005,
+    "teamSize": "50+ expert team members",
+    "serviceArea": "Greater Houston and Texas; security services delivered nationwide",
+    "pricing": "Flat monthly managed IT rate; managed security priced per user per month ($25 to $55); custom compliance tier",
+    "website": "https://www.houstonitdevelopers.com/",
+    "phone": "(281) 406-4636",
+    "addresses": [
+      "15216 Saddlewood Dr., Suite 1, Conroe, TX 77384"
+    ],
+    "town": "Conroe",
+    "linkedin": "https://www.linkedin.com/company/houston-it-developers/",
+    "writeup": {
+      "what_they_do": "Houston IT Developers LLC is a software and digital services firm that offers custom web and mobile app development, AI solutions, web design, SEO and paid advertising, and managed IT services. Its managed IT offering, marketed as Managed IT, help desk, cybersecurity and cloud support, is sold at one flat monthly rate, and its managed cybersecurity service covers managed EDR, a 24/7 security operations centre, email security, staff training and tested backups.",
+      "who_they_serve": "The company says it serves businesses of all sizes, from startups to enterprises, with a focus on Houston and the wider Texas market. It lists industry practices in oil and gas, healthcare, real estate, construction, logistics and finance, and its cybersecurity service is delivered nationwide.",
+      "how_they_work": "Managed IT and cybersecurity are priced per user per month, with cybersecurity plans listed from $25 to $55 per user and a custom compliance tier, and SEO packages start at $1,500 per month with no long-term contracts. The company states that its developers work from an office in Conroe, that clients own their code and intellectual property, and that monthly support plans can be changed or cancelled.",
+      "what_stands_out": "The company states it has been in business since 2005, is BBB Accredited, and lists a 5.0 Google rating across 47 reviews on its cybersecurity and SEO pages. Its managed security service uses Huntress and CrowdStrike Falcon as platforms and runs a 24/7 security operations centre staffed by analysts."
+    },
+    "city": "houston",
+    "state": "texas"
+  },
+  {
+    "slug": "texas-technology-group",
+    "name": "Texas Technology Group",
+    "summary": "Houston-based IT company offering managed IT, co-managed IT, 24x7 threat monitoring, cybersecurity, cloud and Microsoft support, plus networking hardware sales and some AI and WordPress-related services. Serves small and mid-size businesses and several specific sectors including accounting, legal, healthcare, nonprofits and manufacturing. Founded in 2002 and reports Ubiquiti certified engineers.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement",
+      "structured_cabling",
+      "software_development",
+      "web_design"
+    ],
+    "industries": [
+      "accounting_finance",
+      "engineering_architecture",
+      "healthcare",
+      "legal",
+      "manufacturing",
+      "nonprofit",
+      "retail",
+      "logistics",
+      "professional_services"
+    ],
+    "compliance": [],
+    "partners": [
+      "Ubiquiti Certified"
+    ],
+    "foundedYear": 2002,
+    "teamSize": null,
+    "serviceArea": "Houston",
+    "pricing": null,
+    "website": "https://texastechnologygroup.com/",
+    "phone": "(713) 824-1035",
+    "addresses": [
+      "2802 Timmons Ln #27446, Houston, TX 77027"
+    ],
+    "town": "Houston",
+    "linkedin": "https://www.linkedin.com/company/texastechnologygroup/",
+    "writeup": {
+      "what_they_do": "Texas Technology Group (TTG) is a Houston-based managed IT provider offering managed IT services, co-managed IT, on-demand support, cybersecurity services such as SIEM, security awareness training, penetration testing and managed detection and response, and cloud, hosting and networking services. The company also sells business-grade networking, security and computer hardware through an online store and offers AI services including readiness assessments, custom development and private AI deployment.",
+      "who_they_serve": "The company states it serves clients in Houston and across Texas-area businesses, with listed industries including accounting firms, engineering and architectural firms, financial service providers, healthcare providers, law firms, manufacturers, maritime and logistics companies, nonprofits, oil and gas, pharmacies, retail, and small and mid-size businesses.",
+      "how_they_work": "The site describes 24x7 unlimited end-user support, 24x7 security monitoring, and Consultative Quarterly Business Reviews, and offers a free consultation and meeting booking. It does not state pricing model or contract terms.",
+      "what_stands_out": "TTG states it has served clients since 2002 and that its engineers are Ubiquiti-certified for designing, installing and managing UniFi networks. The company also lists Ubiquiti, Lenovo, HP and Dell hardware and develops WordPress plugins and other special projects."
+    },
+    "city": "houston",
+    "state": "texas"
+  },
+  {
+    "slug": "gtin-managed-it",
+    "name": "GTIN Managed IT",
+    "summary": "GTIN Managed IT is a Woodlands, Texas provider of outsourced IT support for small and medium-sized businesses in The Woodlands and North Houston, operating since 1999. Services include remote monitoring and maintenance, help desk, security filtering and email protection, cloud hosting, backup and disaster recovery, and Microsoft 365 administration, offered on a flat-rate model. The firm also lists industry pages for healthcare, legal, manufacturing, and accounting.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "hardware_procurement",
+      "structured_cabling"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "manufacturing",
+      "accounting_finance",
+      "engineering_architecture",
+      "nonprofit"
+    ],
+    "compliance": [],
+    "partners": [
+      "Official Dell Dealer"
+    ],
+    "foundedYear": 1999,
+    "teamSize": null,
+    "serviceArea": "The Woodlands and North Houston, Texas",
+    "pricing": "Flat monthly rate for managed IT plan; flat-rate IT budget",
+    "website": "https://www.gtinservices.com/",
+    "phone": "(281) 681-0606",
+    "addresses": [
+      "2219 Sawdust Road Ste. 1401, The Woodlands, TX 77380"
+    ],
+    "town": "The Woodlands",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "GTIN Managed IT provides managed IT services and IT support for small and medium-sized businesses, including a managed service plan with remote monitoring and maintenance, a live help desk, and desktop, server, and network support. Its offerings also cover IT security (such as unified threat management, spam protection, content filtering, and email encryption), cloud services (hosted servers, hosted desktops, cloud backup, and hosted VoIP), and business continuity and disaster recovery.",
+      "who_they_serve": "The company serves small and medium-sized businesses, including non-profit organizations, in and around The Woodlands and North Houston, Texas. It also lists industry-specific IT pages for health care, law, manufacturing, accountants, and engineers and architects.",
+      "how_they_work": "The managed service plan is billed at a flat monthly rate and includes a help desk available 24/7/365, remote and on-site server remediation, security patches, and unlimited on-site support visits. The company states it does not charge extra per call for its help desk, and it offers a free consultation before engagement.",
+      "what_stands_out": "The company says it has provided IT support in The Woodlands area since 1999 and is a locally owned and managed business with a physical office at 2219 Sawdust Road in The Woodlands. The site also lists Official Dell Dealer status and client testimonials citing relationships of over 20 years."
+    },
+    "city": "houston",
+    "state": "texas"
+  },
+  {
+    "slug": "it-experts-company",
+    "name": "IT Experts Company",
+    "summary": "IT Experts Company is a Katy, Texas IT services firm serving businesses across Greater Houston. It offers both one-time onsite and remote support and ongoing managed IT covering Microsoft 365, networking, backup and cybersecurity. Its client mix includes law firms, accounting and financial offices, manufacturers and medical offices.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "computer_repair"
+    ],
+    "industries": [
+      "legal",
+      "accounting_finance",
+      "manufacturing",
+      "healthcare",
+      "nonprofit",
+      "professional_services"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": 2012,
+    "teamSize": null,
+    "serviceArea": "Katy, West Houston, Cypress and the Greater Houston area",
+    "pricing": "On-demand services available without a monthly contract; ongoing managed IT services offered as an alternative",
+    "website": "https://www.itexpertsco.com/",
+    "phone": "(832) 678-7111",
+    "addresses": [
+      "6720 Sands Point Drive, Suite 101, Houston, TX 77074"
+    ],
+    "town": "Houston",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "IT Experts Company provides business IT support in Katy, Houston and the surrounding area, covering both one-time technical help and ongoing managed IT services. Its listed services include onsite and remote IT support, Microsoft 365 and email support, business computer repair, network and Wi-Fi solutions, cybersecurity and firewall protection, data backup and recovery, and IT consulting with vendor coordination.",
+      "who_they_serve": "The company says it works with small and medium-sized businesses in Katy, West Houston, Cypress and the Greater Houston area. The site names law firms, accounting and financial services, small and growing businesses without internal IT staff, manufacturing and industrial businesses, and medical and professional offices.",
+      "how_they_work": "Services are available on demand without a monthly contract, or as ongoing managed IT, and onsite visits are coordinated based on the issue type and technician availability. The company provides remote troubleshooting alongside onsite service depending on the work required.",
+      "what_stands_out": "The company states it has provided local IT support since 2012 and its About page lists 60+ years of combined experience, a 95% of tickets resolved in 8 hours figure, and a 98% customer retention figure. The site also lists a free-of-contract option for one-time support and references CISA small-business security resources."
+    },
+    "city": "houston",
+    "state": "texas"
+  },
+  {
+    "slug": "networking-pulse",
+    "name": "Networking Pulse",
+    "summary": "Networking Pulse LLC is a managed IT provider based in Richmond, Texas, serving small and mid-sized businesses across Greater Houston and Central Texas. Its offerings include 24/7 network operations monitoring, Microsoft 365 administration, backup and disaster recovery, managed VoIP, cybersecurity and compliance support, and CCTV installation. The company lists ISO/IEC 27001:2022 certification and advertises a flat monthly pricing model.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "logistics",
+      "manufacturing",
+      "education",
+      "nonprofit",
+      "government",
+      "accounting_finance",
+      "construction",
+      "insurance",
+      "retail",
+      "hospitality"
+    ],
+    "compliance": [
+      "HIPAA",
+      "SOC 2",
+      "PCI DSS",
+      "NIST",
+      "FINRA/SEC",
+      "GLBA"
+    ],
+    "partners": [
+      "ISO/IEC 27001:2022 certified (Cert #2967/NET27A)",
+      "Cisco partner",
+      "Fortinet partner",
+      "Palo Alto Networks partner",
+      "SonicWall partner",
+      "WatchGuard partner",
+      "Microsoft 365"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Greater Houston, Fort Bend County, and Central Texas (Richmond, Katy, Fulshear, Sugar Land, Rosenberg, Austin)",
+    "pricing": "Flat monthly rate, based on environment and needs",
+    "website": "https://networkingpulse.com/",
+    "phone": "(347) 265-3531",
+    "addresses": [
+      "5614 W Grand Pkwy S Ste 102-1068, Richmond, TX 77406"
+    ],
+    "town": "Richmond",
+    "linkedin": "https://www.linkedin.com/company/networkingpulse",
+    "writeup": {
+      "what_they_do": "Networking Pulse is a managed service provider offering 24/7 managed IT services, including helpdesk and Microsoft 365 administration, backup and disaster recovery, cloud-based phone systems, cloud migrations, network operations center monitoring, cybersecurity and compliance services, data center management, and CCTV camera installation. The company also describes wireless surveys, web and app development, and data science among its expertise.",
+      "who_they_serve": "The company says it serves small and mid-sized businesses across Greater Houston, Fort Bend County, and Central Texas, including energy, healthcare, legal, logistics, medical practices, law firms, financial institutions, education, and nonprofits. Its service pages list local coverage for Richmond, Katy, Sugar Land, Rosenberg, Fulshear, and Austin.",
+      "how_they_work": "The site states that pricing is a flat monthly rate based on the client's environment, with no hidden fees, and that onboarding runs through a kickoff, documentation, deployment, security audit, and transition to 24/7 managed support. Remote or onsite support is mentioned during deployment, and the company offers a free IT audit and consultation.",
+      "what_stands_out": "The company holds ISO/IEC 27001:2022 certification (Certificate #2967/NET27A) from an IAS-accredited body and lists HIPAA, SOC 2, GDPR, and PCI-DSS compliance support. It publishes a case study of a Houston financial firm that reports a 70% reduction in cybersecurity incidents and full PCI-DSS compliance, and lists vendor partnerships with Cisco, Fortinet, Palo Alto Networks, SonicWall, and WatchGuard."
+    },
+    "city": "houston",
+    "state": "texas"
+  },
+  {
+    "slug": "tmg",
+    "name": "TMG",
+    "summary": "Houston-based managed IT provider operated by Texas Management Group (also called TMG or TexMG), founded in 2014 by Scott McAuley. Offers monitoring, helpdesk, cybersecurity, Microsoft 365 and cloud, backup and disaster recovery, networking, VoIP phones and compliance support, with month-to-month agreements and flat per-user pricing. Serves construction, financial services, healthcare, law firms, manufacturing, nonprofits, oil and gas and professional services in the Houston metro.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "construction",
+      "manufacturing",
+      "nonprofit",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "SOC 2",
+      "CMMC",
+      "PCI DSS",
+      "FINRA/SEC"
+    ],
+    "partners": [],
+    "foundedYear": 2014,
+    "teamSize": null,
+    "serviceArea": "Houston metro, including League City and the Clear Lake and Bay Area",
+    "pricing": "Flat-rate per-user monthly pricing with month-to-month agreements and no long-term contracts",
+    "website": "https://texmg.com/",
+    "phone": "(832) 677-7993",
+    "addresses": [
+      "21175 Tomball pkwy, #361, Houston, TX 77070"
+    ],
+    "town": "Houston",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "TMG is a Houston managed IT services provider offering proactive monitoring, help desk and on-site support, cybersecurity, cloud services (Microsoft 365, Azure, hybrid cloud migrations), network infrastructure, backup and disaster recovery, IT strategy consulting, VoIP phone systems, and compliance support for HIPAA, SOC 2, PCI-DSS and CMMC. The company is part of the Scott McAuley family of technology companies, and TexMG is stated to be the same company under the name Texas Management Group, LLC.",
+      "who_they_serve": "TMG serves small and mid-sized businesses across the Houston metro, with industry pages covering construction, financial services, healthcare, law firms, manufacturing, nonprofits, oil and gas, and professional services. The site also references work with Houston medical practices, law firms, and defense-adjacent contractors, and it names League City and the Clear Lake and Bay Area as service areas.",
+      "how_they_work": "TMG states it uses flat monthly per-user pricing with no per-incident fees and offers month-to-month agreements with no long-term contracts. It says it provides 24/7 support from Houston-based engineers with an average response time under 15 minutes on critical issues, and it offers a free, no-obligation IT assessment. The site describes on-site support across the Houston metro.",
+      "what_stands_out": "The company states it has operated since 2014 and that founder Scott McAuley has over 25 years of IT experience and was named IT Services CEO of the Year in 2023 by CEO Monthly. The site reports an average client relationship of over four years."
+    },
+    "city": "houston",
+    "state": "texas"
+  },
+  {
+    "slug": "baycns",
+    "name": "BAYCNS",
+    "summary": "BAYCNS (Bay Area Computer and Networking Solutions) is a La Porte, Texas based IT firm offering managed IT, remote and onsite support, network and Wi-Fi installation, Microsoft 365 administration and cybersecurity to small and mid-sized businesses across the Houston Bay Area. It also covers domain, DNS and website hosting oversight, with a focus on medical offices, industrial sites and marine businesses.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "co_managed_it",
+      "structured_cabling",
+      "web_design"
+    ],
+    "industries": [
+      "healthcare",
+      "manufacturing",
+      "retail",
+      "logistics",
+      "construction",
+      "professional_services"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "La Porte, Deer Park, Pasadena, Clear Lake, Baytown, Seabrook, Kemah, Webster, Nassau Bay, League City, Friendswood, Mont Belvieu, Shoreacres, Morgan's Point and the greater Houston Bay Area",
+    "pricing": "Flat monthly pricing for managed plans, plus prepaid block hours for projects and migrations",
+    "website": "https://baycns.com/",
+    "phone": "(281) 838-7247",
+    "addresses": [
+      "La Porte, TX 77571"
+    ],
+    "town": "La Porte",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "BAYCNS (Bay Area Computer and Networking Solutions) offers managed IT services that act as an outsourced IT department, covering monitoring, maintenance, security, backups, and support. Its services include remote and onsite IT support, network installation and Wi-Fi optimization, Microsoft 365 and Entra ID administration, cybersecurity, backup and disaster recovery, and domain, DNS, and website management.",
+      "who_they_serve": "The company serves small and mid-sized businesses in the Houston Bay Area, including La Porte, Clear Lake, Baytown, Deer Park, Pasadena, Seabrook, Kemah, and other nearby cities. Industries listed include medical and dental offices, retail and service companies, construction and field service teams, professional offices, marine and waterfront businesses, and home offices.",
+      "how_they_work": "Managed plans are listed as flat monthly pricing, with prepaid block hours for projects and a co-managed option for internal IT teams. The company describes a service-area model with remote support, onsite visits for local clients, and a 24/7 hotline for managed clients, and onboarding that includes an inventory, risk assessment, and roadmap.",
+      "what_stands_out": "The company states it has over 20 years of experience supporting Houston businesses. Its site lists specific response targets, such as onsite emergencies typically within 2 hours and out-of-area scheduling usually within 2 days, along with Wi-Fi 6/7 tuning and EDR capabilities."
+    },
+    "city": "houston",
+    "state": "texas"
+  },
+  {
+    "slug": "bema-information-technologies",
+    "name": "BEMA Information Technologies",
+    "summary": "BEMA Information Technologies is a Houston-based IT company offering ongoing managed IT support, network monitoring, cybersecurity, cloud and Microsoft 365 services, VoIP phone analysis, and IT consulting and audits. It serves businesses along with churches, schools and nonprofit organizations, and lists Dallas and Sugar Land among its MSP areas. The company also supports Rock RMS church management software.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "backup_disaster_recovery"
+    ],
+    "industries": [
+      "nonprofit",
+      "education"
+    ],
+    "compliance": [],
+    "partners": [
+      "Rock RMS"
+    ],
+    "foundedYear": 2001,
+    "teamSize": null,
+    "serviceArea": "Houston, TX; Sugar Land, TX; Dallas, TX",
+    "pricing": "Fixed monthly costs for managed IT services",
+    "website": "https://bemaservices.com/",
+    "phone": "(713) 586-6430",
+    "addresses": [
+      "10700 Richmond Ave., Suite 350, Houston, TX 77042"
+    ],
+    "town": "Houston",
+    "linkedin": "https://www.linkedin.com/company/bema-information-technologies-llc",
+    "writeup": {
+      "what_they_do": "BEMA Information Technologies is a Houston-area IT company offering managed IT services, IT support and help desk, cybersecurity (including business email security, MFA, security awareness training and proactive cloud threat monitoring), cloud services, VoIP phone services, Microsoft 365 and Teams support, and IT consulting, assessments and project implementation. The company also offers a Private AI platform and Rock RMS church management software support.",
+      "who_they_serve": "The company serves small and medium-sized businesses, churches, schools and nonprofit organizations, with a stated focus on the Houston area and listed service pages for Sugar Land and Dallas, Texas. Testimonials mention clients in the Houston and Dallas areas.",
+      "how_they_work": "The site says service plans are tailored to each environment after an IT audit or assessment, and that some clients receive weekly onsite visits alongside remote support. Managed IT services are described as carrying fixed monthly costs. The site lists a phone line, a Houston office address, and a help desk, but does not state support hours or contract terms.",
+      "what_stands_out": "The company states it has been in business since 2001 and is a faith-based company, and its site shows a 4.8 rating from 17 reviews. The site also says it offers a free phone system analysis and cybersecurity consultations."
+    },
+    "city": "houston",
+    "state": "texas"
+  },
+  {
+    "slug": "centre-technologies",
+    "name": "Centre Technologies",
+    "summary": "Houston-based IT provider offering co-managed and fully managed IT, 24x7 security monitoring, Microsoft cloud services, backup and disaster recovery, and Microsoft Dynamics 365 Business Central consulting. Serves mid-size businesses with 50-500 or 50-1000 employees across Texas and Oklahoma, with some work nationwide, and highlights CMMC and HIPAA-related compliance support.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "manufacturing",
+      "construction",
+      "engineering_architecture",
+      "professional_services",
+      "legal",
+      "accounting_finance",
+      "nonprofit"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "SOC 2"
+    ],
+    "partners": [
+      "CRN Triple Crown Award 2026"
+    ],
+    "foundedYear": 2006,
+    "teamSize": "350+ local employees, 250+ certified IT consultants",
+    "serviceArea": "Texas and Oklahoma, with nationwide remote and on-site service",
+    "pricing": "Cybersecurity subscriptions are priced per number of assets or devices monitored",
+    "website": "https://www.centretechnologies.com/",
+    "phone": "(281) 506-2480",
+    "addresses": [
+      "16801 Greenspoint Park Drive, Suite 200, Houston, TX 77060"
+    ],
+    "town": "Houston",
+    "linkedin": "https://www.linkedin.com/company/centre-technologies/",
+    "writeup": {
+      "what_they_do": "Centre Technologies is a managed IT services provider offering managed services (co-managed or fully managed, 24x7), cloud services including Microsoft 365, Azure, and AWS, cybersecurity such as managed detection and response and managed SIEM, and IT consulting covering technology assessments and datacenter modernization. It also offers business intelligence work built on Microsoft Dynamics 365 Business Central and Power BI.",
+      "who_they_serve": "The company says it serves mid-size companies with 50-500 employees, and its industry pages highlight energy, healthcare, legal, construction, manufacturing, and financial organizations. It reports 1,150+ customers nationwide, with offices in Texas and Oklahoma.",
+      "how_they_work": "The company states it can act as an IT department or an extension of a client's IT staff, provides on-site and remote support, and offers cybersecurity pricing based on the number of assets or devices monitored. Its SIEM page describes predictable, transparent pricing.",
+      "what_stands_out": "Centre Technologies was founded in 2006, reports 250+ certified IT consultants, and states it operates as an MSP, cloud solution provider, and managed security service provider. The site says it holds SOC 2 Type II security audits and received a CRN Triple Crown Award for 2026."
+    },
+    "city": "houston",
+    "state": "texas"
+  },
+  {
+    "slug": "cf-technical",
+    "name": "CF Technical",
+    "summary": "CF Technical is a Texas-based IT provider serving businesses in Greater Houston and the Dallas-Fort Worth area with flat-rate managed IT, helpdesk, cybersecurity, Microsoft 365 and cloud migration. The firm also offers AI integration and automation work and says it works with healthcare, legal, accounting, nonprofit and other small-office clients.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "healthcare",
+      "dental",
+      "legal",
+      "accounting_finance",
+      "insurance",
+      "construction",
+      "manufacturing",
+      "education",
+      "real_estate",
+      "retail",
+      "hospitality"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS",
+      "CMMC"
+    ],
+    "partners": [
+      "Microsoft Certified Partner",
+      "CompTIA Security+",
+      "AWS Certified",
+      "Azure Certified"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Greater Houston and Dallas-Fort Worth, TX (Houston, Sugar Land, Katy, Missouri City, The Woodlands, Dallas, Fort Worth, Plano)",
+    "pricing": "Flat monthly per-user pricing with no long-term contracts",
+    "website": "https://cftechnical.com/",
+    "phone": "(346) 299-6558",
+    "addresses": [
+      "Missouri City, TX 77459"
+    ],
+    "town": "Missouri City",
+    "linkedin": "https://www.linkedin.com/company/cftechnical",
+    "writeup": {
+      "what_they_do": "CF Technical offers managed IT services for small and medium businesses, including 24/7 helpdesk and monitoring, patch management, and strategic IT planning on a flat monthly fee. Its other services cover cybersecurity such as endpoint detection, email security and dark web monitoring, cloud solutions for Microsoft 365, Azure and AWS, networking infrastructure, cloud business phones, IT project management, and AI integration and automation.",
+      "who_they_serve": "The company serves small and medium businesses across Greater Houston and the Dallas-Fort Worth Metroplex, with listed service areas including Houston, Sugar Land, Katy, Missouri City, The Woodlands, Dallas, Fort Worth and Plano. Industries named on the site include law firms, healthcare and dental practices, accounting and finance, real estate, insurance agencies, education and nonprofits, construction, retail and hospitality, and manufacturing.",
+      "how_they_work": "Pricing is flat-rate and quoted per user across Essential, Professional and Enterprise plans, with no long-term contracts stated. The company describes onboarding within about two weeks, offers onsite visits in Greater Houston and DFW alongside remote support, and assigns a dedicated account manager.",
+      "what_stands_out": "The company states it is a Microsoft Certified Partner with CompTIA Security+ and AWS and Azure certifications, and it lists a 30-day satisfaction guarantee and a signed Business Associate Agreement for healthcare clients. The site also advertises a sub-one-hour response time guarantee and says the company has been operating for more than 10 years."
+    },
+    "city": "houston",
+    "state": "texas"
+  },
+  {
+    "slug": "chrysalis-tech-group",
+    "name": "Chrysalis Tech Group",
+    "summary": "Houston-area IT firm with offices in The Woodlands and Humble, Texas, providing managed IT, help desk, cybersecurity monitoring, compliance readiness, virtual CIO and business continuity services. Also handles network support, cloud and Microsoft 365 administration, structured cabling, business phone systems and audio visual. Serves small businesses and co-managed in-house IT teams across industries such as healthcare, legal, accounting and nonprofits.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "structured_cabling"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "construction",
+      "manufacturing",
+      "education",
+      "nonprofit",
+      "real_estate",
+      "retail",
+      "engineering_architecture",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "PCI DSS",
+      "FTC Safeguards",
+      "NIST"
+    ],
+    "partners": [
+      "Blackpoint",
+      "WatchGuard",
+      "Wildix",
+      "Fibertown"
+    ],
+    "foundedYear": 2005,
+    "teamSize": null,
+    "serviceArea": "Greater Houston, Texas, plus remote support beyond the area",
+    "pricing": "Flat monthly fee for managed IT, starting at $125 per user per month",
+    "website": "https://chrysalistechgroup.com/",
+    "phone": "(713) 575-2600",
+    "addresses": [
+      "2001 Timberloch Place, Suite 500, The Woodlands, TX 77380",
+      "13803 Madera Run Pkwy, Suite 805, Humble, TX 77346"
+    ],
+    "town": "The Woodlands",
+    "linkedin": "https://www.linkedin.com/company/chrysalis-managed-service-provider",
+    "writeup": {
+      "what_they_do": "Chrysalis Tech Group offers managed IT on a flat monthly fee, covering help desk, servers, networks and Microsoft 365, along with cybersecurity including managed detection and response, compliance support for frameworks such as CMMC, HIPAA and PCI, and business continuity with backup and hurricane preparedness. It also provides IT consulting, a virtual CIO service, AI advisory, network support, cloud services, structured cabling, Wildix business phone systems and audio visual installation.",
+      "who_they_serve": "The company serves small businesses and co-managed in-house IT teams, and lists industries including accounting and CPA firms, architecture and engineering, construction, education, energy and utilities, financial services, healthcare, law firms, manufacturing, nonprofits and churches, real estate, and retail and e-commerce. It is based in The Woodlands and Humble, Texas, and supports clients across Greater Houston and beyond, remotely and onsite.",
+      "how_they_work": "Managed IT is offered for a flat monthly fee, with plans starting at $125 per user per month and proposals reflecting systems, users and agreed scope. The site describes a process of initial conversation, risk assessment and planning, implementation, and ongoing support, and states that a 24/7 help desk is available for managed IT clients.",
+      "what_stands_out": "The company states it has been in IT since 2005 and operating as Chrysalis since 2009, and it offers a complimentary cybersecurity risk assessment. It names cybersecurity partners Blackpoint and WatchGuard and says it hosts client servers at Fibertown as a data-center partner."
+    },
+    "city": "houston",
+    "state": "texas"
+  },
+  {
     "slug": "nettech-consultants",
     "name": "NetTech Consultants",
     "summary": "Jacksonville-based IT provider offering fully managed and co-managed IT, 24/7 network monitoring, help desk, cloud and managed cybersecurity for small and mid-sized businesses. Serves healthcare, legal, construction, nonprofit and several other sectors across Northeast Florida, with vCIO and project management add-ons.",
