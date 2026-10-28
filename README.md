@@ -24,7 +24,7 @@ center point, radius and `max_candidates`. Working files land in `data/<state>/<
 | 2. Crawl | `scripts/crawl.py <config>` | `sites/*.json`: text from up to 5 pages per website |
 | 3. Classify | `scripts/classify.py <config> --model claude-haiku-5-5` | `classified/*.json`, `msps.csv`, `review.csv` |
 | 4. Contact details | `scripts/contact.py <config> --model claude-haiku-5-5` | `contact/*.json`: name, phone, addresses from each company's website |
-| 5. Profile write-ups | `scripts/writeup.py <config> --model claude-haiku-5-5` | `writeup/*.json`: 150-250 word overview per MSP for its profile page |
+| 5. Profile write-ups | `scripts/writeup.py <config> --model claude-haiku-5-5` | `writeup/*.json`: 150-250 word overview per MSP for its profile page (only MSPs that pass the local check) |
 | 5b. Review | open `review.csv` | set `is_msp` to `yes`/`no` in `msps.csv` for unclear rows |
 | 6. Export | `scripts/export_web.py` | `web/src/data/msps.json`, `cities.json`, and redirects in `web/public/_redirects` |
 | 7. Purge | `scripts/purge.py <config>` | deletes discovery data (`places.csv`) once the city's review is done |
@@ -33,6 +33,14 @@ Run each with `.venv/bin/python` and the city config, e.g.
 `.venv/bin/python scripts/crawl.py config/cities/orlando-fl.json`. Steps 2-4 skip
 work already done, so they can be stopped and rerun; `--limit 10` tests on a few
 sites, and `classify.py --report-only` rebuilds `msps.csv` without calling Claude.
+
+**Keeping costs down.** Classify, contact details and write-ups send their Claude
+requests as one Message Batch per run (50% off tokens; usually done within minutes,
+up to an hour). Add `--no-batch` for quick tests, which sends requests one by one
+at full price. Requests that error in a batch aren't saved, so a rerun retries them.
+Discovery runs three search phrases per town ("managed service provider", "IT
+support company", "outsourced IT"); a fourth, "managed IT services", found no MSPs
+the other three missed. Web searches are most of a city's cost ($10 per 1,000).
 
 **Candidate cap.** Crawling and classification only cover the top
 `max_candidates` websites by search hits (default 50; `null` for no cap). Real MSPs

@@ -18,12 +18,12 @@ import csv
 import json
 import re
 import time
-from concurrent.futures import ThreadPoolExecutor, as_completed
 from typing import Literal, Optional
 
 import anthropic
 from pydantic import BaseModel, Field
 
+import batching
 from common import city_dir, load_city, load_env, read_places, top_candidates, website_key
 
 DEFAULT_MODEL = "claude-opus-5-5"
@@ -33,8 +33,6 @@ PRICES = {
     "claude-sonnet-5-5": (2.00, 10.00),
     "claude-haiku-5-5": (0.10, 0.50),
 }
-# Models that support server-side refusal fallbacks.
-FALLBACK_MODELS = {"claude-opus-5-5", "claude-sonnet-5-5", "claude-fable-5-1"}
 # Free pre-filter signals: managed-IT phrases on the website, IT words in the name.
 MSP_TERMS = [
     "managed it", "managed service", "msp", "help desk", "helpdesk", "remote monitoring", "24/7 monitoring",
@@ -112,42 +110,34 @@ def build_prompt(place, site):
     )
 
 
-def classify(client, model, effort, place, site):
-    kwargs = {}
-    if model in FALLBACK_MODELS:
-        kwargs = {"betas": ["server-side-fallback-2026-07-01"], "fallbacks": "default"}
-    response = client.beta.messages.parse(
-        model=model,
-        max_tokens=16000,
-        system=SYSTEM_PROMPT,
-        messages=[{"role": "user", "content": build_prompt(place, site)}],
-        output_config={"effort": effort},
-        output_format=MSPProfile,
-        **kwargs,
-    )
-    record = {
+def classify_params(model, effort, place, site):
+    return {
+        "model": model,
+        "max_tokens": 16000,
+        "system": SYSTEM_PROMPT,
+        "messages": [{"role": "user", "content": build_prompt(place, site)}],
+        "output_config": {"effort": effort},
+    }
+
+
+def classification_record(place, outcome):
+    return {
         "place_id": place["place_id"],
         "name": place["name"],
-        "model": response.model,
+        "model": outcome["model"],
         "classified_at": time.strftime("%Y-%m-%dT%H:%M:%S"),
-        "status": "ok",
-        "profile": None,
-        "usage": {"input_tokens": response.usage.input_tokens, "output_tokens": response.usage.output_tokens},
+        "status": outcome["status"],
+        "profile": outcome["parsed"].model_dump() if outcome["parsed"] else None,
+        "usage": outcome["usage"],
+        "batch": outcome["batch"],
     }
-    if response.stop_reason == "refusal":
-        category = response.stop_details.category if response.stop_details else None
-        record["status"] = f"refused ({category})"
-    elif response.parsed_output is None:
-        record["status"] = f"no output (stop_reason={response.stop_reason})"
-    else:
-        record["profile"] = response.parsed_output.model_dump()
-    return record
 
 
 def cost_of(record):
     input_price, output_price = PRICES.get(record["model"], PRICES[DEFAULT_MODEL])
     usage = record["usage"]
-    return (usage["input_tokens"] * input_price + usage["output_tokens"] * output_price) / 1_000_000
+    cost = (usage["input_tokens"] * input_price + usage["output_tokens"] * output_price) / 1_000_000
+    return cost / 2 if record.get("batch") else cost  # Message Batches are billed at 50%
 
 
 def group_listings(places):
@@ -275,6 +265,8 @@ def main():
     parser.add_argument("--effort", default="low", choices=["low", "medium", "high"], help="Reasoning effort")
     parser.add_argument("--workers", type=int, default=3, help="Requests in parallel")
     parser.add_argument("--report-only", action="store_true", help="Skip Claude and just rebuild msps.csv")
+    parser.add_argument("--no-batch", action="store_true",
+                        help="Send requests one by one instead of as a Message Batch (faster, twice the token price)")
     args = parser.parse_args()
 
     config = load_city(args.city_config)
@@ -303,36 +295,21 @@ def main():
             todo = todo[:args.limit]
         print(f"Classifying {len(todo)} sites with {args.model} (effort {args.effort})")
 
-        total_cost = 0.0
-        with ThreadPoolExecutor(max_workers=args.workers) as pool:
-            futures = {pool.submit(classify, client, args.model, args.effort, place, site): place
-                       for place, site in todo}
-            for done, future in enumerate(as_completed(futures), 1):
-                place = futures[future]
-                try:
-                    record = future.result()
-                except anthropic.AuthenticationError:
-                    pool.shutdown(cancel_futures=True)
-                    raise SystemExit("Anthropic API key is missing or invalid. Add ANTHROPIC_API_KEY to .env.")
-                except anthropic.BadRequestError as error:
-                    if "credit balance" in error.message:
-                        pool.shutdown(cancel_futures=True)
-                        raise SystemExit("Anthropic account is out of credits. Add credits at "
-                                         "console.anthropic.com -> Plans & Billing, then rerun.")
-                    print(f"  [{done:>3}/{len(todo)}] API error 400 for {place['name']}: {error.message}")
-                    continue
-                except anthropic.APIStatusError as error:
-                    print(f"  [{done:>3}/{len(todo)}] API error {error.status_code} for {place['name']}: {error.message}")
-                    continue
-                except anthropic.APIConnectionError:
-                    print(f"  [{done:>3}/{len(todo)}] connection error for {place['name']}; rerun to retry")
-                    continue
-                (out_dir / f"{record['place_id']}.json").write_text(json.dumps(record, indent=2))
-                cost = cost_of(record)
-                total_cost += cost
-                verdict = (record["profile"] or {}).get("is_msp", record["status"])
-                kind = (record["profile"] or {}).get("business_type", "")
-                print(f"  [{done:>3}/{len(todo)}] {verdict:<7} {place['name'][:40]:<40} {kind:<26} ${cost:.3f}")
+        places_by_id = {place["place_id"]: place for place, _ in todo}
+        costs = []
+
+        def save(place_id, outcome):
+            place = places_by_id[place_id]
+            record = classification_record(place, outcome)
+            (out_dir / f"{place_id}.json").write_text(json.dumps(record, indent=2))
+            costs.append(cost_of(record))
+            verdict = (record["profile"] or {}).get("is_msp", record["status"])
+            kind = (record["profile"] or {}).get("business_type", "")
+            print(f"  {verdict:<7} {place['name'][:40]:<40} {kind:<26} ${costs[-1]:.4f}")
+
+        requests = {place["place_id"]: classify_params(args.model, args.effort, place, site) for place, site in todo}
+        batching.run(client, requests, MSPProfile, save, batch=not args.no_batch, workers=args.workers)
+        total_cost = sum(costs)
         if todo:
             print(f"\nClaude cost this run: ${total_cost:.2f} (${total_cost / len(todo):.3f} per site)")
 

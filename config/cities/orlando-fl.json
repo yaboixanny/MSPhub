@@ -4,7 +4,10 @@
   "state_code": "FL",
   "slug": "orlando",
   "state_slug": "florida",
-  "center": { "lat": 28.5384, "lng": -81.3789 },
+  "center": {
+    "lat": 28.5384,
+    "lng": -81.3789
+  },
   "radius_miles": 35,
   "max_candidates": null,
   "areas": [
@@ -21,11 +24,8 @@
     "Kissimmee"
   ],
   "queries": [
-    "managed IT services",
     "managed service provider",
     "IT support company",
-    "business IT services",
-    "cybersecurity services for business",
     "outsourced IT"
   ]
 }

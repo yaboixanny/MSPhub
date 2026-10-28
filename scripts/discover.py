@@ -7,7 +7,7 @@ Usage:
     .venv/bin/python scripts/discover.py config/cities/atlanta-ga.json --model claude-haiku-5-5
 
 For each town in the city config, Claude runs the config's search phrases
-("managed IT services in Alpharetta, GA", ...) with the web_search tool, localized
+("managed service provider in Alpharetta, GA", ...) with the web_search tool, localized
 to that town. The script reads the search results directly (URL and title), drops
 directory and listing sites, and keeps one row per company website with "hits" =
 how many different searches found it. The rest of the pipeline (crawl, classify,

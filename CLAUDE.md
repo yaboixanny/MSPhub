@@ -69,6 +69,12 @@ address in the metro (others go to `held.csv`; `local_ok` = yes overrides).
 ## Conventions
 
 - Pipeline Claude calls use `--model claude-haiku-5-5` (the owner's choice for cost).
+- Classify, contact and write-up requests go through `scripts/batching.py` as a
+  Message Batch (50% off) by default; `--no-batch` is for quick tests only.
+- City configs search three phrases per town ("managed service provider", "IT
+  support company", "outsourced IT"); each extra phrase adds a web search per town.
+- Write-ups are only written for MSPs that pass the local check (or have `local_ok`
+  = yes), since held companies aren't published.
 - New cities get `max_candidates` (default 50) so crawling and review stay small.
 - The site is a static export (`output: "export"`) deployed on Netlify from `main`;
   read `web/node_modules/next/dist/docs/` before using Next.js APIs (see

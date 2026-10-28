@@ -25,7 +25,8 @@ import anthropic
 import httpx
 from pydantic import BaseModel, Field
 
-from classify import DEFAULT_MODEL, FALLBACK_MODELS, cost_of
+import batching
+from classify import DEFAULT_MODEL, cost_of
 from common import city_dir, load_city, load_env
 from crawl import USER_AGENT, bare_host, fetch, parse_page, robots_for
 
@@ -88,35 +89,22 @@ def gather_text(site_url):
     return home_url, "\n\n".join(sections)
 
 
-def extract(client, model, place_id, website):
-    record = {"place_id": place_id, "website": website, "model": model, "status": "ok",
-              "extracted_at": time.strftime("%Y-%m-%dT%H:%M:%S"), "contact": None,
-              "usage": {"input_tokens": 0, "output_tokens": 0}}
+def fetch(row):
+    """Fetch a company's footer, contact page and JSON-LD; returns (final_url, text) or an error string."""
     try:
-        final_url, text = gather_text(website)
+        return gather_text(row["website"])
     except (httpx.HTTPError, ValueError, PermissionError) as error:
-        record["status"] = f"fetch failed: {type(error).__name__}: {error}"[:200]
-        return record
-    record["website"] = final_url
-    kwargs = {"betas": ["server-side-fallback-2026-07-01"], "fallbacks": "default"} if model in FALLBACK_MODELS else {}
-    response = client.beta.messages.parse(
-        model=model,
-        max_tokens=16000,
-        system=SYSTEM_PROMPT,
-        messages=[{"role": "user", "content": f"<website url=\"{final_url}\">\n{text}\n</website>\n\nExtract the contact details."}],
-        output_config={"effort": "low"},
-        output_format=ContactInfo,
-        **kwargs,
-    )
-    record["model"] = response.model
-    record["usage"] = {"input_tokens": response.usage.input_tokens, "output_tokens": response.usage.output_tokens}
-    if response.stop_reason == "refusal":
-        record["status"] = "refused"
-    elif response.parsed_output is None:
-        record["status"] = f"no output (stop_reason={response.stop_reason})"
-    else:
-        record["contact"] = response.parsed_output.model_dump()
-    return record
+        return f"fetch failed: {type(error).__name__}: {error}"[:200]
+
+
+def contact_params(model, final_url, text):
+    return {
+        "model": model,
+        "max_tokens": 16000,
+        "system": SYSTEM_PROMPT,
+        "messages": [{"role": "user", "content": f"<website url=\"{final_url}\">\n{text}\n</website>\n\nExtract the contact details."}],
+        "output_config": {"effort": "low"},
+    }
 
 
 def main():
@@ -124,7 +112,9 @@ def main():
     parser.add_argument("city_config")
     parser.add_argument("--limit", type=int, help="Only process this many businesses (for testing)")
     parser.add_argument("--model", default=DEFAULT_MODEL, help=f"Claude model (default {DEFAULT_MODEL})")
-    parser.add_argument("--workers", type=int, default=3, help="Businesses processed in parallel")
+    parser.add_argument("--workers", type=int, default=6, help="Websites fetched in parallel")
+    parser.add_argument("--no-batch", action="store_true",
+                        help="Send requests one by one instead of as a Message Batch (faster, twice the token price)")
     args = parser.parse_args()
 
     config = load_city(args.city_config)
@@ -138,30 +128,44 @@ def main():
         todo = todo[:args.limit]
     print(f"{len(rows)} MSPs and possible MSPs; extracting contact details for {len(todo)} with {args.model}")
 
+    # 1. Fetch every website; failures are saved right away.
+    fetched = {}
+    with ThreadPoolExecutor(max_workers=args.workers) as pool:
+        futures = {pool.submit(fetch, row): row for row in todo}
+        for future in as_completed(futures):
+            row, result = futures[future], future.result()
+            if isinstance(result, str):
+                record = {"place_id": row["place_id"], "website": row["website"], "model": args.model,
+                          "status": result, "extracted_at": time.strftime("%Y-%m-%dT%H:%M:%S"), "contact": None,
+                          "usage": {"input_tokens": 0, "output_tokens": 0}}
+                (out_dir / f"{row['place_id']}.json").write_text(json.dumps(record, indent=2))
+                print(f"  {result[:70]}")
+            else:
+                fetched[row["place_id"]] = result
+    print(f"Fetched {len(fetched)} of {len(todo)} websites")
+
+    # 2. Have Claude extract the details.
     load_env()
     client = anthropic.Anthropic(max_retries=4)
-    total_cost = 0.0
-    with ThreadPoolExecutor(max_workers=args.workers) as pool:
-        futures = {pool.submit(extract, client, args.model, row["place_id"], row["website"]): row for row in todo}
-        for done, future in enumerate(as_completed(futures), 1):
-            row = futures[future]
-            try:
-                record = future.result()
-            except anthropic.APIStatusError as error:
-                print(f"  [{done:>3}/{len(todo)}] API error {error.status_code} for {row['name']}; rerun to retry")
-                continue
-            except anthropic.APIConnectionError:
-                print(f"  [{done:>3}/{len(todo)}] connection error for {row['name']}; rerun to retry")
-                continue
-            (out_dir / f"{row['place_id']}.json").write_text(json.dumps(record, indent=2))
-            cost = cost_of(record)
-            total_cost += cost
-            contact = record["contact"] or {}
-            summary = (f"{contact.get('company_name', '')[:34]:<34} {contact.get('phone') or '-':<15} "
-                       f"{len(contact.get('addresses', []))} addr") if contact else record["status"][:60]
-            print(f"  [{done:>3}/{len(todo)}] {summary}  ${cost:.4f}")
-    if todo:
-        print(f"\nClaude cost this run: ${total_cost:.2f}")
+    costs = []
+
+    def save(place_id, outcome):
+        final_url = fetched[place_id][0]
+        record = {"place_id": place_id, "website": final_url, "model": outcome["model"], "status": outcome["status"],
+                  "extracted_at": time.strftime("%Y-%m-%dT%H:%M:%S"),
+                  "contact": outcome["parsed"].model_dump() if outcome["parsed"] else None,
+                  "usage": outcome["usage"], "batch": outcome["batch"]}
+        (out_dir / f"{place_id}.json").write_text(json.dumps(record, indent=2))
+        costs.append(cost_of(record))
+        contact = record["contact"] or {}
+        summary = (f"{contact.get('company_name', '')[:34]:<34} {contact.get('phone') or '-':<15} "
+                   f"{len(contact.get('addresses', []))} addr") if contact else record["status"][:60]
+        print(f"  {summary}  ${costs[-1]:.4f}")
+
+    requests = {place_id: contact_params(args.model, final_url, text) for place_id, (final_url, text) in fetched.items()}
+    batching.run(client, requests, ContactInfo, save, batch=not args.no_batch, workers=3)
+    if costs:
+        print(f"\nClaude cost this run: ${sum(costs):.2f}")
 
 
 if __name__ == "__main__":
