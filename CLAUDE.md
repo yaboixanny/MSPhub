@@ -68,7 +68,7 @@ address in the metro (others go to `held.csv`; `local_ok` = yes overrides).
 
 ## Conventions
 
-- Pipeline Claude calls use `--model claude-haiku-5-5` (the owner's choice for cost).
+- Pipeline Claude calls use Haiku (`claude-haiku-5-5`, the owner's choice for cost); it's the scripts' default `DEFAULT_MODEL` in `scripts/classify.py`, so no `--model` flag is needed.
 - Classify, contact and write-up requests go through `scripts/batching.py` as a
   Message Batch (50% off) by default; `--no-batch` is for quick tests only.
 - City configs search three phrases per town ("managed service provider", "IT

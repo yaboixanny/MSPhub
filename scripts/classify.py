@@ -26,7 +26,7 @@ from pydantic import BaseModel, Field
 import batching
 from common import city_dir, load_city, load_env, read_places, top_candidates, website_key
 
-DEFAULT_MODEL = "claude-opus-5-5"
+DEFAULT_MODEL = "claude-haiku-5-5"
 # $ per million input / output tokens, for the cost summary.
 PRICES = {
     "claude-opus-5-5": (4.00, 20.00),

@@ -20,11 +20,11 @@ center point, radius and `max_candidates`. Working files land in `data/<state>/<
 
 | Step | Command | Output |
 |---|---|---|
-| 1. Discover | `scripts/discover.py <config> --model claude-haiku-5-5` | `places.csv`: company websites found by Claude web search, with `hits` = how many searches found each |
+| 1. Discover | `scripts/discover.py <config>` | `places.csv`: company websites found by Claude web search, with `hits` = how many searches found each |
 | 2. Crawl | `scripts/crawl.py <config>` | `sites/*.json`: text from up to 5 pages per website |
-| 3. Classify | `scripts/classify.py <config> --model claude-haiku-5-5` | `classified/*.json`, `msps.csv`, `review.csv` |
-| 4. Contact details | `scripts/contact.py <config> --model claude-haiku-5-5` | `contact/*.json`: name, phone, addresses from each company's website |
-| 5. Profile write-ups | `scripts/writeup.py <config> --model claude-haiku-5-5` | `writeup/*.json`: 150-250 word overview per MSP for its profile page (only MSPs that pass the local check) |
+| 3. Classify | `scripts/classify.py <config>` | `classified/*.json`, `msps.csv`, `review.csv` |
+| 4. Contact details | `scripts/contact.py <config>` | `contact/*.json`: name, phone, addresses from each company's website |
+| 5. Profile write-ups | `scripts/writeup.py <config>` | `writeup/*.json`: 150-250 word overview per MSP for its profile page (only MSPs that pass the local check) |
 | 5b. Review | open `review.csv` | set `is_msp` to `yes`/`no` in `msps.csv` for unclear rows |
 | 6. Export | `scripts/export_web.py` | `web/src/data/msps.json`, `cities.json`, and redirects in `web/public/_redirects` |
 | 7. Purge | `scripts/purge.py <config>` | deletes discovery data (`places.csv`) once the city's review is done |
@@ -32,7 +32,8 @@ center point, radius and `max_candidates`. Working files land in `data/<state>/<
 Run each with `.venv/bin/python` and the city config, e.g.
 `.venv/bin/python scripts/crawl.py config/cities/orlando-fl.json`. Steps 2-4 skip
 work already done, so they can be stopped and rerun; `--limit 10` tests on a few
-sites, and `classify.py --report-only` rebuilds `msps.csv` without calling Claude.
+sites, and `classify.py --report-only` rebuilds `msps.csv` without calling Claude. The Claude steps use Haiku
+(`claude-haiku-5-5`) unless you pass `--model`.
 
 **Keeping costs down.** Classify, contact details and write-ups send their Claude
 requests as one Message Batch per run (50% off tokens; usually done within minutes,
