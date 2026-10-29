@@ -89,7 +89,7 @@ def gather_text(site_url):
     return home_url, "\n\n".join(sections)
 
 
-def fetch(row):
+def fetch_site(row):
     """Fetch a company's footer, contact page and JSON-LD; returns (final_url, text) or an error string."""
     try:
         return gather_text(row["website"])
@@ -131,7 +131,7 @@ def main():
     # 1. Fetch every website; failures are saved right away.
     fetched = {}
     with ThreadPoolExecutor(max_workers=args.workers) as pool:
-        futures = {pool.submit(fetch, row): row for row in todo}
+        futures = {pool.submit(fetch_site, row): row for row in todo}
         for future in as_completed(futures):
             row, result = futures[future], future.result()
             if isinstance(result, str):

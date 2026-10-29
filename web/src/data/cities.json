@@ -20,7 +20,7 @@
       "Smyrna"
     ],
     "count": 26,
-    "updated": "2026-10-28"
+    "updated": "2026-10-29"
   },
   {
     "slug": "dallas",
@@ -42,7 +42,7 @@
       "Arlington"
     ],
     "count": 25,
-    "updated": "2026-10-28"
+    "updated": "2026-10-29"
   },
   {
     "slug": "fort-lauderdale",
@@ -63,7 +63,7 @@
       "Deerfield Beach"
     ],
     "count": 34,
-    "updated": "2026-10-28"
+    "updated": "2026-10-29"
   },
   {
     "slug": "fort-myers",
@@ -81,7 +81,7 @@
       "Fort Myers Beach"
     ],
     "count": 25,
-    "updated": "2026-10-28"
+    "updated": "2026-10-29"
   },
   {
     "slug": "houston",
@@ -103,7 +103,7 @@
       "League City"
     ],
     "count": 26,
-    "updated": "2026-10-28"
+    "updated": "2026-10-29"
   },
   {
     "slug": "jacksonville",
@@ -121,7 +121,7 @@
       "Fernandina Beach"
     ],
     "count": 32,
-    "updated": "2026-10-28"
+    "updated": "2026-10-29"
   },
   {
     "slug": "madison",
@@ -140,7 +140,26 @@
       "Stoughton"
     ],
     "count": 25,
-    "updated": "2026-10-28"
+    "updated": "2026-10-29"
+  },
+  {
+    "slug": "melbourne",
+    "name": "Melbourne",
+    "state": "florida",
+    "stateName": "Florida",
+    "stateCode": "FL",
+    "areas": [
+      "Melbourne",
+      "Palm Bay",
+      "Titusville",
+      "Cocoa",
+      "Rockledge",
+      "Viera",
+      "Merritt Island",
+      "Cocoa Beach"
+    ],
+    "count": 7,
+    "updated": "2026-10-29"
   },
   {
     "slug": "miami",
@@ -160,7 +179,7 @@
       "North Miami"
     ],
     "count": 35,
-    "updated": "2026-10-28"
+    "updated": "2026-10-29"
   },
   {
     "slug": "orlando",
@@ -182,7 +201,7 @@
       "Kissimmee"
     ],
     "count": 111,
-    "updated": "2026-10-28"
+    "updated": "2026-10-29"
   },
   {
     "slug": "sarasota",
@@ -199,7 +218,7 @@
       "Palmetto"
     ],
     "count": 14,
-    "updated": "2026-10-28"
+    "updated": "2026-10-29"
   },
   {
     "slug": "tampa",
@@ -220,7 +239,7 @@
       "Pinellas Park"
     ],
     "count": 34,
-    "updated": "2026-10-28"
+    "updated": "2026-10-29"
   },
   {
     "slug": "west-palm-beach",
@@ -240,6 +259,6 @@
       "Royal Palm Beach"
     ],
     "count": 29,
-    "updated": "2026-10-28"
+    "updated": "2026-10-29"
   }
 ]

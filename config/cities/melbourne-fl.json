@@ -1,0 +1,43 @@
+{
+  "city": "Melbourne",
+  "state": "Florida",
+  "state_code": "FL",
+  "slug": "melbourne",
+  "state_slug": "florida",
+  "center": {
+    "lat": 28.0836,
+    "lng": -80.6081
+  },
+  "radius_miles": 30,
+  "areas": [
+    "Melbourne",
+    "Palm Bay",
+    "Titusville",
+    "Cocoa",
+    "Rockledge",
+    "Viera",
+    "Merritt Island",
+    "Cocoa Beach"
+  ],
+  "nearby_towns": [
+    "West Melbourne",
+    "Satellite Beach",
+    "Indian Harbour Beach",
+    "Indialantic",
+    "Melbourne Beach",
+    "Malabar",
+    "Grant-Valkaria",
+    "Sebastian",
+    "Mims",
+    "Cape Canaveral",
+    "Suntree",
+    "Port St. John",
+    "Palm Shores"
+  ],
+  "queries": [
+    "managed service provider",
+    "IT support company",
+    "outsourced IT"
+  ],
+  "max_candidates": 85
+}

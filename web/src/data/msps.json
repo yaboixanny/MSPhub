@@ -9740,6 +9740,337 @@
     "state": "wisconsin"
   },
   {
+    "slug": "brevard-cloud",
+    "name": "Brevard Cloud",
+    "summary": "Brevard Cloud is the IT services division of Logan Industries, Inc., based in Melbourne, Florida, providing managed IT, help desk, Microsoft 365 administration, VoIP/FreePBX telephony, cloud migration and backup services to small businesses across Brevard County and nearby Florida communities. The founder, Alex Soya, is the senior engineer on client environments, with both on-site and remote support offered. The firm states it does not sell hardware and is not a reseller.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "hardware_procurement",
+      "web_design"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "engineering_architecture",
+      "professional_services"
+    ],
+    "compliance": [],
+    "partners": [
+      "Microsoft Technologies (Windows Server, Microsoft 365, Azure, Entra ID)"
+    ],
+    "foundedYear": 1988,
+    "teamSize": null,
+    "serviceArea": "Brevard County, Florida and surrounding Florida communities (Melbourne, Palm Bay, Rockledge, Viera, Cocoa Beach, Merritt Island)",
+    "pricing": null,
+    "website": "https://www.brevardcloud.com/",
+    "phone": "(321) 984-1627",
+    "addresses": [
+      "870 N. Miramar Ave #345, Indialantic, FL 32903"
+    ],
+    "town": "Indialantic",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "Brevard Cloud is the IT services division of Logan Industries, Inc. and provides managed IT services, including 24/7 monitoring, patching, backups, and help desk support. Its other offerings include VoIP and FreePBX design and migration, Microsoft 365 and email migration, Azure, AWS and Google Cloud services, server and network management, disaster recovery, local web design, and IT consulting.",
+      "who_they_serve": "The company serves small businesses in Brevard County, Florida, with on-site and remote support across communities such as Melbourne, Palm Bay, Rockledge, Viera, Cocoa, and Merritt Island, and also mentions surrounding Florida communities. Its website cites examples including a local dental office and a real estate brokerage.",
+      "how_they_work": "Support is provided both on-site and remotely, with remote assistance used for many software and user issues and on-site visits for physical equipment and network work. The company offers a free 15-minute Tech Health Check and says it does not sell hardware or act as a reseller. The site does not describe pricing models, support hours beyond monitoring, or contract terms.",
+      "what_stands_out": "The founder, Alex Soya, is described as a senior engineer with more than 35 years of business IT experience, and the company states that clients work directly with the engineer responsible for their environment. The company was founded as part of Logan Industries, Inc. in 1988 in Melbourne, Florida, and its site lists Microsoft technologies, VMware, FreePBX, and cybersecurity among its specialties."
+    },
+    "city": "melbourne",
+    "state": "florida"
+  },
+  {
+    "slug": "the-electpros",
+    "name": "The Electpros",
+    "summary": "The Electpros is a veteran-owned AV and low-voltage contractor in Brevard County, Florida, serving homes and businesses. Alongside TV mounting, home theater, Sonos audio and commercial AV, it offers flat-rate managed IT plans covering network monitoring, cybersecurity, cloud, backup and help desk support for local businesses.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "structured_cabling",
+      "computer_repair"
+    ],
+    "industries": [
+      "healthcare",
+      "hospitality",
+      "retail",
+      "education",
+      "government"
+    ],
+    "compliance": [],
+    "partners": [
+      "UniFi Authorized Partner",
+      "Sonos Authorized Dealer",
+      "AVA dealer",
+      "SBA-certified SDVOSB",
+      "Florida electrical contractor EC13014608"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Brevard County, FL, with statewide video wall work and remote VoIP setup",
+    "pricing": "Flat monthly rate for managed IT plans; upfront flat-rate quotes for projects",
+    "website": "https://theelectpros.com/",
+    "phone": "(321) 655-7767",
+    "addresses": [
+      "4670 Babcock St NE, Palm Bay, FL 32905"
+    ],
+    "town": "Palm Bay",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "The Electpros is a Brevard County, Florida audio/video and IT contractor whose managed IT offering is a flat-rate MSP plan covering network monitoring, cybersecurity, cloud management, help desk support, data backup and recovery, and vCIO reporting. Its managed cybersecurity service includes endpoint detection and response, email security, dark web monitoring and patch management. The company also performs residential and commercial AV and low-voltage work such as TV mounting, home theater, security cameras, structured cabling, conference room AV and video walls.",
+      "who_they_serve": "The company serves homeowners and businesses across Brevard County, including Melbourne, Palm Bay, Viera, Titusville and Cocoa Beach, and takes video wall work statewide in Florida for larger commercial projects. Commercial clients named on the site include medical and professional offices, retail and restaurant businesses, control rooms and corporate spaces.",
+      "how_they_work": "Pricing for managed IT is a flat monthly rate, and each job begins with a written upfront quote. The site states that all technicians are company employees rather than subcontractors, and that most services offer same-day or next-day availability; remote setup is offered for VoIP phone systems while installation is on-site in Brevard.",
+      "what_stands_out": "The Electpros is an SBA-certified service-disabled veteran-owned small business founded by a U.S. Air Force veteran, and it holds Florida electrical contractor license EC13014608 with stated bonding, insurance and workers' compensation coverage. It is an authorized UniFi partner and Sonos dealer, and reports over 248 five-star reviews and more than 1,000 jobs completed."
+    },
+    "city": "melbourne",
+    "state": "florida"
+  },
+  {
+    "slug": "wtg-solutions-inc",
+    "name": "WTG Solutions Inc.",
+    "summary": "WTG Solutions Inc. is a veteran-owned IT company in Cocoa Beach, Florida, offering managed IT, cybersecurity, backup and disaster recovery, cloud support and cyber insurance compliance help. It serves small businesses across Brevard County, including healthcare and financial firms subject to regulatory requirements. The company also advises on AI tool adoption and workflow automation.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "accounting_finance"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS",
+      "NIST",
+      "GLBA",
+      "FTC Safeguards"
+    ],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Brevard County, FL",
+    "pricing": "Predictable monthly pricing for fully managed IT & security",
+    "website": "https://wtgsolutions.com/",
+    "phone": "(321) 655-6120",
+    "addresses": [
+      "299 North Orlando Ave, Cocoa Beach, FL 32931"
+    ],
+    "town": "Cocoa Beach",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "WTG Solutions Inc. provides managed IT services for small businesses, including fully managed IT and security, cybersecurity services such as 24/7 SOC-style threat monitoring, Microsoft 365 and Google Workspace support, and help desk support. The company also offers compliance support tied to cyber insurance applications, AI readiness guidance, and backup and disaster recovery planning.",
+      "who_they_serve": "The company serves small businesses in Brevard County, Florida, from its headquarters in Cocoa Beach. The site names healthcare, finance, and professional services as industries it helps with regulatory compliance such as HIPAA, GLBA, FTC Safeguards Rule, and PCI DSS.",
+      "how_they_work": "The managed IT offering is described as having predictable monthly pricing, and the company supports on-premise and cloud environments and remote, hybrid, and in-office teams. Clients can schedule a free consultation, and the company offers both co-managed IT support and full-service provision.",
+      "what_stands_out": "The company describes itself as veteran-owned and operated. The site also lists a proprietary-style compliance platform covering asset discovery, vulnerability management, patch management, PII scanning, and Active Directory auditing, along with penetration testing services."
+    },
+    "city": "melbourne",
+    "state": "florida"
+  },
+  {
+    "slug": "prosource-melbourne",
+    "name": "ProSource",
+    "summary": "ProSource is a Florida IT provider with offices in Oviedo, Orlando and Melbourne, founded in 2006. It offers managed IT, co-managed IT, cybersecurity, private cloud hosting, Microsoft 365 administration, compliance support and VoIP, with a focus on healthcare, finance, engineering, construction, manufacturing and schools. The company says it operates its own data center and serves clients nationwide as well as locally.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "accounting_finance",
+      "engineering_architecture",
+      "construction",
+      "manufacturing",
+      "education"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS",
+      "CMMC",
+      "SOC 2",
+      "FINRA/SEC"
+    ],
+    "partners": [
+      "Microsoft certifications (Azure Administrator Associate, Azure Fundamentals, Microsoft 365 Endpoint Administrator Associate)",
+      "CompTIA Security+, A+, Network+",
+      "Fortinet NSE 4, NSE 5, Fortinet Certified Professional",
+      "ITIL Foundation v4",
+      "4Med HIPAA Certified Organization"
+    ],
+    "foundedYear": 2006,
+    "teamSize": null,
+    "serviceArea": "Central Florida offices in Oviedo, Orlando and Melbourne; supports clients across the United States",
+    "pricing": "Flat monthly plan per environment; hosted QuickBooks starts at $55/user/month",
+    "website": "https://getprosource.com/",
+    "phone": "(888) 948-7767",
+    "addresses": [
+      "115 Hickory St STE 103, Melbourne, FL 32904",
+      "2572 W State Rd 426 STE 2056, Oviedo, FL 32765",
+      "100 E Pine St STE 110, Orlando, FL 32801"
+    ],
+    "town": "Melbourne",
+    "linkedin": "https://www.linkedin.com/company/getprosource",
+    "writeup": {
+      "what_they_do": "ProSource is a Central Florida IT company offering managed IT services, cybersecurity, co-managed IT, security consulting, AI consulting, cloud and private hosting, Hosted QuickBooks, compliance as a service, business continuity and disaster recovery, and VoIP. The company builds its cloud and hosting services on a data center it owns and operates.",
+      "who_they_serve": "The company says it serves regulated and operations-heavy businesses, including healthcare practices and radiology centers, finance firms, engineering and construction companies, manufacturers, and schools. It is headquartered in Oviedo, Florida, with offices in Orlando and Melbourne, and states that it supports clients across the United States.",
+      "how_they_work": "Pricing is set after a free security assessment, and the site says most clients use a flat monthly plan. The company describes a hybrid model of remote management with onsite service when needed, and onboarding begins with a discovery call followed by a written assessment report.",
+      "what_stands_out": "The company was founded in 2006 and states it has 20 years of operation, and it says its team holds certifications from Microsoft, CompTIA, Fortinet, and ITIL, along with 4Med HIPAA Certified Organization status. Its Hosted QuickBooks service is listed at starting $55 per user per month with a stated 99.9% uptime."
+    },
+    "city": "melbourne",
+    "state": "florida"
+  },
+  {
+    "slug": "mccowen-technologies",
+    "name": "McCowen Technologies",
+    "summary": "McCowen Technologies is a Titusville, Florida shop that repairs computers, phones and tablets for homes and offers managed IT plans for small businesses. The managed IT offering covers monitoring, security, backup and remote support, with an emphasis on professional service firms such as law and accounting offices.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "computer_repair",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "legal",
+      "accounting_finance",
+      "professional_services"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Titusville, FL",
+    "pricing": "Managed IT is sold as a monthly plan; specific prices are not published",
+    "website": "https://mccowentech.com/",
+    "phone": "(321) 209-2248",
+    "addresses": [
+      "4511 S Hopkins Ave, Titusville, FL 32780"
+    ],
+    "town": "Titusville",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "McCowen Technologies offers computer, phone, and tablet repair alongside managed IT services for small and mid-sized businesses. Its managed IT offering bundles monitoring, patch management, endpoint security, email security, and automated backups into a monthly plan. Home services include PC and laptop repair, virus removal, WiFi setup, and phone and tablet screen and battery repair.",
+      "who_they_serve": "The company serves home users and businesses in Titusville, Florida, with walk-in service at its shop. Its managed IT page names law firms, accounting firms, agencies, and professional service businesses as target industries, and says the service is for businesses with 5 or more employees.",
+      "how_they_work": "Home repairs are quoted after diagnosis, with a $49 diagnostic fee that is credited toward repairs if approved. Managed IT is priced as a predictable monthly plan with remote support and on-site service when needed, and it begins with a free IT assessment.",
+      "what_stands_out": "The owner, Trevor McCowen, holds a Bachelor of Science in Information Technology from Florida State University and reports a decade of software development and business analysis work. The site lists 24/7 device monitoring and quarterly technology reviews as managed IT features."
+    },
+    "city": "melbourne",
+    "state": "florida"
+  },
+  {
+    "slug": "olive-branch-it",
+    "name": "Olive Branch IT",
+    "summary": "Olive Branch IT is a Melbourne, Florida company offering network design, technical support, backup and disaster recovery, security, Microsoft 365 and cloud services, and hosted VoIP phone systems. It serves businesses in Melbourne, Palm Bay, Cocoa Beach and Brevard County, and says it has been in operation since 1998.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "compliance_services",
+      "hardware_procurement"
+    ],
+    "industries": [],
+    "compliance": [
+      "HIPAA",
+      "CMMC"
+    ],
+    "partners": [],
+    "foundedYear": 1998,
+    "teamSize": null,
+    "serviceArea": "Melbourne, Palm Bay, Cocoa Beach, Viera and Brevard County, Florida",
+    "pricing": null,
+    "website": "https://www.olivebranchit.com/",
+    "phone": "(321) 288-0793",
+    "addresses": [
+      "9075 Ellis Road, Melbourne, FL 32904"
+    ],
+    "town": "Melbourne",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "Olive Branch IT provides information technology services including network design and implementation, troubleshooting and break/fix support, backup and disaster recovery, firewall and endpoint security, and managed VoIP phone solutions. Its services list also covers Office 365 and Gmail backup, vulnerability assessments, HIPAA and CMMC security, SIEM, and fully managed services. The company also sells hardware, software, security products, and IT accessories.",
+      "who_they_serve": "The company serves businesses in Melbourne, Palm Bay, Cocoa Beach, Viera, and Brevard County, Florida. The site refers to clients ranging from small businesses to large corporations, and its case study describes a mechanical contractor with multiple job sites.",
+      "how_they_work": "The company offers a free evaluation of a client's current network and provides quotes on request. The site describes on-site and off-site backups, on-site mail servers, and remote support for network users. VoIP options include bringing existing equipment, renting phones, or buying from the company.",
+      "what_stands_out": "The company states it has provided IT services since 1998 and lists HIPAA and CMMC security work among its offerings. Its VoIP service lists features such as call recording, voicemail transcription, and E-Fax options."
+    },
+    "city": "melbourne",
+    "state": "florida"
+  },
+  {
+    "slug": "run-smarter-it",
+    "name": "Run Smarter IT",
+    "summary": "Brevard County managed IT provider based in Rockledge, Florida, offering 24/7 monitoring, help desk, cybersecurity, cloud and Microsoft 365 support, and backup and disaster recovery for small and mid-sized businesses. Serves manufacturing, healthcare and dental, professional services, and construction clients, with per-seat monthly pricing.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "manufacturing",
+      "healthcare",
+      "dental",
+      "professional_services",
+      "construction",
+      "nonprofit"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC"
+    ],
+    "partners": [],
+    "foundedYear": 2017,
+    "teamSize": null,
+    "serviceArea": "Brevard County and Central Florida, including Rockledge, Melbourne, Viera, Palm Bay, Cocoa, Titusville and Orlando",
+    "pricing": "Per-seat monthly pricing per user",
+    "website": "https://runsmarterit.com/",
+    "phone": "(321) 300-6003",
+    "addresses": [
+      "365 Gus Hipp Boulevard, Rockledge, FL 32955"
+    ],
+    "town": "Rockledge",
+    "linkedin": "https://www.linkedin.com/company/run-smarter-it/",
+    "writeup": {
+      "what_they_do": "Run Smarter IT is a managed service provider offering 24/7 monitoring, patching, help desk support, cybersecurity, cloud and Microsoft 365 services, backup and disaster recovery, network and infrastructure management, and IT strategy with vCIO consulting. The company also offers custom software development when off-the-shelf tools do not meet a client's needs.",
+      "who_they_serve": "The company works with small and mid-sized businesses in Brevard County and Central Florida, with industry focus on manufacturing, healthcare and dental, professional services, construction and trades, multi-location businesses, and nonprofits. Its technicians serve clients across Melbourne, Viera, Palm Bay, Cocoa, Titusville, and surrounding communities.",
+      "how_they_work": "The company uses per-seat monthly pricing that covers monitoring, patching, help desk, on-site response, and quarterly business reviews, with an itemized quote provided during a free 30-minute consultation. It is based in Rockledge, Florida, and states that on-site response for most Brevard County locations is within an hour, with critical issues receiving immediate response at any hour.",
+      "what_stands_out": "The company was founded in 2017 and states that it tracks actual response times and shares that data with managed services clients monthly. It also lists CMMC compliance support for defense contractors and HIPAA-aligned IT with BAAs for healthcare clients."
+    },
+    "city": "melbourne",
+    "state": "florida"
+  },
+  {
     "slug": "bca-it-inc-miami",
     "name": "BCA IT, Inc.",
     "summary": "BCA IT is a South Florida managed IT provider with offices in Miami, Tampa and Orlando, offering managed and co-managed IT, help desk support, managed cybersecurity, and compliance services. It also sells and implements Sage 100 and Sage Intacct ERP software. The company says it serves small and mid-sized businesses, including accounting, healthcare, legal, manufacturing and construction firms.",
