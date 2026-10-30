@@ -71,7 +71,8 @@ the companies' own websites.
 new MSP if its website lists an office in the metro's `areas` or `nearby_towns` (a
 city config key used for matching, not searching). Companies without one (national
 firms, franchise HQ sites, lead-generation sites, sites with no address) are written
-to `held.csv` instead. To publish a held company after checking it, set `local_ok`
+to `held.csv` instead. Towns match on name and state: they're in the
+metro's state unless written with one, e.g. `"Rock Hill, SC"` for Charlotte. To publish a held company after checking it, set `local_ok`
 to `yes` on its row in `msps.csv` and export again.
 
 **MSP Hub Score.** Lists are ordered by a 0-100 score computed in

@@ -48,18 +48,32 @@ def town_key(name):
     return name.replace("saint ", "st ")
 
 
+def metro_towns(config):
+    """(town key, state) -> the config's spelling, which is what the site displays.
+    Towns are in the metro's state unless written with one, e.g. "Rock Hill, SC"."""
+    towns = {}
+    for entry in config["areas"] + config.get("nearby_towns", []):
+        name, _, state = entry.partition(", ")
+        towns[(town_key(name), state or config["state_code"])] = name
+    return towns
+
+
+def address_key(address):
+    return (town_key(address["city"]), (address.get("state") or "").strip().upper())
+
+
 def company_identity(city, name, website):
     """How a published profile is recognised between exports: metro, company name and website domain."""
     domain = urlparse(website).netloc.lower().removeprefix("www.")
     return (city, name.lower().strip(), domain)
 
 
-def is_local(contact, metro_towns):
+def is_local(contact, towns):
     """New listings must list an office in one of the metro's towns. Discovery by web
     search has no coordinates, and a site naming the metro proves little (national
     firms and lead-generation sites list dozens of "service areas"), so a company
     with no address is held for review instead of published."""
-    return any(town_key(address["city"]) in metro_towns for address in contact["addresses"])
+    return any(address_key(address) in towns for address in contact["addresses"])
 
 
 def load_writeup(base, place_id):
@@ -101,8 +115,7 @@ def main():
             rows = [row for row in csv.DictReader(handle)
                     if row["is_msp"] == "yes" and not row["needs_review"]]
 
-        # Town key -> the config's spelling, which is what the site displays.
-        metro_towns = {town_key(area): area for area in config["areas"] + config.get("nearby_towns", [])}
+        towns = metro_towns(config)
         # One profile per company per metro, even when it was found twice with
         # different website pages (e.g. its homepage and a services page).
         by_company = {}
@@ -120,7 +133,7 @@ def main():
             company_key = identity[1:]
             previous_slug = previous.get(identity) or previous.get((config["slug"], row["place_id"]))
             # local_ok = "yes" in msps.csv publishes a held company after a manual check.
-            if previous_slug is None and row.get("local_ok") != "yes" and not is_local(contact, metro_towns):
+            if previous_slug is None and row.get("local_ok") != "yes" and not is_local(contact, towns):
                 reason = "no office address on its website" if not contact["addresses"] else "no office in the metro"
                 held.append({"company": contact["company_name"], "website": record["website"], "reason": reason,
                              "place_id": row["place_id"]})
@@ -137,7 +150,7 @@ def main():
             published += 1
             # National MSPs often list their head office first; put offices in this
             # metro's towns first and use the first one as the MSP's town.
-            local = [address for address in contact["addresses"] if town_key(address["city"]) in metro_towns]
+            local = [address for address in contact["addresses"] if address_key(address) in towns]
             addresses = local + [address for address in contact["addresses"] if address not in local]
             slug = previous_slug
             if slug is None:
@@ -165,7 +178,7 @@ def main():
                 "phone": contact["phone"],
                 "addresses": [format_address(address) for address in addresses],
                 # Town of the local office, for area pages; None if the site lists no office in the metro.
-                "town": metro_towns[town_key(local[0]["city"])] if local else None,
+                "town": towns[address_key(local[0])] if local else None,
                 "linkedin": row["linkedin"] or None,
                 # Profile overview from scripts/writeup.py; the summary above is for lists.
                 "writeup": load_writeup(base, row["place_id"]),

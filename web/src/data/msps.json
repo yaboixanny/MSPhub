@@ -315,9 +315,9 @@
     "phone": "(800) 787-1160",
     "addresses": [
       "315 W Ponce De Leon Ave. Suite 565, Decatur, GA 30030",
-      "5614 Grand Ave., Duluth, MN 55807",
       "1301 Gervais St, Suite 1800, Columbia, SC 29201",
       "5815 Clark Rd, Bath Twp, MI 48808",
+      "5614 Grand Ave., Duluth, MN 55807",
       "777 Columbus Avenue, Lebanon, OH 45036",
       "8040 Excelsior Dr., Suite 301, Madison, WI 53717",
       "8000 Centerview Parkway, Suite 120, Cordova, TN 38018",
@@ -1352,6 +1352,992 @@
     },
     "city": "atlanta",
     "state": "georgia"
+  },
+  {
+    "slug": "netsafe-solutions",
+    "name": "NetSafe Solutions",
+    "summary": "Charlotte-based IT provider founded in 2003 offering per-device managed IT, help desk, Microsoft 365 administration, managed detection and response, backup and continuity services, and virtual CIO advisory. Serves healthcare, law firms, financial services, dental, nonprofits and engineering firms across the Carolinas, with itemized month-to-month pricing and project work such as UniFi camera and cabling installs.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "structured_cabling"
+    ],
+    "industries": [
+      "healthcare",
+      "dental",
+      "legal",
+      "accounting_finance",
+      "construction",
+      "manufacturing",
+      "engineering_architecture",
+      "nonprofit",
+      "professional_services"
+    ],
+    "compliance": [
+      "NIST"
+    ],
+    "partners": [
+      "Microsoft Solutions Partner",
+      "Pax8",
+      "SentinelOne",
+      "Blackpoint Cyber",
+      "Check Point Harmony",
+      "DefensX",
+      "NinjaOne",
+      "Ubiquiti UniFi Protect"
+    ],
+    "foundedYear": 2003,
+    "teamSize": "15+ certified technicians",
+    "serviceArea": "Charlotte, NC and the Carolinas, including Concord, Matthews, Greensboro, Winston-Salem, Rock Hill and Columbia",
+    "pricing": "Itemized month-to-month per-device and per-mailbox pricing with no onboarding fees; project work quoted separately",
+    "website": "https://netsafesolutions.com/",
+    "phone": "(704) 333-0404",
+    "addresses": [
+      "720 Matthews Township Pkwy Suite 103, Matthews, NC 28105"
+    ],
+    "town": "Matthews",
+    "linkedin": "https://www.linkedin.com/company/netsafe",
+    "writeup": {
+      "what_they_do": "NetSafe Solutions provides managed IT services for businesses, including proactive monitoring, helpdesk support, Microsoft 365 administration, and cybersecurity through a 24/7 security operations center run by Blackpoint Cyber. The company also offers business continuity and disaster recovery, cloud migration, virtual CIO services, AI services, and security camera and network projects.",
+      "who_they_serve": "The company reports more than 100 active business clients across Charlotte and the Carolinas, with businesses of 5 to 1,000 users. It names industries including healthcare, law firms, financial services, accounting, manufacturing, dental offices, nonprofits, engineering firms, and construction.",
+      "how_they_work": "Managed IT is priced per device monthly with each tool itemized and month-to-month, and the company states it has no onboarding fees and a standard one-year service agreement. On-site visits are available as pre-approved time and materials, and Microsoft 365 licensing is passed through at Microsoft list price via Pax8.",
+      "what_stands_out": "The company says it has been Charlotte-based since 2003 and is a Microsoft partner, with 15 or more certified technicians and founders George Hayner and Derek Schott. It deploys Ubiquiti UniFi Protect security cameras exclusively, with no per-camera monthly fees."
+    },
+    "city": "charlotte",
+    "state": "north-carolina"
+  },
+  {
+    "slug": "sterling-technology-solutions",
+    "name": "Sterling Technology Solutions",
+    "summary": "Charlotte, North Carolina IT services firm offering managed IT, helpdesk, co-managed IT, Microsoft 365 administration, security services including EDR and managed detection with a SOC, and virtual CIO planning. Serves small and mid-sized businesses across sectors such as healthcare, law, financial services, education, and manufacturing. Founded in 2003 and also works with clients in Raleigh.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "dental",
+      "legal",
+      "accounting_finance",
+      "education",
+      "manufacturing",
+      "retail",
+      "logistics",
+      "professional_services"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": 2003,
+    "teamSize": null,
+    "serviceArea": "Charlotte, NC and Raleigh, NC",
+    "pricing": null,
+    "website": "https://www.sterling-technology.com/",
+    "phone": "(704) 271-5001",
+    "addresses": [
+      "5940 Monroe Rd., Charlotte, NC 28212"
+    ],
+    "town": "Charlotte",
+    "linkedin": "https://www.linkedin.com/company/sterling-technology-solutions/",
+    "writeup": {
+      "what_they_do": "Sterling Technology Solutions offers managed and co-managed IT services, including helpdesk support, proactive maintenance, status monitoring, Microsoft 365 optimization, email migration, mobile device management, and virtual CIO services. Its security offerings include endpoint detection and response, backup and disaster recovery, security awareness training, spam and DNS filtering, and managed detection and response with a security operations center.",
+      "who_they_serve": "The company serves small to medium-sized businesses, with work described in Charlotte and Raleigh, North Carolina. Its industry pages list healthcare, legal, financial services, telecom, retail, transportation, education, manufacturing, engineering, and accounting firms, and reviews mention law firms and dental practices.",
+      "how_they_work": "The website lists business-hours phone and email contact on weekdays from 8:00 AM to 5:00 PM, and also describes 24/7 support and monitoring for its managed security service. Service includes a technology account management approach and virtual CIO meetings, and the company states a 30-minute average response and resolution time.",
+      "what_stands_out": "The company states it was founded in 2003 and cites a 98% customer retention rate and over 200 years of combined experience among its senior engineers. It also says it makes a financial contribution to local charities for each new customer signed."
+    },
+    "city": "charlotte",
+    "state": "north-carolina"
+  },
+  {
+    "slug": "business-technology-solutions",
+    "name": "Business Technology Solutions",
+    "summary": "Business Technology Solutions is an IT and voice services provider with offices in Lincolnwood, Illinois and Charlotte, North Carolina. It offers managed IT with monitoring, cybersecurity, Microsoft 365 administration, backup and disaster recovery, plus hosted VoIP, 3CX and legacy Avaya/Nortel phone support. The company serves clients across several Midwest and Southeast states and lists industries including accounting, dental, healthcare, law and government.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "web_design"
+    ],
+    "industries": [
+      "healthcare",
+      "dental",
+      "legal",
+      "accounting_finance",
+      "government",
+      "education",
+      "manufacturing",
+      "nonprofit",
+      "real_estate",
+      "retail",
+      "logistics",
+      "automotive",
+      "professional_services"
+    ],
+    "compliance": [
+      "NIST"
+    ],
+    "partners": [
+      "3CX"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Illinois, North Carolina, South Carolina, Wisconsin and Indiana",
+    "pricing": "Managed IT services billed on a predictable monthly fee",
+    "website": "https://btssolutions.us/",
+    "phone": "(773) 657-3400",
+    "addresses": [
+      "227 W 4th St, Charlotte, NC 28202",
+      "3924 W Devon Ave., Ste 100, Lincolnwood, IL 60712"
+    ],
+    "town": "Charlotte",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "Business Technology Solutions provides managed IT services, including proactive monitoring and maintenance, 24x7 managed detection and response cybersecurity, cloud services built on Microsoft 365, Teams and Azure, and backup and disaster recovery. The company also offers voice services such as hosted VoIP/UCaaS, 3CX phone systems, SIP trunking, telecom expense management, and support for legacy Avaya and Nortel systems, along with web and app development.",
+      "who_they_serve": "The company works with clients in Illinois, North Carolina, South Carolina, Wisconsin, and Indiana, with offices in Lincolnwood, IL and Charlotte, NC. Its listed industries include accounting firms, banks and financial institutions, dental practices, healthcare organizations, government agencies, law firms, manufacturing companies, nonprofits, real estate agencies, retail businesses, and small businesses, among others.",
+      "how_they_work": "Managed IT services are described as carrying a predictable monthly fee. The site offers a free penetration assessment and personalized demos, and it lists service, sales, and accounting departments with phone contacts. The site does not describe onboarding steps, contract terms, or whether support is on-site or remote.",
+      "what_stands_out": "The company states it has more than 40 years in business and lists a 98% first-call resolution rate, 100% live call answering coverage, and an average response time under 15 minutes. Its cybersecurity offering includes dark web monitoring, managed multi-factor authentication, and phishing-based security awareness training."
+    },
+    "city": "charlotte",
+    "state": "north-carolina"
+  },
+  {
+    "slug": "network-essentials",
+    "name": "Network Essentials",
+    "summary": "Charlotte-based, independently owned IT firm operating since 2002, offering managed IT, co-managed IT, help desk, cybersecurity with a CISSP-led practice and 24/7 monitoring, backup and disaster recovery, cloud and VoIP. Serves small and mid-size businesses plus clients in finance, law, manufacturing, healthcare and local government, with month-to-month agreements and Zscaler zero trust specialization.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "accounting_finance",
+      "legal",
+      "manufacturing",
+      "healthcare",
+      "government"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "NIST",
+      "FTC Safeguards",
+      "FINRA/SEC",
+      "CJIS"
+    ],
+    "partners": [
+      "CRN MSP 500 Pioneer 250 (named five times since 2021)",
+      "Zscaler specialists",
+      "CISSP-led security practice",
+      "ConnectWise SmileBack"
+    ],
+    "foundedYear": 2002,
+    "teamSize": null,
+    "serviceArea": "Charlotte metro, NC and Rock Hill / Fort Mill, SC, plus Concord, Gastonia, Monroe, Salisbury and other NC towns",
+    "pricing": "Month-to-month agreements with no annual contract; site also describes a fixed monthly price for managed services",
+    "website": "https://tneus.com/",
+    "phone": "(704) 206-8900",
+    "addresses": [
+      "11121 Carmel Commons Blvd, Suite 350, Charlotte, NC 28226"
+    ],
+    "town": "Charlotte",
+    "linkedin": "https://www.linkedin.com/company/network-essentials",
+    "writeup": {
+      "what_they_do": "Network Essentials is a Charlotte, NC managed IT services provider offering fully managed and co-managed IT, cybersecurity (including a 24/7 managed SOC, access control and cyber risk assessments), cloud solutions, VoIP phone services, data backup and disaster recovery, IT consulting, and AI services. The company also lists Zscaler zero trust specialist services and a help desk.",
+      "who_they_serve": "The company works with small and mid-size businesses and serves industries including financial services, law firms, manufacturing, healthcare, and local government. Its listed service area covers the Charlotte metro, with towns in North Carolina and South Carolina such as Concord, Gastonia, Rock Hill and Fort Mill.",
+      "how_they_work": "Agreements are month-to-month with no annual contract and 30 days' notice. The help desk operates Monday to Friday, 6:00 AM to 6:00 PM, with an after-hours on-call engineer for client emergencies. The company offers a free IT audit and free cyber risk assessment with no obligation.",
+      "what_stands_out": "The company states it has been independently owned and operating in Charlotte since 2002, has a CISSP-led security practice, and has been named to the CRN MSP 500 Pioneer 250 five times since 2021. It also reports a 100% client satisfaction rating based on 103 client-rated tickets in the last 90 days, verified by ConnectWise SmileBack."
+    },
+    "city": "charlotte",
+    "state": "north-carolina"
+  },
+  {
+    "slug": "haigler-systems",
+    "name": "Haigler Systems",
+    "summary": "Haigler Systems is an IT provider serving the Charlotte and Concord area of North Carolina and clients nationwide. It offers ongoing managed IT with remote monitoring, workstation support, backup, and a security operations center, along with network engineering, physical security integration, and custom application development. The site lists healthcare, education, nonprofit, manufacturing and professional services among its client sectors.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "cloud_microsoft_365",
+      "it_strategy_vcio",
+      "hardware_procurement",
+      "software_development"
+    ],
+    "industries": [
+      "healthcare",
+      "education",
+      "nonprofit",
+      "manufacturing",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Charlotte and Concord, NC area, plus clients nationwide",
+    "pricing": null,
+    "website": "https://haiglersystems.com/",
+    "phone": "(704) 298-1414",
+    "addresses": [
+      "431 Church St. N, Concord, NC 28025"
+    ],
+    "town": "Concord",
+    "linkedin": "https://www.linkedin.com/company/haigler-systems/",
+    "writeup": {
+      "what_they_do": "Haigler Systems is a Managed Service Provider offering fully managed IT services, including remote IT management, on-site support, disaster recovery, and cybersecurity. Its listed services also cover network engineering, programming and custom application development, managed physical security, technology sales and refresh, backup solutions, and Security Operations Center (SOC) solutions.",
+      "who_they_serve": "The company serves small to medium-sized businesses, corporations, nonprofits, schools, universities, senior living communities, medical facilities, energy, and financial companies in North Carolina and nationwide. Its listed industries include healthcare, manufacturing, education, long-term care, nonprofits, and professional services.",
+      "how_they_work": "The site describes remote and on-site support, an online consultation offered free of charge, and pricing available on request through a quote. It does not state contract terms or support hours.",
+      "what_stands_out": "The company's founder, Blake Haigler, is listed as a veteran with over 20 years of IT industry experience. The website shows a 4.9 rating based on 130 reviews."
+    },
+    "city": "charlotte",
+    "state": "north-carolina"
+  },
+  {
+    "slug": "ciprian-it",
+    "name": "Ciprian IT",
+    "summary": "Charlotte, NC-based provider of managed IT and cybersecurity services for small and mid-sized businesses across the Southeast, with offices in Charlotte and Huntersville. Offers monitoring, help desk, endpoint protection, backups and virtual CIO work, with listed industry focus on legal, healthcare, manufacturing, finance and construction.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "legal",
+      "healthcare",
+      "manufacturing",
+      "construction",
+      "accounting_finance",
+      "professional_services"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Charlotte, NC and surrounding areas including Lake Norman, Mooresville, Statesville and Davidson; site says it supports clients from North Carolina to Florida",
+    "pricing": "Fixed monthly pricing model for managed services; cybersecurity offered at a flat monthly fee",
+    "website": "https://www.ciprianit.com/",
+    "phone": "(704) 227-1876",
+    "addresses": [
+      "525 N Tryon St Suite 1600, Charlotte, NC 28202",
+      "16501 Northcross Dr Suite D, Huntersville, NC 28078"
+    ],
+    "town": "Charlotte",
+    "linkedin": "https://www.linkedin.com/company/ciprianit",
+    "writeup": {
+      "what_they_do": "Ciprian IT is a managed IT and cybersecurity provider headquartered in Charlotte, NC. Its managed services package covers items such as email and licensing management, endpoint protection, multi-factor authentication, employee phishing training, 24/7 security monitoring, help desk support, and virtual CIO services. Its cybersecurity package lists offerings including security risk assessments, firewall management, ransomware protection, SIEM, dark web monitoring, and penetration testing.",
+      "who_they_serve": "The company states it specializes in small and medium-sized businesses in and around Charlotte, NC, including the Lake Norman area, Statesville, and Mooresville, and says it supports clients from North Carolina to Florida. The site lists industries served including manufacturing, finance, legal, professional services, healthcare, and construction, with a dedicated legal services page for law firms.",
+      "how_they_work": "The company describes a fixed monthly pricing model for its managed and cybersecurity packages, with onsite and remote support offered. It offers a strategy session through a contact form and a no-obligation call to discuss fit.",
+      "what_stands_out": "The company says it has delivered managed IT and cybersecurity services for over a decade. Its managed services package states that the 24/7 security monitoring is provided by real people, and it lists certified technicians among its staff."
+    },
+    "city": "charlotte",
+    "state": "north-carolina"
+  },
+  {
+    "slug": "spectrumwise",
+    "name": "SpectrumWise",
+    "summary": "SpectrumWise is a Charlotte, NC IT firm founded in 2001 that provides managed IT support, cybersecurity, cyber risk monitoring, email filtering, VoIP phone systems and server setup for small and medium businesses in the Carolinas. Clients include legal, accounting, healthcare, construction and nonprofit organizations, and the company reports a Microsoft Small Business Specialist certification.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "computer_repair"
+    ],
+    "industries": [
+      "healthcare",
+      "dental",
+      "legal",
+      "accounting_finance",
+      "construction",
+      "manufacturing",
+      "engineering_architecture",
+      "nonprofit",
+      "education",
+      "government",
+      "real_estate",
+      "retail"
+    ],
+    "compliance": [],
+    "partners": [
+      "Microsoft Small Business Specialist",
+      "Registered Microsoft Partner",
+      "Dell",
+      "SonicWALL"
+    ],
+    "foundedYear": 2001,
+    "teamSize": null,
+    "serviceArea": "Charlotte, Gastonia, Rock Hill, Huntersville and surrounding areas in North and South Carolina",
+    "pricing": null,
+    "website": "https://www.spectrumwise.com/",
+    "phone": "(704) 527-8324",
+    "addresses": [
+      "10965 Winds Crossing Drive #200, Charlotte, NC 28273"
+    ],
+    "town": "Charlotte",
+    "linkedin": "https://www.linkedin.com/company/spectrumwise",
+    "writeup": {
+      "what_they_do": "SpectrumWise is a Charlotte, NC managed IT provider offering IT support, help desk, server setup, co-managed IT and cybersecurity services. Its listed services include network security audits, vulnerability and penetration testing, email and spam protection, security awareness training, 24/7 cyber risk monitoring, cloud-based VoIP phone systems, and Microsoft Office 365 and virtualization. The company also states it provides computer repair and on-demand services.",
+      "who_they_serve": "The company states it serves small and medium-sized businesses in Charlotte, Gastonia, Rock Hill, Huntersville and surrounding areas in North and South Carolina. The website lists industry pages for accounting and financial, architecture and engineering, healthcare, manufacturing, construction, non-profits, real estate, legal, retail, pharmaceutical, biotech, dental, local government and education clients.",
+      "how_they_work": "The site says troubleshooting and proactive maintenance are delivered remotely, with monitoring available around the clock. Clients can enroll in a monthly service contract, and the company offers a free consultation or assessment before engagement. Pricing details and on-site support terms are not specified.",
+      "what_stands_out": "The company states it has been in business since 2001 and holds a Microsoft Small Business Specialist certification and Registered Microsoft Partner status. Its website lists partnerships with Microsoft, Dell and SonicWALL, and includes client testimonials, several describing relationships of 20 or more years."
+    },
+    "city": "charlotte",
+    "state": "north-carolina"
+  },
+  {
+    "slug": "esmith-it-consulting",
+    "name": "eSmith IT Consulting",
+    "summary": "Huntersville, NC-based IT firm offering flat-rate managed IT, helpdesk, cybersecurity with endpoint protection and backups, and hosted 3CX phone systems. Serves Charlotte-area small and midsize businesses within a 60-mile radius, with remote support for clients elsewhere, and lists several industry verticals such as insurance, healthcare and legal.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "structured_cabling",
+      "web_design"
+    ],
+    "industries": [
+      "healthcare",
+      "dental",
+      "legal",
+      "accounting_finance",
+      "insurance",
+      "construction",
+      "manufacturing",
+      "real_estate",
+      "logistics"
+    ],
+    "compliance": [
+      "HIPAA",
+      "FINRA/SEC",
+      "GLBA"
+    ],
+    "partners": [
+      "Microsoft Cloud Solution Provider",
+      "CompTIA Security+ Certified",
+      "HIPAA Compliance Specialists",
+      "Cisco Meraki Partner",
+      "3CX Advanced Certified",
+      "CompTIA Network+",
+      "CompTIA A+",
+      "Silver Partner Certified Support",
+      "SentinelOne"
+    ],
+    "foundedYear": 2001,
+    "teamSize": null,
+    "serviceArea": "Huntersville, NC and Charlotte area within a 60-mile radius; nationwide remote support",
+    "pricing": "Flat monthly per-PC pricing published on site ($15\u2013$150/PC/mo), no long-term contracts",
+    "website": "https://www.esmithit.com/",
+    "phone": "(704) 334-1252",
+    "addresses": [
+      "14316 Reese Blvd W, Suite B112, Huntersville, NC 28078"
+    ],
+    "town": "Huntersville",
+    "linkedin": "https://www.linkedin.com/company/esmith-it-consulting",
+    "writeup": {
+      "what_they_do": "eSmith IT Consulting offers managed IT support, cybersecurity and backup, VoIP phone systems (powered by 3CX), cloud and Microsoft 365 migrations, vCIO consulting, co-managed IT overlays, video security with UniFi Protect, WAN failover internet, and web design and hosting. Its managed IT service includes 24/7 monitoring, patching, and helpdesk support.",
+      "who_they_serve": "The company is headquartered in Huntersville, NC, and states it serves the Metrolina area including Charlotte, Concord, Cornelius, Gastonia, Mooresville, and Lake Norman, with remote support for clients nationwide. Its site says it focuses on organizations with 10 to 50 users and lists industries including healthcare, legal, finance, construction, insurance agencies, property management, dental offices, and paving contractors.",
+      "how_they_work": "The site states that managed IT is sold as a flat monthly fee with published plan pricing, and that no multi-year contracts are required. On-site support is offered within a 60-mile radius of Huntersville and Charlotte, with remote support elsewhere.",
+      "what_stands_out": "The company states it has been in business since 2001 and holds certifications including Microsoft Cloud Solution Provider, CompTIA Security+, Cisco Meraki Partner, and 3CX Advanced Certified, along with HIPAA compliance specialist credentials. It provides a HIPAA Business Associate Agreement for clients."
+    },
+    "city": "charlotte",
+    "state": "north-carolina"
+  },
+  {
+    "slug": "quo-vadis-inc",
+    "name": "Quo Vadis Inc",
+    "summary": "Quo Vadis Inc is a Matthews, North Carolina firm offering fractional IT department services to businesses in the Charlotte area and nearby towns. Its FIT packages cover ongoing support, security, and strategy, with a focus on responsiveness and client relationships. The company says it has served private schools in the region for about two decades.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "education",
+      "manufacturing",
+      "legal",
+      "accounting_finance",
+      "professional_services",
+      "logistics"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": 2000,
+    "teamSize": null,
+    "serviceArea": "Charlotte metro area, NC, including Charlotte, Matthews, Huntersville, Mooresville, Concord, Gastonia, and Fort Mill, SC",
+    "pricing": "Tiered FIT packages (FIT Core, FIT Secure, FIT Elite); pricing details not stated",
+    "website": "https://quo.cc/",
+    "phone": "(704) 814-8819",
+    "addresses": [
+      "130 Matthews Station Street, Suite 2C, Matthews, NC 28105"
+    ],
+    "town": "Matthews",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "Quo Vadis Inc is a managed IT provider offering its Fractional IT (FIT) service, an outsourced IT department delivered in three packages called FIT Core, FIT Secure, and FIT Elite. Services listed on the site include fractional IT services, managed IT services, IT security, and cloud services, along with disaster recovery, compliance audits, and SOC-assisted monitoring.",
+      "who_they_serve": "The company serves businesses in the Charlotte, NC area, with listed service areas including Charlotte, Matthews, Huntersville, Mooresville, Concord, and Gastonia in North Carolina, and Fort Mill in South Carolina. The site highlights manufacturing, logistics, law firms, accounting practices, trade businesses such as HVAC, plumbing, and electrical, and private schools.",
+      "how_they_work": "The site describes a four-stage process of Discovery, Analysis, Insight, and Onboarding, followed by ongoing support, and invites prospects to schedule a free assessment or discovery call. The company also references a client portal and a ticketing system for reporting issues.",
+      "what_stands_out": "The company states it was founded in 2000 and has served private schools for two decades, with a client testimonial citing more than 17 years of service. The site also mentions an award as Charlotte's Best IT Provider and a national finalist designation for IT companies serving manufacturing."
+    },
+    "city": "charlotte",
+    "state": "north-carolina"
+  },
+  {
+    "slug": "computer-doc-nc",
+    "name": "Computer Doc NC",
+    "summary": "Computer Doc NC is an IT services provider founded in 1997 that offers managed IT with flat monthly pricing, 24/7 support, and a guaranteed one-hour response. It serves small and medium-sized businesses in the Charlotte metro area and Panama City, FL, with services spanning cloud, VoIP, cybersecurity, business continuity and HIPAA-related compliance support for healthcare clients.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services",
+      "computer_repair"
+    ],
+    "industries": [
+      "healthcare",
+      "manufacturing",
+      "accounting_finance"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [],
+    "foundedYear": 1997,
+    "teamSize": null,
+    "serviceArea": "Charlotte metro area, NC and Panama City, FL",
+    "pricing": "Flat-rate monthly IT fee with no onboarding, project or labor charges",
+    "website": "https://computerdocnc.com/",
+    "phone": "(704) 563-8031",
+    "addresses": [
+      "3800-A Old Monroe Road, Indian Trail, NC 28079",
+      "844 N. Tyndall Parkway, Suite 155, Panama City, FL 32404"
+    ],
+    "town": "Indian Trail",
+    "linkedin": "https://www.linkedin.com/company/computerdocnc/",
+    "writeup": {
+      "what_they_do": "Computer Doc NC is a managed service provider offering managed IT services that include proactive monitoring and maintenance of devices, servers and networks. Its listed services also cover VoIP, cloud services, cybersecurity, HIPAA compliance, computer repair, business continuity and IT consulting.",
+      "who_they_serve": "The company says it focuses on small and medium-sized businesses in the Charlotte metro area of North Carolina and in Panama City, Florida, and their surrounding areas. The site names manufacturing, healthcare and accounting as industries it works with.",
+      "how_they_work": "The company describes flat-rate monthly pricing with no onboarding fees, project fees, or labor charges for upgrades, moves or equipment installation. It states that its support is US-based and available 24/7/365, with a guaranteed response within one hour, and that it can work both on-site and remotely.",
+      "what_stands_out": "The company states it has been providing IT services since 1997 and that its team holds industry technology and security certifications. It also lists a 99.9% uptime figure for its clients and offers a HIPAA compliance service."
+    },
+    "city": "charlotte",
+    "state": "north-carolina"
+  },
+  {
+    "slug": "at-net-services-charlotte",
+    "name": "AT-NET Services",
+    "summary": "AT-NET Services (also marketed as AT-NET ExpertIP) is a managed IT and cybersecurity company founded in 1999 with about 50 staff across Charlotte, Charleston, Columbia, Greenville/Greer, Jacksonville and Knoxville. It offers helpdesk, 24/7 monitoring, managed SOC, Microsoft 365 administration, backup, vCIO planning and compliance support for small and mid-sized businesses and some enterprises, with industry-specific pages for sectors such as healthcare, manufacturing and defense contracting.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement",
+      "structured_cabling"
+    ],
+    "industries": [
+      "healthcare",
+      "construction",
+      "manufacturing",
+      "professional_services",
+      "accounting_finance",
+      "legal",
+      "insurance",
+      "government",
+      "nonprofit",
+      "real_estate",
+      "retail",
+      "logistics",
+      "automotive",
+      "dental"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "NIST",
+      "PCI DSS",
+      "FTC Safeguards",
+      "GLBA",
+      "CJIS"
+    ],
+    "partners": [
+      "CMMC Registered Provider Organization",
+      "CMMC Registered Practitioner"
+    ],
+    "foundedYear": 1999,
+    "teamSize": "About 50 people, including 20+ IT engineers",
+    "serviceArea": "Charlotte, Charleston, Columbia, Greenville/Greer, Jacksonville and Knoxville; offices across the Carolinas, Florida and Tennessee",
+    "pricing": null,
+    "website": "https://expertip.net/",
+    "phone": "(704) 831-2500",
+    "addresses": [
+      "3401 St Vardell Ln Ste D, Charlotte, NC 28217"
+    ],
+    "town": "Charlotte",
+    "linkedin": "https://www.linkedin.com/company/at-net-services-inc-/",
+    "writeup": {
+      "what_they_do": "AT-NET Services provides managed IT and cybersecurity services, including helpdesk and remote support, network and server management, Microsoft 365 and cloud services, and a managed SOC with managed detection and response. It also offers vCIO and vCISO consulting, compliance support such as CMMC and NIST 800-171 assessments, and physical security systems like access control and CCTV.",
+      "who_they_serve": "The company serves 527+ customers across industries including healthcare, manufacturing, banking and financial services, accounting, construction, government, non-profit, and transportation and logistics. It operates from offices in Charleston, Charlotte, Columbia, Greenville/Greer, Jacksonville and Knoxville, and describes its clients as small, mid-sized and large businesses.",
+      "how_they_work": "The site says support is available 24/7/365 and that phones are answered in under 60 seconds on average. Services can be fully managed or co-managed alongside an in-house IT team, and the company describes a 6-Month Client Satisfaction Guarantee and a Zero onboarding cost claim.",
+      "what_stands_out": "The company states it has been in business since 1999, with 27+ years of experience and a team of about 50 people including 20+ IT engineers. It identifies itself as a CMMC Registered Provider Organization and lists NIST, HIPAA, GLBA and CJIS alignment among its compliance offerings."
+    },
+    "city": "charlotte",
+    "state": "north-carolina"
+  },
+  {
+    "slug": "lake-norman-tech-services",
+    "name": "Lake Norman Tech Services",
+    "summary": "Lake Norman Tech Services is a Mooresville, NC shop offering computer repair, custom computer sales, and security camera installation for homes and businesses. For small and medium businesses it provides ongoing managed IT with monitoring, data backup and support, plus hosted VoIP phone service through Cytracom. The company serves Mooresville and surrounding communities in the Lake Norman area.",
+    "services": [
+      "managed_it",
+      "backup_disaster_recovery",
+      "cybersecurity",
+      "voip_phones",
+      "network_infrastructure",
+      "computer_repair"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [
+      "Cytracom VoIP (Certified Cytracom partner)"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Mooresville, NC and surrounding area; listed communities include Huntersville, Statesville, Davidson, Cornelius, Concord and Salisbury, NC",
+    "pricing": "VoIP sold as one low monthly price on month-to-month plans; managed IT pricing not stated",
+    "website": "https://www.lkntechservices.com/",
+    "phone": "(980) 444-2033",
+    "addresses": [
+      "149 Cayuga Dr Suite C15, Mooresville, NC 28117"
+    ],
+    "town": "Mooresville",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "Lake Norman Tech Services offers managed IT services for small businesses, including monitoring, data backup, cybersecurity, and proactive support. It also provides computer repair, security camera installation, hosted VoIP phone service, and custom computers for sale.",
+      "who_they_serve": "The company serves homeowners and small businesses, and its site mentions small and medium-sized businesses as well as commercial properties. Its listed service area is Mooresville, NC and nearby communities including Davidson, Cornelius, Concord, Statesville, Huntersville, Salisbury, and Gastonia.",
+      "how_they_work": "VoIP is sold on a monthly plan with no long-term contract, and the company offers a free consultation for it. The site also says the company is available to configure, install, and manage phone systems, and that security camera work includes setup and support. The company is based at 149 Cayuga Dr in Mooresville, NC.",
+      "what_stands_out": "The company is a Certified Cytracom VoIP partner, and its VoIP plans include desk phones at no charge with upgrades every 36 months. Its site lists a 5.00/5.00 rating and says it has over 90 happy customers."
+    },
+    "city": "charlotte",
+    "state": "north-carolina"
+  },
+  {
+    "slug": "apex-technology",
+    "name": "Apex Technology",
+    "summary": "Apex Technology is a locally owned IT support and cybersecurity firm based in Cornelius, NC, serving small and mid-sized businesses with 20-200 employees across the Carolinas. Services include managed IT with a fixed-cost plan, 24/7 managed security, cloud, backup, hardware and custom application development. The firm also lists industry-specific IT for accountants, law, healthcare, engineering, construction and manufacturing.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "hardware_procurement",
+      "software_development",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "construction",
+      "manufacturing",
+      "engineering_architecture",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS"
+    ],
+    "partners": [
+      "Microsoft Solutions Partner"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Carolinas, with listed locations in Charlotte, Raleigh, Winston-Salem, Greensboro, Durham, Fayetteville, Hickory, High Point and the Triangle",
+    "pricing": "ManageMax fixed-cost (flat-rate) managed services plan",
+    "website": "https://www.apextechcorp.com/",
+    "phone": "(704) 895-0010",
+    "addresses": [
+      "18335 Old Statesville Rd. Suite K, Cornelius, NC 28031"
+    ],
+    "town": "Cornelius",
+    "linkedin": "https://www.linkedin.com/company/apex-technology-corporation/",
+    "writeup": {
+      "what_they_do": "Apex Technology is a managed IT and computer support provider offering managed IT services, cybersecurity and compliance, cloud computing, data backup and recovery, hardware and software services, and business intelligence and custom application development. Its services page also lists proactive 24/7/365 monitoring and an Enterprise AI Enablement and Controls offering.",
+      "who_they_serve": "The company says it serves small and medium-sized businesses with 20 to 200 employees across the Carolinas, and lists industry pages for accountants, engineers and architects, healthcare, law, manufacturing, construction, and financial services. Its service locations listed include Charlotte, Raleigh, Winston-Salem, Greensboro, and Durham, and it is based in Cornelius, NC.",
+      "how_they_work": "The company describes a fixed-cost managed plan called ManageMax and a three-step onboarding process called the Apex S3 Process, which begins with a 30-minute consultation. The site does not state support hours or contract terms.",
+      "what_stands_out": "The company states it has more than 25 years of experience, reports a 99% client satisfaction score, and lists a Microsoft Solutions Partner designation and a Charlotte Business Journal Best Places to Work recognition. Its cybersecurity services include 24/7 security monitoring, EDR, penetration testing, and compliance support for HIPAA and PCI DSS."
+    },
+    "city": "charlotte",
+    "state": "north-carolina"
+  },
+  {
+    "slug": "cnp-technologies",
+    "name": "CNP Technologies",
+    "summary": "CNP Technologies is a Charlotte, NC-based IT and unified communications provider with about 25 years in business. It offers managed IT and security services, data center and network management, help desk support, Microsoft 365 and end-user workspace management, plus cloud phone and contact center solutions. The company says it serves healthcare, financial services, professional services, state and local government, and manufacturing clients across the Southeastern US.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "hardware_procurement"
+    ],
+    "industries": [
+      "healthcare",
+      "accounting_finance",
+      "government",
+      "manufacturing",
+      "professional_services"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Southeastern US",
+    "pricing": null,
+    "website": "https://www.cnp.net/",
+    "phone": "(704) 927-6600",
+    "addresses": [
+      "806 Tyvola Road, Charlotte, NC 28217"
+    ],
+    "town": "Charlotte",
+    "linkedin": "https://www.linkedin.com/company/cnp-technologies",
+    "writeup": {
+      "what_they_do": "CNP Technologies provides managed IT and Unified Communications services, including managed IT services, managed data center and network services, managed security services, and end-user workspace support. It also offers professional services and advisory work such as strategy and solutions design, project engineering, deployment and integration, and vCIO advisory.",
+      "who_they_serve": "The company serves organizations across industries, and its website names healthcare, financial services, professional services, state and local government, and manufacturing as focus sectors. It describes its customer base as concentrated in the Southeastern US and lists its office as Charlotte, NC.",
+      "how_they_work": "Managed IT services are offered in flexible models ranging from complete outsourcing and co-managed arrangements to oversight and advisory roles. The website also states that the company partners with technology providers and designs and builds platforms for end-user devices, Microsoft 365, and Unified Communications systems.",
+      "what_stands_out": "The company states it has provided Voice, Collaboration, and Contact Center solutions for 25 years and describes its security offering as including assessment, penetration testing, cyber insurance readiness, and incident response. Its website describes its engineering staff as experienced and reports tenured employees, but it does not list specific certifications."
+    },
+    "city": "charlotte",
+    "state": "north-carolina"
+  },
+  {
+    "slug": "firefold-technologies",
+    "name": "FireFold Technologies",
+    "summary": "FireFold Technologies is a Concord, NC-based IT provider offering remote and on-site business computer support, server and network administration, IT monitoring, data backup and recovery, VoIP, vendor management and hardware-as-a-service. It serves small and mid-sized businesses across North Carolina, with healthcare organizations and HIPAA compliance support as a highlighted focus.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services",
+      "hardware_procurement"
+    ],
+    "industries": [
+      "healthcare"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [
+      "Allworx certified technicians"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Concord, NC and across North Carolina; on-site and remote support",
+    "pricing": null,
+    "website": "https://www.firefoldtech.com/",
+    "phone": "(704) 979-8030",
+    "addresses": [
+      "990 Biscayne Drive, Concord, NC 28027"
+    ],
+    "town": "Concord",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "FireFold Technologies provides managed IT services for businesses, including data backup and recovery, routine server and network maintenance, VoIP, vendor management, email and web hosting, and internet security. It also offers IT asset monitoring, HIPAA compliance support, and Hardware as a Service (HaaS) leasing of equipment paired with IT staffing.",
+      "who_they_serve": "The company serves businesses of varied sizes, from small businesses to larger organizations, according to its site. It names healthcare providers, education, and retail among the industries it supports, and it describes its base as Concord, NC, with service across North Carolina.",
+      "how_they_work": "The company offers remote assistance and on-site support, and its site states that its plans carry no lock-in contracts and no hidden fees. Clients can request a custom support package through sales contact by phone or email.",
+      "what_stands_out": "The site states that the company has been a service provider to at least one client since 2008 and has years of experience managing HIPAA requirements. It also states that its technicians are certified to install and configure Allworx VoIP equipment and offers a free network assessment."
+    },
+    "city": "charlotte",
+    "state": "north-carolina"
+  },
+  {
+    "slug": "geekspeoplelike-com",
+    "name": "GeeksPeopleLike.com",
+    "summary": "Mooresville, NC-based IT firm offering managed IT services, help desk support, cloud and Microsoft 365 administration, network engineering and onsite support for businesses, with some computer repair work. It also serves some home customers and says it operates since 2005 under its current name since 2019. Service area centers on Mooresville and the Lake Norman region.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "it_strategy_vcio",
+      "structured_cabling",
+      "hardware_procurement",
+      "computer_repair"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [
+      "Cisco Select Partner",
+      "Microsoft Certified Professionals"
+    ],
+    "foundedYear": 2005,
+    "teamSize": null,
+    "serviceArea": "Mooresville, NC and Lake Norman area (Statesville, Troutman, Davidson, Cornelius, Huntersville)",
+    "pricing": null,
+    "website": "https://www.geekspeoplelike.com/",
+    "phone": "(704) 662-6845",
+    "addresses": [
+      "294 W Plaza Dr i9, Mooresville, NC 28117"
+    ],
+    "town": "Mooresville",
+    "linkedin": "https://www.linkedin.com/company/john-mccann-&-associates-inc-",
+    "writeup": {
+      "what_they_do": "GeeksPeopleLike.com is a Mooresville, North Carolina IT company offering managed IT services, cloud services (including Microsoft Azure), network engineering and cabling, network attached storage, onsite IT support, hardware procurement, Microsoft 365 management, and fractional CTO services. It also provides computer repair and help-desk style support for PCs, laptops, Windows and Mac systems, and software such as QuickBooks.",
+      "who_they_serve": "The company states it serves businesses of 10 or more employees as well as seniors and home users, and lists Mooresville, Statesville, Troutman, Davidson, Cornelius, Huntersville, and Lake Norman as the areas it serves in North Carolina.",
+      "how_they_work": "The site says phone calls are answered live and voicemails are returned within hours, and repair concerns typically resolve within 24 to 48 hours. It offers customized support plans, free IT surveys, remote response with work-from-anywhere capability, and sends IT support specialists to business sites for onsite help. Repair work is guaranteed, with no billing if the problem is not fixed.",
+      "what_stands_out": "The company says it has operated since 2005, previously as John McCann & Associates and as GeeksPeopleLike since January 2019, and that it is a Select Cisco Partner and a certified Microsoft 365 professional organization. Staff bios cite Microsoft and Meraki certifications, A+ certification, and decades of combined IT experience."
+    },
+    "city": "charlotte",
+    "state": "north-carolina"
+  },
+  {
+    "slug": "nb-technology-llc",
+    "name": "NB Technology, LLC",
+    "summary": "NB Technology is a Belmont, NC firm serving small businesses and non-profits in the Gastonia and Charlotte area, with some services offered to clients across the US. Offerings include managed IT support, cloud backup and disaster recovery, network consulting and management, cybersecurity, structured cabling, website design and hosting, and cloud VoIP phone systems. The company states it has over 25 years of experience and works on a fixed monthly budget model.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "structured_cabling",
+      "web_design"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Gastonia, Belmont, Mount Holly, Dallas, Charlotte, Cramerton, Lowell, Stanley, Bessemer City, Kings Mountain, Shelby and Lincolnton, NC; cybersecurity, cloud, backup and VoIP services throughout the US",
+    "pricing": "Fixed monthly budget for IT services; free consultation offered",
+    "website": "https://www.nbtechllc.com/",
+    "phone": "(704) 644-1220",
+    "addresses": [
+      "52A Ervin Street, Belmont, NC 28012",
+      "2230 E. Franklin Blvd., Ste 100 - 265, Gastonia, NC 28054"
+    ],
+    "town": "Belmont",
+    "linkedin": "https://www.linkedin.com/company/nb-technology-llc/",
+    "writeup": {
+      "what_they_do": "NB Technology, LLC is a managed service provider offering managed IT services and support, managed cloud backup and disaster recovery, cybersecurity, network consulting and management, structured voice and data cabling, website design and hosting, and cloud VoIP phone and business internet services. The company describes its core offering as proactive maintenance and remote or on-site technical support.",
+      "who_they_serve": "The company says it works with small businesses and non-profits with under 100 employees, mainly in Gastonia and Charlotte, North Carolina, and lists additional local areas including Belmont, Mount Holly, Dallas, Cramerton, Lowell, Stanley, Bessemer City, Kings Mountain, Shelby, and Lincolnton. It also states that its cybersecurity, cloud, backup, VoIP, and internet services are available to businesses throughout the US.",
+      "how_they_work": "The company states it provides a fixed monthly budget with customized service plans, offers live US-based technical support with calls answered in under 9 seconds, and supports clients on-site or remotely. Its website design work is priced per project with equal payments at the start and end, and it accepts checks and major credit cards.",
+      "what_stands_out": "The company reports more than 25 years of experience and says it has won the two-time business of the year award, though the award issuer is not named. Its website lists experienced and certified professionals and a 100% satisfaction guarantee for web design services."
+    },
+    "city": "charlotte",
+    "state": "north-carolina"
+  },
+  {
+    "slug": "nucentric-solutions",
+    "name": "Nucentric Solutions",
+    "summary": "Nucentric Solutions is an IT services firm based in Davidson, North Carolina, serving small and mid-sized organizations in the Carolinas. It offers contract-based managed IT support with proactive maintenance, bundled backup, antivirus and spam filtering, plus project services and IT consulting. The site lists clients in healthcare, engineering, local government and education, and says it has worked with customers since 2002.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "backup_disaster_recovery",
+      "cloud_microsoft_365",
+      "it_strategy_vcio",
+      "cybersecurity"
+    ],
+    "industries": [
+      "healthcare",
+      "education",
+      "government",
+      "engineering_architecture",
+      "real_estate"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": 2002,
+    "teamSize": null,
+    "serviceArea": "Davidson, Concord, Charlotte, and the Carolinas",
+    "pricing": "All-inclusive managed plans with unlimited support and no add-on charges; no contracts locking clients in",
+    "website": "https://www.nucentric.com/",
+    "phone": "(704) 987-8510",
+    "addresses": [
+      "130A South Village Lane, Davidson, NC 28036"
+    ],
+    "town": "Davidson",
+    "linkedin": "https://www.linkedin.com/company/nucentric-solutions",
+    "writeup": {
+      "what_they_do": "Nucentric Solutions is a managed IT services provider offering managed IT services, cloud services, and project services with IT consulting. Its managed plans include off-site backup, antivirus and anti-malware, external spam filtering, and third-party software updates, with proactive maintenance and long-term planning described as core to the service.",
+      "who_they_serve": "The company says it serves small and medium-sized organizations in the Carolinas. Customer testimonials on the site come from businesses in Davidson, Concord, Charlotte, Lake Norman and Cornelius, North Carolina, across sectors including municipal government, charter schools, medical practices, engineering firms, and real estate, plus one Canadian company with a North Carolina location.",
+      "how_they_work": "The company offers managed plans described as all-inclusive with unlimited support and states it has no complex or restrictive contracts and no hidden add-on charges. It says it communicates personally with clients and has a regular role dedicated to reviewing client IT setups, and it offers a free consultation.",
+      "what_stands_out": "The company states it has provided IT services since 2002 and lists partners and certifications on its site. Its website says it is headquartered in Davidson, North Carolina."
+    },
+    "city": "charlotte",
+    "state": "north-carolina"
+  },
+  {
+    "slug": "atozinit",
+    "name": "AtoZinIT",
+    "summary": "Charlotte, NC-based IT provider serving small and mid-sized businesses and some larger multi-state clients, with a long-running focus on managed IT, help desk, and cloud and security services. Offers 3CX phone systems, cybersecurity monitoring, and Microsoft 365 administration alongside custom software and web work. Says it has operated since 1996 under an earlier company name and lists trades, construction, manufacturing, and accounting firms among its industry pages.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "software_development",
+      "web_design"
+    ],
+    "industries": [
+      "construction",
+      "manufacturing",
+      "accounting_finance"
+    ],
+    "compliance": [
+      "PCI DSS",
+      "HIPAA",
+      "NIST"
+    ],
+    "partners": [],
+    "foundedYear": 1996,
+    "teamSize": "76 IT professionals and team members",
+    "serviceArea": "Charlotte, NC and surrounding areas; clients across the United States",
+    "pricing": null,
+    "website": "https://atozinit.com/",
+    "phone": "(704) 470-9009",
+    "addresses": [
+      "9333 Forsyth Park Dr, Suite H, Charlotte, NC 28273"
+    ],
+    "town": "Charlotte",
+    "linkedin": "https://www.linkedin.com/company/atozinit/",
+    "writeup": {
+      "what_they_do": "AtoZinIT is an IT services provider offering managed IT and infrastructure, cybersecurity, 3CX VoIP telephony, cloud services, web presence, custom software development, and IT consulting. The site lists more than 160 services and describes the company as a one-stop-shop for IT needs.",
+      "who_they_serve": "The company says it focuses on small and mid-sized businesses and reports a client base spanning the United States. The site also lists industry pages for manufacturing, construction, HVAC and plumbing, trades, and accounting firms, with a Charlotte, NC focus.",
+      "how_they_work": "Clients can reach live technicians by phone, and the site states an average speed of answer of 20 seconds over the last 90 days. Support plans and pricing are listed as a service, and the site mentions monthly service agreements and a 100% satisfaction guarantee under which clients need not pay if they are unhappy with the services.",
+      "what_stands_out": "The company states it was established in 1996 as Data Consulting Group, LLC and reports 30 years in business, 181 clients, and 76 team members. It also cites 24/7 SOC monitoring and a free 23-question report for business owners hiring an IT company."
+    },
+    "city": "charlotte",
+    "state": "north-carolina"
+  },
+  {
+    "slug": "corpinfotech",
+    "name": "CorpInfoTech",
+    "summary": "Charlotte, NC-based managed service provider founded in 1997 that offers fully and co-managed IT, managed security and CMMC/NIST 800-171 compliance support. Serves defense contractors, manufacturers, state and local government and financial services firms. The company states it is a CMMC Level 2 certified MSP, a Cyber AB Registered Provider Organization, and CIS Controls accredited.",
+    "services": [
+      "managed_it",
+      "cybersecurity",
+      "co_managed_it",
+      "compliance_services",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "manufacturing",
+      "government",
+      "accounting_finance"
+    ],
+    "compliance": [
+      "CMMC",
+      "NIST"
+    ],
+    "partners": [
+      "CMMC Level 2 Certified MSP",
+      "Cyber AB Registered Provider Organization (RPO)",
+      "CIS Controls Accredited",
+      "Joint Cyber Defense Collaborative (JCDC) participant",
+      "MSP Collective member"
+    ],
+    "foundedYear": 1997,
+    "teamSize": null,
+    "serviceArea": "Charlotte, NC; serves commercial and government clients (no specific geography beyond this stated)",
+    "pricing": null,
+    "website": "https://www.corp-infotech.com/",
+    "phone": "(704) 392-3031",
+    "addresses": [
+      "8801 J.M. Keynes Dr., Suite 250, Charlotte, NC 28262"
+    ],
+    "town": "Charlotte",
+    "linkedin": "https://www.linkedin.com/company/corpinfotech/",
+    "writeup": {
+      "what_they_do": "CorpInfoTech is a managed service provider offering fully and co-managed IT services, managed security services, and managed compliance services. Its core focus is helping defense contractors reach and maintain CMMC (NIST 800-171) compliance through its TAS for CMMC Compliance offering, alongside cybersecurity assessments and CIS Controls implementation.",
+      "who_they_serve": "The company serves small and medium-sized businesses and says it works with clients in manufacturing, financial services, state and local government, and defense contractors, including the Defense Industrial Base. The site does not state a geographic service area beyond its Charlotte, North Carolina office address.",
+      "how_they_work": "Services are offered as fully managed or co-managed engagements, with an initial gap assessment followed by remediation and ongoing compliance support. Services are delivered using 100% U.S.-based, directly employed personnel.",
+      "what_stands_out": "The company states it was founded in 1997, became a CMMC Level 2 certified MSP and Cyber AB Registered Provider Organization in early 2025, and is the first CIS-accredited organization. It also lists participation in the Joint Cyber Defense Collaborative and membership in the MSP Collective."
+    },
+    "city": "charlotte",
+    "state": "north-carolina"
   },
   {
     "slug": "lg-networks-inc",

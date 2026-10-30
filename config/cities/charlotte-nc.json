@@ -1,0 +1,45 @@
+{
+  "city": "Charlotte",
+  "state": "North Carolina",
+  "state_code": "NC",
+  "slug": "charlotte",
+  "state_slug": "north-carolina",
+  "center": {
+    "lat": 35.2271,
+    "lng": -80.8431
+  },
+  "radius_miles": 30,
+  "areas": [
+    "Charlotte",
+    "Concord",
+    "Huntersville",
+    "Matthews",
+    "Mooresville",
+    "Gastonia",
+    "Cornelius",
+    "Monroe"
+  ],
+  "nearby_towns": [
+    "Pineville",
+    "Mint Hill",
+    "Indian Trail",
+    "Stallings",
+    "Waxhaw",
+    "Weddington",
+    "Davidson",
+    "Kannapolis",
+    "Harrisburg",
+    "Belmont",
+    "Mount Holly",
+    "Rock Hill, SC",
+    "Fort Mill, SC",
+    "Tega Cay, SC",
+    "Lake Wylie, SC"
+  ],
+  "queries": [
+    "managed service provider",
+    "IT support company",
+    "outsourced IT"
+  ],
+  "max_candidates": 50
+}

@@ -20,7 +20,26 @@
       "Smyrna"
     ],
     "count": 26,
-    "updated": "2026-10-29"
+    "updated": "2026-10-30"
+  },
+  {
+    "slug": "charlotte",
+    "name": "Charlotte",
+    "state": "north-carolina",
+    "stateName": "North Carolina",
+    "stateCode": "NC",
+    "areas": [
+      "Charlotte",
+      "Concord",
+      "Huntersville",
+      "Matthews",
+      "Mooresville",
+      "Gastonia",
+      "Cornelius",
+      "Monroe"
+    ],
+    "count": 20,
+    "updated": "2026-10-30"
   },
   {
     "slug": "dallas",
@@ -42,7 +61,7 @@
       "Arlington"
     ],
     "count": 25,
-    "updated": "2026-10-29"
+    "updated": "2026-10-30"
   },
   {
     "slug": "fort-lauderdale",
@@ -63,7 +82,7 @@
       "Deerfield Beach"
     ],
     "count": 34,
-    "updated": "2026-10-29"
+    "updated": "2026-10-30"
   },
   {
     "slug": "fort-myers",
@@ -81,7 +100,7 @@
       "Fort Myers Beach"
     ],
     "count": 25,
-    "updated": "2026-10-29"
+    "updated": "2026-10-30"
   },
   {
     "slug": "houston",
@@ -103,7 +122,7 @@
       "League City"
     ],
     "count": 26,
-    "updated": "2026-10-29"
+    "updated": "2026-10-30"
   },
   {
     "slug": "jacksonville",
@@ -121,7 +140,7 @@
       "Fernandina Beach"
     ],
     "count": 32,
-    "updated": "2026-10-29"
+    "updated": "2026-10-30"
   },
   {
     "slug": "madison",
@@ -140,7 +159,7 @@
       "Stoughton"
     ],
     "count": 25,
-    "updated": "2026-10-29"
+    "updated": "2026-10-30"
   },
   {
     "slug": "melbourne",
@@ -159,7 +178,7 @@
       "Cocoa Beach"
     ],
     "count": 7,
-    "updated": "2026-10-29"
+    "updated": "2026-10-30"
   },
   {
     "slug": "miami",
@@ -179,7 +198,7 @@
       "North Miami"
     ],
     "count": 35,
-    "updated": "2026-10-29"
+    "updated": "2026-10-30"
   },
   {
     "slug": "orlando",
@@ -201,7 +220,7 @@
       "Kissimmee"
     ],
     "count": 111,
-    "updated": "2026-10-29"
+    "updated": "2026-10-30"
   },
   {
     "slug": "sarasota",
@@ -218,7 +237,7 @@
       "Palmetto"
     ],
     "count": 14,
-    "updated": "2026-10-29"
+    "updated": "2026-10-30"
   },
   {
     "slug": "tampa",
@@ -239,7 +258,7 @@
       "Pinellas Park"
     ],
     "count": 34,
-    "updated": "2026-10-29"
+    "updated": "2026-10-30"
   },
   {
     "slug": "west-palm-beach",
@@ -259,6 +278,6 @@
       "Royal Palm Beach"
     ],
     "count": 29,
-    "updated": "2026-10-29"
+    "updated": "2026-10-30"
   }
 ]

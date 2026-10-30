@@ -24,7 +24,7 @@ from pydantic import BaseModel, Field
 import batching
 from classify import DEFAULT_MODEL, cost_of
 from common import city_dir, load_city, load_env
-from export_web import is_local, town_key
+from export_web import is_local, metro_towns
 
 
 class Writeup(BaseModel):
@@ -71,7 +71,7 @@ def main():
     base = city_dir(config)
     out_dir = base / "writeup"
     out_dir.mkdir(parents=True, exist_ok=True)
-    metro_towns = {town_key(area): area for area in config["areas"] + config.get("nearby_towns", [])}
+    towns = metro_towns(config)
 
     todo, not_local = {}, 0
     with open(base / "msps.csv", newline="") as handle:
@@ -87,7 +87,7 @@ def main():
             if not contact or not site["pages"]:
                 continue
             # Write only for MSPs the export will publish; held companies don't need one.
-            if row.get("local_ok") != "yes" and not is_local(contact, metro_towns):
+            if row.get("local_ok") != "yes" and not is_local(contact, towns):
                 not_local += 1
                 continue
             todo[row["place_id"]] = writeup_params(args.model, contact["company_name"], site)
