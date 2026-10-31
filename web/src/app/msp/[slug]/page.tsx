@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { FaqSection } from "@/components/BestList";
+import { ClaimForm, Reviews, reviewsFor } from "@/components/Forms";
 import { HowItCompares } from "@/components/Insights";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { JsonLd } from "@/components/JsonLd";
@@ -241,15 +242,11 @@ export default async function MspPage({ params }: PageProps<"/msp/[slug]">) {
               )}
             </div>
           </Section>
-          <div className="rounded-xl border border-dashed border-slate-300 p-5 text-sm text-slate-600">
-            <p className="font-medium text-slate-900">Own this business?</p>
-            <p className="mt-1">
-              Details are summarized from {hostname(msp.website)}.
-              Listing claims, so you can update your profile, are coming soon.
-            </p>
-          </div>
+          <ClaimForm slug={msp.slug} name={msp.name} />
         </aside>
       </div>
+
+      <Reviews slug={msp.slug} name={msp.name} />
 
       <HowItCompares
         name={msp.name}

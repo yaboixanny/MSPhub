@@ -95,6 +95,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
                 <li><Link href="/about" className="hover:text-slate-900">About MSP Hub</Link></li>
                 <li><Link href="/how-we-rank" className="hover:text-slate-900">How we rank MSPs</Link></li>
                 <li><Link href="/search" className="hover:text-slate-900">Search the database</Link></li>
+                <li><Link href="/contact" className="hover:text-slate-900">Contact and corrections</Link></li>
               </ul>
             </div>
           </div>

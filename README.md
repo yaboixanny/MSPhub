@@ -111,6 +111,21 @@ host can serve it. It's deployed on Netlify (https://msphub.netlify.app) using
 `netlify.toml`; every push to `main` redeploys. Canonical URLs use Netlify's site
 address automatically; set `NEXT_PUBLIC_SITE_URL` once a custom domain is connected.
 
+## Forms, claims and reviews
+
+Profiles have a "Claim or correct this listing" form and a "Write a review" form, and
+`/contact` has a general one. They're plain HTML posted to Netlify Forms (no
+JavaScript, no public email, a honeypot instead of a CAPTCHA); Netlify detects them
+on deploy, and submissions appear under Forms in the Netlify dashboard (turn on email
+notifications there). Nothing publishes automatically:
+
+- **Claims/corrections:** check the sender's email domain matches the company's website,
+  verify the change against the site, then update the data or `local_ok` and re-export.
+- **Reviews:** approve only reviews whose email is a work address that isn't the
+  company's own domain, then add them to `web/src/data/reviews.json` as
+  `{"<slug>": [{"rating": 5, "text": "...", "author": "Dana R.", "role": "Office manager, dental practice", "date": "Nov 2026"}]}`.
+  Never publish the email. Reviews don't change the MSP Hub Score.
+
 ## SEO
 
 Every location page targets "best MSPs in <place>" searches: keyword titles with

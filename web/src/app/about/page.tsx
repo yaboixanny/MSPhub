@@ -91,7 +91,7 @@ export default function AboutPage() {
             with your company name and website.
           </>
         ) : (
-          <>contact us. Listing claims, so you can update your own profile, are coming soon.</>
+          <>use the <Link href="/contact" className="text-brand-600 hover:underline">contact form</Link>, or &ldquo;Claim or correct this listing&rdquo; on your profile.</>
         )}{" "}
         We check every change against your website before publishing it.
       </p>

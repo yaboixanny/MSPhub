@@ -48,8 +48,8 @@ export default function HowWeRank() {
       </div>
       <p className="mt-4">
         The score measures what a provider shows publicly, not how good its service is. A great MSP with a sparse
-        website can score lower than it deserves, which is one reason providers will soon be able to claim and update
-        their listings.
+        website can score lower than it deserves, which is one reason providers can claim and correct
+        their listings. Reviews from verified clients are shown on profiles but do not change the score.
       </p>
 
       <h2 className="mt-10 text-xl font-semibold text-slate-900">3. Reviews</h2>
@@ -63,7 +63,7 @@ export default function HowWeRank() {
       <p className="mt-2">
         Company names, phone numbers, addresses, services, industries, compliance support, founding year and pricing all
         come from each provider&apos;s own website and are summarized in our words. If something is out of date, providers
-        will soon be able to claim and update their listing.
+        can claim and correct their listing on its profile page.
       </p>
 
       <h2 className="mt-10 text-xl font-semibold text-slate-900">5. No paid rankings</h2>

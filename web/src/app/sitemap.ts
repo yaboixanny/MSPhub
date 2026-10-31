@@ -13,6 +13,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/united-states`, lastModified: updated },
     { url: `${SITE_URL}/how-we-rank` },
     { url: `${SITE_URL}/about` },
+    { url: `${SITE_URL}/contact` },
     // States without listings are noindex, so only covered states go in the sitemap.
     ...getCoveredStates().map((state) => ({ url: `${SITE_URL}/${state.slug}`, lastModified: updated })),
     ...cities.flatMap((city) => [

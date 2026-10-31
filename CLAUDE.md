@@ -54,7 +54,7 @@ Claude-written metro note from `scripts/market_notes.py`. That script gives the 
 aggregate numbers, rejects any number it wasn't given, and the site ignores a note whose
 MSP count no longer matches, so run it after every export. Never invent or copy reviews,
 prices or editorial opinions: reviews only come from reviewers verified and approved on
-MSP Hub itself, and are never scraped from Clutch, G2, Google or similar.
+MSP Hub itself, and are never scraped from Clutch, G2, Google or similar (moderation steps are in README.md).
 
 ## Trust pages
 
