@@ -4,9 +4,11 @@ import { notFound } from "next/navigation";
 import { HowWePicked, LocationFaq, TopList } from "@/components/BestList";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { CityDirectory } from "@/components/CityDirectory";
+import { MarketNotes, marketNote } from "@/components/Insights";
 import { JsonLd } from "@/components/JsonLd";
-import { getAreas, getCities, getCity, getCityMsps, topValues } from "@/lib/data";
+import { getAllMsps, getAreas, getCities, getCity, getCityMsps, topValues } from "@/lib/data";
 import { toDirectory } from "@/lib/directory";
+import { metroDifferences } from "@/lib/insights";
 import { INDUSTRY_LABELS, label } from "@/lib/labels";
 import { bestDescription, bestTitle, freshness, locationFaqs, topCount } from "@/lib/seo";
 import { SITE_URL } from "@/lib/site";
@@ -131,6 +133,12 @@ export default async function CityPage({ params }: PageProps<"/[state]/[city]">)
         <h2 className="mb-4 text-2xl font-bold tracking-tight">All {msps.length} MSPs in {place}</h2>
         <CityDirectory msps={toDirectory(msps)} />
       </section>
+
+      <MarketNotes
+        place={place}
+        differences={metroDifferences(place, msps, getAllMsps())}
+        note={marketNote(state, citySlug, msps.length)}
+      />
 
       <div className="mt-12">
         <LocationFaq place={place} faqs={locationFaqs(place, msps, areas)} />

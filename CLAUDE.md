@@ -46,6 +46,16 @@ work, what stands out) plus `profileFaqs()`. Every new city runs writeup.py befo
 export. Write-ups state only what the company's site says, attribute claims to the
 company, and avoid marketing language.
 
+## Original content (beyond the companies' own sites)
+
+Metro pages show `MarketNotes` and profiles show `HowItCompares` (`web/src/lib/insights.ts`,
+`web/src/components/Insights.tsx`): comparisons computed from MSP Hub's own data, plus a
+Claude-written metro note from `scripts/market_notes.py`. That script gives the model only
+aggregate numbers, rejects any number it wasn't given, and the site ignores a note whose
+MSP count no longer matches, so run it after every export. Never invent or copy reviews,
+prices or editorial opinions: reviews only come from reviewers verified and approved on
+MSP Hub itself, and are never scraped from Clutch, G2, Google or similar.
+
 ## Trust pages
 
 `/about` (mission, how listings are built, editorial independence, corrections)

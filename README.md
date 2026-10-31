@@ -27,6 +27,7 @@ center point, radius and `max_candidates`. Working files land in `data/<state>/<
 | 5. Profile write-ups | `scripts/writeup.py <config>` | `writeup/*.json`: 150-250 word overview per MSP for its profile page (only MSPs that pass the local check) |
 | 5b. Review | open `review.csv` | set `is_msp` to `yes`/`no` in `msps.csv` for unclear rows |
 | 6. Export | `scripts/export_web.py` | `web/src/data/msps.json`, `cities.json`, and redirects in `web/public/_redirects` |
+| 6b. Market notes | `scripts/market_notes.py` | `web/src/data/market_notes.json`: a short buyer's note per metro with 10+ MSPs, written from aggregate numbers (run after each export) |
 | 7. Purge | `scripts/purge.py <config>` | deletes discovery data (`places.csv`) once the city's review is done |
 
 Run each with `.venv/bin/python` and the city config, e.g.

@@ -1,0 +1,128 @@
+{
+  "florida/fort-lauderdale": {
+    "count": 34,
+    "overview": "This note covers 34 managed IT providers listed for Fort Lauderdale, FL, out of 461 listed across all metros. Providers list a median of 22.0 years in business. 68 percent describe their pricing, compared with 62 percent across all metros. Providers list HIPAA support at 62 percent, above the 57 percent across all metros, while PCI DSS is at 32 percent, NIST at 24 percent, and CMMC at 18 percent, below the 23 percent across all metros for CMMC. Healthcare appears in 27 provider listings, legal in 22, accounting and finance in 22, and nonprofit in 13. 26 percent list multiple offices. These are self-descriptions from provider websites, so buyers should verify them directly.",
+    "questions": [
+      "Your listing says you support HIPAA; which safeguards do you manage, and which remain our responsibility?",
+      "Since 68 percent of providers in this metro describe pricing, what does your quoted price cover and what is billed separately?",
+      "Since 26 percent of providers list multiple offices, how do you handle on-site response to our location?"
+    ]
+  },
+  "florida/fort-myers": {
+    "count": 25,
+    "overview": "Twenty-five managed IT providers in the Fort Myers, FL metro are listed in this directory, out of 461 listed across all metros. The median provider has been in business for 20.0 years. Providers list pricing details in 48% of listings, compared with 62% across all metros. Compliance support is listed most often for HIPAA at 52%, followed by PCI DSS at 32%, CMMC at 16%, and NIST at 12%. Healthcare is named by 17 providers, legal by 13, accounting and finance by 12, and construction by 11. Also, 28% list multiple offices. These are self-descriptions, so buyers should confirm details directly with each provider.",
+    "questions": [
+      "Since only 48% of providers here list pricing details, what does your quote include and what is left out?",
+      "Which of HIPAA, PCI DSS, CMMC, or NIST do you support, and can you show documentation for the one that applies to us?",
+      "Since 28% of providers list multiple offices, how do you handle on-site response when our office is not near your main location?"
+    ]
+  },
+  "florida/jacksonville": {
+    "count": 32,
+    "overview": "This note covers 32 managed IT providers listed for Jacksonville, FL, out of 461 listed across all metros. Providers list a median of 26.5 years in business. Of these providers, 62% describe their pricing, the same share as across all metros. Providers list HIPAA support at 62%, compared with 57% across all metros, and CMMC support at 41%, compared with 23% across all metros. PCI DSS is named by 38% and NIST by 28%. Healthcare is the industry most often named, with 23 providers, followed by legal with 20, and construction and accounting_finance with 16 each. Providers list multiple offices at 31%. These are self-descriptions from provider websites, so they show what providers say about themselves rather than verified performance.",
+    "questions": [
+      "Since 62% of providers here list HIPAA support, how do you handle HIPAA compliance for a healthcare client like ours?",
+      "Since 41% of providers list CMMC support, which CMMC requirements do you cover, and what would you need from us to start?",
+      "Healthcare, legal, and construction are commonly named industries here, so how much experience do you have with firms in our sector?"
+    ]
+  },
+  "florida/miami": {
+    "count": 35,
+    "overview": "Of the 35 managed IT providers listed for Miami, FL, the median provider reports 23 years in business. 80 percent describe their pricing, compared with 62 percent across all 461 listed metros, so buyers here will find more pricing information on provider sites than the wider directory shows. Providers list HIPAA support most often at 49 percent, followed by PCI DSS at 26 percent, SOC 2 at 20 percent, and NIST at 14 percent, while HIPAA appears at 57 percent across all metros. Accounting and finance and legal are each named by 22 providers, healthcare by 21, and professional services by 13. Only 23 percent list multiple offices. These are self-descriptions from provider websites, not verified claims about service quality.",
+    "questions": [
+      "Providers here list a median of 23 years in business, so how many years has your firm been operating and how long have you served clients like us?",
+      "Since 49 percent of listed providers describe HIPAA support, which HIPAA safeguards do you handle directly and which would fall to our internal staff?",
+      "With only 23 percent of listed providers naming multiple offices, how would your team respond to an on-site problem at our location?"
+    ]
+  },
+  "florida/orlando": {
+    "count": 111,
+    "overview": "Orlando lists 111 managed IT providers on this directory, out of 461 across all metros, with a median of 23.5 years in business according to their own websites. Providers list pricing details at a rate of 56 percent, compared with 62 percent across all metros. HIPAA support is the most common compliance claim at 52 percent, against 57 percent across all metros, while PCI DSS is listed at 23 percent, CMMC at 21 percent, and NIST at 18 percent. Healthcare is the most frequently named industry, cited by 72 providers, followed by legal at 50, accounting and finance at 49, and manufacturing at 42. Only 21 percent say they have multiple offices. These are self-descriptions, so buyers should verify them directly.",
+    "questions": [
+      "How do you handle HIPAA compliance for a practice our size, and what documentation can you provide?",
+      "Do you publish your pricing, and how is it structured for a firm with several offices?",
+      "How long has your firm operated, and can you share references from clients in healthcare or legal work?"
+    ]
+  },
+  "florida/sarasota": {
+    "count": 14,
+    "overview": "Sarasota, FL has 14 managed IT providers listed in this directory, compared with 461 listed across all metros. Providers list a median of 18.0 years in business. 57 percent of Sarasota providers describe pricing on their websites, against 62 percent across all metros. Compliance claims are less common here than elsewhere: 43 percent list HIPAA support versus 57 percent across all metros, and 14 percent list CMMC support versus 23 percent. Healthcare, accounting and finance, manufacturing and construction are each named by 8 or 9 providers. 36 percent list multiple offices. These are self-descriptions, so a buyer should confirm claims directly.",
+    "questions": [
+      "Which of your staff hold HIPAA-related experience, given that 43 percent of Sarasota providers list HIPAA support?",
+      "How do you price your services, since 57 percent of Sarasota providers describe pricing on their websites?",
+      "How many of your offices would serve us directly, given that 36 percent of providers here list multiple offices?"
+    ]
+  },
+  "florida/tampa": {
+    "count": 34,
+    "overview": "Tampa, FL has 34 managed IT providers in this directory, out of 461 listed across all metros. Providers list a median of 21 years in business. Pricing is described by 47 percent of Tampa providers, compared with 62 percent across all metros. HIPAA support is listed by 56 percent of Tampa providers, close to the 57 percent across all metros, while PCI DSS at 29 percent, NIST at 26 percent, and CMMC at 26 percent are listed less often. Healthcare appears in 22 provider profiles, legal in 19, manufacturing in 19, and accounting and finance in 16. Providers list multiple offices at a rate of 29 percent.",
+    "questions": [
+      "Since 47 percent of Tampa providers describe pricing, what does your pricing include and how is it structured?",
+      "Only 26 percent of Tampa providers list NIST support, so how do you document NIST-aligned controls for our environment?",
+      "With 29 percent of providers listing multiple offices, which office would handle our account and how is response coverage arranged?"
+    ]
+  },
+  "florida/west-palm-beach": {
+    "count": 29,
+    "overview": "West Palm Beach has 29 managed IT providers listed in this directory, compared with 461 across all metros. Providers list a median of 22.0 years in business. About half, 52 percent, describe their pricing, against 62 percent across all metros, so buyers may need to request cost details directly. For compliance, 52 percent list HIPAA support, while PCI DSS, NIST and SOC 2 each appear at 14, 10 and 10 percent. Healthcare (17 providers), legal (15), accounting and finance (14) and manufacturing (13) are the industries named most often. 24 percent list multiple offices. These are self-descriptions from provider websites, not verified results.",
+    "questions": [
+      "Your pricing isn't listed on your site, so what does a typical engagement cost for a firm our size?",
+      "Which HIPAA requirements do you support for clients like ours, and how do you document that support?",
+      "You list multiple offices, so who would be assigned to our site, and how quickly could a technician arrive on-site?"
+    ]
+  },
+  "georgia/atlanta": {
+    "count": 26,
+    "overview": "Atlanta, GA has 26 managed IT providers listed, out of 461 listed across all metros. Providers list a median of 20.5 years in business, and 62 percent describe their pricing, the same share as across all metros. Compliance claims stand out: 88 percent list HIPAA support, compared with 57 percent across all metros, while PCI DSS, NIST and CMMC are each listed by 42 percent or fewer. Healthcare is the industry named most often, by 24 providers, followed by legal with 18 and accounting and finance with 17. Also, 23 percent list multiple offices. These are self-descriptions from provider websites, not verified results, so a buyer should check each claim directly.",
+    "questions": [
+      "Which parts of your HIPAA support, listed by 88 percent of providers here, cover the specific controls my organization needs, and how are they documented?",
+      "Since 62 percent of providers here describe their pricing, can you give me a written estimate that lists every recurring and one-time fee?",
+      "Since 23 percent of providers here list multiple offices, which office would handle my account and what is its guaranteed response time?"
+    ]
+  },
+  "north-carolina/charlotte": {
+    "count": 20,
+    "overview": "This directory note covers 20 managed IT providers listed for Charlotte, NC, out of 461 listed across all metros. Providers list a median of 25.0 years in business. 55% describe pricing on their websites, compared with 62% across all metros. HIPAA support is listed by 40% of Charlotte providers, against 57% across all metros, while NIST is listed by 30%, CMMC by 15%, and PCI DSS by 15%. Manufacturing (15 providers), healthcare (14), and accounting and finance (14) are the industries named most often, and 20% list multiple offices. Buyers should read these as what providers say about themselves, not as verified performance.",
+    "questions": [
+      "Do you support HIPAA compliance, given that 40% of Charlotte providers list it and 57% do across all metros?",
+      "Can you share your pricing structure, since 55% of Charlotte providers describe pricing compared with 62% across all metros?",
+      "Do you operate multiple offices, since 20% of listed Charlotte providers do, and where would my support team be based?"
+    ]
+  },
+  "tennessee/nashville": {
+    "count": 18,
+    "overview": "Nashville, TN has 18 managed IT providers listed here, out of 461 across all metros. Providers list a median of 29.0 years in business. Of these providers, 56 percent describe pricing, compared with 62 percent across all metros. HIPAA support is listed by 56 percent of Nashville providers, compared with 57 percent across all metros, while FINRA/SEC support is listed by 22 percent, against 8 percent across all metros. Healthcare and accounting and finance are each named by 11 providers, and 44 percent list multiple offices. These are self-descriptions, so buyers should confirm each claim directly.",
+    "questions": [
+      "Since 56 percent of providers here list HIPAA support, which HIPAA controls do you run yourselves and which do you hand off to others?",
+      "Since 56 percent of providers here describe pricing, can you give us a written price breakdown based on our number of users and devices?",
+      "Since 44 percent of providers here list multiple offices, which office would serve our account and who would be our main day-to-day contact?"
+    ]
+  },
+  "texas/dallas": {
+    "count": 25,
+    "overview": "Dallas, TX has 25 managed IT providers listed in this directory, out of 461 listed across all metros. Providers list a median of 23.0 years in business. Of these providers, 80 percent describe their pricing, compared with 62 percent across all metros. HIPAA support is listed by 80 percent of Dallas providers, against 57 percent across all metros, while PCI DSS is listed by 48 percent, NIST by 40 percent, and CMMC by 32 percent. Healthcare, accounting and finance, legal, and nonprofit are the sectors providers name most often, with 21, 19, 17, and 16 mentions. Also, 56 percent list multiple offices. These are self-descriptions, so buyers should verify them directly.",
+    "questions": [
+      "Your listing describes your pricing; what does a typical engagement include, and what is excluded?",
+      "Which HIPAA requirements do you support, given that 80 percent of Dallas providers list HIPAA support?",
+      "Can you share examples of work for accounting, finance, or legal clients, given that 19 and 17 providers name those sectors?"
+    ]
+  },
+  "texas/houston": {
+    "count": 26,
+    "overview": "Of the 26 managed IT providers listed for Houston, TX, providers list a median of 21 years in business. Most describe their pricing (88%), compared with 62% across all 461 listed metros. Providers list HIPAA support at 69%, CMMC at 50%, and NIST and PCI DSS at 35% each. Against the all-metro figures, HIPAA (57%) and CMMC (23%) appear more often here. Healthcare (23), manufacturing (21), accounting and finance (21), and legal (20) are the industries providers name most often, and 23% list multiple offices. These are self-descriptions from provider websites, so they show what providers say rather than how well they perform.",
+    "questions": [
+      "Which HIPAA compliance services do you provide, and how do you document them for a healthcare client?",
+      "Can you walk us through how your pricing works, since 88% of listed providers describe theirs?",
+      "You list multiple offices, so how would that affect response times for our site?"
+    ]
+  },
+  "wisconsin/madison": {
+    "count": 25,
+    "overview": "Madison, WI has 25 managed IT providers listed in this directory, out of 461 across all metros. The median provider has been in business for 27 years. 64% of Madison providers describe pricing on their websites, compared with 62% across all metros. Compliance support is described most often for HIPAA, at 48%, versus 57% across all metros, while PCI DSS is listed at 28%, NIST at 20%, and CMMC at 20%. Healthcare and manufacturing are each named by 13 providers, accounting and finance by 12, and nonprofits by 9. Providers list their own claims, so buyers should verify them directly.",
+    "questions": [
+      "Since 48% of Madison providers list HIPAA support, how do you handle HIPAA compliance responsibilities for our organization?",
+      "Since 64% of providers here describe pricing, what exactly is included in your quoted rate and what is billed separately?",
+      "With a median of 27 years in business among Madison providers, how long has your firm supported clients in healthcare or manufacturing?"
+    ]
+  }
+}

@@ -2,12 +2,14 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { FaqSection } from "@/components/BestList";
+import { HowItCompares } from "@/components/Insights";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { JsonLd } from "@/components/JsonLd";
 import { GoogleReviewsLink } from "@/components/GoogleReviewsLink";
 import { ScoreBadge } from "@/components/ScoreBadge";
 import { getAllMsps, getArea, getCity, getCityMsps, getCityRank, getMsp, placeName, slugify } from "@/lib/data";
 import { INDUSTRY_LABELS, SERVICE_LABELS, label } from "@/lib/labels";
+import { profileInsights } from "@/lib/insights";
 import { SCORE_PARTS } from "@/lib/score";
 import { profileFaqs } from "@/lib/seo";
 
@@ -248,6 +250,12 @@ export default async function MspPage({ params }: PageProps<"/msp/[slug]">) {
           </div>
         </aside>
       </div>
+
+      <HowItCompares
+        name={msp.name}
+        place={city.name}
+        lines={profileInsights(msp, getCityMsps(msp.state, msp.city), city.name, Number(city.updated.slice(0, 4)))}
+      />
 
       <div className="mt-12">
         <FaqSection title={`Frequently asked questions about ${msp.name}`} faqs={profileFaqs(msp, city, rank, placeName(msp))} />
