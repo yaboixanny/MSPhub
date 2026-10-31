@@ -1,0 +1,44 @@
+{
+  "city": "Nashville",
+  "state": "Tennessee",
+  "state_code": "TN",
+  "slug": "nashville",
+  "state_slug": "tennessee",
+  "center": {
+    "lat": 36.1627,
+    "lng": -86.7816
+  },
+  "radius_miles": 30,
+  "areas": [
+    "Nashville",
+    "Franklin",
+    "Brentwood",
+    "Murfreesboro",
+    "Hendersonville",
+    "Mount Juliet",
+    "Smyrna",
+    "Gallatin"
+  ],
+  "nearby_towns": [
+    "Spring Hill",
+    "Lebanon",
+    "Goodlettsville",
+    "Antioch",
+    "Madison",
+    "Hermitage",
+    "Old Hickory",
+    "La Vergne",
+    "Nolensville",
+    "Thompson's Station",
+    "Bellevue",
+    "Donelson",
+    "White House",
+    "Columbia"
+  ],
+  "queries": [
+    "managed service provider",
+    "IT support company",
+    "outsourced IT"
+  ],
+  "max_candidates": 50
+}

@@ -12726,6 +12726,906 @@
     "state": "florida"
   },
   {
+    "slug": "business-system-solutions",
+    "name": "Business System Solutions",
+    "summary": "Business System Solutions is an IT provider serving businesses in North Central Indiana and Middle Tennessee, with offices in West Lafayette, IN and Murfreesboro, TN. It offers managed IT on a flat monthly fee, help desk support, network monitoring, backup and recovery, cybersecurity layers, VoIP phone systems and dedicated account management.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "hardware_procurement"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": 1995,
+    "teamSize": null,
+    "serviceArea": "North Central Indiana and Middle Tennessee",
+    "pricing": "Flat monthly fee per managed IT service with no surprise invoices",
+    "website": "https://www.bssconsulting.com/",
+    "phone": "765-742-3440",
+    "addresses": [
+      "1026 W College St, Murfreesboro, TN 37129",
+      "1211 Cumberland Avenue, West Lafayette, IN 47906"
+    ],
+    "town": "Murfreesboro",
+    "linkedin": " https://www.linkedin.com/company/bssconsulting",
+    "writeup": {
+      "what_they_do": "Business System Solutions is a managed IT provider offering help desk and user support, managed IT services covering vendors and equipment, data backup and recovery, cybersecurity, VoIP phone systems, IT consulting, virtualization, and cloud services. Its security offerings include security awareness training, endpoint protection, multi-factor authentication, dark web research, and managed detection and response.",
+      "who_they_serve": "The company serves businesses in North Central Indiana and Middle Tennessee, with offices in West Lafayette, Indiana and Murfreesboro, Tennessee. The site does not specify business sizes or industries beyond a sample client in the accounting field.",
+      "how_they_work": "Managed services are billed at a flat monthly rate with no surprise invoices, and the company provides a dedicated Account Manager, regular check-ins and monthly reports. Many issues are resolved remotely, with on-site visits when needed, and the site states a guaranteed emergency response time of one hour or less.",
+      "what_stands_out": "Founded in 1995, the company offers a 100% satisfaction guarantee and states its technicians have at least 5 to 10 years of experience. The site also describes a 13-year client relationship and an online service ticket system."
+    },
+    "city": "nashville",
+    "state": "tennessee"
+  },
+  {
+    "slug": "cloudsmart-it",
+    "name": "CloudSmart IT",
+    "summary": "CloudSmart IT is a Middle Tennessee managed IT provider based in Franklin and Brentwood, offering ongoing support, cloud services, Microsoft 365 and SaaS management, managed cybersecurity with MDR, and VoIP phone systems. It serves finance, nonprofit and faith-based organizations, municipalities, manufacturing, real estate closing attorneys and healthcare clients, and bundles strategic CIO-level planning into its support packages.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "nonprofit",
+      "government",
+      "manufacturing",
+      "real_estate"
+    ],
+    "compliance": [
+      "HIPAA",
+      "NIST",
+      "FINRA/SEC"
+    ],
+    "partners": [
+      "Blackpoint",
+      "Webroot",
+      "Duo Security",
+      "Mailprotector",
+      "Help Desk Heroes"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Franklin, Brentwood and Middle Tennessee including Nashville, Murfreesboro, Columbia, Spring Hill, Clarksville and Bellevue",
+    "pricing": null,
+    "website": "https://cloudsmartit.com/",
+    "phone": "(615) 610-3500",
+    "addresses": [
+      "5214 Maryland Way, Suite 200, Brentwood, TN 37027"
+    ],
+    "town": "Brentwood",
+    "linkedin": "https://www.linkedin.com/company/cloudsmartit/",
+    "writeup": {
+      "what_they_do": "CloudSmart IT is a managed IT services provider offering managed IT support, cybersecurity, cloud computing and Microsoft 365/SaaS, and VoIP phone systems. The company states that each managed IT package includes CIO-level strategic consulting, and its service list also covers desktop support, data backup, email protection, disaster recovery and virtualization.",
+      "who_they_serve": "The company says it serves businesses of all sizes in the Nashville area, including Franklin, Brentwood, Murfreesboro, Columbia and Spring Hill, with named focus on finance, manufacturing, healthcare, non-profits and faith-based organizations, municipalities, and real estate closing attorneys.",
+      "how_they_work": "The site describes dedicated local teams across Middle Tennessee and a Helpdesk Heroes support approach, and offers a free 15-minute consultation call. Pricing is described as affordable and optimized, but the site does not publish specific pricing models, support hours or contract terms.",
+      "what_stands_out": "The company states it has been in business for over 20 years and says it works with Blackpoint for managed detection and response and with NetEvidence for municipal compliance work. Testimonials on the site report response times of around 10 minutes, though these are customer-provided claims."
+    },
+    "city": "nashville",
+    "state": "tennessee"
+  },
+  {
+    "slug": "imagequest",
+    "name": "ImageQuest",
+    "summary": "ImageQuest is a Nashville-area IT provider offering managed IT, managed cloud, co-managed IT and cybersecurity services, with a focus on clients in regulated industries such as banking, healthcare, legal, insurance and nonprofits. The company also offers compliance support, virtual CISO services and help desk support.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "insurance",
+      "nonprofit"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "NIST"
+    ],
+    "partners": [
+      "Microsoft Solutions Partner"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Nashville, TN and surrounding areas",
+    "pricing": null,
+    "website": "https://www.imagequest.com/",
+    "phone": "(629) 240-7330",
+    "addresses": [
+      "7100 Commerce Way, Suite 175, Brentwood, TN 37027",
+      "815 Airpark Center Dr, Nashville, TN 37217"
+    ],
+    "town": "Brentwood",
+    "linkedin": "https://www.linkedin.com/company/imagequest_2/",
+    "writeup": {
+      "what_they_do": "ImageQuest provides managed IT, managed cloud, and co-managed IT services alongside cybersecurity, IT compliance, and Virtual CISO offerings. Its cybersecurity portfolio includes SecOps, incident response, vulnerability management, security awareness training, and business continuity services.",
+      "who_they_serve": "The company works with businesses in banking, credit unions, healthcare, insurance and benefits, legal, non-profits, and wealth management, according to its industry pages. Its service area is centered on Nashville, TN and the surrounding area, and its cybersecurity page describes work with mid-sized and large organizations.",
+      "how_they_work": "Managed IT engagements begin with a consultation, followed by an assessment of compatibility and a detailed quote tailored to the client's needs. The company states its managed IT services are transparent about what is needed and what it will cost, and lists customer service desk hours as Monday through Friday, 7am to 6pm CT.",
+      "what_stands_out": "The company states it has a 90% client retention record for its legal clients and offers a 24-7-365 Security Operations Center. Its founder, Milton Bartley, is described as a US Army combat veteran, and the site cites a client, Houchens Insurance Group, reporting revenue growth from $60 million to $80 million during the engagement."
+    },
+    "city": "nashville",
+    "state": "tennessee"
+  },
+  {
+    "slug": "concept-technology-inc",
+    "name": "Concept Technology Inc.",
+    "summary": "Concept Technology Inc. is an independently owned IT company in Nashville, Tennessee, offering network and systems administration, user helpdesk support, information security monitoring, IT strategy consulting and hardware procurement. It serves healthcare, nonprofit, architecture-engineering-construction, manufacturing, logistics, property management, private capital and professional services clients in Middle Tennessee.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "network_infrastructure",
+      "it_strategy_vcio",
+      "hardware_procurement",
+      "backup_disaster_recovery",
+      "cloud_microsoft_365"
+    ],
+    "industries": [
+      "healthcare",
+      "nonprofit",
+      "engineering_architecture",
+      "manufacturing",
+      "logistics",
+      "real_estate",
+      "accounting_finance",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "SOC 2"
+    ],
+    "partners": [],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Nashville and Middle Tennessee",
+    "pricing": "Monthly per-user billing with tiered plans, described as simple and transparent",
+    "website": "https://concepttechnologyinc.com/",
+    "phone": "(615) 321-6428",
+    "addresses": [
+      "1106 17th Avenue South, Nashville, TN 37212"
+    ],
+    "town": "Nashville",
+    "linkedin": "https://www.linkedin.com/company/concept-technology/",
+    "writeup": {
+      "what_they_do": "Concept Technology Inc. is a Nashville-based managed IT service provider offering strategic IT leadership, network and systems administration, information security, professional project management, procurement, and user support. Its solutions are described as designed to function like a client's in-house IT department. Services also include IT consulting and IT outsourcing, per its site navigation.",
+      "who_they_serve": "The company works with businesses in several industries, including healthcare, nonprofits, architecture, engineering and construction, manufacturing and distribution, transportation and logistics, property management, private capital, and professional services. Its focus is on local businesses in Nashville and Middle Tennessee. The site does not state company size ranges.",
+      "how_they_work": "The company states it offers simple and transparent billing and tiered plans covering helpdesk support, monitoring, patch management, backup, and cybersecurity, with pricing cited in a site FAQ at $150-$250 per user per month. The site lists a phone number for contact and scheduling calls, but does not specify support hours or on-site versus remote delivery details.",
+      "what_stands_out": "The company describes itself as independently owned and operated and says it has served Nashville businesses for years. Its site includes client testimonials from two organizations and references award-winning status, though the site does not name specific awards."
+    },
+    "city": "nashville",
+    "state": "tennessee"
+  },
+  {
+    "slug": "johnson-business-technology-solutions",
+    "name": "Johnson Business Technology Solutions",
+    "summary": "Johnson Business Technology Solutions is a Brentwood, Tennessee IT provider offering managed IT, help desk, Microsoft 365 administration, backup and disaster recovery, and cybersecurity services. It focuses on healthcare practices and other compliance-driven organizations, and also offers vCISO, VoIP phone systems and structured cabling.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "network_infrastructure",
+      "voip_phones",
+      "structured_cabling"
+    ],
+    "industries": [
+      "healthcare",
+      "dental",
+      "accounting_finance",
+      "manufacturing",
+      "government"
+    ],
+    "compliance": [
+      "HIPAA",
+      "FTC Safeguards",
+      "PCI DSS",
+      "FINRA/SEC"
+    ],
+    "partners": [
+      "BBB A+ accredited"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Nashville and Middle Tennessee",
+    "pricing": null,
+    "website": "https://www.johnsonbts.com/",
+    "phone": "(615) 989-0000",
+    "addresses": [
+      "215 Jamestown Park Rd., Suite 200, Brentwood, TN 37027"
+    ],
+    "town": "Brentwood",
+    "linkedin": "https://www.linkedin.com/company/johnson-business-technology-solutions-inc/",
+    "writeup": {
+      "what_they_do": "Johnson Business Technology Solutions is a Nashville-area managed IT provider offering managed IT services, outsourced IT support, help desk, co-managed IT, and cybersecurity services. Its catalog also includes cloud services, data backup and recovery, disaster recovery planning, Microsoft 365 services, ransomware removal, VoIP phone systems, structured cabling, and vCISO services. Compliance offerings cover HIPAA, PCI, SEC, and FTC requirements.",
+      "who_they_serve": "The company names small and medium-sized businesses, dental, medical, financial institutions, manufacturing, and utility districts among its industries. Its service area is Nashville and Middle Tennessee, and the site lists Brentwood, TN as its office location.",
+      "how_they_work": "The company provides both onsite and remote support, and its site describes 24/7 proactive monitoring. Prospects are invited to book a 15-minute discovery call, after which the company performs a free security and network assessment and proposes a custom action plan. The site does not state pricing structure or contract terms, though it offers a downloadable guide to IT support fees.",
+      "what_stands_out": "The company reports 14 years in business, over 90 years of combined IT experience, and a BBB A+ accreditation, and it states it has been a BBB member since 2012. The site also says it provides HIPAA-focused services and dedicated IT account managers."
+    },
+    "city": "nashville",
+    "state": "tennessee"
+  },
+  {
+    "slug": "nashville-computer",
+    "name": "Nashville Computer",
+    "summary": "Nashville Computer Inc. (NCI) is an IT services firm founded in 1988 that provides outsourced IT support, IT management, help desk, cybersecurity, compliance and AI services for small and midsize businesses and nonprofits. It has offices in Brentwood, TN, Commerce, MI and Rome, GA, and serves clients in Nashville, Detroit and Atlanta areas.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "nonprofit"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": 1988,
+    "teamSize": null,
+    "serviceArea": "Nashville, TN, Detroit, MI and Atlanta, GA areas; offices in Brentwood TN, Commerce MI and Rome GA",
+    "pricing": "Predictable monthly IT costs",
+    "website": "https://www.nashvillecomputer.com/",
+    "phone": "(615) 377-0054",
+    "addresses": [
+      "277 Wilson Pike Circle, Brentwood, TN 37027",
+      "5307 Carroll Lake Road, Commerce, MI 48382",
+      "3 Central Plaza, Suite 281, Rome, GA 30161"
+    ],
+    "town": "Brentwood",
+    "linkedin": "https://www.linkedin.com/company/271295?trk=tyah",
+    "writeup": {
+      "what_they_do": "Nashville Computer (NCI) is a managed IT provider offering outsourced IT help, 24/7 help desk support, network management, proactive IT management, and business continuity and disaster recovery planning. Its services also include cybersecurity, compliance, VoIP phone systems, IT consulting, and AI business solutions.",
+      "who_they_serve": "The company says it serves small businesses and nonprofits, and its cybersecurity page refers to small and midsize businesses. It lists offices in Brentwood, TN, Commerce, MI, and Rome, GA, and says it serves clients in Nashville, Detroit, Atlanta, and surrounding areas.",
+      "how_they_work": "Services are described as customized after learning about a client's needs, goals, and budget, with predictable monthly IT costs for outsourced support. The site offers remote and onsite troubleshooting and says someone always answers the phone.",
+      "what_stands_out": "The company states it was founded in 1988 and has four team members who have been with it for 20 years. It mentions cyber insurance warranty support, phishing simulations and staff training, and access to more than 15 AI models with usage policies and audit trails."
+    },
+    "city": "nashville",
+    "state": "tennessee"
+  },
+  {
+    "slug": "absolute-business-solutions",
+    "name": "Absolute Business Solutions",
+    "summary": "Absolute Business Solutions is a Gallatin, Tennessee provider of managed IT services for small and mid-size businesses. Offerings cover proactive monitoring, help desk and user support, managed threat detection and response, backup and disaster recovery, cloud migration and network management. The firm was established in 2015 and provides phone and email support with a customer portal for service requests.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "cloud_microsoft_365",
+      "network_infrastructure",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "legal",
+      "healthcare",
+      "nonprofit"
+    ],
+    "compliance": [],
+    "partners": [
+      "Sophos"
+    ],
+    "foundedYear": 2015,
+    "teamSize": null,
+    "serviceArea": "Gallatin, TN",
+    "pricing": null,
+    "website": "https://www.absolutebusiness.solutions/",
+    "phone": null,
+    "addresses": [
+      "Gallatin, TN"
+    ],
+    "town": "Gallatin",
+    "linkedin": "https://www.linkedin.com/company/absolute-business-solutions-llc",
+    "writeup": {
+      "what_they_do": "Absolute Business Solutions, LLC is a managed IT services provider offering proactive monitoring and support, enterprise-grade cybersecurity, business continuity and backup, help desk and user support, cloud solutions and migration, and network infrastructure management. Its cybersecurity offering includes managed threat detection and response, zero-day protection, phishing and impersonation detection, ransomware prevention, and zero trust network access.",
+      "who_they_serve": "The company states it focuses on small and mid-size businesses, with experience across diverse industries, and its site lists startups and SMB and enterprise clients. Client testimonials on the site come from businesses including law firms, a museum, an urgent care practice and a design firm. The company is based in Gallatin, TN.",
+      "how_they_work": "Support is offered by phone or email and included with service, and the company lists office hours of 8am to 5pm, Monday to Friday. Services are offered in tiers named Essentials and Advanced, and initial consulting is stated to carry no additional charge. The site also describes a customer portal for tracking service requests, invoices and payments.",
+      "what_stands_out": "The company was established in 2015 by founders Rene' Vander Wielen and Michael Weber. The site states it has provided support for clients since 2017 and reports that it restored one client's operations within 48 hours after a tornado damaged its facility in 2020."
+    },
+    "city": "nashville",
+    "state": "tennessee"
+  },
+  {
+    "slug": "bluekey-it-nashville",
+    "name": "BlueKey IT",
+    "summary": "BlueKey IT provides managed and co-managed IT, help desk, cybersecurity, backup, Microsoft 365 and Google Workspace administration, and compliance support for small and mid-sized businesses. It serves regulated sectors such as healthcare, dental, law, accounting, engineering and defense contractors, with offices in six states and remote support across the US.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "dental",
+      "legal",
+      "accounting_finance",
+      "engineering_architecture",
+      "government",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "NIST",
+      "SOC 2",
+      "PCI DSS",
+      "FTC Safeguards"
+    ],
+    "partners": [
+      "Datto",
+      "RocketCyber",
+      "MSP360",
+      "CMMC Certified Professional",
+      "CyberAB Registered Practitioner"
+    ],
+    "foundedYear": 2007,
+    "teamSize": null,
+    "serviceArea": "Offices in Arizona, Utah, Colorado, Texas, Kansas and Tennessee, with remote support across the US",
+    "pricing": "Per-user and per-device monthly pricing, averaging about $100 per user per month with a 10-user minimum; month-to-month or annual agreements",
+    "website": "https://bluekeyit.com/",
+    "phone": "(866) 844-0536",
+    "addresses": [
+      "9005 Overlook Blvd, Brentwood, TN 37027",
+      "916 East Baseline Road, Suite 227, Mesa, AZ 85204",
+      "2819 S 5600 W, West Valley City, UT 84120",
+      "5808 S Rapp St, Suite 275, Littleton, CO 80120",
+      "1001 W Euless Blvd, Suite 308, Euless, TX 76040",
+      "12345 W 95th Street, 2nd Floor, Lenexa, KS 66215"
+    ],
+    "town": "Brentwood",
+    "linkedin": "https://www.linkedin.com/company/bluekeyit",
+    "writeup": {
+      "what_they_do": "BlueKey IT offers managed and co-managed IT services, covering help desk and workstation support, server and virtualization, networking, Microsoft 365 and Google Workspace management, 24/7 monitoring and patch management, endpoint security, backup and disaster recovery, and IT consulting with vCIO and vCISO packages. The company also offers cybersecurity and compliance services for frameworks such as CMMC, HIPAA, PCI DSS and SOC 2, along with managed AI and automation.",
+      "who_they_serve": "The company supports over 200 customers, including healthcare and medical practices, dental practices, law firms, accounting and CPA firms, architecture and engineering firms, veterinary clinics, defense contractors, and small businesses. It has offices in Arizona, Utah, Colorado, Texas, Kansas and Tennessee and provides remote support to businesses anywhere in the US.",
+      "how_they_work": "Managed IT is priced per user and per device, averaging about $100 per user per month with a 10-user minimum, while co-managed IT is priced by module and projects are quoted separately. Smaller businesses can work month to month, and larger engagements use an annual agreement with a 90-day out period at the start. Onboarding begins with a discovery call and review, followed by a proposal, and the company states first-response targets of 1 business hour for critical issues and 2 hours for high priority issues.",
+      "what_stands_out": "BlueKey IT states it has supported businesses since 2007 and has operated under its current name since 2021, and it lists CMMC Certified Professional and CyberAB Registered Practitioner credentials among its staff. The company also reports using Datto RMM, Datto EDR and a RocketCyber SOC for monitoring and endpoint security."
+    },
+    "city": "nashville",
+    "state": "tennessee"
+  },
+  {
+    "slug": "creative-consultants-group",
+    "name": "Creative Consultants Group",
+    "summary": "Creative Consultants Group is an IT services company serving small and midsize businesses since 1993, with offices across Tennessee, South Carolina and Florida. It offers flat-rate monthly managed IT with 24/7 monitoring, security-focused services, cloud, virtual CIO consulting, cabling and unified communications. The firm lists clients in education, healthcare, nonprofits, financial services and local government.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "compliance_services",
+      "structured_cabling"
+    ],
+    "industries": [
+      "healthcare",
+      "education",
+      "nonprofit",
+      "accounting_finance",
+      "government",
+      "hospitality",
+      "legal",
+      "manufacturing",
+      "construction",
+      "engineering_architecture",
+      "real_estate",
+      "professional_services"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": 1993,
+    "teamSize": null,
+    "serviceArea": "Nashville, Myrtle Beach, Florence, Charleston, Charlotte, Orlando, Tampa and Conway",
+    "pricing": "Flat monthly subscription per managed IT plan",
+    "website": "https://ccgpro.com/",
+    "phone": "(615) 600-4411",
+    "addresses": [
+      "One Vantage Way Suite E-210, Nashville, TN 37228",
+      "759 Century Cir, Conway, SC 29526"
+    ],
+    "town": "Nashville",
+    "linkedin": "https://www.linkedin.com/company/creative-consultants-group/",
+    "writeup": {
+      "what_they_do": "Creative Consultants Group (CCG) offers managed IT services with a security focus, covering network and infrastructure management, cybersecurity, cloud services, a Virtual CIO service, and IT consulting. Additional listed offerings include unified communications, managed print services, web and SEO services, and fiber and cabling infrastructure.",
+      "who_they_serve": "The company says it serves small and midsize businesses, with a focus on local businesses, and lists industries including banking and finance, construction, education, engineering, healthcare, hospitality, law firms, manufacturing, nonprofits, property management, and state and local government. Its locations listed are Nashville, Myrtle Beach, Florence, Charleston, Charlotte, Orlando, Tampa, and Conway.",
+      "how_they_work": "Managed IT services are offered on a monthly subscription with a flat-rate fee, and the company states support is unlimited with no call restrictions. Services are delivered on-site and remotely, and the company describes 24/7 threat monitoring as part of its managed security offering.",
+      "what_stands_out": "The company states it has been in business since 1993 and that its CEO has 40 years of IT experience. The site also offers a no-obligation cyber score report based on a submitted domain."
+    },
+    "city": "nashville",
+    "state": "tennessee"
+  },
+  {
+    "slug": "charger-it",
+    "name": "Charger IT",
+    "summary": "Charger IT is a Franklin, Tennessee firm providing managed and co-managed IT, cybersecurity, cloud, backup and phone systems to businesses in Middle Tennessee and across the Southeast. It also offers AI automation, AI agents and custom software, and lists industry focus areas including healthcare, legal, automotive dealerships, debt collection and financial services.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "voip_phones",
+      "network_infrastructure"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "automotive",
+      "accounting_finance",
+      "manufacturing",
+      "construction",
+      "professional_services"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS",
+      "SOC 2",
+      "FINRA/SEC",
+      "FTC Safeguards"
+    ],
+    "partners": [
+      "Microsoft Partner",
+      "CompTIA certified team",
+      "Cisco certified team",
+      "AWS certified team",
+      "Duo",
+      "Microsoft Entra ID"
+    ],
+    "foundedYear": 2009,
+    "teamSize": null,
+    "serviceArea": "Franklin, Nashville, Chattanooga, Bowling Green, Huntsville, Birmingham, Atlanta, Hattiesburg; on-site in Williamson County and remote across the Southeast",
+    "pricing": null,
+    "website": "https://www.chargerit.com/",
+    "phone": "(615) 823-3210",
+    "addresses": [
+      "206 Gothic Ct, Suite 304, Franklin, TN 37067"
+    ],
+    "town": "Franklin",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "Charger IT is a managed service provider offering managed and co-managed IT, cybersecurity, cloud services, backup and disaster recovery, VoIP and business phone systems, and AI and development work including AI automation, AI agents, AI consulting, custom software, and Power BI and Dynamics 365 support. Its managed IT includes help desk support, 24/7 monitoring, security, and backup.",
+      "who_they_serve": "The company serves small and mid-size businesses in Franklin, Nashville, and across Middle Tennessee and the Southeast, with listed service areas including Chattanooga, Bowling Green, Huntsville, Birmingham, Atlanta, and Hattiesburg. Its industry pages cover healthcare, legal, automotive dealerships, debt collection, professional services, manufacturing, construction, and financial services.",
+      "how_they_work": "The company offers on-site IT support in Franklin and Williamson County and remote support across the Southeast. Its phone support line is staffed Monday to Friday, 8am to 5pm Central, while monitoring is described as 24/7.",
+      "what_stands_out": "The company states it has been in business since 2009, with over 15 years of experience, and says its engineers hold Microsoft, CompTIA, Cisco, and AWS certifications. It reports 500+ businesses protected and a 98% client satisfaction figure, and it performs penetration testing in house using third-party testing products."
+    },
+    "city": "nashville",
+    "state": "tennessee"
+  },
+  {
+    "slug": "inception-network-strategies",
+    "name": "Inception Network Strategies",
+    "summary": "Franklin, Tennessee firm offering managed IT support, hosted VoIP phones, backup and disaster recovery, network security, and IT consulting. Serves small businesses and financial institutions across Middle Tennessee, Southern Kentucky and Northern Alabama, and says it has been operating since 2001.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "hardware_procurement"
+    ],
+    "industries": [
+      "accounting_finance"
+    ],
+    "compliance": [],
+    "partners": [],
+    "foundedYear": 2001,
+    "teamSize": null,
+    "serviceArea": "Middle Tennessee, Southern Kentucky and Northern Alabama",
+    "pricing": "Predictable monthly pricing for managed IT plans, per the site",
+    "website": "https://www.inceptionnet.com/",
+    "phone": "(615) 236-5402",
+    "addresses": [
+      "105 Southeast Parkway, Suite 116, Franklin, TN 37064"
+    ],
+    "town": "Franklin",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "Inception Network Strategies is a Franklin, TN managed IT provider offering comprehensive IT management, managed voice (hosted VoIP), cloud and local backup, network security, cybersecurity services, penetration testing, IT consulting, and hardware and software solutions. The company monitors client systems and handles help desk support as part of its managed services.",
+      "who_they_serve": "The company serves small businesses and financial institutions across Middle Tennessee, Southern Kentucky, and Northern Alabama, with clients ranging from offices of about 20 users to organizations with hundreds of employees. The site describes financial institutions and other regulated industries as part of its client base.",
+      "how_they_work": "The site describes predictable monthly pricing with no hidden fees, plans that can be adjusted as a business changes, and a local team that can provide on-site support. Managed services include around-the-clock system monitoring and a help desk, and prospective clients can request a consultation through a web form.",
+      "what_stands_out": "The company states it was founded in 2001 and has nearly 25 years of service to local businesses, and says its technicians hold certifications in networking, cybersecurity, cloud services, and business communication platforms. The site also advertises a 15% discount on the first year of services for new clients."
+    },
+    "city": "nashville",
+    "state": "tennessee"
+  },
+  {
+    "slug": "integrity-it",
+    "name": "Integrity IT",
+    "summary": "Middle Tennessee IT company offering managed IT services to small and medium businesses, typically those with 5 to 250 workstations. Services cover unlimited tech support, workstation and server monitoring and patching, Microsoft 365 backup, email phishing protection, endpoint antivirus with EDR, network monitoring, and virtual CIO consulting. Based in the Nashville area and positions itself as an outsourced IT department.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "it_strategy_vcio",
+      "hardware_procurement"
+    ],
+    "industries": [
+      "professional_services"
+    ],
+    "compliance": [],
+    "partners": [
+      "Microsoft",
+      "Ruckus",
+      "Dell"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Middle Tennessee, including Nashville",
+    "pricing": null,
+    "website": "https://www.integrityit.tech/",
+    "phone": "(615) 200-7007",
+    "addresses": [
+      "849 Aviation Parkway, Smyrna, TN 37167"
+    ],
+    "town": "Smyrna",
+    "linkedin": null,
+    "writeup": {
+      "what_they_do": "Integrity IT provides managed IT services covering unlimited remote and onsite tech support, Microsoft 365 Business Premium, backup and archiving for Microsoft 365, email phishing protection, workstation and server patching and monitoring, network performance monitoring, security awareness training, next-gen antivirus with EDR, mobile device management, and Virtual CIO strategic consulting. The company also offers backup and disaster recovery and customized IT solutions.",
+      "who_they_serve": "The company serves small and medium-sized businesses with 5 to 250 workstations, with a stated focus on businesses in Nashville and Middle Tennessee. Its site says many clients have between 10 and 150 computers and professional services firms that rely on email, line-of-business applications and their networks.",
+      "how_they_work": "The site describes an initial discovery call and a process of learning about each client's business before tailoring solutions, with support offered remotely and onsite. Quotes are provided on request after a meeting. The site does not state pricing structure or contract terms.",
+      "what_stands_out": "Integrity IT lists partnerships with Microsoft, Ruckus and Dell as key vendors and states that it bundles a wide set of services into a single point of contact. The company also describes a commitment to answering the phone promptly and resolving issues correctly the first time."
+    },
+    "city": "nashville",
+    "state": "tennessee"
+  },
+  {
+    "slug": "it-solutions-technology-partners-nashville",
+    "name": "IT Solutions Technology Partners",
+    "summary": "IT Solutions Technology Partners (ITS) is a managed IT provider serving organizations across the United States and Canada from about fifteen offices. Services include fully managed or co-managed IT, managed cybersecurity and compliance, backup and disaster recovery, cloud, AI governance, strategy, and project work. It names dedicated industry editions for healthcare, legal, financial services, and manufacturing, and assigns each client a Strategic Advisor and Technology Alignment Engineer.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services"
+    ],
+    "industries": [
+      "healthcare",
+      "legal",
+      "accounting_finance",
+      "manufacturing",
+      "construction",
+      "nonprofit",
+      "insurance",
+      "engineering_architecture",
+      "professional_services",
+      "manufacturing",
+      "real_estate"
+    ],
+    "compliance": [
+      "HIPAA",
+      "CMMC",
+      "NIST",
+      "SOC 2",
+      "PCI DSS",
+      "FINRA/SEC"
+    ],
+    "partners": [
+      "Microsoft Solutions Partner (Modern Work and Infrastructure)",
+      "Claris FileMaker Platinum Partner",
+      "SOC 2 Type II",
+      "SSAE 18 Type II",
+      "Great Place to Work Certified",
+      "CRN MSP 500",
+      "Channel Futures MSP 501"
+    ],
+    "foundedYear": 1994,
+    "teamSize": "~500",
+    "serviceArea": "United States and Canada",
+    "pricing": "Managed services billed as a predictable recurring monthly cost; project work scoped and quoted separately",
+    "website": "https://www.itsolutions-inc.com/",
+    "phone": "(866) 742-5487",
+    "addresses": [
+      "278 Franklin Rd, Building 4, Suite 350, Brentwood, TN 37027",
+      "414 Commerce Drive, Suite 150, Fort Washington, PA 19034",
+      "180 N Riverview Dr, Suite 300, Anaheim, CA 92808",
+      "4803 East 5th Street, Suite 103, Tucson, AZ 85711",
+      "6701 West 64th Street, Suite 300, Overland Park, KS 66202",
+      "1912 Innerbelt Business Center Dr, St. Louis, MO 63114",
+      "6800 Jericho Turnpike, Suite 120 W, Syosset, NY 11791",
+      "500 Harrison Ave, Suite 108, Boston, MA 02118",
+      "851 St Michaels Dr, Santa Fe, NM 87505",
+      "475 Cochrane Drive, Unit 4, Markham, ON L3R 9R5",
+      "2290 Lucien Way, Suite 330, Maitland, FL 32751"
+    ],
+    "town": "Brentwood",
+    "linkedin": "https://www.linkedin.com/company/it-solutions-consulting-llc/",
+    "writeup": {
+      "what_they_do": "IT Solutions Technology Partners is a managed service provider offering managed IT, cybersecurity and compliance, cloud (public, private on its NearCloud platform, and hybrid), AI governance, strategy and vCISO services, and professional services such as migrations and custom application development. Clients are assigned a designated Strategic Advisor and Technology Alignment Engineer who remain with the account across services.",
+      "who_they_serve": "The company says it serves organizations across the United States and Canada, with industry-specific managed IT editions for healthcare, law firms, financial services, and manufacturing. Its site also references work with construction, life sciences, nonprofit, and community banking clients.",
+      "how_they_work": "Managed services are billed as a predictable recurring monthly cost rather than hourly, with project work scoped and quoted separately and pricing following an environment assessment. Service can be fully managed, co-managed alongside an internal team, or limited to specific functions, and the company states it has 24x7 security operations coverage and a service desk.",
+      "what_stands_out": "The company states it has worked with clients since 1994 and holds SOC 2 Type II and SSAE 18 Type II attestations, Microsoft Solutions Partner designations, and Claris FileMaker Platinum Partner status. It also reports Great Place to Work Certification in the United States and Canada and named placements on the CRN MSP 500 and Channel Futures MSP 501 lists."
+    },
+    "city": "nashville",
+    "state": "tennessee"
+  },
+  {
+    "slug": "safe-network-solutions",
+    "name": "Safe Network Solutions",
+    "summary": "Nashville-based outsourced IT provider offering managed IT, co-managed IT, help desk, cybersecurity, cloud and compliance support for businesses. Says it primarily serves service businesses and healthcare clients with roughly 15 to 200 users, and describes a no-hassle performance guarantee.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "network_infrastructure",
+      "voip_phones",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "backup_disaster_recovery"
+    ],
+    "industries": [
+      "healthcare",
+      "dental",
+      "legal",
+      "accounting_finance",
+      "construction",
+      "professional_services",
+      "manufacturing",
+      "real_estate"
+    ],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS"
+    ],
+    "partners": [],
+    "foundedYear": 2006,
+    "teamSize": null,
+    "serviceArea": "Nashville, TN, including Brentwood, Franklin and Smyrna",
+    "pricing": null,
+    "website": "https://www.safenetworksolutions.com/",
+    "phone": "(615) 639-6326",
+    "addresses": [
+      "501 Metroplex Drive, Suite 115, Nashville, TN 37211"
+    ],
+    "town": "Nashville",
+    "linkedin": "https://www.linkedin.com/company/safe-network-solutions/",
+    "writeup": {
+      "what_they_do": "Safe Network Solutions is a Nashville managed IT provider offering outsourced IT support, co-managed IT for businesses with in-house staff, and strategic IT consulting and vCIO services. Its listed services also include cybersecurity assessments, awareness training, firewall management, cloud solutions for Microsoft Azure, AWS, Office 365 and hybrid environments, compliance and regulatory consulting, helpdesk, and VoIP phone systems.",
+      "who_they_serve": "The company states it serves Nashville-based businesses, typically service businesses or healthcare entities with 15 to 200 users. Its compliance pages also list industries such as recruitment firms, law firms, CPAs and financial institutions, dental and healthcare practices, construction and architectural firms, and digital printers.",
+      "how_they_work": "The company says it provides 24/7 IT services and designs custom plans, and it offers a no-hassle performance guarantee. Its service pages describe proactive monitoring, escalation support for internal IT teams, and a helpdesk and ticketing platform; the site does not state pricing or contract terms.",
+      "what_stands_out": "The company states it has served Nashville businesses since 2006 and that its team members are under confidentiality and non-disclosure agreements. It also cites over 200 Google Reviews and publishes a worry-free performance guarantee."
+    },
+    "city": "nashville",
+    "state": "tennessee"
+  },
+  {
+    "slug": "techcore",
+    "name": "TechCore",
+    "summary": "TechCore is the business IT arm of Turner Security, a Tennessee security company operating since 1976. It offers managed IT and help desk support, networking and Wi-Fi, network security, business servers, cloud services and backup, business IP phones, and computer services for small and mid-sized businesses. It has offices in Smyrna (Nashville area) and Chattanooga, works remotely first with on-site visits when needed, and lists customers across several states and Canada.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "voip_phones",
+      "it_strategy_vcio",
+      "hardware_procurement",
+      "computer_repair"
+    ],
+    "industries": [],
+    "compliance": [],
+    "partners": [
+      "Microsoft",
+      "Dell",
+      "HP",
+      "Lenovo",
+      "Sophos",
+      "SonicWall",
+      "VMware",
+      "Supermicro",
+      "Malwarebytes",
+      "Yealink",
+      "EnGenius",
+      "Eagle Eye Networks",
+      "Axis",
+      "Hanwha Vision",
+      "Brivo",
+      "Alarm.com"
+    ],
+    "foundedYear": 1976,
+    "teamSize": null,
+    "serviceArea": "Nashville, Middle Tennessee and Chattanooga, with customers nationwide",
+    "pricing": "Cloud tools billed per user per month plus one-time planning and migration; written proposals for other work",
+    "website": "https://techcore1.com/",
+    "phone": "(615) 237-5700",
+    "addresses": [
+      "106 Enon Springs Rd E, Smyrna, TN",
+      "5959 Shallowford Rd, Suite 541, Chattanooga, TN 37421"
+    ],
+    "town": "Smyrna",
+    "linkedin": "https://www.linkedin.com/company/turner-security-company/",
+    "writeup": {
+      "what_they_do": "TechCore is the business IT company behind Turner Security and provides managed IT and help desk support, networking and Wi-Fi, network security, business servers and cloud services with backup, business IP phones, and business computers including setup, repair and custom builds. Services are delivered by one team covering users, networks, servers, cloud, phones and cybersecurity. The company also states that it coordinates with other vendors under its managed IT plans.",
+      "who_they_serve": "The site says TechCore works with small and mid-sized businesses without a full in-house IT team, supporting businesses across Nashville, Middle Tennessee and the Chattanooga area from offices in Smyrna and Chattanooga. It also lists current customers in Georgia, New York, Pennsylvania, Massachusetts, Kentucky, Nebraska, Florida, Alaska and Canada. Customer reviews cited on the site come from businesses and homeowners.",
+      "how_they_work": "The company says most issues are fixed remotely first, with technicians from the nearest office handling on-site work when hands-on help is needed. Its stated process runs from assessment and planning through installation and ongoing support. The site says cloud services are billed per user per month plus one-time migration work, with a written proposal provided, and that computer and network security work is available within a managed IT plan or as a standalone project.",
+      "what_stands_out": "TechCore is the business IT arm of Turner Security, a Tennessee security company founded in 1976 with the two companies sharing owners and offices, which the company says lets one team support both networks and connected cameras and access control. The site lists partnerships with vendors including Microsoft, Dell, HP, SonicWall, Sophos and Hanwha Vision, and shows a 4.6 Google rating across both offices."
+    },
+    "city": "nashville",
+    "state": "tennessee"
+  },
+  {
+    "slug": "atiba",
+    "name": "Atiba",
+    "summary": "Atiba is a Nashville-based technology firm founded in 1992 that offers custom software development, website design, mobile apps, and business intelligence alongside IT support and network services. It serves clients across the U.S., from small businesses to large organizations, and offers ongoing 24/7 IT support as well as one-off IT projects.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cloud_microsoft_365",
+      "network_infrastructure",
+      "it_strategy_vcio",
+      "software_development",
+      "web_design"
+    ],
+    "industries": [],
+    "compliance": [
+      "HIPAA",
+      "PCI DSS"
+    ],
+    "partners": [],
+    "foundedYear": 1992,
+    "teamSize": "89+ employees",
+    "serviceArea": "Nationwide U.S.; based in Nashville, TN",
+    "pricing": null,
+    "website": "https://www.atiba.com/",
+    "phone": "(615) 353-1921",
+    "addresses": [
+      "5918 Morrow Rd. Suite 200, Nashville, TN 37209"
+    ],
+    "town": "Nashville",
+    "linkedin": "https://www.linkedin.com/company/atibageeks",
+    "writeup": {
+      "what_they_do": "Atiba is a Nashville-based technology firm offering custom software development, IT and network support, website design and development, mobile app development, business intelligence, and artificial intelligence consulting. Its managed offerings include 24/7 IT support, cloud server support, Microsoft 365 support, and security audits with cyber risk assessments. The company also provides virtual CIO services and general IT consulting.",
+      "who_they_serve": "The company states it has worked with over 1600 clients of all types and sizes throughout the U.S., from businesses with one employee to those with more than 10,000. Its security audit services are marketed to Nashville businesses across various industries.",
+      "how_they_work": "The company describes an onboarding process for security audits that begins with an initial consultation and scope definition, followed by planning, data collection, risk evaluation, reporting, remediation support, and follow-up audits. It lists 24x7 support for IT issues and a single-source model for all tech needs. The site does not state pricing or contract terms.",
+      "what_stands_out": "The company states it was founded in 1992 and reports a network services team averaging 20 years of experience. Its security audit page references certified cybersecurity professionals and compliance review against GDPR, HIPAA, PCI-DSS, and ISO 27001."
+    },
+    "city": "nashville",
+    "state": "tennessee"
+  },
+  {
+    "slug": "blankenship-it-solutions-llc-bits",
+    "name": "Blankenship IT Solutions, LLC (BITS)",
+    "summary": "Nashville-area managed IT and cybersecurity provider (operating as Blankenship IT Solutions / BITS LLC) serving CPA firms, law firms and nonprofits with roughly 5 to 50 users. Services include proactive monitoring, patching, backup testing, Microsoft 365 administration, ongoing security oversight and strategic IT planning, with no long-term contract required.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "it_strategy_vcio"
+    ],
+    "industries": [
+      "accounting_finance",
+      "legal",
+      "nonprofit"
+    ],
+    "compliance": [],
+    "partners": [
+      "Fortinet"
+    ],
+    "foundedYear": null,
+    "teamSize": null,
+    "serviceArea": "Nashville, TN and surrounding area",
+    "pricing": "Pricing varies by number of users, environment and security needs; site cites $100-$250 per user per month for nonprofits in a blog post",
+    "website": "https://www.bitsllc.com/",
+    "phone": "(615) 850-7171",
+    "addresses": [
+      "215 Ward Circle STE 202, Brentwood, TN 37027"
+    ],
+    "town": "Brentwood",
+    "linkedin": "https://www.linkedin.com/company/35695828/",
+    "writeup": {
+      "what_they_do": "Blankenship IT Solutions, LLC (BITS) provides managed IT services for professional firms, covering ongoing system support and monitoring, consistent patching, backup testing and disaster recovery, cybersecurity protection, Microsoft 365 management and security, and strategic IT planning. The company describes its approach as proactive, with an emphasis on preventing issues and aligning environments to frameworks such as CIS Controls.",
+      "who_they_serve": "The company works with CPA and accounting firms, law firms, and nonprofit organizations in Nashville and, according to its site, more broadly in Tennessee. Its review call is aimed at professional firms with 5 to 50 users.",
+      "how_they_work": "Pricing varies based on the environment, number of users, and security needs, and the company states it is not the lowest-cost option. It does not use long-term contracts, and it offers a free 15-minute IT and security review as a first step.",
+      "what_stands_out": "The company states that its senior team members have more than 20 years of industry experience. It also publishes budget guidance for nonprofits, indicating $100 to $250 per user per month for organizations with 10 to 25 employees."
+    },
+    "city": "nashville",
+    "state": "tennessee"
+  },
+  {
+    "slug": "dynamic-edge",
+    "name": "Dynamic Edge",
+    "summary": "Dynamic Edge is an IT company with offices in Ann Arbor, Michigan and Nashville, Tennessee, offering flat-rate managed IT support, managed cybersecurity, co-managed IT, and custom application development. It primarily serves credit unions, accountants, healthcare, manufacturing and real estate firms, and states it has been in business since 1999.",
+    "services": [
+      "managed_it",
+      "help_desk",
+      "cybersecurity",
+      "cloud_microsoft_365",
+      "backup_disaster_recovery",
+      "network_infrastructure",
+      "co_managed_it",
+      "it_strategy_vcio",
+      "compliance_services",
+      "software_development",
+      "web_design"
+    ],
+    "industries": [
+      "healthcare",
+      "manufacturing",
+      "real_estate",
+      "accounting_finance",
+      "nonprofit"
+    ],
+    "compliance": [
+      "HIPAA"
+    ],
+    "partners": [
+      "Microsoft Partner"
+    ],
+    "foundedYear": 1999,
+    "teamSize": null,
+    "serviceArea": "Ann Arbor, MI and Nashville, TN, plus Michigan, Tennessee and beyond",
+    "pricing": "Flat-rate single monthly fee for managed IT support",
+    "website": "https://dynedge.com/",
+    "phone": "(734) 975-0460",
+    "addresses": [
+      "615 Main St, Suite 101, Nashville, TN 37206",
+      "1145 Oak Valley Dr, Ann Arbor, MI 48108"
+    ],
+    "town": "Nashville",
+    "linkedin": "https://www.linkedin.com/company/dynamic-edge",
+    "writeup": {
+      "what_they_do": "Dynamic Edge offers managed IT support with 24/7 monitoring of servers and workstations, automated data backups, and a single monthly fee for support. It also provides managed cybersecurity (managed firewall/VPN, managed detection and response, spam protection and dark web monitoring), co-managed IT support that works alongside a client's existing IT staff, and custom programming, database reporting, and website design.",
+      "who_they_serve": "The company works with businesses in credit unions, accountants, healthcare, manufacturing, and real estate investment trusts, and its site describes serving small businesses and clients in Michigan, Tennessee, and beyond. It lists offices in Ann Arbor, Michigan, and Nashville, Tennessee, and a Detroit services page.",
+      "how_they_work": "The company describes flat-rate, single monthly fee managed IT pricing and offers help desk, remote, and on-site-capable support, with 24/7 technical support stated on the site. Onboarding begins with a free consultation and network assessment.",
+      "what_stands_out": "The company states it has been in business since 1999 and has been a Microsoft Partner and award-winning managed services provider, according to its Detroit page. Its site also references a security operations center and HIPAA, NCUA, and CCPA compliance support in data storage services."
+    },
+    "city": "nashville",
+    "state": "tennessee"
+  },
+  {
     "slug": "it-solutions-technology-partners",
     "name": "IT Solutions Technology Partners",
     "summary": "Maitland-based IT firm serving Greater Orlando, Orange and Seminole counties, with the company itself operating offices across the US and Canada. Offers fully managed and co-managed IT, layered cybersecurity with SOC coverage, backup and disaster recovery, Azure and private cloud services, AI governance, and project work. Has dedicated programs for healthcare, legal, financial services and manufacturing clients.",
